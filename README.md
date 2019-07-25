@@ -7,7 +7,7 @@ My Design resurces for Azure, free to use under GNU License, please provide feed
 <br></br>
 Full Colour Visio Stencil for Azure resources, save to your \Documents\My Shapes directory or use the open stencil option in Visio. 
 <br></br>
-<B>SVG_BlueScale</B><br></br>
+<B>SVG_BlueScale</B>
 <B>SVG_FullColour</B><br></br>
 <B>SVG_GreyScale</B><br></br>
 Full Colour, Grey and Blue shaded version of the Azure icons in Scalable Vector Graphics Format (SVG)
@@ -19,8 +19,8 @@ Full Colour, Grey and Blue shaded version of the Azure icons in Portable Network
 <br></br>
 <h1>To-Do List</h1>
 Create Blue, Grey and white Shaded stencil versions, I can re-colour every icon into any colour I like using Powershell so if you would like a customised pallet then let me know and supply the desired colour range in Hex format for example
-
-# Light Blue  = #008dff
-# Medium Blue = #0072b5
-# Dark Blue   = #333366
+<br></br>
+Light Blue  = #008dff
+Medium Blue = #0072b5
+Dark Blue   = #333366
 
