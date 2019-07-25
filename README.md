@@ -1,6 +1,8 @@
 # Azure-Design
 My Design resurces for Azure, free to use under GNU License, please provide feedback and suggestions for icon inclusion.
-
+<br></br>
+Follow me on Twitter @Xeeva_D3 for updates and comments
+<br></br>
 <h1>Contents</h1>
 <br></br>
 <B>ICONS_Azure-Full-Colour_V-1.0.vssx </B>
