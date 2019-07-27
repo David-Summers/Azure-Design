@@ -1,8 +1,10 @@
 ## Overview
 
-This is my Azure Icon Design project for Visio, I aim to maintain this project and provide icon updates as soon new services offerings are available in Azure
+This is my Azure Icon Design project for Visio, I aim to maintain this project and provide icon updates as soon new service offerings are available in Azure
 
-For a quick view of all icons in PNG format click here - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.1.PNG
+Current Icon set in Picture format
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.1.PNG)
 
 ## Motivation
 
