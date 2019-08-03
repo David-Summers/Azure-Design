@@ -1,13 +1,18 @@
 ## Overview
 
-This is my Azure Icon Design project for Visio, I aim to maintain this project and provide icon updates as soon new service offerings are available in Azure.
+This is my Azure Icon Design project for Visio, I aim to maintain this project and provide icon updates as soon new service offerings are available in Azure. I am now maintaining 2 versions of the stencil as I received a request to provide a no-shadow version that inherits the text theme from your drawing. 
 <br></br>
-Current version = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.1.vssx
+Current version (With Shadow and Fixed dark Blue Text) = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.2.vssx
+Current version (Without Shadow and Text theme inheritence) = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_NoShadow-Themed_V-1.2.vssx
 <br></br>
-Current Icon set in Picture format
+Current Icon set in Picture format (With Shadow and Fixed dark Blue Text)
 <br></br>
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.1.PNG)
-
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.2.png)
+<br></br>
+Current Icon set in Picture format (Without Shadow and Text theme inheritence)
+<br></br>
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_NoShadow-Themed_V-1.2.png)
+<br></br>
 ## Motivation
 
 As far as I know this complete set of Azure Icons in Visio format does not exist, I decided to build a standard set of icons that could be used easily in Design and As-Built diagrams. PowerShell has been used for the conversion process, essentially importing an SVG image into an XML variable and then converting it into Visio Stencil XML format. Most of the icons are based on the publicly available Azure portal icons and some have been drawn by hand as they do not exist.
@@ -37,11 +42,21 @@ Blue, Grey and white shaded Visio stencil versions as per the SVG and PNG Icons,
 
 <B>Current</B>
 <br></br>
+Version 1.2 - 03/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.2.vssx
+<br></br>
+Removed "Azure" prefix for some incorrectly named icons. 
+Added new Icons
+  Azure LightHouse Projection
+  Azure LightHouse Management
+  Azure LightHouse Protection
+  Azure LightHouse RBAC
+  Azure Batch
+  Azure Batch Accounts
+<br></br>
+<B><I>Previous</I></B>
 Version 1.1 - 27/07/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.1.vssx
 <br></br>
 First major change, I realised that some of the text fields were not perfectly aligned so I rebuilt my PowerShell process to use dynamic  values for the text field. Since the shapes differ in Height\Width my initial placement was slightly off due to distance from center. This placement is now relative to the bottom edge of the icon. I also inserted the name of the icon into the Text field for page drop as well and reformatted the text to a dark Blue. Final change was to add a subtle drop shadow to each icon as I feel they jump off the page with a small amount of depth. 
-<br></br>
-<B><I>Previous</I></B>
 <br></br>
 Version 1.0 - 25/07/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.0.vssx
 <br></br>
