@@ -3,6 +3,7 @@
 This is my Azure Icon Design project for Visio, I aim to maintain this project and provide icon updates as soon new service offerings are available in Azure. I am now maintaining 2 versions of the stencil as I received a request to provide a no-shadow version that inherits the text theme from your drawing. 
 <br></br>
 Current version (With Shadow and Fixed dark Blue Text) = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.2.vssx
+<br></br>
 Current version (Without Shadow and Text theme inheritence) = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_NoShadow-Themed_V-1.2.vssx
 <br></br>
 Current Icon set in Picture format (With Shadow and Fixed dark Blue Text)
@@ -45,13 +46,28 @@ Blue, Grey and white shaded Visio stencil versions as per the SVG and PNG Icons,
 Version 1.2 - 03/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.2.vssx
 <br></br>
 Removed "Azure" prefix for some incorrectly named icons. 
+<br></br>
 Added new Icons
+<UL type="Circle">
+  <li>
   Azure LightHouse Projection
+  </li>
+  <li>
   Azure LightHouse Management
+  </li>
+  <li>
   Azure LightHouse Protection
+  </li>
+  <li>
   Azure LightHouse RBAC
+  </li>
+  <li>
   Azure Batch
+  </li>
+  <li>
   Azure Batch Accounts
+  </li>
+  </ul>    
 <br></br>
 <B><I>Previous</I></B>
 Version 1.1 - 27/07/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.1.vssx
