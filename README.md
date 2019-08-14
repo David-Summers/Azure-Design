@@ -59,6 +59,7 @@ Added new Icons for storage account sub services, had to hand draw these as they
   </ul>    
 <br></br>
 <B><I>Previous</I></B>
+<br></br>
 Version 1.2 - 03/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.2.vssx
 <br></br>
 Removed "Azure" prefix for some incorrectly named icons. 
@@ -84,7 +85,6 @@ Added new Icons
   Azure Batch Accounts
   </li>
   </ul>    
-<br></br>
 <br></br>
 Version 1.1 - 27/07/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.1.vssx
 <br></br>
