@@ -45,7 +45,7 @@ Blue, Grey and white shaded Visio stencil versions as per the SVG and PNG Icons,
 <br></br>
 Version 1.3 - 14/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.3.vssx
 <br></br>
-Added new Icons for storage account sub services, had to hand draw these as theyy did not appear to exist. 
+Added new Icons for storage account sub services, had to hand draw these as they did not appear to exist. Renamed Data brick to the correct name Databricks.
 <UL type="Circle">
   <li>
   Azure Storage Blob
