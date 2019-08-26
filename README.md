@@ -41,17 +41,16 @@ Version 1.5 - 26/08/2019 - https://github.com/David-Summers/Azure-Design/blob/ma
 <br></br>
 Major change with this release, initially I hand placed the four connection points for each icon and that was not perfect placement. I thought it would be easy to script modify the connection point position (like I did with the Text field in V-1.1) but it turns out that visio does not name a connection point when you add it so I could not modify it through powershell. I added a new script process that allowed me to hand place the connection points and then name them 1-5 (I added a new connection point under the text field for easier south connections when there is data in the text field). Now that they are named, I can modify them when I build my stencil using my gold master. Example below:-
 <br></br>
-            $shape.CellsU("Connections.1.X").Formula = "Width*0.5"
-            $shape.CellsU("Connections.1.Y").Formula = "Height*1.1"
-            $shape.CellsU("Connections.2.X").Formula = "Width*-0.1"
-            $shape.CellsU("Connections.2.Y").Formula = "Height*0.5"
-            $shape.CellsU("Connections.3.X").Formula = "Width*1.1"
-            $shape.CellsU("Connections.3.Y").Formula = "Height*0.5"
-            $shape.CellsU("Connections.4.X").Formula = "Width*0.5"
-            $shape.CellsU("Connections.4.Y").Formula = "Height*-0.05"
-            $shape.CellsU("Connections.5.X").Formula = "Width*0.5"
-            $shape.CellsU("Connections.5.Y").Formula = "Height*-0.6"
-            
+$shape.CellsU("Connections.1.X").Formula = "Width*0.5"
+$shape.CellsU("Connections.1.Y").Formula = "Height*1.1"
+$shape.CellsU("Connections.2.X").Formula = "Width*-0.1"
+$shape.CellsU("Connections.2.Y").Formula = "Height*0.5"
+$shape.CellsU("Connections.3.X").Formula = "Width*1.1"
+$shape.CellsU("Connections.3.Y").Formula = "Height*0.5"
+$shape.CellsU("Connections.4.X").Formula = "Width*0.5"
+$shape.CellsU("Connections.4.Y").Formula = "Height*-0.05"
+$shape.CellsU("Connections.5.X").Formula = "Width*0.5"
+$shape.CellsU("Connections.5.Y").Formula = "Height*-0.6"
 <br></br>
 Added new icons
 <UL type="Circle">
