@@ -2,11 +2,11 @@
 
 This is my Azure Icon Design project for Visio, I aim to maintain this project and provide icon updates as soon new service offerings are available in Azure. I am now maintaining just the 1 version of the stencil as it was too much effort to provide a no-shadow version that inherits the text theme from your drawing. 
 <br></br>
-Current version (With Shadow and Fixed dark Blue Text) = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.5.vssx
+Current version (With Shadow and Fixed dark Blue Text) = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.6.vssx
 <br></br>
 Current Icon set in Picture format (With Shadow and Fixed dark Blue Text)
 <br></br>
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.5.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.6.png)
 <br></br>
 ## Motivation
 
@@ -23,21 +23,76 @@ Design drawing resources, such as Lines\Arrows\Boxes
 Blue, Grey and white shaded Visio stencil versions as per the SVG and PNG Icons, I can re-colour every icon into any colour I like using PowerShell so if you would like a customised pallet then let me know and supply the desired colour range in Hex format for example:-
 <UL type="Circle">
   <li>
-    Light Blue  = #008dff
+ Maintenance Configuration    Light Blue  = #008dff
   </li>
   <li>
-    Medium Blue = #0072b5
+    Azure Blockchain Service
   </li>
   <li>
-    Dark Blue   = #333366
+    Azure Active Directory Identity Secure Score
   </li>
   </ul>
-<br></br>
+Cloud Simple Service
 Added a new thing to the list which I might need help with, I want to add search metadata to each icon but cannot figure out how to do it with PowerShell, if you add a search term to an icon it gets written to the Master stencil and not the stencil object. I am currently using "New-Object -ComObject Visio.Application" for scripted interaction.
 
 ## Revision History
 
 <B>Current</B>
+<br></br>
+Version 1.6 - 8/10/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.6.vssx
+<br></br>
+Corrected mis-coloured icons, thanks to Cédric De Loor for pointing that out 
+<br></br>
+Added new icons
+<UL type="Circle">
+  <li>
+  Maintenance Configuration
+  </li>
+  <li>
+  Azure Blockchain Service
+  </li>
+  <li>
+  Azure Active Directory Identity Secure Score
+  </li>
+  <li>
+  Cloud Simple Service
+  </li>
+    <li>
+  Cloud Simple Node
+  </li>
+    <li>
+  Cloud Simple Virtual Machine
+  </li>
+    <li>
+  Azure Lighthouse Service Provider
+  </li>
+    <li>
+  Peering
+  </li>
+    <li>
+  Role
+  </li>
+    <li>
+  Virtual Cluster
+  </li>
+    <li>
+  Azure Active Directory Risk Detection
+  </li>
+  
+    <li>
+  Azure Active Directory Risky User
+  </li>
+  
+    <li>
+  Azure Active Directory Identity Protection
+  </li>
+  
+    <li>
+  Private Link
+  </li>
+</ul>
+<br></br>
+<B><I>Previous</I></B>
 <br></br>
 Version 1.5 - 26/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.5.vssx
 <br></br>
@@ -69,8 +124,6 @@ Added new icons
   Azure Board
   </li>
 </ul>
-<br></br>
-<B><I>Previous</I></B>
 <br></br>
 Version 1.4 - 16/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.4.vssx
 <br></br>
