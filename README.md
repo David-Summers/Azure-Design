@@ -32,7 +32,6 @@ Blue, Grey and white shaded Visio stencil versions as per the SVG and PNG Icons,
     Azure Active Directory Identity Secure Score
   </li>
   </ul>
-Cloud Simple Service
 Added a new thing to the list which I might need help with, I want to add search metadata to each icon but cannot figure out how to do it with PowerShell, if you add a search term to an icon it gets written to the Master stencil and not the stencil object. I am currently using "New-Object -ComObject Visio.Application" for scripted interaction.
 
 ## Revision History
@@ -44,7 +43,7 @@ Version 1.6 - 8/10/2019 - https://github.com/David-Summers/Azure-Design/blob/mas
 Corrected mis-coloured icons, thanks to Cédric De Loor for pointing that out 
 <br></br>
 Added new icons
-<UL type="Circle">
+<OL type="Circle">
   <li>
   Maintenance Configuration
   </li>
@@ -77,20 +76,17 @@ Added new icons
   </li>
     <li>
   Azure Active Directory Risk Detection
-  </li>
-  
+  </li>  
     <li>
   Azure Active Directory Risky User
   </li>
-  
     <li>
   Azure Active Directory Identity Protection
   </li>
-  
     <li>
   Private Link
   </li>
-</ul>
+</ol>
 <br></br>
 <B><I>Previous</I></B>
 <br></br>
