@@ -2,11 +2,11 @@
 
 This is my Azure Icon Design project for Visio, I aim to maintain this project and provide icon updates as soon new service offerings are available in Azure. I am now maintaining just the 1 version of the stencil as it was too much effort to provide a no-shadow version that inherits the text theme from your drawing. 
 <br></br>
-Current version (With Shadow and Fixed dark Blue Text) = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.6.vssx
+Current version (With Shadow and Fixed dark Blue Text) = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.0.vssx
 <br></br>
 Current Icon set in Picture format (With Shadow and Fixed dark Blue Text)
 <br></br>
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.6.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.0.png)
 <br></br>
 ## Motivation
 
@@ -20,23 +20,20 @@ Save the Stencil to your "..\Documents\My Shapes" directory for use within Visio
 
 Design drawing resources, such as Lines\Arrows\Boxes
 <br></br>
-Blue, Grey and white shaded Visio stencil versions as per the SVG and PNG Icons, I can re-colour every icon into any colour I like using PowerShell so if you would like a customised pallet then let me know and supply the desired colour range in Hex format for example:-
-<UL type="Circle">
-  <li>
- Maintenance Configuration    Light Blue  = #008dff
-  </li>
-  <li>
-    Azure Blockchain Service
-  </li>
-  <li>
-    Azure Active Directory Identity Secure Score
-  </li>
-  </ul>
+Blue, Grey and white shaded Visio stencil versions as per the SVG and PNG Icons, I can re-colour every icon into any colour I like using PowerShell.
+<br></br>
 Added a new thing to the list which I might need help with, I want to add search metadata to each icon but cannot figure out how to do it with PowerShell, if you add a search term to an icon it gets written to the Master stencil and not the stencil object. I am currently using "New-Object -ComObject Visio.Application" for scripted interaction.
 
 ## Revision History
 
 <B>Current</B>
+<br></br>
+Huge update! Version 2.0 - 22/10/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.0.vssx
+Over the past week I have noticed significant updates to key Azure Service Icons and in preperation for an expected announcement at Ignite this year I have re-designed my entire conversion process, previously I had to manually work on each icon to set the initial placement of the connection points and name them for scripted modification. I finally managed to figure out the PS syntax that the Visio COM.Application is expecting for inserting new connection point rows. My process is now automated taking SVG's from a directory and inserting them into my Master Stencil for processing. https://github.com/David-Summers/Azure-Design/blob/master/VIDEO_Icon-Builder.mp4
+<br></br>
+Now that I have a new automated process to build the stencil I re-worked every single icon and incorporated over 60 new icon styles that have been updated in the past week. Since this is a major change, I upped the version to 2.0
+<br></br>
+<B><I>Previous</I></B>
 <br></br>
 Version 1.6 - 8/10/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.6.vssx
 <br></br>
@@ -87,8 +84,6 @@ Added new icons
   Private Link
   </li>
 </ol>
-<br></br>
-<B><I>Previous</I></B>
 <br></br>
 Version 1.5 - 26/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.5.vssx
 <br></br>
