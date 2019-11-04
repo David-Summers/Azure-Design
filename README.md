@@ -28,19 +28,24 @@ Added a new thing to the list which I might need help with, I want to add search
 
 <B>Current</B>
 <br></br>
-Huge update! Version 2.0 - 22/10/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.0.vssx
+Another huge update! Version 2.1 - 04/11/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.1.vssx
 <br></br>
-Over the past week I have noticed significant updates to key Azure Service Icons and in preperation for an expected announcement at Ignite this year I have re-designed my entire conversion process, previously I had to manually work on each icon to set the initial placement of the connection points and name them for scripted modification. I finally managed to figure out the PS syntax that the Visio COM.Application is expecting for inserting new connection point rows. My process is now automated taking SVG's from a directory and inserting them into my Master Stencil for processing. Recorded a quick video showing the automation into Visio -  https://github.com/David-Summers/Azure-Design/blob/master/VIDEO_Icon-Builder.mp4
+This weekend I found another major icon update. 209 icons to be precise! - I have restructured the Repo as well, created a folder structure for archived versions as I felt the landing page was getting a bit cluttered. The latest version will always be at the root of the Repo with previous versions moving into the Archive folder
+<br></br>
+<B><I>Previous</I></B>
+<br></br>
+Huge update! Version 2.0 - 22/10/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-2.0/ICONS_Azure-Full-Colour_V-2.0.vssx
+<br></br>
+Over the past week I have noticed significant updates to key Azure Service Icons and in preperation for an expected announcement at Ignite this year I have re-designed my entire conversion process, previously I had to manually work on each icon to set the initial placement of the connection points and name them for scripted modification. I finally managed to figure out the PS syntax that the Visio COM.Application is expecting for inserting new connection point rows. My process is now automated taking SVG's from a directory and inserting them into my Master Stencil for processing. Recorded a quick video showing the automation into Visio -  https://github.com/David-Summers/Azure-Design/blob/master/Assets/VIDEO_Icon-Builder.mp4
 <br></br>
 Now that I have a new automated process to build the stencil I re-worked every single icon and incorporated over 60 new icon styles that have been updated in the past week. Since this is a major change, I upped the version to 2.0
 <br></br>
 One key change here is that I renamed the connection points to North, East, West, South and SouthOfText as per the example below
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/IMAGE_Connection-Points.PNG)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/IMAGE_Connection-Points.PNG)
 I use this stencil for a suite of Azure Documentor scripts and using named connection points allows you to specify direction for connections easier
+
 <br></br>
-<B><I>Previous</I></B>
-<br></br>
-Version 1.6 - 8/10/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.6.vssx
+Version 1.6 - 8/10/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-1.6/ICONS_Azure-Full-Colour_V-1.6.vssx
 <br></br>
 Corrected mis-coloured icons, thanks to Cédric De Loor for pointing that out 
 <br></br>
@@ -90,7 +95,7 @@ Added new icons
   </li>
 </ol>
 <br></br>
-Version 1.5 - 26/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.5.vssx
+Version 1.5 - 26/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-1.5/ICONS_Azure-Full-Colour_V-1.5.vssx
 <br></br>
 Major change with this release, initially I hand placed the four connection points for each icon and that was not perfect placement. I thought it would be easy to script modify the connection point position (like I did with the Text field in V-1.1) but it turns out that visio does not name a connection point when you add it so I could not modify it through powershell. I added a new script process that allowed me to hand place the connection points and then name them 1-5 (I added a new connection point under the text field for easier south connections when there is data in the text field). Now that they are named, I can modify them when I build my stencil using my gold master. Example below:-
 <br></br>
@@ -121,7 +126,7 @@ Added new icons
   </li>
 </ul>
 <br></br>
-Version 1.4 - 16/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.4.vssx
+Version 1.4 - 16/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-1.4/ICONS_Azure-Full-Colour_V-1.4.vssx
 <br></br>
 Started on the drawing resources, added a colour pallet for what I believe are the best mainly used colours in the stencil range. For fun I scripted an export of every Hex colour value that is being used and there are 88 total colours. Some are extremely close to each other so I selected the most common used colours and included them in the pallet. Added 3 connector styles and deciding on the remaining set. Ideas welcome! and lastly, re-worked the colour scheme on the Azure lighthouse icons.
 <br></br>
@@ -157,7 +162,7 @@ Added new icons
 </ul>
 <br></br>
 <br></br>
-Version 1.3 - 14/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.3.vssx
+Version 1.3 - 14/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-1.3/ICONS_Azure-Full-Colour_V-1.3.vssx
 <br></br>
 Added new Icons for storage account sub services, had to hand draw these as they did not appear to exist. Renamed Data brick to the correct name Databricks.
 <UL type="Circle">
@@ -173,7 +178,7 @@ Added new Icons for storage account sub services, had to hand draw these as they
   </ul>    
 <br></br>
 <br></br>
-Version 1.2 - 03/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.2.vssx
+Version 1.2 - 03/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-1.2/ICONS_Azure-Full-Colour_V-1.2.vssx
 <br></br>
 Removed "Azure" prefix for some incorrectly named icons. 
 <br></br>
@@ -199,11 +204,11 @@ Added new Icons
   </li>
   </ul>    
 <br></br>
-Version 1.1 - 27/07/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.1.vssx
+Version 1.1 - 27/07/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-1.1/ICONS_Azure-Full-Colour-NoShadow_V-1.1.vssx
 <br></br>
 First major change, I realised that some of the text fields were not perfectly aligned so I rebuilt my PowerShell process to use dynamic  values for the text field. Since the shapes differ in Height\Width my initial placement was slightly off due to distance from center. This placement is now relative to the bottom edge of the icon. I also inserted the name of the icon into the Text field for page drop as well and reformatted the text to a dark Blue. Final change was to add a subtle drop shadow to each icon as I feel they jump off the page with a small amount of depth. 
 <br></br>
-Version 1.0 - 25/07/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-1.0.vssx
+Version 1.0 - 25/07/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-1.0/ICONS_Azure-Full-Colour_V-1.0.vssx
 <br></br>
 Initial release of the stencil and bonus SVG and PNG versions. I built a conversion process that can re-colour each icon and these initial versions were made with a Blue and Grey scale pallet. 
 
