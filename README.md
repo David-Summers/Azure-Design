@@ -2,11 +2,11 @@
 
 This is my Azure Icon Design project for Visio, I aim to maintain this project and provide icon updates as soon new service offerings are available in Azure.  
 <br></br>
-Current version (With Shadow and Fixed dark Blue Text) = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.1.vssx
+Current version (With Shadow and Fixed dark Blue Text) = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.2.vssx
 <br></br>
 Current Icon set in Picture format (With Shadow and Fixed dark Blue Text)
 <br></br>
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.1.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.2.png)
 <br></br>
 ## Motivation
 
@@ -28,11 +28,15 @@ Added a new thing to the list which I might need help with, I want to add search
 
 <B>Current</B>
 <br></br>
-Another huge update! Version 2.1 - 04/11/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.1.vssx
+Minor update Version 2.2 - 05/11/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.2.vssx
 <br></br>
-This weekend I found another major icon update. 209 icons to be precise! - I have restructured the Repo as well, created a folder structure for archived versions as I felt the landing page was getting a bit cluttered. The latest version will always be at the root of the Repo with previous versions moving into the Archive folder
+Welcome to the Icon family Azure Arc and Spring Cloud
 <br></br>
 <B><I>Previous</I></B>
+<br></br>
+Another huge update! Version 2.1 - 04/11/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-2.1/ICONS_Azure-Full-Colour_V-2.1.vssx
+<br></br>
+This weekend I found another major icon update. 209 icons to be precise! - I have restructured the Repo as well, created a folder structure for archived versions as I felt the landing page was getting a bit cluttered. The latest version will always be at the root of the Repo with previous versions moving into the Archive folder
 <br></br>
 Huge update! Version 2.0 - 22/10/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-2.0/ICONS_Azure-Full-Colour_V-2.0.vssx
 <br></br>
