@@ -30,8 +30,10 @@ Blue, Grey and white shaded Visio stencil versions as per the SVG and PNG Icons,
 Update Version 2.3 - 22/01/2020 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.3.vssx
 <br></br>
 Added new icons for Synapse and others, refreshed 19 updated icons. Big announcement here:-
-<b>SEARCH</b - I finally figured out how to add search metadata to each icon, for best results ensure that Visio search is set to OR keyword matching (Visio Options\Advanced\Show Shape Search Pane\Search for Any of the Words)
-  ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Search-Added.png)
+<br></br>
+<b>SEARCH</b> - I finally figured out how to add search metadata to each icon, for best results ensure that Visio search is set to OR keyword matching (Visio Options\Advanced\Show Shape Search Pane\Search for Any of the Words)
+<br></br>
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Search-Added.png)
 <br></br>
 <B><I>Previous</I></B>
 <br></br>
