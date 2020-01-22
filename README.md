@@ -31,7 +31,7 @@ Update Version 2.3 - 22/01/2020 - https://github.com/David-Summers/Azure-Design/
 <br></br>
 Added new icons for Synapse and others, refreshed 19 updated icons. Big announcement here:-
 <br></br>
-<b>SEARCH</b> - I finally figured out how to add search metadata to each icon, for best results ensure that Visio search is set to OR keyword matching (Visio Options\Advanced\Show Shape Search Pane\Search for Any of the Words)
+<b>SEARCH</b> - I finally figured out how to add search metadata to each icon via PowerShell, for best results ensure that Visio search is set to OR keyword matching (Visio Options\Advanced\Show Shape Search Pane\Search for Any of the Words)
 <br></br>
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Search-Added.png)
 <br></br>
