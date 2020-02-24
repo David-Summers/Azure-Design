@@ -31,6 +31,8 @@ Update Version 2.4 - 21/02/2020
 <br></br>
 Added new drawing resources for number labels/boxes/lines and arrows. I have also included SVG and PNG versions of the icons after multiple requests, this was a challenge due to scaling but my script now builds the stencil, SVG and PNG versions of the icons. 
 <br></br>
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/PNG-Icons.png)
+<br></br>
 <B><I>Previous</I></B>
 <br></br>
 Update Version 2.3 - 22/01/2020 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.3.vssx
