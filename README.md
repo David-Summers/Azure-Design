@@ -2,11 +2,11 @@
 
 This is my Azure Icon Design project for Visio, I aim to maintain this project and provide icon updates as soon new service offerings are available in Azure.  
 <br></br>
-Current version (With Shadow and Fixed dark Blue Text) = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.3.vssx
+Current version (With Shadow and Fixed dark Blue Text) = https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.4.vssx
 <br></br>
 Current Icon set in Picture format (With Shadow and Fixed dark Blue Text)
 <br></br>
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.3.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.4.png)
 <br></br>
 ## Motivation
 
@@ -27,6 +27,12 @@ Blue, Grey and white shaded Visio stencil versions as per the SVG and PNG Icons,
 
 <B>Current</B>
 <br></br>
+Update Version 2.4 - 21/02/2020
+<br></br>
+Added new drawing resources for number labels/boxes/lines and arrows. I have also included SVG and PNG versions of the icons after multiple requests, this was a challenge due to scaling but my script now builds the stencil, SVG and PNG versions of the icons. 
+<br></br>
+<B><I>Previous</I></B>
+<br></br>
 Update Version 2.3 - 22/01/2020 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.3.vssx
 <br></br>
 Added new icons for Synapse and others, refreshed 19 updated icons. Big announcement here:-
@@ -34,8 +40,6 @@ Added new icons for Synapse and others, refreshed 19 updated icons. Big announce
 <b>SEARCH</b> - I finally figured out how to add search metadata to each icon via PowerShell, for best results ensure that Visio search is set to OR keyword matching (Visio Options\Advanced\Show Shape Search Pane\Search for Any of the Words)
 <br></br>
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Search-Added.png)
-<br></br>
-<B><I>Previous</I></B>
 <br></br>
 Minor update Version 2.2 - 05/11/2019 - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.2.vssx
 <br></br>
