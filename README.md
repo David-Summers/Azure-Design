@@ -66,13 +66,13 @@ Next on my list is Shape Data. I will be adding key Azure specific Shape Data fi
 
 <p>Huge update! Version 2.0 - 22/10/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-2.0/ICONS_Azure-Full-Colour_V-2.0.vssx</p>
 
-<p>Over the past week I have noticed significant updates to key Azure Service Icons and in preperation for an expected announcement at Ignite this year I have re-designed my entire conversion process, previously I had to manually work on each icon to set the initial placement of the connection points and name them for scripted modification. I finally managed to figure out the PS syntax that the Visio COM.Application is expecting for inserting new connection point rows. My process is now automated taking SVG's from a directory and inserting them into my Master Stencil for processing. Recorded a quick video showing the automation into Visio -  https://github.com/David-Summers/Azure-Design/blob/master/Assets/VIDEO_Icon-Builder.mp4</p>
+<p>Over the past week I have noticed significant updates to key Azure Service Icons and in preperation for an expected announcement at Ignite this year I have re-designed my entire conversion process, previously I had to manually work on each icon to set the initial placement of the connection points and name them for scripted modification. I finally managed to figure out the PS syntax that the Visio COM.Application is expecting for inserting new connection point rows. My process is now automated taking SVG's from a directory and inserting them into my Master Stencil for processing. Recorded a quick video showing the automation into Visio</p> https://github.com/David-Summers/Azure-Design/blob/master/Assets/VIDEO_Icon-Builder.mp4
 
 <p>Now that I have a new automated process to build the stencil I re-worked every single icon and incorporated over 60 new icon styles that have been updated in the past week. Since this is a major change, I upped the version to 2.0</p>
 
-<p>One key change here is that I renamed the connection points to North, East, West, South and SouthOfText as per the example below
+<p>One key change here is that I renamed the connection points to North, East, West, South and SouthOfText as per the example below</p>
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/IMAGE_Connection-Points.PNG)
-I use this stencil for a suite of Azure Documentor scripts and using named connection points allows you to specify direction for connections easier</p>
+<p>I use this stencil for a suite of Azure Documentor scripts and using named connection points allows you to specify direction for connections easier</p>
 
 <p>Version 1.6 - 8/10/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-1.6/ICONS_Azure-Full-Colour_V-1.6.vssx</p>
 
