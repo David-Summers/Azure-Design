@@ -14,11 +14,11 @@
 
 <p>With each release I include the full Stencil with bonus drawing tools such as pre-coloured lines\arrows and boxes along with a zipped archive of PowerShell exported PNG and re-scaled SVG versions for use with other drawing platforms</p>
 
-<p><strong>For the latest Visio stencil click here - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.5.vssx</strong></p>
+<p><strong>For the latest Visio stencil click here - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.6.vssx</strong></p>
 
 <p>Below is an image of the full icon collection for a preview before you download</p>
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.5.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.6.png)
 
 ## Installation
 
@@ -32,6 +32,12 @@ Next on my list is Shape Data. I will be adding key Azure specific Shape Data fi
 
 <B>Current</B>
 
+<p>Update version 2.6 21/04/2020</p>
+
+<p>I noticed that the Cosmos DB Icon had broken from a previous update and while fixing that I ended up reviewing and updating 96 icons! – I extended my icon collection passed the Azure Portal as even some of those icons are out of date. </p>
+
+<B><I>Previous</I></B>
+
 <p>Update version 2.5 20/04/2020</p>
 
 <p> New Icons and several icon refreshers, fixed the drawing boxes that were fixed to square shapes and not adjustable. Added a new Line drawing tool with a nice glow “A_GlowLine-1” – I am toying with Dark mode designs and this new line format really makes a design jump off the page in my opinion. Below are 2 examples of the same reference architecture</p>
@@ -39,8 +45,6 @@ Next on my list is Shape Data. I will be adding key Azure specific Shape Data fi
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/SAMPLE_Advanced-Analytics_LIGHT.png)
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/SAMPLE_Advanced-Analytics_DARK.png)
-
-<B><I>Previous</I></B>
 
 <p>Update Version 2.4 - 21/02/2020</p>
 
@@ -71,7 +75,9 @@ Next on my list is Shape Data. I will be adding key Azure specific Shape Data fi
 <p>Now that I have a new automated process to build the stencil I re-worked every single icon and incorporated over 60 new icon styles that have been updated in the past week. Since this is a major change, I upped the version to 2.0</p>
 
 <p>One key change here is that I renamed the connection points to North, East, West, South and SouthOfText as per the example below</p>
+
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/IMAGE_Connection-Points.PNG)
+
 <p>I use this stencil for a suite of Azure Documentor scripts and using named connection points allows you to specify direction for connections easier</p>
 
 <p>Version 1.6 - 8/10/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-1.6/ICONS_Azure-Full-Colour_V-1.6.vssx</p>
