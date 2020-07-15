@@ -14,11 +14,11 @@
 
 <p>With each release I include the full Stencil with bonus drawing tools such as pre-coloured lines\arrows and boxes along with a zipped archive of PowerShell exported PNG and re-scaled SVG versions for use with other drawing platforms</p>
 
-<p><strong>For the latest Visio stencil click here - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.6.vssx</strong></p>
+<p><strong>For the latest Visio stencil click here - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.8.vssx</strong></p>
 
 <p>Below is an image of the full icon collection for a preview before you download</p>
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.6.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.8.png)
 
 ## Installation
 
