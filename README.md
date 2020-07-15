@@ -28,15 +28,21 @@ Save the Stencil to your "..\Documents\My Shapes" directory for use within Visio
 
 Next on my list is Shape Data. I will be adding key Azure specific Shape Data fields for richer Azure diagram creation, this will allow my documentation scripts to add data to shapes such as regional location, Resource Group, tags etc.
 
+<p><b>Search</b> this is killing me right now. I managed to add keyword search into the shape master a few versions ago and searched worked (Well for my specific setup at the time but does not work for me now) I have received multiple comments about search not working as well and I am working out why Visio and the Windows Search service is not playing nice. If search is working for you can you paste a comment in the issues area please and add a brief note as to what you did to get it working please?</p>
+  
 ## Revision History
 
 <B>Current</B>
 
+<p>Update version 2.8 15/07/2020</p>
+
+<p>Refreshed 19 icons and added new ones, welcome Office 365 to the collection. O365 services have been requested a few times so I am starting to add them into the Stencil. These icons are more difficult to convert as sourcing SVG versions is challenging so I have had to trace bitmap versions by hand in my SVG editor.</p>
+
+<B><I>Previous</I></B>
+
 <p>Update version 2.6 21/04/2020</p>
 
 <p>I noticed that the Cosmos DB Icon had broken from a previous update and while fixing that I ended up reviewing and updating 96 icons! – I extended my icon collection passed the Azure Portal as even some of those icons are out of date. </p>
-
-<B><I>Previous</I></B>
 
 <p>Update version 2.5 20/04/2020</p>
 
