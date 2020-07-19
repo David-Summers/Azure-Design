@@ -1,5 +1,7 @@
 ## Overview
 
+<p>Update - 18th July - I posted a set of polls on twitter to get feedback on my stencil for improvement. https://twitter.com/Xeeva_D3/status/1284323294217306112 - Polls will close in 7 days, please take this opportunity to provide feedback that will help shape the future of this project. Thank you </p>
+
 <p>Welcome to my Azure Visio Stencil project! here you will find my most up to date Visio stencil for Azure architecture design and documentation. I started this project over a year ago as I needed current and up to date complete icon sets for Azure. There are many collections of icons for diagrams available both on the Microsoft site and through individuals such as myself, however I needed Visio stencils that could be used for programmatic diagram creation.</p>
 
 <p>True that the Microsoft provided SVG version of the Azure icons can be imported into Visio, however actually using these icons with connection points, manual re-scaling etc is a time consuming process. I built a PowerShell method of scanning a local directory and for each SVG icon, import into Visio and re-scale to either 20mm width or height depending on the largest value.</p>
