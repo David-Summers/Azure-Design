@@ -69,17 +69,11 @@ First you need to decide how you would like to use these stencils. I have provid
 
 Download the stencil(s) and save to your "My Shapes" folder (normally under C:\Users\%YourUserName%\Documents\My Shapes)
 
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
 ## Roadmap
 
 See the [open issues](https://github.com/David-Summers/Azure-Design/issues) for a list of proposed features (and known issues).
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
