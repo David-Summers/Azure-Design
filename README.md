@@ -6,7 +6,7 @@ Visio remains to this day an industry standard for the depiction of IT infrastru
 
 Over a year ago I set out to locate current, up to date and relevant Visio stencils for Azure with the intent on building reference architecture patterns for Azure services that could be used as templates for design material. Unfortunately my search came up short and I found that Microsoft had shifted from providing Visio stencils in favor of more application generic Scalable Vector Graphic (SVG) icons for Azure services and configuration items. 
 
-SVG's can easily be imported into Visio and due to the file format supporting raster scaling with no loss of image quality. The issue however when working with Visio is that functionality wise these icons are tedious to work with. Some examples of what I mean: -
+SVG's can easily be imported into Visio and due to the file format supporting raster scaling with no loss of image quality these icons work great. The issue however when working with Visio is that functionality wise these icons are tedious to work with. Some examples of what I mean: -
 
 - **No connection points** (when you draw a line from icon A to icon B, Visio will either attach the line to the icon edge or the center)
 - **No properly positioned text field** (when adding descriptive text to the icon Visio will place the text at the center of the icon, requiring manual repositioning)
@@ -25,7 +25,7 @@ I started with a collection process, gathering as many useful and up to date SVG
 
 Now I am pretty good at performing mundane repetitive operations like this and with a few key bind mappings\macros on a gaming mouse I was able to process each icon in around 45 seconds. Problem was that I had 300 plus icons to work through. Initially I just sucked it up and processed each one manually, after just under four hours and at least 3,600 mouse clicks, I had a functional stencil. 
 
-However things started getting messy when Microsoft updated a huge collection of Azure Service icons a short while after I was finished that made my version irrelevant.  So I looked for a better way to build this stencil, as I knew that that Microsoft would forever be adding new services to Azure and or refreshing current service icons. 
+However things started getting messy when Microsoft updated a huge collection of Azure Service icons a short while after I was finished that made my version irrelevant.  So I looked for a better way to build this stencil, as I knew that that Microsoft would forever be adding new services to Azure and or refreshing current service icons (which is a good thing by the way!) and I just did not have the time or energy to perform a few thousand mouse clicks after each version update.  
 
 **My current method of building**
 
@@ -37,7 +37,7 @@ Enter PowerShell and the Visio COM application method. If you review my version 
 
 3. Gets the current width and height of the icon and scales up or down until either the width or height of the icon is 20mm
 
-4. Adds Shapedata placeholders to support adding metadata when using PowerShell to enumerate Azure resources such as ResourceID for example
+4. Adds Shape data placeholders to support adding metadata when using PowerShell to enumerate Azure resources such as ResourceID for example
 
 5. Adds connection points to the icon (North, East, South, West, South of Textbox, North East, South East, South West and North West)
 
