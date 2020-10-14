@@ -61,19 +61,19 @@ Some example images to show stencil functionality: -
 
 Source SVG files
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/assets/SourceFiles.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/SourceFiles.png)
 
 Connection points
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/assets/Connection-Points.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Connection-Points.png)
 
 Connection point usage
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/assets/Connection-Point-Example.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Connection-Point-Example.png)
 
 Shape Data
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/assets/Shape-Data.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Shape-Data.png)
 
 ## Stencil Usage
 
