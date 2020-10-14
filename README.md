@@ -57,6 +57,24 @@ Enter PowerShell and the Visio COM application method. If you review my version 
 
 With this process I can build and re-build over and over again in minutes and this allows me to keep this collection up to date and focus on adding more functionality. 
 
+Some example images to show stencil functionality: -
+
+Source SVG files
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/SourceFiles.png)
+
+Connection points
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Connection-Points.png)
+
+Connection point usage
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Connection-Point-Example.png)
+
+Shape Data
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Shape-Data.png)
+
 ## Stencil Usage
 
 First you need to decide how you would like to use these stencils. I have provided 2 operational methods based on community feedback. 
