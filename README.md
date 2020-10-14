@@ -19,6 +19,12 @@ With these limitations and the lack of standardised up to date stencils I set ou
 
 ### My process and methodology
 
+**Project ultimate goal**
+
+***Function > Ease of use > Form***
+
+This is my driving factor behind this project. I know that others prefer drawing tools such as Draw.io but Visio offers an amazing amount of capability from a programmatic perspective. Icons need to not just be pretty images, they need technical function with the ability to be used easily. Proper stencil objects with pre-defined mathematically perfect placed connection points make drawing by hand or script so much easier. The icon itself although important is third on my priority list and will always remain so. I want these stencils to be as useful as possible while maintaining the relevance and breath of Azure services.
+
 **First a bit of history for this project**
 
 I started with a collection process, gathering as many useful and up to date SVG icons as possible and collating them in a folder with a descriptive naming convention and classification. I initially started by dragging an icon onto the Visio drawing canvas and then adding in connection points for North, East, South and West of the icon and moving the text box to the bottom of the icon. After that I scaled the icon using a guide background box to be either 20mm wide or 20mm high before dropping it into my stencil and entering in it's service name. 
@@ -107,8 +113,8 @@ See the [open issues](https://github.com/David-Summers/Azure-Design/issues) for 
 
 Twitter is my primary communication method and if you would like to discuss this project, follow me for updates (Including my Azure News bot) or just talk tech in general then add me to your follower list. Alternatively you can do the same via LinkedIn.
 
-Twitter - https://twitter.com/Xeeva_D3
-LinkedIn - https://au.linkedin.com/in/djsummers
+- **Twitter - https://twitter.com/Xeeva_D3**
+- **LinkedIn - https://au.linkedin.com/in/djsummers**
 
 
 
