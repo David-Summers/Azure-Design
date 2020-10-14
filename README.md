@@ -1,42 +1,111 @@
-## Overview
+## Background
 
-<p>Welcome to my Azure Visio Stencil project! here you will find my most up to date Visio stencil for Azure architecture design and documentation. I started this project over a year ago as I needed current and up to date complete icon sets for Azure. There are many collections of icons for diagrams available both on the Microsoft site and through individuals such as myself, however I needed Visio stencils that could be used for programmatic diagram creation.</p>
+Visio remains to this day an industry standard for the depiction of IT infrastructure from both a conceptual and design perspective, over the years I have built diagrams using Visio stencils created by Microsoft and the IT Tech community to convey my ideas accurately and effectively as design documentation. 
 
-<p>True that the Microsoft provided SVG version of the Azure icons can be imported into Visio, however actually using these icons with connection points, manual re-scaling etc is a time consuming process. I built a PowerShell method of scanning a local directory and for each SVG icon, import into Visio and re-scale to either 20mm width or height depending on the largest value.</p>
+Over a year ago I set out to locate current, up to date and relevant Visio stencils for Azure with the intent on building reference architecture patterns for Azure services that could be used as templates for design material. Unfortunately my search came up short and I found that Microsoft had shifted from providing Visio stencils in favor of more application generic Scalable Vector Graphic (SVG) icons for Azure services and configuration items. 
 
-<p>After the import my script then adds 5 connection points, adds a shadow effect, formats moves and re-sizes the Text field before dropping into my Stencil and adding search meta-data to the icon master</p>
+SVG's can easily be imported into Visio and due to the file format supporting raster scaling with no loss of image quality. The issue however when working with Visio is that functionality wise these icons are tedious to work with. Some examples of what I mean: -
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/SAMPLE_Icon.png)
+- **No connection points** (when you draw a line from icon A to icon B, Visio will either attach the line to the icon edge or the center)
+- **No properly positioned text field** (when adding descriptive text to the icon Visio will place the text at the center of the icon, requiring manual repositioning)
+- **Import size is dependent on the source SVG view box and scale** (depending on the source file, when it is dropped onto a drawing it may need to be down\up sized to match the scale of other icons)
+- **Lack of programmability** (having icons in a stencil allows you to leverage PowerShell or other languages to programmatically draw diagrams)
 
-<p>in the above example there are 4 main connection points in the exact same position for each icon, North East South and West with a 5th connection point below the text field. Each connection point is labelled as such and can be referenced by PowerShell to create hierarchal diagrams. Below is an example of how easy it is to quickly build diagrams that require minimal adjustment and connection position placement</p>
+With these limitations and the lack of standardised up to date stencils I set out on a personal mission to build my own functional, relevant and as up to date as possible Visio stencil for anyone to use. With permission (and the only caveat that I maintain an up to date collection) from the Microsoft Cloud and Enterprise team to build an icon collection based on the publicly available icons I built a fully programmatic method to build a stencil collection using SVG's as the source icons. 
 
-![Picture]( https://github.com/David-Summers/Azure-Design/blob/master/Assets/SAMPLE_ConnectionPointUsage.png)
+### My process and methodology
 
-<p>With each release I include the full Stencil with bonus drawing tools such as pre-coloured lines\arrows and boxes along with a zipped archive of PowerShell exported PNG and re-scaled SVG versions for use with other drawing platforms</p>
+**First a bit of history for this project**
 
-<p><strong>For the latest Visio stencil click here - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.6.vssx</strong></p>
+I started with a collection process, gathering as many useful and up to date SVG icons as possible and collating them in a folder with a descriptive naming convention and classification. I initially started by dragging an icon onto the Visio drawing canvas and then adding in connection points for North East South and West of the icon and moving the text box to the bottom of the icon. After that I scaled the icon using a guide background box to be either 2mm wide or 20mm high before dropping it into my stencil and entering in it's service name. 
 
-<p>Below is an image of the full icon collection for a preview before you download</p>
+Now I am pretty good at performing mundane repetitive operations like this and with a few key bind mappings\macros on a gaming mouse I was able to process each icon in around 45 seconds. Problem was that I had 300 plus icons to work through. Initially I just sucked it up and processed each one manually, after just under four hours and at least 3,600 mouse clicks, I had a functional stencil. 
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-2.6.png)
+However things started getting messy when Microsoft updated a huge collection of Azure Service icons a short while after I was finished that made my version irrelevant.  So I looked for a better way to build this stencil, as I knew that that Microsoft would forever be adding new services to Azure and or refreshing current service icons. 
 
-## Installation
+**My current method of building**
 
-Save the Stencil to your "..\Documents\My Shapes" directory for use within Visio. 
+Enter PowerShell and the Visio COM application method. If you review my version history below you will see that this project has evolved significantly since I started and I have built a full import and conversion process that performs the following. 
 
-## Work in Progress
+1. Scans a build directory for SVG's and sorts a list of icons by name 
 
-Next on my list is Shape Data. I will be adding key Azure specific Shape Data fields for richer Azure diagram creation, this will allow my documentation scripts to add data to shapes such as regional location, Resource Group, tags etc.
+2. Launches Visio as a COM application and performs a page drop for the SVG
 
-## Revision History
+3. Gets the current width and height of the icon and scales up or down until either the width or height of the icon is 20mm
 
-<B>Current</B>
+4. Adds Shapedata placeholders to support adding metadata when using powershell to enumerate Azure resources such as ResourceID for example
+
+5. Adds connection points to the icon (North, East, South, West, South of Textbox, North East, South East, South West and North West)
+
+6. Adds a slight drop shadow to the icon
+
+7. Repositions the default text field to the bottom of the icon
+
+8. Drops the icon into the main stencil and another copy into the by category stencil
+
+9. Adds metadata to the stencil master such as Name, Hover, Search (Including the category and icon name)
+
+10. Imports my drawing tools from a stencil 
+
+11. Sorts all of the imported icons into a grid for inspection and then export to PNG as a visual index for the stencil content
+
+12. Exports out a high resolution PNG and SVG version of the now re-scaled icon for use in other applications
+
+13. Saves everything to my GitHub Repo staging folder
+
+    
+
+With this process I can build and re-build over and over again in minutes and this allows me to keep this collection up to date and focus on adding more functionality. 
+
+## Stencil Usage
+
+First you need to decide how you would like to use these stencils. I have provided 2 operational methods based on community feedback. 
+
+**Option 1 - Use the single stencil file that contains all of the icons and drawing tools**
+
+**Option 2 - Use just the category stencil files that you need** 
+
+### Installation
+
+Download the stencil(s) and save to your "My Shapes" folder (normally under C:\Users\%YourUserName%\Documents\My Shapes)
+
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+## Roadmap
+
+See the [open issues](https://github.com/David-Summers/Azure-Design/issues) for a list of proposed features (and known issues).
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Your Name - David Summers https://twitter.com/Xeeva_D3/
+
+Project Link: https://github.com/David-Summers/Azure-Design
+
+
+
+## Version History
+
+### Current
+
+Version 3.0 14/10/2020
+
+
+
+### Previous
+
+<p>Update version 2.8 15/07/2020</p>
+
+<p>Refreshed 19 icons and added new ones, welcome Office 365 to the collection. O365 services have been requested a few times so I am starting to add them into the Stencil. These icons are more difficult to convert as sourcing SVG versions is challenging so I have had to trace bitmap versions by hand in my SVG editor.</p>
 
 <p>Update version 2.6 21/04/2020</p>
 
 <p>I noticed that the Cosmos DB Icon had broken from a previous update and while fixing that I ended up reviewing and updating 96 icons! – I extended my icon collection passed the Azure Portal as even some of those icons are out of date. </p>
-
-<B><I>Previous</I></B>
 
 <p>Update version 2.5 20/04/2020</p>
 
@@ -199,8 +268,6 @@ Next on my list is Shape Data. I will be adding key Azure specific Shape Data fi
   Recent
   </li>
 </ul>
-
-
 <p>Version 1.3 - 14/08/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-1.3/ICONS_Azure-Full-Colour_V-1.3.vssx</p>
 
 <p>Added new Icons for storage account sub services, had to hand draw these as they did not appear to exist. Renamed Data brick to the correct name Databricks. </p>
@@ -248,14 +315,3 @@ Next on my list is Shape Data. I will be adding key Azure specific Shape Data fi
 <p>Version 1.0 - 25/07/2019 - https://github.com/David-Summers/Azure-Design/blob/master/Archive/V-1.0/ICONS_Azure-Full-Colour_V-1.0.vssx</p>
 
 <p>Initial release of the stencil and bonus SVG and PNG versions. I built a conversion process that can re-colour each icon and these initial versions were made with a Blue and Grey scale pallet. </p>
-
-
-## Contributors
-
-For requests, issues, idea sharing or just a quick G'Day please use the contact details below.
-
-David Summers - Author - https://twitter.com/Xeeva_D3  
-
-## License
-
-I created these icons while working at www.data3.com.au and we decided to release them to the public for free usage. We felt this was a great community contribution so why keep this to ourselves. My only ask is that you create awesome diagrams and appreciate the effort that I have put into making these. I would love to see some great examples of the icons in use, so Test-Netconnection (Modern way of saying Ping) me on Twitter.
