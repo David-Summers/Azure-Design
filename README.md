@@ -17,7 +17,7 @@ With these limitations and the lack of standardised up to date stencils I set ou
 
 **First a bit of history for this project**
 
-I started with a collection process, gathering as many useful and up to date SVG icons as possible and collating them in a folder with a descriptive naming convention and classification. I initially started by dragging an icon onto the Visio drawing canvas and then adding in connection points for North East South and West of the icon and moving the text box to the bottom of the icon. After that I scaled the icon using a guide background box to be either 2mm wide or 20mm high before dropping it into my stencil and entering in it's service name. 
+I started with a collection process, gathering as many useful and up to date SVG icons as possible and collating them in a folder with a descriptive naming convention and classification. I initially started by dragging an icon onto the Visio drawing canvas and then adding in connection points for North, East, South and West of the icon and moving the text box to the bottom of the icon. After that I scaled the icon using a guide background box to be either 20mm wide or 20mm high before dropping it into my stencil and entering in it's service name. 
 
 Now I am pretty good at performing mundane repetitive operations like this and with a few key bind mappings\macros on a gaming mouse I was able to process each icon in around 45 seconds. Problem was that I had 300 plus icons to work through. Initially I just sucked it up and processed each one manually, after just under four hours and at least 3,600 mouse clicks, I had a functional stencil. 
 
@@ -33,7 +33,7 @@ Enter PowerShell and the Visio COM application method. If you review my version 
 
 3. Gets the current width and height of the icon and scales up or down until either the width or height of the icon is 20mm
 
-4. Adds Shapedata placeholders to support adding metadata when using powershell to enumerate Azure resources such as ResourceID for example
+4. Adds Shapedata placeholders to support adding metadata when using PowerShell to enumerate Azure resources such as ResourceID for example
 
 5. Adds connection points to the icon (North, East, South, West, South of Textbox, North East, South East, South West and North West)
 
@@ -59,21 +59,23 @@ With this process I can build and re-build over and over again in minutes and th
 
 Some example images to show stencil functionality: -
 
-Source SVG files
+**Source SVG files**
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/SourceFiles.png)
 
-Connection points
+**Connection points**
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Connection-Points.png)
 
-Connection point usage
+**Connection point usage**
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Connection-Point-Example.png)
 
-Shape Data
+**Shape Data**
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Shape-Data.png)
+
+
 
 ## Stencil Usage
 
@@ -87,11 +89,11 @@ First you need to decide how you would like to use these stencils. I have provid
 
 Download the stencil(s) and save to your "My Shapes" folder (normally under C:\Users\%YourUserName%\Documents\My Shapes)
 
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Collection-Example.png)
+
 ## Roadmap
 
 See the [open issues](https://github.com/David-Summers/Azure-Design/issues) for a list of proposed features (and known issues).
-
-
 
 ## Contact
 
