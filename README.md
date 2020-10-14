@@ -89,7 +89,7 @@ Project Link: https://github.com/David-Summers/Azure-Design
 
 Version 3.0 14/10/2020
 
-
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-3.0.png)
 
 ### Previous
 
