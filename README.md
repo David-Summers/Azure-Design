@@ -105,9 +105,10 @@ See the [open issues](https://github.com/David-Summers/Azure-Design/issues) for 
 
 ## Contact
 
-Your Name - David Summers https://twitter.com/Xeeva_D3/
+Twitter is my primary communication method and if you would like to discuss this project, follow me for updates (Including my Azure News bot) or just talk tech in general then add me to your follower list. Alternatively you can do the same via LinkedIn.
 
-Project Link: https://github.com/David-Summers/Azure-Design
+Twitter - https://twitter.com/Xeeva_D3
+LinkedIn - https://au.linkedin.com/in/djsummers
 
 
 
