@@ -114,11 +114,11 @@ This is a quirk of Visio going back to 2007 and I figured out the right combinat
 First, ensure that your Windows Search service is actually running
 Next, ensure that your Windows Indexing settings for VSSX files is enabled to index content as below. 
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Indexing%Options.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Indexing%20Options.png)
 
 Next, ensure your Shapes folder is enabled for indexing.
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Folder%Index%Options.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Folder%20Index%20Options.png)
 
 Next, ensure that Visio has the following setting under Shape Search to match on any word
 
@@ -126,11 +126,11 @@ Next, ensure that Visio has the following setting under Shape Search to match on
 
 Finally, and this was the main showstopper for many. Visio will only provide results if the Stencil is in English (United States) locale AND (This is the important bit) if you open a new document using US Units of measure then you will receive search results! Metric = No results :( 
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/New%Document%Options.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/New%20Document%20Options.png)
 
 To assists in part with the above, in version 3.1 I changed the Stencil locale from English Australia to English United States. Hopefully the above will get search working and as an example on my Windows 10 with Visio 2016 install, search is working for me. 
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Working%Search%Example.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Working%20Search%20Example.png)
 
 ## Roadmap
 
@@ -157,11 +157,11 @@ Over the past year I have seen incremental changes to certain icons but not othe
 
 This was a good opportunity to work through the set and start applying the same style and theme to some of the icons to make them consistent. Here is one example where I have taken the image on the right (User License Allocation) and updated it to match the modern style of other user type icons. This update has 23 new or refreshed icons bringing the total count up to 506 (Excluding drawing tools)
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Icon%Refresh%Example.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Icon%20Refresh%20Example.png)
 
 A few more examples (left origional, right modern)
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Icon%Refresh%Examples.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Icon%20Refresh%20Examples.png)
 
 ### Previous
 
