@@ -26,50 +26,50 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group2067-1" transform="translate(33.7176,-39.685)">
+		<g id="group2090-1" transform="translate(33.7176,-39.685)">
 			<title>IoT Hub</title>
-			<g id="shape2068-2" transform="translate(29.7754,-23.6248)">
+			<g id="shape2091-2" transform="translate(29.7754,-23.6248)">
 				<title>fa3a22e9-e4e8-46a1-bc09-f953274</title>
 				<ellipse cx="6.5466" cy="123.522" rx="6.5466" ry="6.57358" class="st1"/>
 			</g>
-			<g id="shape2069-4" transform="translate(42.1375,-5.47242)">
+			<g id="shape2092-4" transform="translate(42.1375,-5.47242)">
 				<title>eb214416-6791-4934-ac0c-35afaa8</title>
 				<ellipse cx="5.15088" cy="124.923" rx="5.15088" ry="5.1721" class="st1"/>
 			</g>
-			<g id="shape2070-6" transform="translate(22.4977,-9.74358)">
+			<g id="shape2093-6" transform="translate(22.4977,-9.74358)">
 				<title>a4424413-b91f-48da-aedd-39e3a97</title>
 				<ellipse cx="4.41979" cy="125.658" rx="4.41979" ry="4.438" class="st1"/>
 			</g>
-			<g id="shape2071-8" transform="translate(18.2441,-42.478)">
+			<g id="shape2094-8" transform="translate(18.2441,-42.478)">
 				<title>f7ecfc1a-3268-471b-9464-57023bf</title>
 				<ellipse cx="5.48319" cy="124.59" rx="5.48319" ry="5.50579" class="st1"/>
 			</g>
-			<g id="shape2072-10" transform="translate(4.61918,-23.2578)">
+			<g id="shape2095-10" transform="translate(4.61918,-23.2578)">
 				<title>b4388938-ad80-41b4-b729-5c21e3e</title>
 				<ellipse cx="4.41979" cy="125.658" rx="4.41979" ry="4.438" class="st1"/>
 			</g>
-			<g id="shape2073-12" transform="translate(8.90604,-10.2775)">
+			<g id="shape2096-12" transform="translate(8.90604,-10.2775)">
 				<title>polygon26</title>
 				<path d="M24.59 108.84 L0 110.88 L0.23 113.75 L24.59 111.71 L16.52 125.19 L18.94 126.66 L27.25 112.78 L37.12 130.1
 							 L39.58 128.69 L28.51 109.24 L27.42 109.87 L28.31 109.21 L15.78 91.32 L13.49 92.99 L24.59 108.84 Z"
 						class="st2"/>
 			</g>
-			<g id="group2074-14">
+			<g id="group2097-14">
 				<title>g32</title>
-				<g id="shape2075-15" transform="translate(40.4427,-40.6761)">
+				<g id="shape2098-15" transform="translate(40.4427,-40.6761)">
 					<title>path28</title>
 					<path d="M16.25 116.51 A2.4259 2.43589 -180 0 0 13.82 114.08 L1.2 114.08 A1.19633 1.20126 -180 0 0 0 115.28 L0
 								 119.98 A1.19633 1.20126 -180 0 0 1.2 121.19 L9.01 121.19 L9.01 128.86 A1.2628 1.268 -180 0 0 10.24
 								 130.1 L14.89 130.1 A1.2628 1.268 -180 0 0 16.12 128.86 L16.12 116.51 L16.25 116.51 Z" class="st2"/>
 				</g>
-				<g id="shape2076-17">
+				<g id="shape2099-17">
 					<title>path30</title>
 					<path d="M15.05 123.02 L7.11 123.02 L7.11 115.35 A1.2628 1.268 -180 0 0 5.88 114.11 L1.23 114.11 A1.2628 1.268
 								 -180 0 0 -0 115.35 L0 127.69 A2.4259 2.43589 -180 0 0 2.43 130.1 L15.05 130.1 A1.19633 1.20126 -180
 								 0 0 16.25 128.89 L16.25 124.22 A1.19633 1.20126 -180 0 0 15.05 123.02 Z" class="st2"/>
 				</g>
 			</g>
-			<g id="shape2077-19" transform="translate(4.61918,-6.9421)">
+			<g id="shape2100-19" transform="translate(4.61918,-6.9421)">
 				<title>path34</title>
 				<path d="M31.7 100.33 A6.6463 6.67368 0 1 1 25.06 106.84 A6.6463 6.67368 0 0 1 31.7 100.33 ZM13.76 89.05 A5.51643
 							 5.53915 -180 1 0 19.14 83.55 A5.4832 5.50579 -180 0 0 13.76 89.05 ZM0 109.31 A4.41979 4.438 -180 1 0

@@ -16,12 +16,12 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group7925-1" transform="translate(24.2845,-31.748)">
-			<title>Azure LightHouse Projection.7925</title>
+		<g id="group8138-1" transform="translate(24.2845,-31.748)">
+			<title>Azure LightHouse Projection.8138</title>
 			<desc>Azure LightHouse Projection</desc>
-			<g id="group7926-2">
+			<g id="group8139-2">
 				<title>g1535</title>
-				<g id="shape7927-3">
+				<g id="shape8140-3">
 					<title>path1557</title>
 					<path d="M0 80.36 L0 79.07 L1.4 79.07 C2.49 79.07 20.25 79.07 40.55 79.07 L41.65 79.07 L41.65 80.36 L41.65 81.64
 								 L20.83 81.64 L0 81.64 L0 80.36 ZM41.51 56.13 L41.54 51.89 L41.25 51.28 C41.09 50.94 40.78 50.53
@@ -36,7 +36,7 @@
 								 15.25 54.04 L15.21 53.19 L26.58 53.19 L37.95 53.19 L37.95 56.75 L37.95 60.31 L29.63 60.3 C22.99
 								 60.29 21.15 60.25 20.53 60.12 L20.53 60.12 Z" class="st1"/>
 				</g>
-				<g id="shape7928-5" transform="translate(1.46705,-3.0256)">
+				<g id="shape8141-5" transform="translate(1.46705,-3.0256)">
 					<title>path1537</title>
 					<path d="M1.31 81.5 C0.89 81.35 0.46 80.95 0.24 80.53 C0.01 80.09 0 79.8 0 67.44 C0 58.8 0.04 54.69 0.13 54.46
 								 C0.32 53.97 0.95 53.39 1.43 53.26 C1.7 53.19 8.41 53.14 19.86 53.14 L37.88 53.14 L38.4 53.39 C38.68
@@ -52,8 +52,8 @@
 								 81.58 C1.8 81.57 1.41 81.54 1.31 81.5 L1.31 81.5 Z" class="st2"/>
 				</g>
 			</g>
-			<g id="shape7925-7">
-				<g id="shadow7925-8" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
+			<g id="shape8138-7">
+				<g id="shadow8138-8" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
 				<text x="-17.7" y="95.64" class="st4">Azure LightHouse Projection</text>			</g>
 		</g>
 	</g>

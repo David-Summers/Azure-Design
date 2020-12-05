@@ -17,12 +17,12 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group6535-1" transform="translate(8.9811,-39.685)">
-			<title>Python.6535</title>
+		<g id="group6675-1" transform="translate(8.9811,-39.685)">
+			<title>Python.6675</title>
 			<desc>Python</desc>
-			<g id="group6536-2">
+			<g id="group6676-2">
 				<title>layer1</title>
-				<g id="shape6537-3" transform="translate(2.79776E-13,-14.4977)">
+				<g id="shape6677-3" transform="translate(2.79776E-13,-14.4977)">
 					<title>path6</title>
 					<path d="M0 91.08 C0 91 0.05 90.92 0.05 90.84 C0.1 90.01 0.11 89.18 0.2 88.36 A14.1821 14.1909 0 0 1 2.76 80.9
 								 A7.46902 7.47366 0 0 1 7.88 77.91 A7.00108 7.00543 0 0 1 8.78 77.86 L27.9 77.86 C28.27 77.86 28.27
@@ -37,11 +37,11 @@
 								 0 0 1 1.26 99.48 A17.8987 17.9098 0 0 1 0.24 94.96 C0.15 93.97 0.12 92.98 0.05 91.99 C0.05 91.88
 								 0 91.77 0 91.66 L0 91.08 Z" class="st1"/>
 				</g>
-				<g id="shape6538-5" transform="translate(17.998,-47.7054)">
+				<g id="shape6678-5" transform="translate(17.998,-47.7054)">
 					<title>path8</title>
 					<path d="M0 102.68 A2.69965 2.70132 0 0 1 5.4 102.68 A2.69965 2.70132 0 1 1 0 102.68 Z" class="st2"/>
 				</g>
-				<g id="shape6539-7" transform="translate(14.9564,0)">
+				<g id="shape6679-7" transform="translate(14.9564,0)">
 					<title>path10</title>
 					<path d="M41.74 77.48 A1.44881 1.44971 -180 0 0 41.68 77.72 C41.64 78.55 41.63 79.38 41.54 80.2 A14.1821 14.1909
 								 0 0 1 38.97 87.63 A7.46902 7.47366 0 0 1 33.85 90.62 A7.00108 7.00543 0 0 1 32.95 90.67 L13.84 90.67
@@ -56,13 +56,13 @@
 								 0 1 40.48 69.08 A17.8987 17.9098 0 0 1 41.48 73.64 C41.57 74.64 41.6 75.63 41.66 76.62 A2.92462
 								 2.92643 -180 0 0 41.72 76.94 C41.73 77.11 41.74 77.29 41.74 77.48 L41.74 77.48 Z" class="st3"/>
 				</g>
-				<g id="shape6540-9" transform="translate(33.7549,-4.55682)">
+				<g id="shape6680-9" transform="translate(33.7549,-4.55682)">
 					<title>path12</title>
 					<path d="M5.4 102.68 A2.69965 2.70132 0 1 1 0 102.68 A2.69965 2.70132 0 0 1 5.4 102.68 Z" class="st2"/>
 				</g>
 			</g>
-			<g id="shape6535-11">
-				<g id="shadow6535-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape6675-11">
+				<g id="shadow6675-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="16.82" y="121.08" class="st5">Python</text>			</g>
 		</g>
 	</g>

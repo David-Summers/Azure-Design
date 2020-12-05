@@ -27,37 +27,37 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5660-1" transform="translate(33.0863,-37.7008)">
-			<title>Container Service Fabric Cluster.5660</title>
+		<g id="group5799-1" transform="translate(33.0863,-37.7008)">
+			<title>Container Service Fabric Cluster.5799</title>
 			<desc>Container Service Fabric Cluster</desc>
-			<g id="shape5661-2" transform="translate(5.721,-6.23419)">
+			<g id="shape5800-2" transform="translate(5.721,-6.23419)">
 				<title>path29</title>
 				<path d="M45.25 98.17 L26.63 84.96 L22.63 82.03 L18.68 84.93 L0 98.17 L7.27 120.02 L8.79 124.65 L36.59 124.65 L38.04
 							 120.02 L45.25 98.33 L45.25 98.17 ZM12.15 120.02 L5.69 100.03 L22.63 87.88 L39.69 100.06 L33.23 120.05
 							 L12.15 120.02 Z" class="st1"/>
 			</g>
-			<g id="shape5662-4" transform="translate(7.66033,2.70006E-13)">
+			<g id="shape5801-4" transform="translate(7.66033,2.70006E-13)">
 				<title>circle31</title>
 				<ellipse cx="7.98355" cy="116.708" rx="7.98355" ry="7.93735" class="st2"/>
 			</g>
-			<g id="shape5663-8" transform="translate(32.613,2.70006E-13)">
+			<g id="shape5802-8" transform="translate(32.613,2.70006E-13)">
 				<title>circle33</title>
 				<ellipse cx="7.98355" cy="116.708" rx="7.98355" ry="7.93735" class="st3"/>
 			</g>
-			<g id="shape5664-12" transform="translate(40.7258,-23.7799)">
+			<g id="shape5803-12" transform="translate(40.7258,-23.7799)">
 				<title>circle35</title>
 				<ellipse cx="7.98355" cy="116.708" rx="7.98355" ry="7.93735" class="st3"/>
 			</g>
-			<g id="shape5665-15" transform="translate(0,-23.7799)">
+			<g id="shape5804-15" transform="translate(0,-23.7799)">
 				<title>circle37</title>
 				<ellipse cx="7.98355" cy="116.708" rx="7.98355" ry="7.93735" class="st3"/>
 			</g>
-			<g id="shape5666-18" transform="translate(20.3629,-37.9836)">
+			<g id="shape5805-18" transform="translate(20.3629,-37.9836)">
 				<title>circle39</title>
 				<ellipse cx="7.98355" cy="116.708" rx="7.98355" ry="7.93735" class="st3"/>
 			</g>
-			<g id="shape5660-21">
-				<g id="shadow5660-22" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape5799-21">
+				<g id="shadow5799-22" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="-23.3" y="139.92" class="st5">Container Service Fabric Cluster</text>			</g>
 		</g>
 	</g>

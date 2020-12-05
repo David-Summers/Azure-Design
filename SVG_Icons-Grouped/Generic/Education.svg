@@ -27,38 +27,38 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7044-1" transform="translate(5.66929,-31.748)">
-			<title>Education.7044</title>
+		<g id="group7186-1" transform="translate(5.66929,-31.748)">
+			<title>Education.7186</title>
 			<desc>Education</desc>
-			<g id="group7045-2">
-				<title>Sheet.7045</title>
-				<g id="shape7046-3" transform="translate(11.4407,0)">
-					<title>Sheet.7046</title>
+			<g id="group7187-2">
+				<title>Sheet.7187</title>
+				<g id="shape7188-3" transform="translate(11.4407,0)">
+					<title>Sheet.7188</title>
 					<path d="M34.21 58.3 L0 58.3 L0 74.15 C0 78.27 7.66 81.64 17.28 81.64 C26.91 81.64 34.56 78.37 34.56 74.15 L34.21
 								 58.3 Z" class="st1"/>
 				</g>
-				<g id="shape7047-5" transform="translate(0,-16.0657)">
-					<title>Sheet.7047</title>
+				<g id="shape7189-5" transform="translate(0,-16.0657)">
+					<title>Sheet.7189</title>
 					<path d="M26.4 52.66 L0.99 66.03 A2.25555 2.32071 -180 0 0 0.19 69.1 A1.96946 2.02635 -180 0 0 0.99 70.02 L26.4
 								 81.39 A2.95549 3.04086 -180 0 0 28.72 81.39 L55.66 69.95 A2.28693 2.35299 -180 0 0 56.55 66.88 A2.00165
 								 2.05947 -180 0 0 55.66 65.9 L28.79 52.6 A2.73215 2.81107 -180 0 0 26.4 52.66 L26.4 52.66 Z"
 							class="st2"/>
 				</g>
-				<g id="shape7048-9" transform="translate(26.7528,-10.8511)">
-					<title>Sheet.7048</title>
+				<g id="shape7190-9" transform="translate(26.7528,-10.8511)">
+					<title>Sheet.7190</title>
 					<path d="M23.32 73.73 A4.0041 4.11977 -180 0 0 22.59 72.03 A16.4883 16.9646 -180 0 0 14.58 64.74 L3.53 60 L0
 								 62.58 L11.12 67.45 A16.0426 16.506 0 0 1 19.76 76.15 A25.0195 25.7423 0 0 1 20.65 81.64 L23.32 73.73
 								 ZM21.16 81.64 L22.49 78.92 L24.18 81.15 L24.49 81.15 A15.8841 16.343 -180 0 0 23.29 73.73 L21.16
 								 81.64 Z" class="st3"/>
 				</g>
-				<g id="shape7049-11" transform="translate(23.8934,-28.7625)">
-					<title>Sheet.7049</title>
+				<g id="shape7191-11" transform="translate(23.8934,-28.7625)">
+					<title>Sheet.7191</title>
 					<path d="M4.26 81.64 C6.61 81.64 8.51 80.64 8.51 79.42 C8.51 78.19 6.61 77.19 4.26 77.19 C1.91 77.19 0 78.19
 								 0 79.42 C0 80.64 1.91 81.64 4.26 81.64 Z" class="st4"/>
 				</g>
 			</g>
-			<g id="shape7044-13">
-				<g id="shadow7044-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape7186-13">
+				<g id="shadow7186-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="12.11" y="95.64" class="st6">Education</text>			</g>
 		</g>
 	</g>

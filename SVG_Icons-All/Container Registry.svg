@@ -33,9 +33,9 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group2934-1" transform="translate(31.4382,-33.7323)">
+		<g id="group3010-1" transform="translate(31.4382,-33.7323)">
 			<title>Container Registry</title>
-			<g id="shape2935-2" transform="translate(0,-9.11083)">
+			<g id="shape3011-2" transform="translate(0,-9.11083)">
 				<title>path22</title>
 				<path d="M51.12 92.77 A13.2042 13.3012 -180 0 0 44.12 89.21 A15.4732 15.5868 -180 0 0 28.05 74.29 A15.9774 16.0947
 							 -180 0 0 12.79 84.74 A14.5593 14.6662 -180 0 0 0 98.96 A14.9059 15.0154 -180 0 0 15.41 113.37 L16.77
@@ -46,73 +46,73 @@
 							 113.37 L41.72 113.37 L42.39 113.37 A12.6054 12.698 -180 0 0 54.74 101.28 A11.5655 11.6504 -180 0 0 51.15
 							 92.93" class="st2"/>
 			</g>
-			<g id="shape2936-7" transform="translate(31.7342,-14.6662)">
+			<g id="shape3012-7" transform="translate(31.7342,-14.6662)">
 				<title>polygon24</title>
 				<path d="M24.96 103.91 L0 94.45 L0.03 108.04 L24.96 113.37 L24.96 103.91 Z" class="st3"/>
 			</g>
-			<g id="shape2937-9" transform="translate(24.9903,-16.8249)">
+			<g id="shape3013-9" transform="translate(24.9903,-16.8249)">
 				<title>polyline26</title>
 				<path d="M6.74 96.61 L0 100.74 L0 113.37 L6.78 110.2 L6.74 96.61 Z" class="st4"/>
 				<path d="M6.74 96.61 L0 100.74 L0 113.37 L6.78 110.2" class="st2"/>
 			</g>
-			<g id="shape2938-12" transform="translate(43.1106,-19.174)">
+			<g id="shape3014-12" transform="translate(43.1106,-19.174)">
 				<title>polygon28</title>
 				<path d="M0 105.18 L0 112.74 L2.27 113.37 L2.27 105.98 L0 105.18 Z" class="st5"/>
 			</g>
-			<g id="shape2939-14" transform="translate(38.5726,-20.3803)">
+			<g id="shape3015-14" transform="translate(38.5726,-20.3803)">
 				<title>polygon30</title>
 				<path d="M2.27 113.37 L2.27 105.66 L0 104.83 L0 112.74 L2.27 113.37 Z" class="st5"/>
 			</g>
-			<g id="shape2940-16" transform="translate(47.6485,-17.9677)">
+			<g id="shape3016-16" transform="translate(47.6485,-17.9677)">
 				<title>polygon32</title>
 				<path d="M0 105.56 L0 112.77 L2.21 113.37 L2.27 106.32 L0 105.56 Z" class="st5"/>
 			</g>
-			<g id="shape2941-18" transform="translate(34.0662,-21.6184)">
+			<g id="shape3017-18" transform="translate(34.0662,-21.6184)">
 				<title>polygon34</title>
 				<path d="M0 104.58 L0 112.8 L2.27 113.37 L2.27 105.34 L0 104.58 Z" class="st5"/>
 			</g>
-			<g id="shape2942-20" transform="translate(52.155,-16.7296)">
+			<g id="shape3018-20" transform="translate(52.155,-16.7296)">
 				<title>polygon36</title>
 				<path d="M2.27 113.37 L2.27 106.64 L0 105.85 L0 112.74 L2.27 113.37 Z" class="st5"/>
 			</g>
-			<g id="shape2943-22" transform="translate(26.1563,-19.5549)">
+			<g id="shape3019-22" transform="translate(26.1563,-19.5549)">
 				<title>a8719886-8ecb-4bb1-abaf-d5d3808</title>
 				<path d="M1.13 112.71 L0 113.37 L0 104.39 L1.13 103.78 L1.13 112.71 ZM3.37 102.48 L2.21 103.24 L2.21 111.97 L3.37
 							 111.34 L3.37 102.48 Z" class="st6"/>
 			</g>
-			<g id="shape2944-24" transform="translate(24.9903,-12.3171)">
+			<g id="shape3020-24" transform="translate(24.9903,-12.3171)">
 				<title>polygon39</title>
 				<path d="M6.78 105.69 L31.7 111.02 L24.9 113.37 L0 108.86 L6.78 105.69 Z" class="st7"/>
 			</g>
-			<g id="shape2945-28" transform="translate(31.6396,-0.190469)">
+			<g id="shape3021-28" transform="translate(31.6396,-0.190469)">
 				<title>polygon41</title>
 				<path d="M25.05 100.29 L25.05 108.58 L0 113.37 L0.13 95.63 L25.05 100.29 Z" class="st3"/>
 			</g>
-			<g id="shape2946-30" transform="translate(34.0662,-3.11101)">
+			<g id="shape3022-30" transform="translate(34.0662,-3.11101)">
 				<title>polygon43</title>
 				<path d="M2.27 112.99 L0 113.37 L0 102.1 L2.27 102.39 L2.27 112.99 Z" class="st5"/>
 			</g>
-			<g id="shape2947-32" transform="translate(38.5726,-3.84115)">
+			<g id="shape3023-32" transform="translate(38.5726,-3.84115)">
 				<title>polygon45</title>
 				<path d="M2.27 103.75 L2.27 112.96 L0 113.37 L0 103.4 L2.27 103.75 Z" class="st5"/>
 			</g>
-			<g id="shape2948-34" transform="translate(43.1106,-4.60303)">
+			<g id="shape3024-34" transform="translate(43.1106,-4.60303)">
 				<title>polygon47</title>
 				<path d="M2.27 112.96 L0 113.37 L0 104.74 L2.27 105.02 L2.27 112.96 Z" class="st5"/>
 			</g>
-			<g id="shape2949-36" transform="translate(47.6485,-5.39666)">
+			<g id="shape3025-36" transform="translate(47.6485,-5.39666)">
 				<title>polygon49</title>
 				<path d="M2.24 106.45 L2.24 112.96 L0 113.37 L0 106.1 L2.24 106.45 Z" class="st5"/>
 			</g>
-			<g id="shape2950-38" transform="translate(52.155,-6.12679)">
+			<g id="shape3026-38" transform="translate(52.155,-6.12679)">
 				<title>polygon51</title>
 				<path d="M2.17 107.69 L2.33 112.96 L0 113.37 L0 107.4 L2.17 107.69 Z" class="st5"/>
 			</g>
-			<g id="shape2951-40" transform="translate(24.9903,2.55795E-13)">
+			<g id="shape3027-40" transform="translate(24.9903,2.55795E-13)">
 				<title>b8a4c988-6241-4bdc-bddf-c20634c</title>
 				<path d="M0 109.12 L0 98.77 L6.81 95.59 L6.81 113.37 L0 109.12 Z" class="st8"/>
 			</g>
-			<g id="shape2952-42" transform="translate(26.1248,-2.98403)">
+			<g id="shape3028-42" transform="translate(26.1248,-2.98403)">
 				<title>b623bcd9-1396-4807-80b7-64d0fc8</title>
 				<path d="M1.01 112.07 L0 111.56 L0 102.8 L1.01 102.32 L1.01 112.07 ZM3.43 101.12 L2.24 101.72 L2.24 112.77 L3.4 113.37
 							 L3.4 101.12 L3.43 101.12 Z" class="st6"/>

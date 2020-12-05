@@ -35,34 +35,34 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group3703-1" transform="translate(34,-39.685)">
+		<g id="group3779-1" transform="translate(34,-39.685)">
 			<title>Azure Monitor Private Link Scope</title>
-			<g id="group3704-2">
-				<title>Sheet.3704</title>
-				<g id="shape3705-3" transform="translate(16.3059,-22.0419)">
-					<title>Sheet.3705</title>
+			<g id="group3780-2">
+				<title>Sheet.3780</title>
+				<g id="shape3781-3" transform="translate(16.3059,-22.0419)">
+					<title>Sheet.3781</title>
 					<rect x="0" y="104.649" width="3.99383" height="26.0386" class="st1"/>
 				</g>
-				<g id="shape3706-5" transform="translate(14.1623,-44.6209)">
-					<title>Sheet.3706</title>
+				<g id="shape3782-5" transform="translate(14.1623,-44.6209)">
+					<title>Sheet.3782</title>
 					<path d="M10 126.4 A5.85762 6.06152 0 1 1 4.14 120.34 A5.85762 6.06152 0 0 1 10 126.4 Z" class="st2"/>
 				</g>
-				<g id="shape3707-7" transform="translate(3.19684,-6.88492)">
-					<title>Sheet.3707</title>
+				<g id="shape3783-7" transform="translate(3.19684,-6.88492)">
+					<title>Sheet.3783</title>
 					<path d="M14.31 114.14 L7.92 114.14 A7.98767 8.2657 -180 0 0 6.68 130.56 A8.56915 8.86742 0 0 1 6.76 127.49 A5.04662
 								 5.22228 0 0 1 7.92 117.17 L14.31 117.17 A5.05886 5.23495 0 1 1 14.31 127.64 L12.55 127.64 A3.79491
 								 3.927 -180 0 0 12.17 129.31 A3.67249 3.80032 -180 0 0 12.42 130.69 L14.31 130.69 A7.99073 8.26887
 								 -180 0 0 14.31 114.15 L14.31 114.14 Z" class="st3"/>
 				</g>
-				<g id="shape3708-11" transform="translate(11.1154,-2.84217E-13)">
-					<title>Sheet.3708</title>
+				<g id="shape3784-11" transform="translate(11.1154,-2.84217E-13)">
+					<title>Sheet.3784</title>
 					<path d="M15.61 114.27 A9.18123 9.50081 0 0 1 15.71 115.53 A8.37022 8.66157 0 0 1 15.53 117.34 A5.04356 5.21911
 								 0 0 1 14.38 127.66 L7.99 127.66 A5.05886 5.23495 0 1 1 7.99 117.19 L9.74 117.19 A3.60822 3.73382
 								 -180 0 0 9.86 114.16 L7.99 114.16 A7.98767 8.2657 -180 0 0 7.99 130.69 L14.38 130.69 A7.98767 8.2657
 								 -180 0 0 15.6 114.26 L15.61 114.27 Z" class="st4"/>
 				</g>
-				<g id="shape3709-15" transform="translate(0,-40.4291)">
-					<title>Sheet.3709</title>
+				<g id="shape3785-15" transform="translate(0,-40.4291)">
+					<title>Sheet.3785</title>
 					<path d="M9.84 126.02 A5.76581 5.96651 0 0 1 8.46 122.32 A4.89666 5.0671 0 0 1 9.79 118.87 A1.3527 1.39979 -180
 								 0 0 7.95 116.82 A7.65102 7.91734 -180 0 0 5.76 122.32 A8.47121 8.76608 -180 0 0 7.9 127.96 A1.34964
 								 1.39662 -180 0 0 8.88 128.39 A1.33434 1.38078 -180 0 0 9.8 128.01 A1.34964 1.39662 -180 0 0 9.84

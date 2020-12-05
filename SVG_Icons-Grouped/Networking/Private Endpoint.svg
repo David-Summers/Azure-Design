@@ -17,21 +17,21 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group8248-1" transform="translate(12.0088,-35.7165)">
-			<title>Private Endpoint.8248</title>
+		<g id="group8475-1" transform="translate(12.0088,-35.7165)">
+			<title>Private Endpoint.8475</title>
 			<desc>Private Endpoint</desc>
-			<g id="group8249-2">
+			<g id="group8476-2">
 				<title>g10</title>
-				<g id="shape8250-3" transform="translate(26.6143,-14.8866)">
+				<g id="shape8477-3" transform="translate(26.6143,-14.8866)">
 					<title>path4</title>
 					<rect x="0" y="68.5251" width="3.45625" height="30.4551" class="st1"/>
 				</g>
-				<g id="shape8251-5" transform="translate(22.1212,-9.20471)">
+				<g id="shape8478-5" transform="translate(22.1212,-9.20471)">
 					<title>path6</title>
 					<path d="M12.44 92.84 C12.44 96.17 9.6 98.98 6.22 98.98 C2.84 98.98 0 96.17 0 92.84 C0 89.51 2.84 86.71 6.22
 								 86.71 C9.6 86.71 12.44 89.51 12.44 92.84 Z" class="st2"/>
 				</g>
-				<g id="shape8252-7">
+				<g id="shape8479-7">
 					<title>path8</title>
 					<path d="M33.41 52.96 C33.41 55.67 31.09 57.96 28.34 57.96 C25.59 57.96 23.27 55.67 23.27 52.96 C23.27 50.24
 								 25.59 47.96 28.34 47.96 C31.09 47.96 33.41 50.24 33.41 52.96 ZM40.47 98.98 A1.58988 1.56821 0 0
@@ -46,8 +46,8 @@
 								 16.66 98.98 16.23 98.98 L16.05 98.98 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape8248-9">
-				<g id="shadow8248-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape8475-9">
+				<g id="shadow8475-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="1.28" y="113.83" class="st5">Private Endpoint</text>			</g>
 		</g>
 	</g>

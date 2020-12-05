@@ -22,19 +22,19 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group911-1" transform="translate(34,-39.685)">
+		<g id="group922-1" transform="translate(34,-39.685)">
 			<title>Search Service</title>
-			<g id="group912-2">
+			<g id="group923-2">
 				<title>Azure-Search</title>
-				<g id="shape913-3" transform="translate(0,-8.13293)">
-					<title>Sheet.913</title>
+				<g id="shape924-3" transform="translate(0,-8.13293)">
+					<title>Sheet.924</title>
 					<path d="M56.69 117.47 A12.9764 12.9764 -180 0 0 45.64 104.87 A16.2205 16.2205 -180 0 0 29.1 89.13 A16.5354 16.5354
 								 -180 0 0 13.35 100.12 A15.3071 15.3071 -180 0 0 -0 115.17 A15.748 15.748 -180 0 0 15.97 130.35 L43.21
 								 130.35 A2.45669 2.45669 -180 0 0 43.91 130.35 A13.0079 13.0079 -180 0 0 56.69 117.47 Z"
 							class="st1"/>
 				</g>
-				<g id="shape914-7" transform="translate(14.1015,-14.3937)">
-					<title>Sheet.914</title>
+				<g id="shape925-7" transform="translate(14.1015,-14.3937)">
+					<title>Sheet.925</title>
 					<path d="M24.73 108.83 A9.66929 9.66929 -180 0 0 7.06 111.51 A9.95276 9.95276 -180 0 0 8.1 118.66 L0.73 126.13
 								 A2.48819 2.48819 -180 0 0 0.73 129.65 A2.45669 2.45669 -180 0 0 2.5 130.38 A2.3937 2.3937 -180 0
 								 0 4.26 129.65 L11.6 122.22 A9.88976 9.88976 -180 0 0 14.15 123.26 A9.70079 9.70079 -180 0 0 24.73
@@ -43,12 +43,12 @@
 								 A6.74016 6.74016 0 0 1 16.45 106.98 A7.27559 7.27559 0 0 1 18.09 107.17 A6.86614 6.86614 0 0 1 22.24
 								 110.31 A6.70866 6.70866 0 0 1 23.03 115.45 Z" class="st2"/>
 				</g>
-				<g id="shape915-9" transform="translate(23.748,-24.126)">
-					<title>Sheet.915</title>
+				<g id="shape926-9" transform="translate(23.748,-24.126)">
+					<title>Sheet.926</title>
 					<ellipse cx="6.77165" cy="123.575" rx="6.77165" ry="6.80315" class="st3"/>
 				</g>
-				<g id="shape916-11">
-					<title>Sheet.916</title>
+				<g id="shape927-11">
+					<title>Sheet.927</title>
 					<rect x="0" y="73.685" width="56.6929" height="56.6929" class="st4"/>
 				</g>
 			</g>

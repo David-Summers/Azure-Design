@@ -21,81 +21,81 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group2953-1" transform="translate(31.89,-35.7165)">
+		<g id="group3029-1" transform="translate(31.89,-35.7165)">
 			<title>Container Kubernetes Service</title>
-			<g id="shape2954-2" transform="translate(9.21887,-34.8501)">
+			<g id="shape3030-2" transform="translate(9.21887,-34.8501)">
 				<title>polygon41</title>
 				<path d="M0 104.16 L0 116.67 L8.97 118.63 L17.97 114.94 L17.97 105.6 L8.97 102.46 L0 104.16 Z" class="st1"/>
 			</g>
-			<g id="shape2955-6" transform="translate(9.40701,-35.0051)">
+			<g id="shape3031-6" transform="translate(9.40701,-35.0051)">
 				<title>path43</title>
 				<path d="M9.12 118.59 L17.34 115.19 a0.627134 0.641807 -180 0 0 0.376281 -0.449264 L17.72 106.27 a0.658491 0.673897
 							 -180 0 0 -0.407638 -0.577626 L9 102.8 L8.62 102.8 L0.47 104.34 a0.627134 0.641807 -180 0 0 -0.470351
 							 0.577626 L0 116.25 a0.595777 0.609716 -180 0 0 0.470351 0.609715 L8.72 118.62 A1.00341 1.02689 -180
 							 0 0 9.12 118.59 L9.12 118.59 Z" class="st2"/>
 			</g>
-			<g id="shape2956-8" transform="translate(9.21887,-34.8501)">
+			<g id="shape3032-8" transform="translate(9.21887,-34.8501)">
 				<title>path45</title>
 				<path d="M0 104.16 L0 116.67 L9.06 118.63 L9.06 102.58 L0 104.16 ZM3.83 115.71 L1.29 115.2 L1.29 105.57 L3.83 105.15
 							 L3.83 115.71 ZM7.78 116.45 L4.86 115.97 L4.86 104.96 L7.78 104.45 L7.78 116.45 Z" class="st3"/>
 			</g>
-			<g id="shape2957-10" transform="translate(28.6287,-34.6896)">
+			<g id="shape3033-10" transform="translate(28.6287,-34.6896)">
 				<title>polygon47</title>
 				<path d="M0 104.16 L0 116.67 L8.97 118.63 L17.94 114.91 L17.94 105.6 L8.97 102.46 L0 104.16 Z" class="st1"/>
 			</g>
-			<g id="shape2958-13" transform="translate(28.6287,-34.6896)">
+			<g id="shape3034-13" transform="translate(28.6287,-34.6896)">
 				<title>path49</title>
 				<path d="M0 104.16 L0 116.67 L9 118.63 L9 102.58 L0 104.16 ZM3.79 115.71 L1.25 115.2 L1.25 105.57 L3.79 105.15 L3.79
 							 115.71 ZM7.75 116.45 L4.83 115.97 L4.83 104.96 L7.75 104.41 L7.75 116.45 Z" class="st3"/>
 			</g>
-			<g id="shape2959-15" transform="translate(0.0313567,-17.5855)">
+			<g id="shape3035-15" transform="translate(0.0313567,-17.5855)">
 				<title>polygon51</title>
 				<path d="M0 104.16 L0 116.67 L8.97 118.63 L17.97 114.94 L17.97 105.6 L8.97 102.46 L0 104.16 Z" class="st1"/>
 			</g>
-			<g id="shape2960-18" transform="translate(0,-17.6818)">
+			<g id="shape3036-18" transform="translate(0,-17.6818)">
 				<title>path53</title>
 				<path d="M0 104.25 L0 116.67 L9.06 118.63 L9.06 102.58 L0 104.25 ZM3.79 115.84 L1.25 115.29 L1.25 105.67 L3.79 105.22
 							 L3.79 115.84 ZM7.78 116.67 L4.86 116.19 L4.86 105.06 L7.78 104.54 L7.78 116.67 Z" class="st3"/>
 			</g>
-			<g id="shape2961-20" transform="translate(19.3784,-17.6818)">
+			<g id="shape3037-20" transform="translate(19.3784,-17.6818)">
 				<title>polygon55</title>
 				<path d="M0 104.13 L0 116.64 L8.97 118.63 L17.94 114.91 L17.94 105.57 L8.97 102.42 L0 104.13 Z" class="st1"/>
 			</g>
-			<g id="shape2962-23" transform="translate(19.3784,-17.6818)">
+			<g id="shape3038-23" transform="translate(19.3784,-17.6818)">
 				<title>path57</title>
 				<path d="M0 104.13 L0 116.67 L9.03 118.63 L9.03 102.58 L0 104.13 ZM3.79 115.71 L1.25 115.16 L1.25 105.54 L3.79 105.09
 							 L3.79 115.71 ZM7.75 116.42 L4.83 115.93 L4.83 104.93 L7.75 104.41 L7.75 116.42 Z" class="st3"/>
 			</g>
-			<g id="shape2963-25" transform="translate(38.7255,-17.5534)">
+			<g id="shape3039-25" transform="translate(38.7255,-17.5534)">
 				<title>polygon59</title>
 				<path d="M0 104.16 L0 116.67 L8.97 118.63 L17.97 114.94 L17.97 105.6 L8.97 102.46 L0 104.16 Z" class="st1"/>
 			</g>
-			<g id="shape2964-28" transform="translate(38.7255,-17.6818)">
+			<g id="shape3040-28" transform="translate(38.7255,-17.6818)">
 				<title>path61</title>
 				<path d="M0 104.29 L0 116.67 L9.06 118.63 L9.06 102.58 L0 104.29 ZM3.83 115.87 L1.29 115.32 L1.29 105.7 L3.83 105.25
 							 L3.83 115.87 ZM7.78 116.58 L4.86 116.09 L4.86 105.09 L7.78 104.57 L7.78 116.58 Z" class="st3"/>
 			</g>
-			<g id="shape2965-30" transform="translate(8.99937,-0.128361)">
+			<g id="shape3041-30" transform="translate(8.99937,-0.128361)">
 				<title>polygon63</title>
 				<path d="M0 104.13 L0 116.64 L8.97 118.63 L17.97 114.91 L17.97 105.6 L8.97 102.46 L0 104.13 Z" class="st1"/>
 			</g>
-			<g id="shape2966-33" transform="translate(9.15616,-0.35007)">
+			<g id="shape3042-33" transform="translate(9.15616,-0.35007)">
 				<title>path65</title>
 				<path d="M9.16 118.6 L17.34 115.39 a0.564421 0.577626 -180 0 0 0.37628 -0.577626 L17.72 106.46 a0.627134 0.641807
 							 -180 0 0 -0.407636 -0.705987 L9.03 102.87 a0.533064 0.545536 -180 0 0 -0.37628 0 L0.5 104.38 a0.595777
 							 0.609716 -180 0 0 -0.501707 0.609716 L0 116.35 a0.595777 0.609716 -180 0 0 0.470351 0.609716 L8.72 118.6
 							 a0.721204 0.738078 -180 0 0 0.438993 0 Z" class="st2"/>
 			</g>
-			<g id="shape2967-35" transform="translate(8.99937,-0.128361)">
+			<g id="shape3043-35" transform="translate(8.99937,-0.128361)">
 				<title>path67</title>
 				<path d="M0 104.13 L0 116.64 L9.06 118.63 L9.06 102.33 L0 104.13 ZM3.83 115.71 L1.29 115.16 L1.29 105.54 L3.83 105.09
 							 L3.83 115.71 ZM7.78 116.45 L4.86 115.97 L4.86 104.93 L7.78 104.41 L7.78 116.45 Z" class="st3"/>
 			</g>
-			<g id="shape2968-37" transform="translate(28.3778,-2.55795E-13)">
+			<g id="shape3044-37" transform="translate(28.3778,-2.55795E-13)">
 				<title>polygon69</title>
 				<path d="M0 104.16 L0 116.67 L8.97 118.63 L17.97 114.94 L17.97 105.6 L8.97 102.46 L0 104.16 Z" class="st1"/>
 			</g>
-			<g id="shape2969-40" transform="translate(28.3778,-4.92679E-08)">
+			<g id="shape3045-40" transform="translate(28.3778,-4.92679E-08)">
 				<title>path71</title>
 				<path d="M0 104.16 L0 116.67 L9.06 118.63 L9.06 102.58 L0 104.16 ZM3.83 115.74 L1.29 115.2 L1.29 105.57 L3.83 105.12
 							 L3.83 115.74 ZM7.78 116.45 L4.86 115.97 L4.86 104.96 L7.78 104.45 L7.78 116.45 Z" class="st3"/>

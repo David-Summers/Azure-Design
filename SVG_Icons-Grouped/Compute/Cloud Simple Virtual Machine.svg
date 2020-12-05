@@ -16,10 +16,10 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group5755-1" transform="translate(26.2688,-27.7795)">
-			<title>Cloud Simple Virtual Machine.5755</title>
+		<g id="group5894-1" transform="translate(26.2688,-27.7795)">
+			<title>Cloud Simple Virtual Machine.5894</title>
 			<desc>Cloud Simple Virtual Machine</desc>
-			<g id="shape5756-2" transform="translate(0,-0.0289961)">
+			<g id="shape5895-2" transform="translate(0,-0.0289961)">
 				<title>path7</title>
 				<path d="M31.5 67.69 A17.4316 18.8493 0 0 1 29.46 68.92 A22.7952 24.6491 0 0 1 26.7 70.13 A24.9406 26.969 0 0 1 23.17
 							 71.06 A25.9329 28.042 0 0 1 18.71 71.43 A21.9504 23.7356 0 0 1 11.45 70.16 A17.0427 18.4288 0 0 1 5.51
@@ -33,7 +33,7 @@
 							 15.9494 -180 0 0 19.76 63.84 A13.9185 15.0504 -180 0 0 25.33 62.82 A25.0613 27.0995 -180 0 0 28.2 61.28
 							 L31.5 67.69 Z" class="st1"/>
 			</g>
-			<g id="shape5757-4" transform="translate(23.2108,0)">
+			<g id="shape5896-4" transform="translate(23.2108,0)">
 				<title>path9</title>
 				<path d="M3 61.01 A10.5796 11.4401 -180 0 0 4.73 61.98 A30.9478 33.4648 -180 0 0 7.8 63.21 A31.7389 34.3202 -180
 							 0 0 11.99 64.3 A29.3521 31.7393 -180 0 0 17.11 64.75 A15.6884 16.9644 -180 0 0 22.98 63.73 A3.27178
@@ -49,14 +49,14 @@
 							 0 0 1 5.4 69.46 A26.2949 28.4335 0 0 1 1.8 67.91 A10.9551 11.8461 0 0 1 -0 66.79 L3 61.01 Z"
 						class="st2"/>
 			</g>
-			<g id="shape5758-6" transform="translate(23.1706,-2.02993)">
+			<g id="shape5897-6" transform="translate(23.1706,-2.02993)">
 				<title>path11</title>
 				<path d="M4.77 63.99 L4.24 63.75 C3.55 64.14 2.9 64.5 2.13 64.84 L0.94 66.85 L0 68.82 A8.30012 8.97517 -180 0 0 1.73
 							 69.98 A8.82307 9.54065 -180 0 0 5.24 71.43 L6.26 70.94 A17.4316 18.8493 -180 0 0 8.3 69.71 L5.52 64.36
 							 L4.77 63.99 Z" class="st1"/>
 			</g>
-			<g id="shape5755-8">
-				<g id="shadow5755-9" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
+			<g id="shape5894-8">
+				<g id="shadow5894-9" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
 				<text x="-19.69" y="84.59" class="st4">Cloud Simple Virtual Machine</text>			</g>
 		</g>
 	</g>

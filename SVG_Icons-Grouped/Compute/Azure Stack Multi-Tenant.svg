@@ -34,50 +34,50 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5923-1" transform="translate(19.3492,-39.685)">
-			<title>Azure Stack Multi-Tenant.5923</title>
+		<g id="group6062-1" transform="translate(19.3492,-39.685)">
+			<title>Azure Stack Multi-Tenant.6062</title>
 			<desc>Azure Stack Multi-Tenant</desc>
-			<g id="group5924-2">
-				<title>Sheet.5924</title>
-				<g id="group5925-3" transform="translate(2.79776E-13,-11.2605)">
-					<title>Sheet.5925</title>
-					<g id="shape5926-4" transform="translate(27.4989,-7.33446)">
-						<title>Sheet.5926</title>
+			<g id="group6063-2">
+				<title>Sheet.6063</title>
+				<g id="group6064-3" transform="translate(2.79776E-13,-11.2605)">
+					<title>Sheet.6064</title>
+					<g id="shape6065-4" transform="translate(27.4989,-7.33446)">
+						<title>Sheet.6065</title>
 						<path d="M23.88 102.05 A2.33149 2.44937 -180 0 0 26.21 99.6 A1.67615 1.7609 -180 0 0 26.21 99.31 C25.28 91.61
 									 21.1 85.34 13.13 85.34 C5.01 85.34 0.82 90.66 0 99.34 A2.34724 2.46592 -180 0 0 2.09 102.04
 									 A1.97861 2.07865 -180 0 0 2.33 102.04 L23.88 102.05 Z" class="st1"/>
 					</g>
-					<g id="shape5927-6" transform="translate(33.2615,-22.2197)">
-						<title>Sheet.5927</title>
+					<g id="shape6066-6" transform="translate(33.2615,-22.2197)">
+						<title>Sheet.6066</title>
 						<ellipse cx="7.35678" cy="94.3185" rx="7.35678" ry="7.72875" class="st1"/>
 					</g>
-					<g id="shape5928-8">
-						<title>Sheet.5928</title>
+					<g id="shape6067-8">
+						<title>Sheet.6067</title>
 						<path d="M35.76 102.05 A3.49408 3.67074 -180 0 0 39.26 98.39 A3.15066 3.30996 -180 0 0 39.24 97.95 C37.86
 									 86.41 31.6 77.02 19.65 77.02 C7.5 77.02 1.22 84.96 0 97.98 A3.51298 3.6906 -180 0 0 3.13 102.03
 									 A3.31134 3.47876 -180 0 0 3.48 102.05 L35.76 102.05 Z" class="st2"/>
 					</g>
-					<g id="shape5929-12" transform="translate(13.8755,-7.93065)">
-						<title>Sheet.5929</title>
+					<g id="shape6068-12" transform="translate(13.8755,-7.93065)">
+						<title>Sheet.6068</title>
 						<path d="M5.95 87.69 A10.9674 11.522 0 0 1 -0 85.85 L5.9 102.05 L11.76 85.94 A10.9265 11.4789 0 0 1 5.95
 									 87.69 Z" class="st3"/>
 					</g>
-					<g id="shape5930-14" transform="translate(8.74307,-22.2892)">
-						<title>Sheet.5930</title>
+					<g id="shape6069-14" transform="translate(8.74307,-22.2892)">
+						<title>Sheet.6069</title>
 						<ellipse cx="11.0147" cy="90.4756" rx="11.0147" ry="11.5716" class="st4"/>
 					</g>
 				</g>
-				<g id="shape5931-18" transform="translate(28.7403,1.42109E-14)">
-					<title>Sheet.5931</title>
+				<g id="shape6070-18" transform="translate(28.7403,1.42109E-14)">
+					<title>Sheet.6070</title>
 					<path d="M13.98 75.49 L0 96.05 L13.98 102.05 L27.95 96.05 L13.98 75.49 Z" class="st5"/>
 				</g>
-				<g id="shape5932-22" transform="translate(28.7403,1.42109E-14)">
-					<title>Sheet.5932</title>
+				<g id="shape6071-22" transform="translate(28.7403,1.42109E-14)">
+					<title>Sheet.6071</title>
 					<path d="M13.98 75.49 L0 96.05 L13.98 102.05 L13.98 75.49 Z" class="st6"/>
 				</g>
 			</g>
-			<g id="shape5923-24">
-				<g id="shadow5923-25" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st7"/>
+			<g id="shape6062-24">
+				<g id="shadow6062-25" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st7"/>
 				<text x="-12.77" y="117.75" class="st8">Azure Stack Multi-Tenant</text>			</g>
 		</g>
 	</g>

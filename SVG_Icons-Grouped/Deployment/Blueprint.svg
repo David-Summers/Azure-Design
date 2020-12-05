@@ -28,30 +28,30 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group6632-1" transform="translate(34,-37.7008)">
-			<title>Blueprint.6632</title>
+		<g id="group6772-1" transform="translate(34,-37.7008)">
+			<title>Blueprint.6772</title>
 			<desc>Blueprint</desc>
-			<g id="group6633-2">
+			<g id="group6773-2">
 				<title>Icon-manage-304</title>
-				<g id="shape6634-3" transform="translate(44.8486,2.70006E-13)">
-					<title>Sheet.6634</title>
+				<g id="shape6774-3" transform="translate(44.8486,2.70006E-13)">
+					<title>Sheet.6774</title>
 					<path d="M3.42 113.34 A6.84335 6.74684 0 0 1 10.92 120.61 A6.21824 6.13055 0 0 1 0.86 124.66 A2.20435 2.17326
 								 0 0 1 0 122.91 L0 113.31 L3.42 113.34 Z" class="st1"/>
 				</g>
-				<g id="shape6635-5" transform="translate(0.0707316,-4.17105)">
-					<title>Sheet.6635</title>
+				<g id="shape6775-5" transform="translate(0.0707316,-4.17105)">
+					<title>Sheet.6775</title>
 					<path d="M55.87 117.48 L55.87 88.29 A7.53427 7.42802 -180 0 0 48.33 80.93 L0 80.93 L0 110.12 A7.53427 7.42802
 								 -180 0 0 7.53 117.55 L40.17 117.55 A84.7523 83.5571 0 0 1 50.04 117.55 C56.62 118.59 55.44 125.56
 								 55.44 125.56 A36.6185 36.1021 -180 0 0 55.87 117.48 Z" class="st2"/>
 				</g>
-				<g id="shape6636-9" transform="translate(0,-18.9946)">
-					<title>Sheet.6636</title>
+				<g id="shape6776-9" transform="translate(0,-18.9946)">
+					<title>Sheet.6776</title>
 					<path d="M0.04 125.56 L0.04 125.33 A6.05374 5.96836 0 0 1 10.7 122.41 a0.756717 0.746045 -180 0 0 1.31603 -0.486551
 								 L12.01 96.56 A4.4745 4.4114 -180 0 0 12.01 95.62 A6.08664 6.0008 -180 0 0 0.04 95.62 A3.02687 2.98418
 								 -180 0 0 0.04 96.56 L0.04 125.56 Z" class="st1"/>
 				</g>
-				<g id="shape6637-11" transform="translate(21.8839,-18.5567)">
-					<title>Sheet.6637</title>
+				<g id="shape6777-11" transform="translate(21.8839,-18.5567)">
+					<title>Sheet.6777</title>
 					<path d="M17.11 115.58 a0.921221 0.908229 -180 0 0 -0.921221 -0.908229 L12.9 114.68 C12.7 114.22 12.54 113.74
 								 12.34 113.28 C11.61 111.43 10.82 109.58 10.07 107.77 L9.8 107.15 A4.5403 4.47627 -180 1 0 7.5 107.15
 								 L7.21 107.8 C6.38 109.62 5.59 111.47 4.8 113.31 L4.21 114.74 L0.92 114.74 a0.921221 0.908229 -180
@@ -64,8 +64,8 @@
 								 114.42 L9.67 114.68 L7.53 114.68 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape6632-13">
-				<g id="shadow6632-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape6772-13">
+				<g id="shadow6772-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="13.31" y="140.84" class="st5">Blueprint</text>			</g>
 		</g>
 	</g>

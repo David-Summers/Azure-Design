@@ -17,20 +17,20 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group6530-1" transform="translate(5.66929,-39.685)">
-			<title>REST.6530</title>
+		<g id="group6670-1" transform="translate(5.66929,-39.685)">
+			<title>REST.6670</title>
 			<desc>REST</desc>
-			<g id="group6531-2">
+			<g id="group6671-2">
 				<title>layer1</title>
-				<g id="shape6532-3" transform="translate(-43.8118,29.8889) rotate(-45)">
+				<g id="shape6672-3" transform="translate(-43.8118,29.8889) rotate(-45)">
 					<title>circle2</title>
 					<ellipse cx="20.044" cy="82.0033" rx="20.044" ry="20.044" class="st1"/>
 				</g>
-				<g id="shape6533-5" transform="translate(14.1703,-14.1732)">
+				<g id="shape6673-5" transform="translate(14.1703,-14.1732)">
 					<title>path4</title>
 					<path d="M28.35 73.7 A20.044 20.044 0 0 1 28.35 102.05 L0 73.7 A20.044 20.044 0 0 1 28.35 73.7 Z" class="st2"/>
 				</g>
-				<g id="shape6534-7" transform="translate(13.0582,-22.9795)">
+				<g id="shape6674-7" transform="translate(13.0582,-22.9795)">
 					<title>path6</title>
 					<path d="M6.41 101.85 L4.64 98.48 A6.69857 6.69857 -180 0 0 4.13 97.64 A2.61865 2.61865 -180 0 0 3.62 97.11 A1.69404
 								 1.69404 -180 0 0 3.06 96.82 A2.41174 2.41174 -180 0 0 2.41 96.74 L1.06 96.74 L1.06 101.85 L0 101.85
@@ -61,8 +61,8 @@
 								 L27.81 91.08 L24.41 91.08 L24.41 90.08 L32.3 90.08 L32.3 91.08 L28.9 91.08 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape6530-9">
-				<g id="shadow6530-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape6670-9">
+				<g id="shadow6670-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="20.43" y="117.75" class="st5">REST</text>			</g>
 		</g>
 	</g>

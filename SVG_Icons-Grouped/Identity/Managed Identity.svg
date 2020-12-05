@@ -36,12 +36,12 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7105-1" transform="translate(14.1643,-39.685)">
-			<title>Managed Identity.7105</title>
+		<g id="group7247-1" transform="translate(14.1643,-39.685)">
+			<title>Managed Identity.7247</title>
 			<desc>Managed Identity</desc>
-			<g id="group7106-2">
+			<g id="group7248-2">
 				<title> MSI_2</title>
-				<g id="shape7107-3">
+				<g id="shape7249-3">
 					<title>path6</title>
 					<path d="M17.25 95.8 C15.91 94.84 15.73 94.38 16.43 93.54 L23.85 85.05 L23.85 79.18 L33.54 69.5 C36.03 67.01
 								 36.03 62.97 33.54 60.48 L22.53 49.47 C20.04 46.98 16 46.98 13.5 49.47 L2.49 60.48 C0 62.97 0 67.01
@@ -50,49 +50,49 @@
 								 50.91 20.58 53.19 C22.86 55.48 21.25 59.38 18.02 59.38 C16.02 59.38 14.39 57.75 14.39 55.76 Z"
 							class="st1"/>
 				</g>
-				<g id="shape7108-5" transform="translate(7.91124,-32.907)">
+				<g id="shape7250-5" transform="translate(7.91124,-32.907)">
 					<title>path8</title>
 					<path d="M0 95.78 L20.92 95.78 L20.92 98.79 L0 98.79 L0 95.78 ZM0 100.67 L20.92 100.67 L20.92 103.68 L0 103.68
 								 L0 100.67 Z" class="st2"/>
 				</g>
-				<g id="shape7109-7" transform="translate(18.8516,-13.6516)">
+				<g id="shape7251-7" transform="translate(18.8516,-13.6516)">
 					<title>path22</title>
 					<path d="M2.28 101.4 L2.28 93.79 L0 94.91 L0 103.68 L2.28 101.4 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="group7110-9" transform="translate(17.5476,-1.23692)">
+			<g id="group7252-9" transform="translate(17.5476,-1.23692)">
 				<title>g16</title>
-				<g id="shape7111-10">
+				<g id="shape7253-10">
 					<title>path2</title>
 					<path d="M1.4 93.97 L12.39 101.1 L23.57 93.94 L24.97 95.58 L12.39 103.68 L0 95.58 L1.4 93.97 Z" class="st4"/>
 				</g>
-				<g id="shape7112-12" transform="translate(2.23361,-4.0627)">
+				<g id="shape7254-12" transform="translate(2.23361,-4.0627)">
 					<title>path4</title>
 					<path d="M0 97.12 L10.16 85.03 L20.52 97.13 L10.16 103.68 L0 97.12 Z" class="st5"/>
 				</g>
-				<g id="shape7113-14" transform="translate(2.23361,-4.0627)">
+				<g id="shape7255-14" transform="translate(2.23361,-4.0627)">
 					<title>path6-5</title>
 					<path d="M10.16 85.03 L10.16 103.68 L0 97.12 L10.16 85.03 Z" class="st4"/>
 				</g>
-				<g id="shape7114-16" transform="translate(12.3889,-4.0627)">
+				<g id="shape7256-16" transform="translate(12.3889,-4.0627)">
 					<title>path8-1</title>
 					<path d="M0 85.03 L0 103.68 L10.36 97.13 L0 85.03 Z" class="st6"/>
 				</g>
-				<g id="shape7115-20" transform="translate(12.3889,-4.0627)">
+				<g id="shape7257-20" transform="translate(12.3889,-4.0627)">
 					<title>path10-1</title>
 					<path d="M0 94.66 L10.36 97.13 L0 103.68 L0 94.66 Z" class="st7"/>
 				</g>
-				<g id="shape7116-22" transform="translate(2.23361,-4.0627)">
+				<g id="shape7258-22" transform="translate(2.23361,-4.0627)">
 					<title>path12-6</title>
 					<path d="M10.16 103.68 L0 97.12 L10.16 94.66 L10.16 103.68 Z" class="st8"/>
 				</g>
-				<g id="shape7117-24" transform="translate(12.3889,1.13687E-13)">
+				<g id="shape7259-24" transform="translate(12.3889,1.13687E-13)">
 					<title>path14-3</title>
 					<path d="M0 103.68 L12.58 95.58 L11.18 93.94 L0 101.1 L0 103.68 Z" class="st9"/>
 				</g>
 			</g>
-			<g id="shape7105-28">
-				<g id="shadow7105-29" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st10"/>
+			<g id="shape7247-28">
+				<g id="shadow7247-29" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st10"/>
 				<text x="-7.58" y="119.38" class="st11">Managed Identity</text>			</g>
 		</g>
 	</g>

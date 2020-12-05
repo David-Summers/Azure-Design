@@ -19,48 +19,48 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group8971-1" transform="translate(14.7398,-33.7323)">
-			<title>Storage Account Table.8971</title>
+		<g id="group9209-1" transform="translate(14.7398,-33.7323)">
+			<title>Storage Account Table.9209</title>
 			<desc>Storage Account Table</desc>
-			<g id="group8972-2">
+			<g id="group9210-2">
 				<title>g18</title>
-				<g id="shape8973-3">
+				<g id="shape9211-3">
 					<title>path4</title>
 					<path d="M0 92.01 C0 93.14 0.79 94.16 2.15 94.16 L54.54 94.16 C55.67 94.16 56.69 93.37 56.69 92.01 L56.69 54.57
 								 L0 54.57 L0 92.01 Z" class="st1"/>
 				</g>
-				<g id="shape8974-5" transform="translate(0,-39.5919)">
+				<g id="shape9212-5" transform="translate(0,-39.5919)">
 					<title>path6</title>
 					<path d="M54.54 85.56 L2.15 85.56 C0.79 85.56 0 86.58 0 87.71 L0 94.16 L56.69 94.16 L56.69 87.71 C56.69 86.58
 								 55.9 85.56 54.54 85.56 Z" class="st2"/>
 				</g>
-				<g id="shape8975-7" transform="translate(21.3165,-27.2618)">
+				<g id="shape9213-7" transform="translate(21.3165,-27.2618)">
 					<title>path8</title>
 					<rect x="0" y="85.5642" width="14.2866" height="8.59709" class="st3"/>
 				</g>
-				<g id="shape8976-9" transform="translate(21.3165,-15.6105)">
+				<g id="shape9214-9" transform="translate(21.3165,-15.6105)">
 					<title>path10</title>
 					<path d="M0 85.56 L14.29 85.56 L14.29 94.16 L0 94.16 L0 85.56 ZM17.01 85.56 L31.29 85.56 L31.29 94.16 L17.01
 								 94.16 L17.01 85.56 Z" class="st4"/>
 				</g>
-				<g id="shape8977-11" transform="translate(4.30866,-15.6105)">
+				<g id="shape9215-11" transform="translate(4.30866,-15.6105)">
 					<title>path12</title>
 					<path d="M34.02 73.91 L48.3 73.91 L48.3 82.51 L34.02 82.51 L34.02 73.91 ZM0 73.91 L14.29 73.91 L14.29 82.51 L0
 								 82.51 L0 73.91 ZM0 85.56 L14.29 85.56 L14.29 94.16 L0 94.16 L0 85.56 Z" class="st3"/>
 				</g>
-				<g id="shape8978-13" transform="translate(4.30866,-4.07231)">
+				<g id="shape9216-13" transform="translate(4.30866,-4.07231)">
 					<title>path14</title>
 					<path d="M0 85.56 L14.29 85.56 L14.29 94.16 L0 94.16 L0 85.56 ZM17.01 85.56 L31.29 85.56 L31.29 94.16 L17.01
 								 94.16 L17.01 85.56 ZM34.02 85.56 L48.3 85.56 L48.3 94.16 L34.02 94.16 L34.02 85.56 Z" class="st4"/>
 				</g>
-				<g id="shape8979-15">
+				<g id="shape9217-15">
 					<title>path16</title>
 					<path d="M2.15 45.97 C1.13 45.97 0 46.99 0 48.12 L0 92.01 C0 93.14 1.13 94.16 2.15 94.16 L4.54 94.16 L49.44 45.97
 								 L2.15 45.97 Z" class="st5"/>
 				</g>
 			</g>
-			<g id="shape8971-17">
-				<g id="shadow8971-18" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
+			<g id="shape9209-17">
+				<g id="shadow9209-18" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
 				<text x="-8.16" y="108.59" class="st7">Storage Account Table</text>			</g>
 		</g>
 	</g>

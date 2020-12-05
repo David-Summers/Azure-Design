@@ -26,31 +26,31 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7744-1" transform="translate(34,-39.685)">
-			<title>Conditional Access.7744</title>
+		<g id="group7957-1" transform="translate(34,-39.685)">
+			<title>Conditional Access.7957</title>
 			<desc>Conditional Access</desc>
-			<g id="group7745-2">
+			<g id="group7958-2">
 				<title>Icon-intune-336</title>
-				<g id="shape7746-3" transform="translate(0,-9.40651)">
-					<title>Sheet.7746</title>
+				<g id="shape7959-3" transform="translate(0,-9.40651)">
+					<title>Sheet.7959</title>
 					<path d="M39.7 105.17 C39.7 117.87 23.91 128.11 20.49 130.18 A1.1755 1.16721 0 0 1 19.18 130.18 C15.75 128.11
 								 0 117.87 0 105.17 L0 89.86 A1.24268 1.2339 0 0 1 1.21 88.66 C13.47 88.33 10.65 83.09 19.85 83.09
 								 C29.05 83.09 26.2 88.33 38.42 88.66 A1.27626 1.26725 0 0 1 39.66 89.86 L39.7 105.17 Z" class="st1"/>
 				</g>
-				<g id="shape7747-5" transform="translate(1.64571,-11.3605)">
-					<title>Sheet.7747</title>
+				<g id="shape7960-5" transform="translate(1.64571,-11.3605)">
+					<title>Sheet.7960</title>
 					<path d="M36.41 107.26 C36.41 118.93 21.93 128.3 18.81 130.2 A1.10833 1.10051 0 0 1 17.6 130.2 C14.44 128.3 0
 								 118.93 0 107.26 L0 93.38 A1.10833 1.10051 0 0 1 1.11 92.28 C12.36 91.82 9.91 87.01 18.2 87.01 C26.5
 								 87.01 24.05 91.82 35.27 92.12 A1.14192 1.13386 0 0 1 36.41 93.22 L36.41 107.26 Z" class="st2"/>
 				</g>
-				<g id="shape7748-9" transform="translate(18.002,0)">
-					<title>Sheet.7748</title>
+				<g id="shape7961-9" transform="translate(18.002,0)">
+					<title>Sheet.7961</title>
 					<path d="M1.24 100.86 L37.45 100.86 A1.1755 1.16721 0 0 1 38.69 101.96 L38.69 129.28 A1.1755 1.16721 0 0 1 37.45
 								 130.38 L1.24 130.38 A1.20909 1.20056 0 0 1 0 129.28 L0 102.03 A1.20909 1.20056 0 0 1 1.24 100.86
 								 Z" class="st3"/>
 				</g>
-				<g id="shape7749-11" transform="translate(18.002,-4.46874)">
-					<title>Sheet.7749</title>
+				<g id="shape7962-11" transform="translate(18.002,-4.46874)">
+					<title>Sheet.7962</title>
 					<path d="M1.18 105.33 L37.52 105.33 A1.10833 1.10051 0 0 1 38.69 106.37 L38.69 110.5 L0 110.5 L0 106.5 A1.10833
 								 1.10051 0 0 1 1.18 105.47 L1.18 105.33 ZM33.42 121.21 L9.54 121.21 C9 121.21 8.6 121.47 8.6 121.74
 								 L8.6 123.17 C8.6 123.47 9 123.71 9.54 123.71 L33.42 123.71 C33.96 123.71 34.39 123.47 34.39 123.17
@@ -60,21 +60,21 @@
 								 127.98 8.6 128.21 8.6 128.51 L8.6 129.84 C8.6 130.14 9 130.38 9.54 130.38 L33.42 130.38 C33.96 130.38
 								 34.39 130.14 34.39 129.84 L34.39 128.51 C34.39 128.21 33.85 127.98 33.42 127.98 Z" class="st4"/>
 				</g>
-				<g id="shape7750-13" transform="translate(21.0583,-16.9078)">
-					<title>Sheet.7750</title>
+				<g id="shape7963-13" transform="translate(21.0583,-16.9078)">
+					<title>Sheet.7963</title>
 					<ellipse cx="1.57853" cy="128.811" rx="1.57853" ry="1.56739" class="st4"/>
 				</g>
-				<g id="shape7751-15" transform="translate(21.0583,-10.8717)">
-					<title>Sheet.7751</title>
+				<g id="shape7964-15" transform="translate(21.0583,-10.8717)">
+					<title>Sheet.7964</title>
 					<ellipse cx="1.57853" cy="128.811" rx="1.57853" ry="1.56739" class="st4"/>
 				</g>
-				<g id="shape7752-17" transform="translate(21.0583,-4.1019)">
-					<title>Sheet.7752</title>
+				<g id="shape7965-17" transform="translate(21.0583,-4.1019)">
+					<title>Sheet.7965</title>
 					<ellipse cx="1.57853" cy="128.811" rx="1.57853" ry="1.56739" class="st4"/>
 				</g>
 			</g>
-			<g id="shape7744-19">
-				<g id="shadow7744-20" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape7957-19">
+				<g id="shadow7957-20" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="-2.04" y="146.08" class="st6">Conditional Access</text>			</g>
 		</g>
 	</g>

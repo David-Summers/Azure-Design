@@ -31,81 +31,81 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5393-1" transform="translate(33.271,-39.685)">
-			<title>Virtual Machine Scale Set.5393</title>
+		<g id="group5532-1" transform="translate(33.271,-39.685)">
+			<title>Virtual Machine Scale Set.5532</title>
 			<desc>Virtual Machine Scale Set</desc>
-			<g id="group5394-2">
+			<g id="group5533-2">
 				<title>layer1</title>
-				<g id="shape5395-3" transform="translate(0,-34.1825)">
+				<g id="shape5534-3" transform="translate(0,-34.1825)">
 					<title>rect16</title>
 					<path d="M0 128.52 A1.13388 1.13388 -180 0 0 1.13 129.65 L32.58 129.65 A1.13388 1.13388 -180 0 0 33.72 128.52
 								 L33.72 108.27 A1.13388 1.13388 -180 0 0 32.58 107.14 L1.13 107.14 A1.13388 1.13388 -180 0 0 -0 108.27
 								 L0 128.52 Z" class="st1"/>
 				</g>
-				<g id="shape5396-5" transform="translate(16.8745,-38.8846)">
+				<g id="shape5535-5" transform="translate(16.8745,-38.8846)">
 					<title>polygon18</title>
 					<path d="M0 129.65 L0 123.11 L5.6 119.81 L5.6 126.38 L0 129.65 Z" class="st2"/>
 				</g>
-				<g id="shape5397-7" transform="translate(11.2385,-45.421)">
+				<g id="shape5536-7" transform="translate(11.2385,-45.421)">
 					<title>polygon20</title>
 					<path d="M0 126.35 L5.64 123.05 L11.24 126.35 L5.64 129.65 L0 126.35 Z" class="st3"/>
 				</g>
-				<g id="shape5398-9" transform="translate(11.2385,-38.8846)">
+				<g id="shape5537-9" transform="translate(11.2385,-38.8846)">
 					<title>polygon22</title>
 					<path d="M0 126.38 L0 119.81 L5.64 123.11 L5.64 129.65 L0 126.38 Z" class="st4"/>
 				</g>
-				<g id="shape5399-11" transform="translate(13.2395,-21.2765)">
+				<g id="shape5538-11" transform="translate(13.2395,-21.2765)">
 					<title>rect24</title>
 					<path d="M0 128.52 A1.13388 1.13388 -180 0 0 1.13 129.65 L32.58 129.65 A1.13388 1.13388 -180 0 0 33.72 128.52
 								 L33.72 108.27 A1.13388 1.13388 -180 0 0 32.58 107.14 L1.13 107.14 A1.13388 1.13388 -180 0 0 -0 108.27
 								 L0 128.52 Z" class="st5"/>
 				</g>
-				<g id="shape5400-13" transform="translate(30.1139,-25.9453)">
+				<g id="shape5539-13" transform="translate(30.1139,-25.9453)">
 					<title>polygon26</title>
 					<path d="M0 129.65 L0 123.08 L5.6 119.81 L5.6 126.35 L0 129.65 Z" class="st2"/>
 				</g>
-				<g id="shape5401-15" transform="translate(24.478,-32.515)">
+				<g id="shape5540-15" transform="translate(24.478,-32.515)">
 					<title>polygon28</title>
 					<path d="M0 126.38 L5.64 123.08 L11.24 126.38 L5.64 129.65 L0 126.38 Z" class="st3"/>
 				</g>
-				<g id="shape5402-17" transform="translate(24.478,-25.9453)">
+				<g id="shape5541-17" transform="translate(24.478,-25.9453)">
 					<title>polygon30</title>
 					<path d="M0 126.35 L0 119.81 L5.64 123.08 L5.64 129.65 L0 126.35 Z" class="st4"/>
 				</g>
-				<g id="shape5403-19" transform="translate(22.9773,-8.73734)">
+				<g id="shape5542-19" transform="translate(22.9773,-8.73734)">
 					<title>rect32</title>
 					<path d="M0 128.52 A1.13388 1.13388 -180 0 0 1.13 129.65 L32.58 129.65 A1.13388 1.13388 -180 0 0 33.72 128.52
 								 L33.72 108.27 A1.13388 1.13388 -180 0 0 32.58 107.14 L1.13 107.14 A1.13388 1.13388 -180 0 0 -0 108.27
 								 L0 128.52 Z" class="st6"/>
 				</g>
-				<g id="shape5404-23" transform="translate(39.8518,-13.4062)">
+				<g id="shape5543-23" transform="translate(39.8518,-13.4062)">
 					<title>polygon34</title>
 					<path d="M0 129.65 L0 123.08 L5.6 119.81 L5.6 126.35 L0 129.65 Z" class="st2"/>
 				</g>
-				<g id="shape5405-25" transform="translate(34.2158,-19.9426)">
+				<g id="shape5544-25" transform="translate(34.2158,-19.9426)">
 					<title>polygon36</title>
 					<path d="M0 126.35 L5.64 123.05 L11.24 126.35 L5.64 129.65 L0 126.35 Z" class="st3"/>
 				</g>
-				<g id="shape5406-27" transform="translate(34.2158,-13.4062)">
+				<g id="shape5545-27" transform="translate(34.2158,-13.4062)">
 					<title>polygon38</title>
 					<path d="M0 126.35 L0 119.81 L5.64 123.11 L5.64 129.65 L0 126.35 Z" class="st4"/>
 				</g>
-				<g id="shape5407-29" transform="translate(34.2158,-13.4062)">
+				<g id="shape5546-29" transform="translate(34.2158,-13.4062)">
 					<title>polygon40</title>
 					<path d="M0 126.35 L5.64 123.08 L5.64 129.65 L0 126.35 Z" class="st3"/>
 				</g>
-				<g id="shape5408-31" transform="translate(39.8518,-13.4062)">
+				<g id="shape5547-31" transform="translate(39.8518,-13.4062)">
 					<title>polygon42</title>
 					<path d="M5.6 126.35 L0 123.08 L0 129.65 L5.6 126.35 Z" class="st4"/>
 				</g>
-				<g id="shape5409-33" transform="translate(31.5813,-5.68434E-14)">
+				<g id="shape5548-33" transform="translate(31.5813,-5.68434E-14)">
 					<title>path44</title>
 					<path d="M15.01 127.75 C11.67 127.21 11.67 124.81 11.67 121.08 L5 121.08 C5 124.95 5 127.35 1.67 127.75 A1.96758
 								 1.96758 -180 0 0 0 129.65 L16.67 129.65 A1.96758 1.96758 -180 0 0 15.01 127.75 Z" class="st7"/>
 				</g>
 			</g>
-			<g id="shape5393-37">
-				<g id="shadow5393-38" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st8"/>
+			<g id="shape5532-37">
+				<g id="shadow5532-38" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st8"/>
 				<text x="-12.88" y="145.35" class="st9">Virtual Machine Scale Set</text>			</g>
 		</g>
 	</g>

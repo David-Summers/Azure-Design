@@ -24,42 +24,42 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8049-1" transform="translate(33.907,-39.685)">
-			<title>Azure Arc Machine.8049</title>
+		<g id="group8262-1" transform="translate(33.907,-39.685)">
+			<title>Azure Arc Machine.8262</title>
 			<desc>Azure Arc Machine</desc>
-			<g id="group8050-2">
-				<title>Sheet.8050</title>
-				<g id="shape8051-3" transform="translate(0.0730759,0)">
-					<title>Sheet.8051</title>
+			<g id="group8263-2">
+				<title>Sheet.8263</title>
+				<g id="shape8264-3" transform="translate(0.0730759,0)">
+					<title>Sheet.8264</title>
 					<path d="M53.61 121.55 C53.1 123.75 50.37 125.93 45.42 127.62 A67.5833 67.9794 0 0 1 7.47 127.67 C2.91 126.04
 								 0.45 123.98 0.07 121.86 C0 121.49 0.07 115.67 0.07 115.67 L53.69 115.17 C53.69 115.17 53.67 121.26
 								 53.61 121.55 Z" class="st1"/>
 				</g>
-				<g id="shape8052-5" transform="translate(-1.12164,-5.22116) rotate(-0.575)">
-					<title>Sheet.8052</title>
+				<g id="shape8265-5" transform="translate(-1.12164,-5.22116) rotate(-0.575)">
+					<title>Sheet.8265</title>
 					<ellipse cx="26.8374" cy="121.046" rx="26.8374" ry="9.33304" class="st2"/>
 				</g>
-				<g id="shape8053-7" transform="translate(13.2961,-14.3951)">
-					<title>Sheet.8053</title>
+				<g id="shape8266-7" transform="translate(13.2961,-14.3951)">
+					<title>Sheet.8266</title>
 					<path d="M27.29 128.95 A1.50888 1.51772 0 0 1 25.73 130.38 L1.57 130.38 A1.50888 1.51772 0 0 1 0 128.95 L0 89.52
 								 A1.50262 1.51142 0 0 1 1.57 88.08 L25.72 88.08 A1.50575 1.51457 0 0 1 27.28 89.51 L27.29 128.95
 								 Z" class="st3"/>
 				</g>
-				<g id="shape8054-11" transform="translate(17.3,-35.3094)">
-					<title>Sheet.8054</title>
+				<g id="shape8267-11" transform="translate(17.3,-35.3094)">
+					<title>Sheet.8267</title>
 					<path d="M16.55 130.38 L2.96 130.38 A3.13045 3.1488 0 0 1 0 127.09 A3.13045 3.1488 0 0 1 2.96 123.8 L16.55 123.8
 								 A3.13045 3.1488 0 0 1 19.52 127.09 A3.13045 3.1488 0 0 1 16.55 130.38 ZM19.52 117.31 A3.13045 3.1488
 								 -180 0 0 16.55 114.03 L2.96 114.03 A3.13045 3.1488 -180 0 0 -0 117.31 A3.13045 3.1488 -180 0 0 2.96
 								 120.6 L16.55 120.6 A3.13045 3.1488 -180 0 0 19.52 117.31 Z" class="st4"/>
 				</g>
-				<g id="shape8055-13" transform="translate(30.8047,-37.0634)">
-					<title>Sheet.8055</title>
+				<g id="shape8268-13" transform="translate(30.8047,-37.0634)">
+					<title>Sheet.8268</title>
 					<path d="M2.19 116.86 A2.19132 2.20416 0 1 1 0 119.06 A2.19132 2.20416 0 0 1 2.19 116.86 ZM0 128.82 A2.19132
 								 2.20416 -180 1 0 2.19 126.62 A2.19132 2.20416 -180 0 0 0 128.83 L0 128.82 Z" class="st2"/>
 				</g>
 			</g>
-			<g id="shape8049-15">
-				<g id="shadow8049-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape8262-15">
+				<g id="shadow8262-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="-3.8" y="146.08" class="st6">Azure Arc Machine</text>			</g>
 		</g>
 	</g>

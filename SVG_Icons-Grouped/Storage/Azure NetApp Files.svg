@@ -27,37 +27,37 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group9175-1" transform="translate(34,-34)">
-			<title>Azure NetApp Files.9175</title>
+		<g id="group9413-1" transform="translate(34,-34)">
+			<title>Azure NetApp Files.9413</title>
 			<desc>Azure NetApp Files</desc>
-			<g id="group9176-2">
-				<title>Sheet.9176</title>
-				<g id="shape9177-3">
-					<title>Sheet.9177</title>
+			<g id="group9414-2">
+				<title>Sheet.9414</title>
+				<g id="shape9415-3">
+					<title>Sheet.9415</title>
 					<path d="M0 80.01 L56.69 80.01 L56.69 111.46 A1.90088 1.89115 0 0 1 54.79 113.35 L1.9 113.35 A1.90088 1.89115
 								 0 0 1 0 111.46 L0 80.01 Z" class="st1"/>
 				</g>
-				<g id="shape9178-7" transform="translate(0,-33.3439)">
-					<title>Sheet.9178</title>
+				<g id="shape9416-7" transform="translate(0,-33.3439)">
+					<title>Sheet.9416</title>
 					<path d="M1.9 101.34 L54.79 101.34 A1.90088 1.89115 0 0 1 56.69 103.24 L56.69 113.35 L0 113.35 L0 103.2 A1.90088
 								 1.89115 0 0 1 1.9 101.34 Z" class="st2"/>
 				</g>
-				<g id="shape9179-9" transform="translate(6.8365,-23.2578)">
-					<title>Sheet.9179</title>
+				<g id="shape9417-9" transform="translate(6.8365,-23.2578)">
+					<title>Sheet.9417</title>
 					<path d="M0.87 106.92 L42.09 106.92 a0.900417 0.895806 0 0 1 0.900417 0.895806 L42.99 112.46 a0.900417 0.895806
 								 0 0 1 -0.900417 0.895806 L0.87 113.35 a0.900417 0.895806 0 0 1 -0.867068 -0.895806 L0 107.81 a0.900417
 								 0.895806 0 0 1 0.867068 -0.895806 Z" class="st3"/>
 				</g>
-				<g id="shape9180-11" transform="translate(6.86985,-4.61174)">
-					<title>Sheet.9180</title>
+				<g id="shape9418-11" transform="translate(6.86985,-4.61174)">
+					<title>Sheet.9418</title>
 					<path d="M0.87 97.53 L42.09 97.53 a0.900417 0.895806 0 0 1 0.900417 0.895806 L42.99 103.1 a0.900417 0.895806
 								 0 0 1 -0.900417 0.895806 L0.87 104 a0.867068 0.862628 0 0 1 -0.867068 -0.895806 L0 98.59 a0.867068
 								 0.862628 0 0 1 0.867068 -1.0617 ZM0.87 106.88 L42.09 106.88 a0.900417 0.895806 0 0 1 0.900417 0.895806
 								 L42.99 112.46 a0.900417 0.895806 0 0 1 -0.900417 0.895806 L0.87 113.35 a0.867068 0.862628 0 0 1
 								 -0.867068 -0.895806 L0 107.78 a0.867068 0.862628 0 0 1 0.867068 -0.895806 Z" class="st4"/>
 				</g>
-				<g id="shape9181-13" transform="translate(15.3738,-7.00056)">
-					<title>Sheet.9181</title>
+				<g id="shape9419-13" transform="translate(15.3738,-7.00056)">
+					<title>Sheet.9419</title>
 					<path d="M0 93.88 L0 112.43 a0.933766 0.928984 -180 0 0 0.933766 0.928984 L8.77 113.35 a0.933766 0.928984 -180
 								 0 0 0.867068 -0.928984 L9.64 101.41 a0.900417 0.895806 0 0 1 0.933766 -0.928984 L15.27 100.48 a0.900417
 								 0.895806 0 0 1 0.933766 0.928984 L16.21 112.43 a0.933766 0.928984 -180 0 0 0.967114 0.928984 L25.01
@@ -65,8 +65,8 @@
 								 -0.928984 L0.93 92.95 a0.933766 0.928984 -180 0 0 -0.933766 0.928984 Z" class="st5"/>
 				</g>
 			</g>
-			<g id="shape9175-15">
-				<g id="shadow9175-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
+			<g id="shape9413-15">
+				<g id="shadow9413-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
 				<text x="-2.5" y="127.36" class="st7">Azure NetApp Files</text>			</g>
 		</g>
 	</g>

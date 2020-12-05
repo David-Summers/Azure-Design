@@ -18,41 +18,41 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group7814-1" transform="translate(33.8908,-39.685)">
-			<title>Azure Resource Mover.7814</title>
+		<g id="group8027-1" transform="translate(33.8908,-39.685)">
+			<title>Azure Resource Mover.8027</title>
 			<desc>Azure Resource Mover</desc>
-			<g id="group7815-2">
-				<title>Sheet.7815</title>
-				<g id="shape7816-3" transform="translate(24.3363,-6.34464)">
-					<title>Sheet.7816</title>
+			<g id="group8028-2">
+				<title>Sheet.8028</title>
+				<g id="shape8029-3" transform="translate(24.3363,-6.34464)">
+					<title>Sheet.8029</title>
 					<path d="M21.02 92.65 L21.02 117.76 L0 130.38 L0 105.23 L21.02 92.65 Z" class="st1"/>
 				</g>
-				<g id="shape7817-5" transform="translate(3.31831,-31.4589)">
-					<title>Sheet.7817</title>
+				<g id="shape8030-5" transform="translate(3.31831,-31.4589)">
+					<title>Sheet.8030</title>
 					<path d="M42.04 117.76 L21.02 130.38 L0 117.76 L21.02 105.14 L42.04 117.76 Z" class="st2"/>
 				</g>
-				<g id="shape7818-7" transform="translate(3.31831,-6.34464)">
-					<title>Sheet.7818</title>
+				<g id="shape8031-7" transform="translate(3.31831,-6.34464)">
+					<title>Sheet.8031</title>
 					<path d="M21.02 105.26 L21.02 130.38 L0 117.76 L0 92.65 L21.02 105.26 Z" class="st3"/>
 				</g>
-				<g id="shape7819-9" transform="translate(3.31831,-6.34464)">
-					<title>Sheet.7819</title>
+				<g id="shape8032-9" transform="translate(3.31831,-6.34464)">
+					<title>Sheet.8032</title>
 					<path d="M0 117.76 L21.02 105.23 L21.02 130.38 L0 117.76 Z" class="st2"/>
 				</g>
-				<g id="shape7820-11" transform="translate(24.3363,-6.34464)">
-					<title>Sheet.7820</title>
+				<g id="shape8033-11" transform="translate(24.3363,-6.34464)">
+					<title>Sheet.8033</title>
 					<path d="M21.02 117.76 L0 105.23 L0 130.38 L21.02 117.76 Z" class="st3"/>
 				</g>
-				<g id="shape7821-13">
-					<title>Sheet.7821</title>
+				<g id="shape8034-13">
+					<title>Sheet.8034</title>
 					<path d="M35.21 119.95 L25.03 130.27 a0.512858 0.529517 0 0 1 -0.873079 -0.38453 L24.21 124.15 L24.21 123.8 C12.08
 								 123.68 0 116.87 0.11 104.82 C1.82 107.52 10.42 114.75 24.29 114.9 L24.29 114.8 L24.34 109.06 a0.512858
 								 0.529517 0 0 1 0.879185 -0.368771 L35.21 119.21 a0.509805 0.526365 0 0 1 2.84217E-14 0.743846 Z"
 							class="st4"/>
 				</g>
 			</g>
-			<g id="shape7814-15">
-				<g id="shadow7814-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape8027-15">
+				<g id="shadow8027-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="-14.25" y="146.08" class="st6">Azure Resource Mover</text>			</g>
 		</g>
 	</g>

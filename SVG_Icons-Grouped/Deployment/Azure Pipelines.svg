@@ -21,44 +21,44 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group6645-1" transform="translate(5.66929,-39.685)">
-			<title>Azure Pipelines.6645</title>
+		<g id="group6785-1" transform="translate(5.66929,-39.685)">
+			<title>Azure Pipelines.6785</title>
 			<desc>Azure Pipelines</desc>
-			<g id="shape6646-2" transform="translate(19.2795,-0.059247)">
+			<g id="shape6786-2" transform="translate(19.2795,-0.059247)">
 				<title>path2</title>
 				<path d="M0.27 94.35 L7.95 102.05 L20.42 102.05 C21.94 102.05 23.16 100.81 23.16 99.3 L23.16 70.47 L0.27 93.4 C0
 							 93.66 0 94.08 0.27 94.35 Z" class="st1"/>
 			</g>
-			<g id="shape6647-4" transform="translate(-2.8777E-13,-19.365)">
+			<g id="shape6787-4" transform="translate(-2.8777E-13,-19.365)">
 				<title>path4</title>
 				<path d="M0 81.6 L0 94.08 L7.68 101.78 C7.95 102.05 8.38 102.05 8.63 101.78 L31.53 78.84 L2.74 78.84 C1.24 78.84
 							 0 80.08 0 81.6 Z" class="st2"/>
 			</g>
-			<g id="shape6648-6" transform="translate(9.71102,-9.62716)">
+			<g id="shape6788-6" transform="translate(9.71102,-9.62716)">
 				<title>path6</title>
 				<path d="M19.11 57.88 L0.62 86.21 C0 87.17 0.13 88.44 0.94 89.25 L12.78 101.11 C13.59 101.92 14.87 102.05 15.82 101.42
 							 L44.1 82.89 C45.9 81.71 46.98 79.69 46.98 77.55 L46.98 57.8 C46.98 56.25 45.72 54.98 44.17 54.98 L24.46
 							 54.98 C22.31 54.98 20.3 56.08 19.11 57.88 Z" class="st3"/>
 			</g>
-			<g id="shape6649-8">
+			<g id="shape6789-8">
 				<title>path8</title>
 				<path d="M4.16 98.09 L4.16 88.08 L0 88.08 L0 102.05 L14.16 102.05 L14.16 98.09 L4.16 98.09 Z" class="st4"/>
 			</g>
-			<g id="shape6650-10" transform="translate(35.4632,-35.7069)">
+			<g id="shape6790-10" transform="translate(35.4632,-35.7069)">
 				<title>path10</title>
 				<path d="M7.04 102.05 C10.93 102.05 14.08 98.89 14.08 94.99 C14.08 91.1 10.93 87.94 7.04 87.94 C3.15 87.94 0 91.1
 							 0 94.99 C0 98.89 3.15 102.05 7.04 102.05 Z" class="st5"/>
 			</g>
-			<g id="shape6651-12" transform="translate(14.8407,-14.7498)">
+			<g id="shape6791-12" transform="translate(14.8407,-14.7498)">
 				<title>path12</title>
 				<path d="M15.06 83.49 L0 98.57 L3.47 102.05 L18.53 86.97 L15.06 83.49 Z" class="st6"/>
 			</g>
-			<g id="shape6652-14" transform="translate(11.8415,-11.7494)">
+			<g id="shape6792-14" transform="translate(11.8415,-11.7494)">
 				<title>path14</title>
 				<path d="M3.47 102.05 L6.47 99.05 L2.99 95.57 L0 98.57 L3.47 102.05 Z" class="st7"/>
 			</g>
-			<g id="shape6645-16">
-				<g id="shadow6645-17" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st8"/>
+			<g id="shape6785-16">
+				<g id="shadow6785-17" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st8"/>
 				<text x="3.49" y="117.75" class="st9">Azure Pipelines</text>			</g>
 		</g>
 	</g>

@@ -26,40 +26,40 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group253-1" transform="translate(34,-39.685)">
+		<g id="group255-1" transform="translate(34,-39.685)">
 			<title>Virtual Machine Image Definition</title>
-			<g id="group254-2">
+			<g id="group256-2">
 				<title>Icon-compute-37</title>
-				<g id="shape255-3">
-					<title>Sheet.255</title>
+				<g id="shape257-3">
+					<title>Sheet.257</title>
 					<path d="M0 128.5 A1.84177 1.88085 -180 0 0 1.84 130.38 L42.52 130.38 A1.84177 1.88085 -180 0 0 44.37 128.5 L44.37
 								 75.57 A1.84177 1.88085 -180 0 0 42.52 73.69 L1.84 73.69 A1.84177 1.88085 -180 0 0 0 75.57 L0 128.5
 								 Z" class="st1"/>
 				</g>
-				<g id="shape256-7" transform="translate(23.6136,-3.325)">
-					<title>Sheet.256</title>
+				<g id="shape258-7" transform="translate(23.6136,-3.325)">
+					<title>Sheet.258</title>
 					<path d="M32.95 116.71 L23.51 107.07 a0.493319 0.503788 -180 0 0 -0.822199 0.335858 L22.69 113.05 C11.35 113.05
 								 0 119.23 0 130.38 C1.61 127.89 9.87 121.28 22.69 121.28 L22.69 126.68 a0.493319 0.503788 -180 0
 								 0 0.822199 0.335858 L32.95 117.38 a0.493319 0.503788 -180 0 0 8.52651E-14 -0.671717 Z" class="st2"/>
 				</g>
-				<g id="shape257-9" transform="translate(22.1994,-16.6586)">
-					<title>Sheet.257</title>
+				<g id="shape259-9" transform="translate(22.1994,-16.6586)">
+					<title>Sheet.259</title>
 					<path d="M12.92 107.27 L12.92 122.65 L0 130.38 L0 114.96 L12.92 107.27 Z" class="st3"/>
 				</g>
-				<g id="shape258-11" transform="translate(9.24152,-32.0409)">
-					<title>Sheet.258</title>
+				<g id="shape260-11" transform="translate(9.24152,-32.0409)">
+					<title>Sheet.260</title>
 					<path d="M25.88 122.65 L12.96 130.38 L0 122.65 L12.96 114.93 L25.88 122.65 Z" class="st4"/>
 				</g>
-				<g id="shape259-13" transform="translate(9.24152,-16.6586)">
-					<title>Sheet.259</title>
+				<g id="shape261-13" transform="translate(9.24152,-16.6586)">
+					<title>Sheet.261</title>
 					<path d="M12.96 115 L12.96 130.38 L0 122.65 L0 107.27 L12.96 115 Z" class="st5"/>
 				</g>
-				<g id="shape260-15" transform="translate(9.24152,-16.6586)">
-					<title>Sheet.260</title>
+				<g id="shape262-15" transform="translate(9.24152,-16.6586)">
+					<title>Sheet.262</title>
 					<path d="M0 122.65 L12.96 114.96 L12.96 130.38 L0 122.65 Z" class="st4"/>
 				</g>
-				<g id="shape261-17" transform="translate(22.1994,-16.6586)">
-					<title>Sheet.261</title>
+				<g id="shape263-17" transform="translate(22.1994,-16.6586)">
+					<title>Sheet.263</title>
 					<path d="M12.92 122.65 L0 114.96 L0 130.38 L12.92 122.65 Z" class="st5"/>
 				</g>
 			</g>

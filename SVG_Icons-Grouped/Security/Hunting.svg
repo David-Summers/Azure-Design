@@ -16,17 +16,17 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group8811-1" transform="translate(19.125,-39.685)">
-			<title>Hunting.8811</title>
+		<g id="group9042-1" transform="translate(19.125,-39.685)">
+			<title>Hunting.9042</title>
 			<desc>Hunting</desc>
-			<g id="group8812-2">
+			<g id="group9043-2">
 				<title>g8</title>
-				<g id="shape8813-3" transform="translate(7.93701,-7.93701)">
+				<g id="shape9044-3" transform="translate(7.93701,-7.93701)">
 					<title>path4</title>
 					<path d="M20.41 74.68 A20.4094 20.4094 -180 1 0 20.41 115.5 A20.4094 20.4094 -180 0 0 20.41 74.68 ZM20.41 108.54
 								 A13.5514 13.5514 0 0 1 20.41 81.45 A13.5514 13.5514 0 0 1 20.41 108.54 Z" class="st1"/>
 				</g>
-				<g id="shape8814-5">
+				<g id="shape9045-5">
 					<title>path6</title>
 					<path d="M55.78 86.24 L29.26 86.24 L29.26 59.72 a0.914402 0.914402 -180 1 0 -1.8288 7.10543E-15 L27.43 86.24
 								 L0.91 86.24 a0.914402 0.914402 -180 1 0 -1.27676E-14 1.8288 L27.43 88.07 L27.43 114.59 a0.914402
@@ -34,8 +34,8 @@
 								 Z" class="st2"/>
 				</g>
 			</g>
-			<g id="shape8811-7">
-				<g id="shadow8811-8" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
+			<g id="shape9042-7">
+				<g id="shadow9042-8" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
 				<text x="15.41" y="131.21" class="st4">Hunting</text>			</g>
 		</g>
 	</g>

@@ -23,24 +23,24 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group1947-1" transform="translate(34,-39.685)">
+		<g id="group1963-1" transform="translate(34,-39.685)">
 			<title>Log Analytics Workspace</title>
-			<g id="group1948-2">
+			<g id="group1964-2">
 				<title>Workspaces</title>
-				<g id="shape1949-3">
-					<title>Sheet.1949</title>
+				<g id="shape1965-3">
+					<title>Sheet.1965</title>
 					<ellipse cx="28.3465" cy="102.031" rx="28.3465" ry="28.3465" class="st1"/>
 				</g>
-				<g id="shape1950-7" transform="translate(25.4351,-25.3851)">
-					<title>Sheet.1950</title>
+				<g id="shape1966-7" transform="translate(25.4351,-25.3851)">
+					<title>Sheet.1966</title>
 					<path d="M2.51 113.04 A2.51116 2.51116 -180 0 0 -0 115.55 L0 127.87 A2.51116 2.51116 -180 0 0 2.51 130.38 L14.83
 								 130.38 A2.50783 2.50783 -180 0 0 17.33 127.87 L17.33 115.55 A2.50783 2.50783 -180 0 0 14.83 113.04
 								 L2.51 113.04 ZM4.77 116.3 A1.50403 1.50403 -180 0 0 3.26 117.81 L3.26 125.61 A1.50736 1.50736 -180
 								 0 0 4.77 127.12 L12.58 127.12 A1.50403 1.50403 -180 0 0 14.09 125.61 L14.09 117.81 A1.50403 1.50403
 								 -180 0 0 12.58 116.3 L4.77 116.3 Z" class="st2"/>
 				</g>
-				<g id="shape1951-9" transform="translate(13.9231,-13.9731)">
-					<title>Sheet.1951</title>
+				<g id="shape1967-9" transform="translate(13.9231,-13.9731)">
+					<title>Sheet.1967</title>
 					<path d="M0 111 A1.50403 1.50403 0 0 1 1.5 109.5 L7.68 109.5 A1.50403 1.50403 0 0 1 9.18 111 L9.18 117.21 A1.50403
 								 1.50403 0 0 1 7.68 118.71 L1.5 118.71 A1.50403 1.50403 0 0 1 0 117.21 L0 111 ZM0 122.7 A1.50403
 								 1.50403 0 0 1 1.5 121.2 L7.68 121.2 A1.50403 1.50403 0 0 1 9.18 122.7 L9.18 128.87 A1.50403 1.50403

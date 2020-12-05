@@ -18,29 +18,29 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group5860-1" transform="translate(31.6881,-35.7165)">
-			<title>Blockchain Connection.5860</title>
+		<g id="group5999-1" transform="translate(31.6881,-35.7165)">
+			<title>Blockchain Connection.5999</title>
 			<desc>Blockchain Connection</desc>
-			<g id="group5861-2">
+			<g id="group6000-2">
 				<title>layer1</title>
-				<g id="shape5862-3" transform="translate(28.4156,-9.92362)">
+				<g id="shape6001-3" transform="translate(28.4156,-9.92362)">
 					<title>polygon4</title>
 					<path d="M17.73 87.63 L17.73 108.15 L0 118.43 L0 97.91 L17.73 87.63 Z" class="st1"/>
 				</g>
-				<g id="shape5863-5" transform="translate(10.6876,-30.4112)">
+				<g id="shape6002-5" transform="translate(10.6876,-30.4112)">
 					<title>polygon6</title>
 					<path d="M35.46 108.12 L17.73 118.43 L0 108.12 L17.73 97.82 L35.46 108.12 Z" class="st2"/>
 				</g>
-				<g id="shape5864-7" transform="translate(10.6876,-9.92362)">
+				<g id="shape6003-7" transform="translate(10.6876,-9.92362)">
 					<title>polygon8</title>
 					<path d="M17.73 97.94 L17.73 118.43 L0 108.15 L0 87.63 L17.73 97.94 Z" class="st3"/>
 				</g>
-				<g id="shape5865-9" transform="translate(14.8367,-19.1681)">
+				<g id="shape6004-9" transform="translate(14.8367,-19.1681)">
 					<title>path10</title>
 					<path d="M4.21 107.47 C1.89 106.15 0 107.22 0 109.87 A9.20977 9.15068 -180 0 0 4.21 117.09 C6.51 118.43 8.42
 								 117.37 8.42 114.71 A9.4298 9.3693 -180 0 0 4.21 107.47 Z" class="st1"/>
 				</g>
-				<g id="shape5866-11">
+				<g id="shape6005-11">
 					<title>path12</title>
 					<path d="M56.58 109.63 L48.44 101.51 a0.440058 0.437234 -180 0 0 -0.660539 2.27374E-13 L47.78 107.76 L10.56 107.76
 								 A6.28654 6.2462 0 1 1 10.56 95.26 L18.07 95.26 A2.13742 2.12371 -180 0 0 20.18 93.14 A2.10599 2.09248
@@ -49,8 +49,8 @@
 								 -0.561867 L56.58 109.63 Z" class="st4"/>
 				</g>
 			</g>
-			<g id="shape5860-13">
-				<g id="shadow5860-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape5999-13">
+				<g id="shadow5999-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="-8.59" y="133.28" class="st6">Blockchain Connection</text>			</g>
 		</g>
 	</g>

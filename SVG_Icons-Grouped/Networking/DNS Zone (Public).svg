@@ -23,16 +23,16 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8401-1" transform="translate(30.7111,-39.685)">
-			<title>DNS Zone (Public).8401</title>
+		<g id="group8628-1" transform="translate(30.7111,-39.685)">
+			<title>DNS Zone (Public).8628</title>
 			<desc>DNS Zone (Public)</desc>
-			<g id="group8402-2">
+			<g id="group8629-2">
 				<title>layer1</title>
-				<g id="shape8403-3">
+				<g id="shape8630-3">
 					<title>path822</title>
 					<ellipse cx="28.3465" cy="98.7426" rx="28.3465" ry="28.3465" class="st1"/>
 				</g>
-				<g id="shape8404-7" transform="translate(4.11147,-3.92906)">
+				<g id="shape8631-7" transform="translate(4.11147,-3.92906)">
 					<title>path11-4</title>
 					<path d="M24.42 77.2 A25.6637 25.6637 -180 1 0 50.09 102.86 A25.6971 25.6971 -180 0 0 24.42 77.2 ZM41.61 85.84
 								 A24.5958 24.5958 0 0 1 34.43 88.51 A29.4682 29.4682 -180 0 0 30.26 79.5 A24.0284 24.0284 0 0 1 41.61
@@ -54,7 +54,7 @@
 								 92.25 35.39 91.14 35.1 90.11 A25.7972 25.7972 -180 0 0 42.78 87.08 A24.0952 24.0952 0 0 1 42.98
 								 118.75 A24.2954 24.2954 -180 0 0 35.57 115.51 L35.57 115.61 Z" class="st2"/>
 				</g>
-				<g id="shape8405-9" transform="translate(9.34963,-21.0513)">
+				<g id="shape8632-9" transform="translate(9.34963,-21.0513)">
 					<title>path13-4</title>
 					<path d="M0.03 113.17 A26.4313 26.4313 0 0 1 3.9 112.91 A8.14297 8.14297 0 0 1 9.61 114.64 A6.67456 6.67456 0
 								 0 1 11.58 119.51 A7.37539 7.37539 0 0 1 9.54 124.99 A8.67693 8.67693 0 0 1 3.34 127.02 A30.6029
@@ -71,8 +71,8 @@
 								 124.69 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape8401-11">
-				<g id="shadow8401-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape8628-11">
+				<g id="shadow8628-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="-0.64" y="142.79" class="st5">DNS Zone (Public)</text>			</g>
 		</g>
 	</g>

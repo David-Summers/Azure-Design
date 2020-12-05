@@ -28,45 +28,45 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7499-1" transform="translate(34.0233,-39.685)">
-			<title>Role (AzureAD).7499</title>
+		<g id="group7691-1" transform="translate(34.0233,-39.685)">
+			<title>Role (AzureAD).7691</title>
 			<desc>Role (AzureAD)</desc>
-			<g id="group7500-2">
-				<title>Sheet.7500</title>
-				<g id="shape7501-3" transform="translate(0,-2.15519)">
-					<title>Sheet.7501</title>
+			<g id="group7692-2">
+				<title>Sheet.7692</title>
+				<g id="shape7693-3" transform="translate(0,-2.15519)">
+					<title>Sheet.7693</title>
 					<path d="M49.55 125.46 C48.13 114.11 42.56 104.51 32.3 101.4 A13.8911 13.8786 -180 1 0 17.11 101.28 C6.77 104.05
 								 1.26 112.74 0 125.49 A4.43446 4.43049 -180 0 0 3.96 130.36 C4.1 130.36 4.25 130.38 4.4 130.38 L45.14
 								 130.38 A4.41442 4.41047 -180 0 0 49.57 125.99 A4.67488 4.6707 -180 0 0 49.55 125.46 Z" class="st1"/>
 				</g>
-				<g id="shape7502-7" transform="translate(17.2837,-11.6767)">
-					<title>Sheet.7502</title>
+				<g id="shape7694-7" transform="translate(17.2837,-11.6767)">
+					<title>Sheet.7694</title>
 					<path d="M7.53 113.13 A13.8376 13.8253 0 0 1 -0 110.92 L7.46 130.38 L14.86 111.05 A13.841 13.8286 0 0 1 7.53
 								 113.13 Z" class="st2"/>
 				</g>
-				<g id="shape7503-9" transform="translate(44.5282,2.84217E-13)">
-					<title>Sheet.7503</title>
+				<g id="shape7695-9" transform="translate(44.5282,2.84217E-13)">
+					<title>Sheet.7695</title>
 					<path d="M12.16 109.13 L12.16 123.27 L0 130.38 L0 116.22 L12.16 109.13 Z" class="st3"/>
 				</g>
-				<g id="shape7504-11" transform="translate(32.3635,-14.1455)">
-					<title>Sheet.7504</title>
+				<g id="shape7696-11" transform="translate(32.3635,-14.1455)">
+					<title>Sheet.7696</title>
 					<path d="M24.33 123.28 L12.16 130.38 L0 123.27 L12.16 116.17 L24.33 123.28 Z" class="st4"/>
 				</g>
-				<g id="shape7505-13" transform="translate(32.3635,0)">
-					<title>Sheet.7505</title>
+				<g id="shape7697-13" transform="translate(32.3635,0)">
+					<title>Sheet.7697</title>
 					<path d="M12.16 116.23 L12.16 130.38 L0 123.27 L0 109.13 L12.16 116.23 Z" class="st5"/>
 				</g>
-				<g id="shape7506-15" transform="translate(32.3635,2.84217E-13)">
-					<title>Sheet.7506</title>
+				<g id="shape7698-15" transform="translate(32.3635,2.84217E-13)">
+					<title>Sheet.7698</title>
 					<path d="M0 123.27 L12.16 116.22 L12.16 130.38 L0 123.27 Z" class="st4"/>
 				</g>
-				<g id="shape7507-17" transform="translate(44.5282,2.84217E-13)">
-					<title>Sheet.7507</title>
+				<g id="shape7699-17" transform="translate(44.5282,2.84217E-13)">
+					<title>Sheet.7699</title>
 					<path d="M12.16 123.27 L0 116.22 L0 130.38 L12.16 123.27 Z" class="st5"/>
 				</g>
 			</g>
-			<g id="shape7499-19">
-				<g id="shadow7499-20" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
+			<g id="shape7691-19">
+				<g id="shadow7691-20" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
 				<text x="3.67" y="146.08" class="st7">Role (AzureAD)</text>			</g>
 		</g>
 	</g>

@@ -21,12 +21,12 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5023-1" transform="translate(12.24,-39.685)">
-			<title>SignalR.5023</title>
+		<g id="group5143-1" transform="translate(12.24,-39.685)">
+			<title>SignalR.5143</title>
 			<desc>SignalR</desc>
-			<g id="group5024-2">
+			<g id="group5144-2">
 				<title> SignalRServiceblue</title>
-				<g id="shape5025-3">
+				<g id="shape5145-3">
 					<title>path6</title>
 					<path d="M23.19 93.16 L26.39 85.42 L33.5 85.42 A5.16019 5.16019 -180 0 0 38.65 80.27 A5.16019 5.16019 -180 0
 								 0 33.5 75.12 L10.31 75.12 L23.19 62.23 L23.19 67.39 L33.5 67.39 C40.62 67.39 46.39 73.16 46.39 80.27
@@ -35,8 +35,8 @@
 								 34.42 108.1 37.22 107.18 L23.19 93.16 Z" class="st1"/>
 				</g>
 			</g>
-			<g id="shape5023-7">
-				<g id="shadow5023-8" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st2"/>
+			<g id="shape5143-7">
+				<g id="shadow5143-8" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st2"/>
 				<text x="16.6" y="124.32" class="st3">SignalR</text>			</g>
 		</g>
 	</g>

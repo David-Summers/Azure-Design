@@ -22,55 +22,55 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group8523-1" transform="translate(18.1976,-39.685)">
-			<title>O365 - SharePoint.8523</title>
+		<g id="group8749-1" transform="translate(18.1976,-39.685)">
+			<title>O365 - SharePoint.8749</title>
 			<desc>O365 - SharePoint</desc>
-			<g id="group8524-2">
+			<g id="group8750-2">
 				<title>g22</title>
-				<g id="shape8525-3" transform="translate(9.74409,-23.0315)">
+				<g id="shape8751-3" transform="translate(9.74409,-23.0315)">
 					<title>circle2</title>
 					<ellipse cx="16.8307" cy="97.7448" rx="16.8307" ry="16.8307" class="st1"/>
 				</g>
-				<g id="shape8526-5" transform="translate(27.9035,-10.6299)">
+				<g id="shape8752-5" transform="translate(27.9035,-10.6299)">
 					<title>circle4</title>
 					<ellipse cx="14.3947" cy="100.181" rx="14.3947" ry="14.3947" class="st2"/>
 				</g>
-				<g id="shape8527-7" transform="translate(16.8307,0)">
+				<g id="shape8753-7" transform="translate(16.8307,0)">
 					<title>circle6</title>
 					<ellipse cx="11.5157" cy="103.06" rx="11.5157" ry="11.5157" class="st3"/>
 				</g>
-				<g id="shape8528-9" transform="translate(10.3341,-10.6299)">
+				<g id="shape8754-9" transform="translate(10.3341,-10.6299)">
 					<title>path8</title>
 					<path d="M19.19 80.91 L0 80.91 A16.8413 16.8413 -180 0 0 16.24 102.17 C16.73 102.17 17.22 102.15 17.7 102.11
 								 L17.71 102.18 A11.5157 11.5157 -180 0 0 6.5 113.69 C6.5 113.99 6.51 114.28 6.53 114.58 L19.19 114.58
 								 A2.3687 2.3687 -180 0 0 21.56 112.21 L21.56 83.28 A2.3687 2.3687 -180 0 0 19.19 80.91 Z"
 							class="st4"/>
 				</g>
-				<g id="shape8529-11" transform="translate(9.95138,-8.85827)">
+				<g id="shape8755-11" transform="translate(9.95138,-8.85827)">
 					<title>path10</title>
 					<path d="M17.81 80.91 L0 80.91 A16.8396 16.8396 -180 0 0 16.62 100.4 C17.11 100.4 17.6 100.38 18.08 100.34 L18.09
 								 100.41 A11.5246 11.5246 -180 0 0 7.19 114.58 L17.81 114.58 A2.3687 2.3687 -180 0 0 20.17 112.21
 								 L20.17 83.28 A2.3687 2.3687 -180 0 0 17.81 80.91 Z" class="st5"/>
 				</g>
-				<g id="shape8530-13" transform="translate(9.95138,-12.4016)">
+				<g id="shape8756-13" transform="translate(9.95138,-12.4016)">
 					<title>path12</title>
 					<path d="M17.81 84.46 L0 84.46 A16.8396 16.8396 -180 0 0 16.62 103.95 C17.11 103.95 17.6 103.92 18.08 103.88
 								 L18.09 103.95 A11.5157 11.5157 -180 0 0 6.91 114.58 L17.81 114.58 A2.3687 2.3687 -180 0 0 20.17
 								 112.21 L20.17 86.82 A2.3687 2.3687 -180 0 0 17.81 84.46 Z" class="st5"/>
 				</g>
-				<g id="shape8531-15" transform="translate(9.95138,-12.4016)">
+				<g id="shape8757-15" transform="translate(9.95138,-12.4016)">
 					<title>path14</title>
 					<path d="M16.03 84.46 L0 84.46 A16.8396 16.8396 -180 0 0 16.62 103.95 C17.11 103.95 17.6 103.92 18.08 103.88
 								 L18.09 103.95 A11.5157 11.5157 -180 0 0 6.91 114.58 L16.03 114.58 A2.3687 2.3687 -180 0 0 18.4 112.21
 								 L18.4 86.82 A2.3687 2.3687 -180 0 0 16.03 84.46 Z" class="st5"/>
 				</g>
-				<g id="shape8532-17" transform="translate(0,-14.1732)">
+				<g id="shape8758-17" transform="translate(0,-14.1732)">
 					<title>path16</title>
 					<path d="M2.36 86.23 L25.98 86.23 A2.36161 2.36161 0 0 1 28.35 88.59 L28.35 112.21 A2.36161 2.36161 0 0 1 25.98
 								 114.58 L2.36 114.58 A2.36161 2.36161 0 0 1 0 112.21 L0 88.59 A2.36161 2.36161 0 0 1 2.36 86.23 Z"
 							class="st6"/>
 				</g>
-				<g id="shape8533-19" transform="translate(8.08051,-19.4882)">
+				<g id="shape8759-19" transform="translate(8.08051,-19.4882)">
 					<title>path18</title>
 					<path d="M1.96 105.41 A4.68602 4.68602 0 0 1 0.51 103.87 A4.18287 4.18287 0 0 1 -0 101.76 A4.05709 4.05709 0
 								 0 1 0.94 99.03 A5.56654 5.56654 0 0 1 3.45 97.39 A10.598 10.598 0 0 1 6.88 96.86 A13.0287 13.0287
@@ -85,13 +85,13 @@
 								 0 0 8.18 108.7 A4.79055 4.79055 -180 0 0 6.88 107.79 C6.32 107.51 5.5 107.15 4.42 106.69 A13.9252
 								 13.9252 0 0 1 1.96 105.41 Z" class="st7"/>
 				</g>
-				<g id="shape8534-21">
+				<g id="shape8760-21">
 					<title>path20</title>
 					<rect x="0" y="57.8826" width="56.6929" height="56.6929" class="st8"/>
 				</g>
 			</g>
-			<g id="shape8523-23">
-				<g id="shadow8523-24" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st9"/>
+			<g id="shape8749-23">
+				<g id="shadow8749-24" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st9"/>
 				<text x="-1.19" y="130.28" class="st10">O365 - SharePoint</text>			</g>
 		</g>
 	</g>

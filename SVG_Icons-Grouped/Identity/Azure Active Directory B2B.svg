@@ -29,68 +29,68 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7244-1" transform="translate(34.142,-39.685)">
-			<title>Azure Active Directory B2B.7244</title>
+		<g id="group7399-1" transform="translate(34.142,-39.685)">
+			<title>Azure Active Directory B2B.7399</title>
 			<desc>Azure Active Directory B2B</desc>
-			<g id="shape7245-2" transform="translate(0,-1.25158)">
+			<g id="shape7400-2" transform="translate(0,-1.25158)">
 				<title>path4</title>
 				<path d="M3.02 106.84 L26.72 124.19 L50.84 106.77 L53.86 110.73 L26.72 130.52 L0 110.77 L3.02 106.84 Z" class="st1"/>
 			</g>
-			<g id="shape7246-4" transform="translate(4.81732,-11.1627)">
+			<g id="shape7401-4" transform="translate(4.81732,-11.1627)">
 				<title>path6</title>
 				<path d="M0 114.52 L21.9 84.99 L44.25 114.55 L21.9 130.52 L0 114.52 Z" class="st2"/>
 			</g>
-			<g id="shape7247-6" transform="translate(4.81732,-11.1627)">
+			<g id="shape7402-6" transform="translate(4.81732,-11.1627)">
 				<title>path8</title>
 				<path d="M21.9 84.99 L21.9 130.52 L0 114.52 L21.9 84.99 Z" class="st1"/>
 			</g>
-			<g id="shape7248-8" transform="translate(26.7197,-11.1627)">
+			<g id="shape7403-8" transform="translate(26.7197,-11.1627)">
 				<title>path10</title>
 				<path d="M0 84.99 L0 130.52 L22.35 114.55 L0 84.99 Z" class="st3"/>
 			</g>
-			<g id="shape7249-12" transform="translate(26.7197,-11.1627)">
+			<g id="shape7404-12" transform="translate(26.7197,-11.1627)">
 				<title>path12</title>
 				<path d="M0 108.5 L22.35 114.55 L0 130.52 L0 108.5 Z" class="st4"/>
 			</g>
-			<g id="shape7250-14" transform="translate(4.81732,-11.1627)">
+			<g id="shape7405-14" transform="translate(4.81732,-11.1627)">
 				<title>path14</title>
 				<path d="M21.9 130.52 L0 114.52 L21.9 108.5 L21.9 130.52 Z" class="st5"/>
 			</g>
-			<g id="shape7251-16" transform="translate(26.7197,-1.25158)">
+			<g id="shape7406-16" transform="translate(26.7197,-1.25158)">
 				<title>path16</title>
 				<path d="M0 130.52 L27.14 110.73 L24.12 106.77 L0 124.19 L0 130.52 Z" class="st6"/>
 			</g>
-			<g id="shape7252-18" transform="translate(38.8079,-4.4989)">
+			<g id="shape7407-18" transform="translate(38.8079,-4.4989)">
 				<title>path18</title>
 				<path d="M13.4 130.35 A1.48836 1.31654 -90 0 0 14.72 128.86 A8.45658 7.48032 -90 0 0 7.39 120.41 C2.81 120.41 0.45
 							 123.62 0 128.86 A1.52218 1.34646 -90 0 0 1.17 130.52 L13.4 130.52 L13.4 130.35 Z" class="st7"/>
 			</g>
-			<g id="shape7253-20" transform="translate(43.9543,-7.74623)">
+			<g id="shape7408-20" transform="translate(43.9543,-7.74623)">
 				<title>path20</title>
 				<path d="M2.24 124.74 A4.56655 4.03937 90 0 1 -0 123.99 L2.21 130.52 L4.4 124.03 A4.66803 4.12913 90 0 1 2.24 124.74
 							 Z" class="st8"/>
 			</g>
-			<g id="shape7254-22" transform="translate(42.0693,-13.5305)">
+			<g id="shape7409-22" transform="translate(42.0693,-13.5305)">
 				<title>circle22</title>
 				<ellipse cx="4.12913" cy="125.852" rx="4.12913" ry="4.66803" class="st7"/>
 			</g>
-			<g id="shape7255-24" transform="translate(23.937,0)">
+			<g id="shape7410-24" transform="translate(23.937,0)">
 				<title>path24</title>
 				<path d="M19.99 130.52 A2.19871 1.94488 -90 0 0 21.96 128.29 L21.96 128.02 C21.18 121.08 17.68 115.4 10.98 115.4
 							 C4.28 115.4 0.66 120.2 0 128.05 A2.19871 1.94488 -90 0 0 1.74 130.49 L20.02 130.49 L19.99 130.52 Z"
 						class="st9"/>
 			</g>
-			<g id="shape7256-26" transform="translate(31.6866,-4.66803)">
+			<g id="shape7411-26" transform="translate(31.6866,-4.66803)">
 				<title>path26</title>
 				<path d="M3.32 121.73 A6.76526 5.98425 90 0 1 0 120.61 L3.29 130.52 L6.58 120.81 A6.76526 5.98425 90 0 1 3.32 121.73
 							 Z" class="st8"/>
 			</g>
-			<g id="shape7257-28" transform="translate(28.8142,-13.4629)">
+			<g id="shape7412-28" transform="translate(28.8142,-13.4629)">
 				<title>circle28</title>
 				<ellipse cx="6.16378" cy="123.552" rx="6.16378" ry="6.96822" class="st9"/>
 			</g>
-			<g id="shape7244-30">
-				<g id="shadow7244-31" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st10"/>
+			<g id="shape7399-30">
+				<g id="shadow7399-31" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st10"/>
 				<text x="-16.71" y="146.22" class="st11">Azure Active Directory B2B</text>			</g>
 		</g>
 	</g>

@@ -18,28 +18,28 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group8788-1" transform="translate(10.5214,-35.7165)">
-			<title>Key Vault HSM.8788</title>
+		<g id="group9019-1" transform="translate(10.5214,-35.7165)">
+			<title>Key Vault HSM.9019</title>
 			<desc>Key Vault HSM</desc>
-			<g id="group8789-2">
+			<g id="group9020-2">
 				<title>layer1</title>
-				<g id="shape8790-3">
+				<g id="shape9021-3">
 					<title>path2</title>
 					<path d="M54.17 76.39 L2.52 76.39 A2.51943 2.47003 -180 0 0 -0 78.86 L0 94.79 C0 96.16 1.13 97.26 2.52 97.26
 								 L54.17 97.26 A2.51943 2.47003 -180 0 0 56.69 94.79 L56.69 78.86 C56.69 77.5 55.56 76.39 54.17 76.39
 								 Z" class="st1"/>
 				</g>
-				<g id="shape8791-5">
+				<g id="shape9022-5">
 					<title>path4</title>
 					<path d="M43.97 76.39 L2.52 76.39 A2.51943 2.47003 -180 0 0 0 78.86 L0 94.79 C0 96.16 1.13 97.26 2.52 97.26 L12.22
 								 97.26 L43.97 76.39 Z" class="st2"/>
 				</g>
-				<g id="shape8792-7" transform="translate(35.1496,-13.3395)">
+				<g id="shape9023-7" transform="translate(35.1496,-13.3395)">
 					<title>path6</title>
 					<path d="M13.61 93.93 L17.01 93.93 L17.01 97.26 L13.61 97.26 L13.61 93.93 ZM6.8 93.93 L10.2 93.93 L10.2 97.26
 								 L6.8 97.26 L6.8 93.93 ZM0 93.93 L3.4 93.93 L3.4 97.26 L0 97.26 L0 93.93 Z" class="st3"/>
 				</g>
-				<g id="shape8793-9" transform="translate(15.9874,-4.44649)">
+				<g id="shape9024-9" transform="translate(15.9874,-4.44649)">
 					<title>path8</title>
 					<path d="M23.58 62.25 C23.58 55.86 18.31 50.68 11.79 50.68 C5.28 50.68 0 55.86 0 62.25 C0 67.67 3.82 72.21 8.96
 								 73.46 L8.96 87.26 L3.29 87.26 L3.29 92.82 L8.96 92.82 L8.96 97.26 L14.63 97.26 L14.63 73.46 C19.77
@@ -47,8 +47,8 @@
 								 11.79 56.19 C15.2 56.19 17.97 58.91 17.97 62.25 C17.97 65.58 15.2 68.3 11.79 68.3 Z" class="st4"/>
 				</g>
 			</g>
-			<g id="shape8788-11">
-				<g id="shadow8788-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape9019-11">
+				<g id="shadow9019-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="4.36" y="112.12" class="st6">Key Vault HSM</text>			</g>
 		</g>
 	</g>

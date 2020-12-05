@@ -32,51 +32,51 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5489-1" transform="translate(34,-35.7165)">
-			<title>Virtual Machine Image (Classic).5489</title>
+		<g id="group5628-1" transform="translate(34,-35.7165)">
+			<title>Virtual Machine Image (Classic).5628</title>
 			<desc>Virtual Machine Image (Classic)</desc>
-			<g id="group5490-2">
+			<g id="group5629-2">
 				<title>Icon-compute-27</title>
-				<g id="shape5491-3" transform="translate(0,-14.2056)">
-					<title>Sheet.5491</title>
+				<g id="shape5630-3" transform="translate(0,-14.2056)">
+					<title>Sheet.5630</title>
 					<path d="M0 118.9 A1.88981 1.84094 -180 0 0 1.89 120.74 L54.8 120.74 A1.88981 1.84094 -180 0 0 56.69 118.9 L56.69
 								 85.76 A1.88981 1.84094 -180 0 0 54.8 83.92 L1.89 83.92 A1.88981 1.84094 -180 0 0 0 85.76 L0 118.9
 								 Z" class="st1"/>
 				</g>
-				<g id="shape5492-7" transform="translate(3.14961,-17.2738)">
-					<title>Sheet.5492</title>
+				<g id="shape5631-7" transform="translate(3.14961,-17.2738)">
+					<title>Sheet.5631</title>
 					<path d="M0 119.73 A1.03939 1.01252 -180 0 0 1.04 120.74 L49.35 120.74 A1.03939 1.01252 -180 0 0 50.39 119.73
 								 L50.39 91.07 A1.03939 1.01252 -180 0 0 49.35 90.06 L1.04 90.06 A1.03939 1.01252 -180 0 0 0 91.07
 								 L0 119.73 Z" class="st2"/>
 				</g>
-				<g id="shape5493-9" transform="translate(28.3465,-21.876)">
-					<title>Sheet.5493</title>
+				<g id="shape5632-9" transform="translate(28.3465,-21.876)">
+					<title>Sheet.5632</title>
 					<path d="M9.45 104.63 L9.45 115.34 L0 120.74 L0 110 L9.45 104.63 Z" class="st3"/>
 				</g>
-				<g id="shape5494-11" transform="translate(18.8976,-32.5839)">
-					<title>Sheet.5494</title>
+				<g id="shape5633-11" transform="translate(18.8976,-32.5839)">
+					<title>Sheet.5633</title>
 					<path d="M18.9 115.34 L9.45 120.74 L0 115.34 L9.45 109.97 L18.9 115.34 Z" class="st4"/>
 				</g>
-				<g id="shape5495-13" transform="translate(18.8976,-21.876)">
-					<title>Sheet.5495</title>
+				<g id="shape5634-13" transform="translate(18.8976,-21.876)">
+					<title>Sheet.5634</title>
 					<path d="M9.45 110.03 L9.45 120.74 L0 115.34 L0 104.63 L9.45 110.03 Z" class="st5"/>
 				</g>
-				<g id="shape5496-15" transform="translate(18.8976,-21.876)">
-					<title>Sheet.5496</title>
+				<g id="shape5635-15" transform="translate(18.8976,-21.876)">
+					<title>Sheet.5635</title>
 					<path d="M0 115.34 L9.45 110 L9.45 120.74 L0 115.34 Z" class="st6"/>
 				</g>
-				<g id="shape5497-17" transform="translate(28.3465,-21.876)">
-					<title>Sheet.5497</title>
+				<g id="shape5636-17" transform="translate(28.3465,-21.876)">
+					<title>Sheet.5636</title>
 					<path d="M9.45 115.34 L0 110 L0 120.74 L9.45 115.34 Z" class="st7"/>
 				</g>
-				<g id="shape5498-19" transform="translate(14.1732,1.42109E-14)">
-					<title>Sheet.5498</title>
+				<g id="shape5637-19" transform="translate(14.1732,1.42109E-14)">
+					<title>Sheet.5637</title>
 					<path d="M25.54 117.67 C19.94 116.81 19.72 112.89 19.72 106.53 L8.6 106.53 C8.6 112.89 8.41 116.81 2.8 117.67
 								 A3.14961 3.06817 -180 0 0 0 120.74 L28.35 120.74 A3.14961 3.06817 -180 0 0 25.54 117.67 Z"
 							class="st8"/>
 				</g>
-				<g id="shape5499-23" transform="translate(6.89764,-19.3601)">
-					<title>Sheet.5499</title>
+				<g id="shape5638-23" transform="translate(6.89764,-19.3601)">
+					<title>Sheet.5638</title>
 					<path d="M9.7 94.29 L1.89 94.29 A1.85827 1.81022 -180 0 0 0 96.1 L0 103.71 a0.944882 0.92045 -180 0 0 0.944882
 								 0.92045 L1.57 104.63 a0.944882 0.92045 -180 0 0 0.944882 -0.92045 L2.52 96.69 L9.7 96.69 a0.944882
 								 0.92045 -180 0 0 0.944882 -0.92045 L10.65 95.18 a0.944882 0.92045 -180 0 0 -0.944882 -0.889769 ZM9.7
@@ -92,8 +92,8 @@
 								 0.92045 -180 0 0 -0.787402 -0.92045 Z" class="st5"/>
 				</g>
 			</g>
-			<g id="shape5489-25">
-				<g id="shadow5489-26" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st9"/>
+			<g id="shape5628-25">
+				<g id="shadow5628-26" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st9"/>
 				<text x="-22.48" y="135.59" class="st10">Virtual Machine Image (Classic)</text>			</g>
 		</g>
 	</g>

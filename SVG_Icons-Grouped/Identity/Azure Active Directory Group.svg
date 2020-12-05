@@ -28,44 +28,44 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7202-1" transform="translate(34.0178,-34)">
-			<title>Azure Active Directory Group.7202</title>
+		<g id="group7357-1" transform="translate(34.0178,-34)">
+			<title>Azure Active Directory Group.7357</title>
 			<desc>Azure Active Directory Group</desc>
-			<g id="group7203-2">
+			<g id="group7358-2">
 				<title>Icon-identity-223</title>
-				<g id="shape7204-3" transform="translate(28.5352,-7.51797)">
-					<title>Sheet.7204</title>
+				<g id="shape7359-3" transform="translate(28.5352,-7.51797)">
+					<title>Sheet.7359</title>
 					<path d="M25.64 113.35 A2.48543 2.4341 -180 0 0 28.16 110.92 a0.880911 0.862718 -180 0 0 -0.0629222 -0.400548
 								 C27.12 102.82 22.62 96.53 14.06 96.53 C5.51 96.53 0.88 101.95 0 110.52 A2.54835 2.49572 -180 0 0
 								 2.27 113.23 L25.64 113.23 L25.64 113.35 Z" class="st1"/>
 				</g>
-				<g id="shape7205-5" transform="translate(38.3511,-12.7867)">
-					<title>Sheet.7205</title>
+				<g id="shape7360-5" transform="translate(38.3511,-12.7867)">
+					<title>Sheet.7360</title>
 					<path d="M4.28 103.74 A7.67651 7.51797 0 0 1 0 102.51 L4.25 113.35 L8.43 102.6 A7.99112 7.82609 0 0 1 4.28 103.74
 								 Z" class="st2"/>
 				</g>
-				<g id="shape7206-7" transform="translate(34.7331,-22.3999)">
-					<title>Sheet.7206</title>
+				<g id="shape7361-7" transform="translate(34.7331,-22.3999)">
+					<title>Sheet.7361</title>
 					<ellipse cx="7.89674" cy="105.621" rx="7.89674" ry="7.73365" class="st1"/>
 				</g>
-				<g id="shape7207-9">
-					<title>Sheet.7207</title>
+				<g id="shape7362-9">
+					<title>Sheet.7362</title>
 					<path d="M38.35 113.35 A3.74387 3.66655 -180 0 0 42.09 109.69 A2.07643 2.03355 -180 0 0 42.09 109.26 C40.62 97.73
 								 33.92 88.37 21.14 88.37 C8.37 88.37 1.38 96.32 0 109.16 A3.77533 3.69736 -180 0 0 3.37 113.2 L38.29
 								 113.2 L38.35 113.35 Z" class="st3"/>
 				</g>
-				<g id="shape7208-13" transform="translate(15.0069,-7.91852)">
-					<title>Sheet.7208</title>
+				<g id="shape7363-13" transform="translate(15.0069,-7.91852)">
+					<title>Sheet.7363</title>
 					<path d="M6.29 99.03 A11.7035 11.4618 0 0 1 -0 97.18 L6.29 113.35 L12.58 97.3 A11.9867 11.7391 0 0 1 6.29 99.03
 								 Z" class="st2"/>
 				</g>
-				<g id="shape7209-15" transform="translate(9.40687,-22.2458)">
-					<title>Sheet.7209</title>
+				<g id="shape7364-15" transform="translate(9.40687,-22.2458)">
+					<title>Sheet.7364</title>
 					<ellipse cx="11.7979" cy="101.8" rx="11.7979" ry="11.5543" class="st4"/>
 				</g>
 			</g>
-			<g id="shape7202-19">
-				<g id="shadow7202-20" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape7357-19">
+				<g id="shadow7357-20" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="-19.15" y="127.36" class="st6">Azure Active Directory Group</text>			</g>
 		</g>
 	</g>

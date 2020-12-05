@@ -24,26 +24,26 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group6030-1" transform="translate(32.2475,-39.685)">
-			<title>Time Series Insights Environment.6030</title>
+		<g id="group6169-1" transform="translate(32.2475,-39.685)">
+			<title>Time Series Insights Environment.6169</title>
 			<desc>Time Series Insights Environment</desc>
-			<g id="group6031-2">
+			<g id="group6170-2">
 				<title>a96c4dc0-0b65-4066-a8fa-5efc74b</title>
-				<g id="shape6032-3" transform="translate(0.406366,0)">
+				<g id="shape6171-3" transform="translate(0.406366,0)">
 					<title>path15</title>
 					<path d="M0 92.72 A28.9788 28.3385 0 0 1 55.86 92.72 L50.33 92.72 A23.709 23.1852 -180 0 0 5.51 92.72 L0 92.72
 								 ZM50.23 108.18 A23.7155 23.1915 0 0 1 5.63 108.18 L0.1 108.18 A28.9788 28.3385 -180 0 0 55.76 108.18
 								 L50.23 108.18 Z" class="st1"/>
 				</g>
-				<g id="shape6033-7" transform="translate(0,-15.1803)">
+				<g id="shape6172-7" transform="translate(0,-15.1803)">
 					<title>path17</title>
 					<path d="M30.42 128.63 L23.47 113.33 L20.54 118.27 L2.64 118.27 A2.6365 2.57825 0 0 1 2.64 113.12 L17.5 113.12
 								 L24.09 101.99 L31.67 118.67 L36.14 113.06 L54.06 113.1 A2.6365 2.57825 0 0 1 54.06 118.26 L38.73
 								 118.22 L30.42 128.63 Z" class="st2"/>
 				</g>
 			</g>
-			<g id="shape6030-9">
-				<g id="shadow6030-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
+			<g id="shape6169-9">
+				<g id="shadow6169-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
 				<text x="-25.61" y="144.33" class="st4">Time Series Insights Environment</text>			</g>
 		</g>
 	</g>

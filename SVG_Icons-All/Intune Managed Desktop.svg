@@ -27,32 +27,32 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group2144-1" transform="translate(5.66929,-33.7323)">
+		<g id="group2178-1" transform="translate(5.66929,-33.7323)">
 			<title>Intune Managed Desktop</title>
-			<g id="shape2145-2" transform="translate(0,-15.2017)">
-				<title>Sheet.2145</title>
+			<g id="shape2179-2" transform="translate(0,-15.2017)">
+				<title>Sheet.2179</title>
 				<path d="M0 85.09 A1.6224 1.6494 -180 0 0 1.62 86.74 L47.05 86.74 A1.6224 1.6494 -180 0 0 48.67 85.09 L48.67 55.4
 							 A1.6224 1.6494 -180 0 0 47.05 53.75 L1.62 53.75 A1.6224 1.6494 -180 0 0 0 55.4 L0 85.09 Z" class="st1"/>
 			</g>
-			<g id="shape2146-6" transform="translate(2.70394,-17.9506)">
-				<title>Sheet.2146</title>
+			<g id="shape2180-6" transform="translate(2.70394,-17.9506)">
+				<title>Sheet.2180</title>
 				<path d="M-0 85.83 a0.892322 0.907172 -180 0 0 0.892301 0.907151 L42.37 86.74 a0.892322 0.907172 -180 0 0 0.892301
 							 -0.907151 L43.26 60.16 a0.892322 0.907172 -180 0 0 -0.892301 -0.907151 L0.89 59.25 a0.892322 0.907172
 							 -180 0 0 -0.892301 0.907151 L0 85.83 Z" class="st2"/>
 			</g>
-			<g id="shape2147-8" transform="translate(12.1677,-2.47405)">
-				<title>Sheet.2147</title>
+			<g id="shape2181-8" transform="translate(12.1677,-2.47405)">
+				<title>Sheet.2181</title>
 				<path d="M21.93 83.99 C17.12 83.22 16.93 79.7 16.95 74.01 L7.38 74.01 C7.38 79.7 7.22 83.22 2.41 83.99 A2.83914 2.88639
 							 -180 0 0 -0 86.74 L24.34 86.74 A2.83914 2.88639 -180 0 0 21.93 83.99 Z" class="st3"/>
 			</g>
-			<g id="shape2148-12" transform="translate(87.5558,102.962) rotate(135)">
-				<title>Sheet.2148</title>
+			<g id="shape2182-12" transform="translate(87.5558,102.962) rotate(135)">
+				<title>Sheet.2182</title>
 				<path d="M16.22 74.81 L18.79 74.81 a0.784144 0.797194 0 0 1 0.784144 0.797194 L19.58 85.94 a0.784144 0.797194 0 0
 							 1 -0.784144 0.797194 L17.01 86.74 a0.784144 0.797194 0 0 1 -0.784144 -0.797194 L16.22 74.95 L16.22 74.81
 							 Z" class="st4"/>
 			</g>
-			<g id="shape2149-14" transform="translate(-4.46981,126.906) rotate(-135)">
-				<title>Sheet.2149</title>
+			<g id="shape2183-14" transform="translate(-4.46981,126.906) rotate(-135)">
+				<title>Sheet.2183</title>
 				<path d="M27.34 62.22 L29.91 62.22 L29.91 85.94 a0.784144 0.797194 0 0 1 -0.784144 0.797194 L27.36 86.74 a0.784144
 							 0.797194 0 0 1 -0.784144 -0.797194 L26.58 63.02 a0.784144 0.797194 0 0 1 0.784144 -0.797194 L27.34 62.22
 							 Z" class="st5"/>

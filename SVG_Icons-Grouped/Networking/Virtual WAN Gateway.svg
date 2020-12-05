@@ -30,21 +30,21 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8108-1" transform="translate(32.4095,-37.7008)">
-			<title>Virtual WAN Gateway.8108</title>
+		<g id="group8335-1" transform="translate(32.4095,-37.7008)">
+			<title>Virtual WAN Gateway.8335</title>
 			<desc>Virtual WAN Gateway</desc>
-			<g id="shape8109-2" transform="translate(0,-13.8087)">
+			<g id="shape8336-2" transform="translate(0,-13.8087)">
 				<title>path22</title>
 				<path d="M56.69 111.4 A12.7559 12.7039 -180 0 0 45.64 99.2 A16.063 15.9975 -180 0 0 29.1 83.93 A16.4724 16.4053 -180
 							 0 0 13.35 94.62 A15.1811 15.1192 -180 0 0 -0 109.18 A15.4331 15.3702 -180 0 0 15.97 123.95 L17.35 123.95
 							 L43.21 123.95 A2.45669 2.44668 -180 0 0 43.91 123.95 A12.8819 12.8294 -180 0 0 56.69 111.4 Z"
 						class="st1"/>
 			</g>
-			<g id="shape8110-6" transform="translate(17.9681,-2.55795E-13)">
+			<g id="shape8337-6" transform="translate(17.9681,-2.55795E-13)">
 				<title>f5bcc86d-e9e9-4a14-9536-944056d</title>
 				<path d="M10.38 123.98 A14.6772 14.6173 0 1 1 25.06 109.36 A14.6772 14.6173 0 0 1 10.38 123.98 Z" class="st2"/>
 			</g>
-			<g id="shape8111-8" transform="translate(13.7464,-0.752825)">
+			<g id="shape8338-8" transform="translate(13.7464,-0.752825)">
 				<title>path25</title>
 				<path d="M14.6 94.8 A15.3701 15.3074 -180 0 0 5.81 122.63 A15.3701 15.3074 -180 1 0 14.6 94.8 ZM28.58 110.11 A11.874
 							 11.8256 0 0 1 28.58 111.93 A16.7559 16.6876 -180 0 0 26.13 110.93 A2.89764 2.88582 -180 0 0 22.03 108.61
@@ -65,8 +65,8 @@
 							 24.62 118.52 24.62 117.83 A16.9449 16.8758 -180 0 0 24.27 113.81 A2.77165 2.76035 -180 0 0 25.75 112.37
 							 A16.5354 16.468 0 0 1 28.17 113.41 A13.7638 13.7077 0 0 1 24.62 119.84 Z" class="st3"/>
 			</g>
-			<g id="shape8108-12">
-				<g id="shadow8108-13" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape8335-12">
+				<g id="shadow8335-13" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="-7.13" y="139.25" class="st5">Virtual WAN Gateway</text>			</g>
 		</g>
 	</g>

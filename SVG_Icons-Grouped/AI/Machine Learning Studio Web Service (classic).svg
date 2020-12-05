@@ -18,26 +18,26 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group4713-1" transform="translate(34,-39.685)">
-			<title>Machine Learning Studio Web Service (classic).4713</title>
+		<g id="group4831-1" transform="translate(34,-39.685)">
+			<title>Machine Learning Studio Web Service (classic).4831</title>
 			<desc>Machine Learning Studio Web Service (classic)</desc>
-			<g id="group4714-2">
-				<title>Sheet.4714</title>
-				<g id="shape4715-3">
-					<title>Sheet.4715</title>
+			<g id="group4832-2">
+				<title>Sheet.4832</title>
+				<g id="shape4833-3">
+					<title>Sheet.4833</title>
 					<path d="M27.62 105.97 L27.62 96.52 L27.97 96.52 C29.45 96.52 30.05 95.48 30.05 93.37 A2.45669 2.45669 -180 0
 								 0 27.12 90.63 L9.7 90.63 A2.45669 2.45669 -180 0 0 7.18 92.99 L7.18 94.13 A2.51969 2.51969 -180
 								 0 0 9.8 96.52 L10.11 96.52 L10.11 105.97 L0 124.8 L3.5 130.38 L32.66 130.38 L36.79 124.8 L27.62
 								 105.97 ZM15.75 117.12 L11.34 124.49 L5.32 124.49 L15.75 105.97 L15.75 96.52 L21.76 96.52 L21.76
 								 105.97 L28.06 117.12 L15.75 117.12 Z" class="st1"/>
 				</g>
-				<g id="shape4716-5" transform="translate(5.32283,-5.88976)">
-					<title>Sheet.4716</title>
+				<g id="shape4834-5" transform="translate(5.32283,-5.88976)">
+					<title>Sheet.4834</title>
 					<path d="M10.39 123.01 L6.02 130.38 L0 130.38 L10.58 111.86 L10.58 102.44 L16.44 102.44 L16.44 111.86 L22.65
 								 123.01 L10.39 123.01 Z" class="st2"/>
 				</g>
-				<g id="shape4717-7" transform="translate(17.1969,-15.748)">
-					<title>Sheet.4717</title>
+				<g id="shape4835-7" transform="translate(17.1969,-15.748)">
+					<title>Sheet.4835</title>
 					<path d="M19.84 89.43 L19.02 89.43 A21.5748 21.5748 -180 0 0 0.54 102.03 L0 103.57 L3.15 103.57 L3.69 102.03
 								 L8.22 102.03 L8 103.57 L11.15 103.57 L11.15 102.03 L17.45 102.03 L17.45 108.33 L15.56 108.33 A11.1496
 								 11.1496 0 0 1 15.56 109.72 A9.13386 9.13386 0 0 1 15.4 111.48 L17.45 111.48 L17.45 117.78 L14.3
@@ -55,8 +55,8 @@
 								 A18.7087 18.7087 0 0 1 35.28 117.78 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape4713-9">
-				<g id="shadow4713-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape4831-9">
+				<g id="shadow4831-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="-20.55" y="146.08" class="st5">Machine Learning Studio Web <tspan x="3.12" dy="1.2em" class="st6">Service (classic)</tspan></text>			</g>
 		</g>
 	</g>

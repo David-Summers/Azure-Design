@@ -29,13 +29,13 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8140-1" transform="translate(34,-39.685)">
-			<title>Virtual Network Gateway.8140</title>
+		<g id="group8367-1" transform="translate(34,-39.685)">
+			<title>Virtual Network Gateway.8367</title>
 			<desc>Virtual Network Gateway</desc>
-			<g id="group8141-2">
+			<g id="group8368-2">
 				<title>Icon-networking-63</title>
-				<g id="shape8142-3">
-					<title>Sheet.8142</title>
+				<g id="shape8369-3">
+					<title>Sheet.8369</title>
 					<path d="M40.26 100.92 L37.13 100.92 L37.13 91.24 A18.2182 18.2485 -180 0 0 32.45 78.93 A15.0199 15.0448 -180
 								 0 0 20.98 73.69 A15.0199 15.0448 -180 0 0 9.38 78.93 A17.9674 17.9973 -180 0 0 4.7 91.24 L4.7 100.92
 								 L2.16 100.92 A2.19497 2.19862 -180 0 0 0 103.09 L0 128.21 A2.19497 2.19862 -180 0 0 2.16 130.38
@@ -44,18 +44,18 @@
 								 0 0 1 20.88 81.63 A7.9646 7.97784 0 0 1 26.81 84.33 A10.0028 10.0194 0 0 1 27.81 85.68 A9.40701
 								 9.42264 0 0 1 29.73 91.06 L29.69 100.92 Z" class="st1"/>
 				</g>
-				<g id="shape8143-7" transform="translate(0.815274,-0.659585)">
-					<title>Sheet.8143</title>
+				<g id="shape8370-7" transform="translate(0.815274,-0.659585)">
+					<title>Sheet.8370</title>
 					<path d="M39.54 101.58 L1.38 101.58 A2.06954 2.07298 -180 0 0 0 102.11 L40.92 130.38 A2.1009 2.10439 -180 0 0
 								 41.7 128.75 L41.7 103.62 A2.22633 2.23003 -180 0 0 39.54 101.58 Z" class="st2"/>
 				</g>
-				<g id="shape8144-9" transform="translate(0.0627134,-0.659585)">
-					<title>Sheet.8144</title>
+				<g id="shape8371-9" transform="translate(0.0627134,-0.659585)">
+					<title>Sheet.8371</title>
 					<path d="M2.19 101.58 L40.32 101.58 A2.19497 2.19862 0 0 1 41.74 102.11 L0.78 130.38 A2.19497 2.19862 0 0 1 -0
 								 128.75 L0 103.62 A2.25768 2.26143 0 0 1 2.19 101.58 Z" class="st3"/>
 				</g>
-				<g id="shape8145-11" transform="translate(5.39335,-2.38608)">
-					<title>Sheet.8145</title>
+				<g id="shape8372-11" transform="translate(5.39335,-2.38608)">
+					<title>Sheet.8372</title>
 					<path d="M12.1 109.37 L15.87 105.6 a0.219497 0.219862 0 0 1 0.28221 -1.27898E-13 L19.88 109.37 a0.18814 0.188453
 								 0 0 1 6.75016E-14 0.314088 L17.69 109.68 a0.18814 0.188453 -180 0 0 -0.18814 0.188453 L17.5 114.71
 								 a0.18814 0.188453 0 0 1 -0.18814 0.188453 L14.83 114.89 a0.156783 0.157044 0 0 1 -0.18814 -0.188453
@@ -75,8 +75,8 @@
 								 114.08 26.84 114.05 26.84 114.23 Z" class="st4"/>
 				</g>
 			</g>
-			<g id="shape8140-13">
-				<g id="shadow8140-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape8367-13">
+				<g id="shadow8367-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="-19.85" y="146.08" class="st6">Virtual Network Gateway</text>			</g>
 		</g>
 	</g>

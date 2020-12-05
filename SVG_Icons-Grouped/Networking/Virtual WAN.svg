@@ -29,22 +29,22 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8112-1" transform="translate(34.0111,-39.685)">
-			<title>Virtual WAN.8112</title>
+		<g id="group8339-1" transform="translate(34.0111,-39.685)">
+			<title>Virtual WAN.8339</title>
 			<desc>Virtual WAN</desc>
-			<g id="group8113-2">
+			<g id="group8340-2">
 				<title>g37</title>
-				<g id="shape8114-3" transform="translate(0,-15.616)">
+				<g id="shape8341-3" transform="translate(0,-15.616)">
 					<title>path19</title>
 					<path d="M56.69 117.5 A12.8526 13.0835 -180 0 0 45.69 104.93 A16.2442 16.536 -180 0 0 29.01 89.32 A16.7111 17.0113
 								 -180 0 0 13.34 100.18 A15.6506 15.9317 -180 0 0 -0 115.12 A15.3805 15.6567 -180 0 0 16.01 130.4
 								 L44.02 130.4 A12.6725 12.9002 -180 0 0 56.69 117.5 Z" class="st1"/>
 				</g>
-				<g id="shape8115-7" transform="translate(13.673,-2.84217E-13)">
+				<g id="shape8342-7" transform="translate(13.673,-2.84217E-13)">
 					<title>circle21</title>
 					<ellipse cx="14.6735" cy="115.458" rx="14.6735" ry="14.9371" class="st2"/>
 				</g>
-				<g id="shape8116-9" transform="translate(15.3404,-1.69739)">
+				<g id="shape8343-9" transform="translate(15.3404,-1.69739)">
 					<title>path23</title>
 					<path d="M25.35 107.65 A15.3404 15.616 -180 0 0 4 104.6 A15.2104 15.4836 -180 1 0 22.68 129.04 A15.197 15.47
 								 -180 0 0 25.35 107.65 ZM0 116.14 A15.6973 15.9793 0 0 1 1.33 110.71 L5 110.71 A25.9187 26.3843 -180
@@ -64,37 +64,37 @@
 								 ZM21.34 127.68 A8.74405 8.90113 0 0 1 18.34 129.38 A11.2686 11.471 -180 0 0 20.34 125.3 L23.34 125.3
 								 A4.48208 4.56259 0 0 1 21.34 127.68 Z" class="st3"/>
 				</g>
-				<g id="shape8117-11" transform="translate(8.00371,-20.0292)">
+				<g id="shape8344-11" transform="translate(8.00371,-20.0292)">
 					<title>path25</title>
 					<path d="M7.34 130.4 A13.4229 13.664 0 0 1 -0 120.55 A12.159 12.3774 0 0 1 5 110.71 L7 109.01 L8.67 111.05 L6.67
 								 112.74 A8.36721 8.51752 -180 0 0 2.67 120.21 A10.108 10.2896 -180 0 0 8.67 128.02 L7.34 130.4 Z"
 							class="st4"/>
 				</g>
-				<g id="shape8118-13" transform="translate(12.339,-36.6637)">
+				<g id="shape8345-13" transform="translate(12.339,-36.6637)">
 					<title>circle27</title>
 					<ellipse cx="3.66836" cy="126.661" rx="3.66836" ry="3.73426" class="st2"/>
 				</g>
-				<g id="shape8119-15" transform="translate(39.3516,-20.0292)">
+				<g id="shape8346-15" transform="translate(39.3516,-20.0292)">
 					<title>path29</title>
 					<path d="M1.33 130.4 L0 128.02 A10.8684 11.0636 -180 0 0 6 120.21 A9.16424 9.32887 -180 0 0 2 112.74 L0 111.38
 								 L1.67 109.35 L3.67 110.71 A10.2414 10.4254 0 0 1 8.67 120.55 A13.4229 13.664 0 0 1 1.33 130.4 Z"
 							class="st4"/>
 				</g>
-				<g id="shape8120-17" transform="translate(36.6836,-36.6637)">
+				<g id="shape8347-17" transform="translate(36.6836,-36.6637)">
 					<title>circle31</title>
 					<ellipse cx="3.66836" cy="126.661" rx="3.66836" ry="3.73426" class="st2"/>
 				</g>
-				<g id="shape8121-19" transform="translate(12.339,-17.3134)">
+				<g id="shape8348-19" transform="translate(12.339,-17.3134)">
 					<title>circle33</title>
 					<ellipse cx="3.66836" cy="126.661" rx="3.66836" ry="3.73426" class="st5"/>
 				</g>
-				<g id="shape8122-21" transform="translate(36.6836,-17.3134)">
+				<g id="shape8349-21" transform="translate(36.6836,-17.3134)">
 					<title>circle35</title>
 					<ellipse cx="3.66836" cy="126.661" rx="3.66836" ry="3.73426" class="st5"/>
 				</g>
 			</g>
-			<g id="shape8112-23">
-				<g id="shadow8112-24" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
+			<g id="shape8339-23">
+				<g id="shadow8339-24" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
 				<text x="8.13" y="146.1" class="st7">Virtual WAN</text>			</g>
 		</g>
 	</g>

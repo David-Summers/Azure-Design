@@ -29,46 +29,46 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5535-1" transform="translate(34,-35.7165)">
-			<title>Virtual Machine.5535</title>
+		<g id="group5674-1" transform="translate(34,-35.7165)">
+			<title>Virtual Machine.5674</title>
 			<desc>Virtual Machine</desc>
-			<g id="group5536-2">
-				<title>Sheet.5536</title>
-				<g id="shape5537-3" transform="translate(0,-14.2056)">
-					<title>Sheet.5537</title>
+			<g id="group5675-2">
+				<title>Sheet.5675</title>
+				<g id="shape5676-3" transform="translate(0,-14.2056)">
+					<title>Sheet.5676</title>
 					<path d="M0 118.9 A1.88981 1.84094 -180 0 0 1.89 120.74 L54.8 120.74 A1.88981 1.84094 -180 0 0 56.69 118.9 L56.69
 								 85.76 A1.88981 1.84094 -180 0 0 54.8 83.92 L1.89 83.92 A1.88981 1.84094 -180 0 0 0 85.76 L0 118.9
 								 Z" class="st1"/>
 				</g>
-				<g id="shape5538-7" transform="translate(28.3465,-21.876)">
-					<title>Sheet.5538</title>
+				<g id="shape5677-7" transform="translate(28.3465,-21.876)">
+					<title>Sheet.5677</title>
 					<path d="M9.45 104.63 L9.45 115.34 L0 120.74 L0 110 L9.45 104.63 Z" class="st2"/>
 				</g>
-				<g id="shape5539-9" transform="translate(18.8976,-32.5839)">
-					<title>Sheet.5539</title>
+				<g id="shape5678-9" transform="translate(18.8976,-32.5839)">
+					<title>Sheet.5678</title>
 					<path d="M18.9 115.34 L9.45 120.74 L0 115.34 L9.45 109.97 L18.9 115.34 Z" class="st3"/>
 				</g>
-				<g id="shape5540-11" transform="translate(18.8976,-21.876)">
-					<title>Sheet.5540</title>
+				<g id="shape5679-11" transform="translate(18.8976,-21.876)">
+					<title>Sheet.5679</title>
 					<path d="M9.45 110.03 L9.45 120.74 L0 115.34 L0 104.63 L9.45 110.03 Z" class="st4"/>
 				</g>
-				<g id="shape5541-13" transform="translate(18.8976,-21.876)">
-					<title>Sheet.5541</title>
+				<g id="shape5680-13" transform="translate(18.8976,-21.876)">
+					<title>Sheet.5680</title>
 					<path d="M0 115.34 L9.45 110 L9.45 120.74 L0 115.34 Z" class="st3"/>
 				</g>
-				<g id="shape5542-15" transform="translate(28.3465,-21.876)">
-					<title>Sheet.5542</title>
+				<g id="shape5681-15" transform="translate(28.3465,-21.876)">
+					<title>Sheet.5681</title>
 					<path d="M9.45 115.34 L0 110 L0 120.74 L9.45 115.34 Z" class="st4"/>
 				</g>
-				<g id="shape5543-17" transform="translate(14.1732,1.42109E-14)">
-					<title>Sheet.5543</title>
+				<g id="shape5682-17" transform="translate(14.1732,1.42109E-14)">
+					<title>Sheet.5682</title>
 					<path d="M25.54 117.67 C19.94 116.81 19.72 112.89 19.72 106.53 L8.6 106.53 C8.6 112.89 8.41 116.81 2.8 117.67
 								 A3.14961 3.06817 -180 0 0 0 120.74 L28.35 120.74 A3.14961 3.06817 -180 0 0 25.54 117.67 Z"
 							class="st5"/>
 				</g>
 			</g>
-			<g id="shape5535-21">
-				<g id="shadow5535-22" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
+			<g id="shape5674-21">
+				<g id="shadow5674-22" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
 				<text x="2.45" y="135.59" class="st7">Virtual Machine</text>			</g>
 		</g>
 	</g>

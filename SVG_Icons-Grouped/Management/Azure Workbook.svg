@@ -31,31 +31,31 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7789-1" transform="translate(34,-39.685)">
-			<title>Azure Workbook.7789</title>
+		<g id="group8002-1" transform="translate(34,-39.685)">
+			<title>Azure Workbook.8002</title>
 			<desc>Azure Workbook</desc>
-			<g id="group7790-2">
-				<title>Sheet.7790</title>
-				<g id="shape7791-3">
-					<title>Sheet.7791</title>
+			<g id="group8003-2">
+				<title>Sheet.8003</title>
+				<g id="shape8004-3">
+					<title>Sheet.8004</title>
 					<path d="M24.48 85.28 L0 109.76 L0 125.23 A5.15591 5.15591 -180 0 0 5.15 130.38 L51.54 130.38 A5.15591 5.15591
 								 -180 0 0 56.69 125.23 L56.69 78.84 A5.15591 5.15591 -180 0 0 51.54 73.69 L48.96 73.69 L30.92 91.72
 								 L24.48 85.28 Z" class="st1"/>
 				</g>
-				<g id="shape7792-7" transform="translate(0.523132,-2.55795E-13)">
-					<title>Sheet.7792</title>
+				<g id="shape8005-7" transform="translate(0.523132,-2.55795E-13)">
+					<title>Sheet.8005</title>
 					<path d="M23.96 100.74 L1.32 123.38 A3.76063 3.76063 -180 0 0 0.12 127.72 A5.14961 5.14961 -180 0 0 4.63 130.38
 								 L51.02 130.38 A5.15591 5.15591 -180 0 0 56.17 125.23 L56.17 81.42 L30.4 107.18 L23.96 100.74 Z"
 							class="st2"/>
 				</g>
-				<g id="shape7793-11" transform="translate(2.79776E-13,-20.6142)">
-					<title>Sheet.7793</title>
+				<g id="shape8006-11" transform="translate(2.79776E-13,-20.6142)">
+					<title>Sheet.8006</title>
 					<path d="M30.92 112.34 L48.96 94.3 L5.15 94.3 A5.15591 5.15591 -180 0 0 0 99.45 L0 130.38 L24.48 105.9 L30.92
 								 112.34 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape7789-15">
-				<g id="shadow7789-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape8002-15">
+				<g id="shadow8002-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="1.04" y="146.08" class="st5">Azure Workbook</text>			</g>
 		</g>
 	</g>

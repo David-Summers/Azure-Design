@@ -31,33 +31,33 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group6433-1" transform="translate(34,-39.685)">
-			<title>Azure Database for MariaDB.6433</title>
+		<g id="group6565-1" transform="translate(34,-39.685)">
+			<title>Azure Database for MariaDB.6565</title>
 			<desc>Azure Database for MariaDB</desc>
-			<g id="group6434-2">
+			<g id="group6566-2">
 				<title>Icon-databases-123</title>
-				<g id="shape6435-3">
-					<title>Sheet.6435</title>
+				<g id="shape6567-3">
+					<title>Sheet.6567</title>
 					<path d="M21.26 89.16 C9.52 89.16 0 85.82 0 81.42 L0 122.64 C0 126.88 9.35 130.31 20.96 130.38 L21.26 130.38
 								 C33 130.38 42.52 127.04 42.52 122.64 L42.52 81.42 C42.52 85.72 33 89.16 21.26 89.16 Z" class="st1"/>
 				</g>
-				<g id="shape6436-7" transform="translate(0,-41.2191)">
-					<title>Sheet.6436</title>
+				<g id="shape6568-7" transform="translate(0,-41.2191)">
+					<title>Sheet.6568</title>
 					<path d="M42.52 122.64 C42.52 126.94 33 130.38 21.26 130.38 C9.52 130.38 0 127.04 0 122.64 C0 118.24 9.52 114.9
 								 21.26 114.9 C33 114.9 42.52 118.24 42.52 122.64 Z" class="st2"/>
 				</g>
-				<g id="shape6437-9" transform="translate(4.94184,-44.654)">
-					<title>Sheet.6437</title>
+				<g id="shape6569-9" transform="translate(4.94184,-44.654)">
+					<title>Sheet.6569</title>
 					<path d="M32.64 125.44 C32.64 128.18 25.31 130.38 16.32 130.38 C7.33 130.38 0 128.18 0 125.44 C0 122.71 7.33
 								 120.54 16.32 120.54 C25.31 120.54 32.64 122.74 32.64 125.44 Z" class="st3"/>
 				</g>
-				<g id="shape6438-11" transform="translate(8.358,-44.654)">
-					<title>Sheet.6438</title>
+				<g id="shape6570-11" transform="translate(8.358,-44.654)">
+					<title>Sheet.6570</title>
 					<path d="M12.9 126.68 A38.3075 38.5178 -180 0 0 0 128.58 A37.8763 38.0843 -180 0 0 12.9 130.38 A36.9808 37.1839
 								 -180 0 0 25.8 128.44 A39.2694 39.4849 -180 0 0 12.9 126.68 Z" class="st4"/>
 				</g>
-				<g id="shape6439-13" transform="translate(3.4825,-13.7063)">
-					<title>Sheet.6439</title>
+				<g id="shape6571-13" transform="translate(3.4825,-13.7063)">
+					<title>Sheet.6571</title>
 					<path d="M35.19 106.8 C34.1 106.8 35.39 107.63 31.51 107.8 C27.63 107.97 26.27 111.97 23.75 115.34 A16.3512 16.4409
 								 0 0 1 13.8 120.04 A12.1722 12.239 -180 0 0 7.56 124.68 A3.05133 3.06809 0 0 1 5.21 126.41 C4.31
 								 126.41 2.35 126.68 2.35 126.68 A11.144 11.2052 -180 0 0 -0 127.48 C0.27 128.58 2.45 128.11 2.45
@@ -76,8 +76,8 @@
 								 25.2784 0 0 1 28.42 124.14 Z" class="st5"/>
 				</g>
 			</g>
-			<g id="shape6433-15">
-				<g id="shadow6433-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
+			<g id="shape6565-15">
+				<g id="shadow6565-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
 				<text x="-9.86" y="146.08" class="st7">Azure Database for <tspan x="7.06" dy="1.2em" class="st8">MariaDB</tspan></text>			</g>
 		</g>
 	</g>

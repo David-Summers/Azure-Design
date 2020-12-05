@@ -23,21 +23,21 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group9165-1" transform="translate(28.4453,-28.4453)">
-			<title>Data Box Edge and Gateway.9165</title>
+		<g id="group9403-1" transform="translate(28.4453,-28.4453)">
+			<title>Data Box Edge and Gateway.9403</title>
 			<desc>Data Box Edge and Gateway</desc>
-			<g id="shape9166-2" transform="translate(3.74803,-3.04559)">
+			<g id="shape9404-2" transform="translate(3.74803,-3.04559)">
 				<title>path11</title>
 				<path d="M52.94 85.11 A11.874 11.5979 -180 0 0 42.61 73.94 A14.9606 14.6127 -180 0 0 27.18 59.94 A15.4016 15.0434
 							 -180 0 0 12.41 69.73 A14.1102 13.7821 -180 0 0 0 83.08 A14.3937 14.059 -180 0 0 14.9 96.58 L16.22 96.58
 							 L40.35 96.58 L41.01 96.58 A12 11.7209 -180 0 0 52.94 85.11 Z" class="st1"/>
 			</g>
-			<g id="shape9167-6">
+			<g id="shape9405-6">
 				<title>path13</title>
 				<path d="M0 84.92 A11.8425 11.5671 0 0 1 11.97 73.23 A11.874 11.5979 0 0 1 23.94 84.92 L23.94 96.58 L11.97 96.58
 							 A11.8425 11.5671 0 0 1 0 84.92 Z" class="st2"/>
 			</g>
-			<g id="shape9168-8" transform="translate(4.18898,-4.09156)">
+			<g id="shape9406-8" transform="translate(4.18898,-4.09156)">
 				<title>path15</title>
 				<path d="M15.24 89.78 L15.24 88.06 L13.45 87.45 L13.01 86.28 L13.89 84.46 L13.89 84.28 L13.32 83.72 L12.66 82.99
 							 L12.41 82.99 L10.65 83.91 L9.45 83.57 L8.66 81.63 L6.93 81.63 L6.33 83.39 L5.01 83.91 L2.96 82.95 L1.73
@@ -47,8 +47,8 @@
 							 2.43032 0 0 1 7.84 86.55 A2.45669 2.39956 0 0 1 10.33 88.95 A2.45669 2.39956 0 0 1 7.84 91.38 Z"
 						class="st3"/>
 			</g>
-			<g id="shape9165-10">
-				<g id="shadow9165-11" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape9403-10">
+				<g id="shadow9403-11" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="-17.32" y="109.74" class="st5">Data Box Edge and Gateway</text>			</g>
 		</g>
 	</g>

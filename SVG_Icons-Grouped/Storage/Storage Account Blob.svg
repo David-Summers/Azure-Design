@@ -15,11 +15,11 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group9023-1" transform="translate(13.1693,-33.7323)">
-			<title>Storage Account Blob.9023</title>
+		<g id="group9261-1" transform="translate(13.1693,-33.7323)">
+			<title>Storage Account Blob.9261</title>
 			<desc>Storage Account Blob</desc>
-			<g id="shape9024-2">
-				<title>Sheet.9024</title>
+			<g id="shape9262-2">
+				<title>Sheet.9262</title>
 				<rect x="0" y="38.5512" width="56.6929" height="48.189" class="st1"/>
 				<image x="0" y="38.5512" width="56.6929" height="48.189" preserveAspectRatio="none" xlink:href="data:image/png;base64,
 							iVBORw0KGgoAAAANSUhEUgAAAXEAAAE6CAYAAADgGGILAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMA
@@ -88,8 +88,8 @@
 							gg=="/>
 				<rect x="0" y="38.5512" width="56.6929" height="48.189" class="st1"/>
 			</g>
-			<g id="shape9023-6">
-				<g id="shadow9023-7" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st2"/>
+			<g id="shape9261-6">
+				<g id="shadow9261-7" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st2"/>
 				<text x="-6.59" y="101.17" class="st3">Storage Account Blob</text>			</g>
 		</g>
 	</g>

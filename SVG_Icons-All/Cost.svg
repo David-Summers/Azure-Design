@@ -27,26 +27,26 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group2900-1" transform="translate(36,-36)">
+		<g id="group2976-1" transform="translate(36,-36)">
 			<title>Cost</title>
-			<g id="group2901-2">
+			<g id="group2977-2">
 				<title>Icon-nameAsset 7</title>
-				<g id="group2902-3">
-					<title>Sheet.2902</title>
-					<g id="shape2903-4" transform="translate(-2.79776E-13,-15.4224)">
-						<title>Sheet.2903</title>
+				<g id="group2978-3">
+					<title>Sheet.2978</title>
+					<g id="shape2979-4" transform="translate(-2.79776E-13,-15.4224)">
+						<title>Sheet.2979</title>
 						<path d="M49.13 116.34 A3.77842 3.85389 0 0 1 45.35 120.19 L3.78 120.19 A3.77842 3.85389 0 0 1 0 116.34 L0
 									 91.28 A3.77842 3.85389 0 0 1 3.78 87.42 L45.35 87.42 A3.77842 3.85389 0 0 1 49.13 91.28 L49.13
 									 116.34 Z" class="st1"/>
 					</g>
-					<g id="shape2904-6" transform="translate(7.56017,-2.41585E-13)">
-						<title>Sheet.2904</title>
+					<g id="shape2980-6" transform="translate(7.56017,-2.41585E-13)">
+						<title>Sheet.2980</title>
 						<path d="M49.13 116.33 A3.78175 3.8573 0 0 1 45.35 120.19 L3.78 120.19 A3.78175 3.8573 0 0 1 0 116.33 L0
 									 91.28 A3.78175 3.8573 0 0 1 3.78 87.42 L45.35 87.42 A3.78175 3.8573 0 0 1 49.13 91.28 L49.13
 									 116.33 Z" class="st2"/>
 					</g>
-					<g id="shape2905-10" transform="translate(13.2295,-5.78254)">
-						<title>Sheet.2905</title>
+					<g id="shape2981-10" transform="translate(13.2295,-5.78254)">
+						<title>Sheet.2981</title>
 						<path d="M19.84 110.55 L25.51 110.55 a0.947105 0.966025 0 0 1 0.94377 0.966025 L26.46 113.44 a0.947105 0.966025
 									 0 0 1 -0.94377 0.966025 L19.84 114.41 a0.947105 0.966025 0 0 1 -0.947105 -0.966025 L18.9 111.52
 									 a0.947105 0.966025 0 0 1 0.947105 -0.966025 ZM29.29 110.55 L34.96 110.55 a0.947105 0.966025
@@ -65,8 +65,8 @@
 									 106.7 A1.54071 1.57149 0 0 1 -0 105.2 L0 100.91 C0 100.08 0.72 98.98 1.6 98.98 L7.84 98.98 A1.54405
 									 1.57489 0 0 1 9.45 100.49 L9.45 105.2 Z" class="st3"/>
 					</g>
-					<g id="shape2906-12" transform="translate(-2.79776E-13,-38.5525)">
-						<title>Sheet.2906</title>
+					<g id="shape2982-12" transform="translate(-2.79776E-13,-38.5525)">
+						<title>Sheet.2982</title>
 						<rect x="0" y="116.335" width="49.1327" height="3.85389" class="st4"/>
 					</g>
 				</g>

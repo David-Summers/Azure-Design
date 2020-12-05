@@ -23,26 +23,26 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group3424-1" transform="translate(5.66929,-39.685)">
+		<g id="group3500-1" transform="translate(5.66929,-39.685)">
 			<title>Blockchain DevKit</title>
-			<g id="group3425-2">
-				<title>Sheet.3425</title>
-				<g id="group3426-3" transform="translate(0,-3.84406)">
-					<title>Sheet.3426</title>
-					<g id="shape3427-4" transform="translate(22.7928,2.70006E-13)">
-						<title>Sheet.3427</title>
+			<g id="group3501-2">
+				<title>Sheet.3501</title>
+				<g id="group3502-3" transform="translate(0,-3.84406)">
+					<title>Sheet.3502</title>
+					<g id="shape3503-4" transform="translate(22.7928,2.70006E-13)">
+						<title>Sheet.3503</title>
 						<path d="M22.8 62.45 L22.8 88.8 L0 102.05 L0 75.65 L22.8 62.45 Z" class="st1"/>
 					</g>
-					<g id="shape3428-6" transform="translate(0,-26.3603)">
-						<title>Sheet.3428</title>
+					<g id="shape3504-6" transform="translate(0,-26.3603)">
+						<title>Sheet.3504</title>
 						<path d="M45.59 88.81 L22.8 102.05 L0 88.8 L22.8 75.56 L45.59 88.81 Z" class="st2"/>
 					</g>
-					<g id="shape3429-8">
-						<title>Sheet.3429</title>
+					<g id="shape3505-8">
+						<title>Sheet.3505</title>
 						<path d="M22.79 75.69 L22.79 102.05 L0 88.8 L0 62.44 L22.79 75.69 Z" class="st3"/>
 					</g>
 				</g>
-				<g id="shape3430-10" transform="translate(28.6463,0)">
+				<g id="shape3506-10" transform="translate(28.6463,0)">
 					<title>b27129ef-d9eb-4579-8bb0-024170d</title>
 					<path d="M23.78 78.93 L23.92 79.06 a0.251488 0.249892 -180 0 0 0.330906 -4.26326E-14 L25.57 77.95 L28.01 73.97
 								 a0.254797 0.25318 -180 0 0 -0.0363996 -0.309077 L27.59 73.28 a0.254797 0.25318 -180 0 0 -0.330906
@@ -52,8 +52,8 @@
 								 0.499784 -180 0 0 0.727993 0 L12.26 94.03 A3.11051 3.09077 0 0 1 13.17 91.44 A2.87888 2.8606 0 0
 								 1 15.65 90.54 L17.47 88.67 L15.83 86.99 L23.78 78.93 Z" class="st4"/>
 				</g>
-				<g id="shape3431-12" transform="translate(28.9311,-0.0389779)">
-					<title>Sheet.3431</title>
+				<g id="shape3507-12" transform="translate(28.9311,-0.0389779)">
+					<title>Sheet.3507</title>
 					<path d="M26.62 96.82 L24.73 94.89 L12.69 82.53 L12.09 81.89 A6.71739 6.67474 -180 0 0 10.52 75.32 A6.22765 6.18811
 								 -180 0 0 4.92 73.53 a0.251488 0.249892 -180 0 0 -0.135671 0.424159 L7.94 77.14 a0.254797 0.25318
 								 0 0 1 0.0661812 0.23674 L7.16 80.65 a0.254797 0.25318 0 0 1 -0.178689 0.180843 L3.76 81.72 a0.254797

@@ -6,34 +6,50 @@
 		class="st3">
 	<style type="text/css">
 	<![CDATA[
-		.st1 {fill:#59b4d9;stroke:none;stroke-linecap:butt;stroke-width:12.24}
-		.st2 {fill:#0072c6;stroke:none;stroke-linecap:butt;stroke-width:12.24}
+		.st1 {fill:url(#grad0-6);stroke:none;stroke-linecap:butt;stroke-width:12.24}
+		.st2 {fill:url(#grad0-10);stroke:none;stroke-linecap:butt;stroke-width:12.24}
 		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-6" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-90.226046552341 0.5 0.5)">
+			<stop offset="0" stop-color="#198ab3" stop-opacity="1"/>
+			<stop offset="0.13" stop-color="#21a0c7" stop-opacity="1"/>
+			<stop offset="0.31" stop-color="#28b7db" stop-opacity="1"/>
+			<stop offset="0.5" stop-color="#2ec7ea" stop-opacity="1"/>
+			<stop offset="0.72" stop-color="#31d1f2" stop-opacity="1"/>
+			<stop offset="1" stop-color="#32d4f5" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-10" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-89.875606299213 0.5 0.5)">
+			<stop offset="0" stop-color="#0078d4" stop-opacity="1"/>
+			<stop offset="0.16" stop-color="#1380da" stop-opacity="1"/>
+			<stop offset="0.53" stop-color="#3c91e5" stop-opacity="1"/>
+			<stop offset="0.82" stop-color="#559cec" stop-opacity="1"/>
+			<stop offset="1" stop-color="#5ea0ef" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group1130-1" transform="translate(12.24,-33.7323)">
+		<g id="group1142-1" transform="translate(12.24,-33.7323)">
 			<title>Recovery Services</title>
-			<g id="group1131-2">
-				<title>Sheet.1131</title>
-				<g id="shape1132-3" transform="translate(15.2241,-16.3704)">
-					<title>Sheet.1132</title>
+			<g id="group1143-2">
+				<title>g8</title>
+				<g id="shape1144-3" transform="translate(15.2241,-16.3704)">
+					<title>path4</title>
 					<path d="M17.04 78.02 C23.86 78.02 29.43 83.21 30.22 89.78 C31.81 91.05 33.06 92.55 33.97 94.16 C38.4 93.01 41.47
 								 89.09 41.47 84.36 C41.47 80.56 39.42 77.56 35.9 75.83 L35.9 74.56 C35.9 67.88 30.45 62.34 23.86
 								 62.34 C19.88 62.34 16.25 64.3 13.97 67.42 C12.5 66.49 10.91 66.03 9.09 66.03 C4.32 66.03 0.45 69.72
 								 0 74.33 C0.68 74.22 1.48 74.22 2.27 74.22 C5.79 74.22 9.77 74.79 13.07 78.37 L17.04 78.02 Z"
 							class="st1"/>
 				</g>
-				<g id="shape1133-5">
-					<title>Sheet.1133</title>
-					<path d="M41.47 75.72 L41.47 75.02 C41.47 69.95 37.38 65.8 32.38 65.8 C30.79 65.8 29.31 66.26 27.95 66.95 L27.95
-								 67.07 L27.95 66.95 C27.84 67.07 27.61 67.07 27.49 67.18 L27.38 67.07 C24.77 69.03 23.63 72.03 23.52
-								 75.25 L27.49 75.25 L21.47 82.52 L15.34 75.25 L19.43 75.25 C19.54 70.87 21.25 66.72 24.2 64.07 C22.27
-								 62.8 20 62.11 17.61 62.11 C10.91 62.11 5.45 67.53 5.45 74.22 L5.45 75.49 C2.05 77.21 0 80.21 0 84.02
-								 C0 89.78 4.54 94.16 10.45 94.16 L36.24 94.16 C42.15 94.16 46.69 89.67 46.69 84.02 C46.69 80.33 44.88
-								 77.44 41.47 75.72 Z" class="st2"/>
+				<g id="shape1145-7">
+					<title>path6</title>
+					<path d="M41.47 75.72 L41.47 75.02 C41.47 69.95 37.38 65.8 32.38 65.8 C29.84 65.82 29.81 65.98 27.85 67.01 C25.24
+								 68.97 23.63 72.03 23.52 75.25 L27.49 75.25 L21.47 82.52 L15.34 75.25 L19.43 75.25 C19.54 70.87 21.25
+								 66.72 24.2 64.07 C22.27 62.8 20 62.11 17.61 62.11 C10.91 62.11 5.45 67.53 5.45 74.22 L5.45 75.49
+								 C2.05 77.21 0 80.21 0 84.02 C0 89.78 4.54 94.16 10.45 94.16 L36.24 94.16 C42.15 94.16 46.69 89.67
+								 46.69 84.02 C46.69 80.33 44.88 77.44 41.47 75.72 Z" class="st2"/>
 				</g>
 			</g>
 		</g>

@@ -15,26 +15,26 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group6613-1" transform="translate(12.24,-37.7008)">
-			<title>Deployment.6613</title>
+		<g id="group6753-1" transform="translate(12.24,-37.7008)">
+			<title>Deployment.6753</title>
 			<desc>Deployment</desc>
-			<g id="group6614-2">
+			<g id="group6754-2">
 				<title>g8</title>
-				<g id="shape6615-3">
+				<g id="shape6755-3">
 					<title>path4</title>
 					<path d="M26.73 56.54 L18.9 64.04 L18.9 59.97 L28.34 49.94 L37.8 59.93 L37.8 63.99 L30.01 56.54 L30.01 69.83
 								 L26.73 69.83 L26.73 56.54 ZM54.6 75.15 L2.1 75.15 C0.94 75.15 0 76.1 0 77.27 L0 101.68 C0 102.85
 								 0.95 103.8 2.1 103.8 L54.59 103.8 C55.75 103.8 56.69 102.85 56.69 101.68 L56.69 77.27 A2.10688 2.12912
 								 -180 0 0 54.6 75.15 ZM52.42 99.23 L4.23 99.23 L4.23 79.73 L52.42 79.73 L52.42 99.23 Z" class="st1"/>
 				</g>
-				<g id="shape6616-5" transform="translate(9.33127,-9.16736)">
+				<g id="shape6756-5" transform="translate(9.33127,-9.16736)">
 					<title>path6</title>
 					<path d="M14.08 94.26 L23.52 94.26 L23.52 103.8 L14.08 103.8 L14.08 94.26 ZM28.16 94.26 L37.6 94.26 L37.6 103.8
 								 L28.16 103.8 L28.16 94.26 ZM0 94.26 L9.44 94.26 L9.44 103.8 L0 103.8 L0 94.26 Z" class="st1"/>
 				</g>
 			</g>
-			<g id="shape6613-7">
-				<g id="shadow6613-8" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st2"/>
+			<g id="shape6753-7">
+				<g id="shadow6753-8" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st2"/>
 				<text x="8.33" y="119.08" class="st3">Deployment</text>			</g>
 		</g>
 	</g>

@@ -25,27 +25,27 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5820-1" transform="translate(7.17517,-39.685)">
-			<title>Blockchain DevKit.5820</title>
+		<g id="group5959-1" transform="translate(7.17517,-39.685)">
+			<title>Blockchain DevKit.5959</title>
 			<desc>Blockchain DevKit</desc>
-			<g id="group5821-2">
-				<title>Sheet.5821</title>
-				<g id="group5822-3" transform="translate(0,-3.84406)">
-					<title>Sheet.5822</title>
-					<g id="shape5823-4" transform="translate(22.7928,2.84217E-13)">
-						<title>Sheet.5823</title>
+			<g id="group5960-2">
+				<title>Sheet.5960</title>
+				<g id="group5961-3" transform="translate(0,-3.84406)">
+					<title>Sheet.5961</title>
+					<g id="shape5962-4" transform="translate(22.7928,2.84217E-13)">
+						<title>Sheet.5962</title>
 						<path d="M22.8 62.45 L22.8 88.8 L0 102.05 L0 75.65 L22.8 62.45 Z" class="st1"/>
 					</g>
-					<g id="shape5824-6" transform="translate(0,-26.3603)">
-						<title>Sheet.5824</title>
+					<g id="shape5963-6" transform="translate(0,-26.3603)">
+						<title>Sheet.5963</title>
 						<path d="M45.59 88.81 L22.8 102.05 L0 88.8 L22.8 75.56 L45.59 88.81 Z" class="st2"/>
 					</g>
-					<g id="shape5825-8">
-						<title>Sheet.5825</title>
+					<g id="shape5964-8">
+						<title>Sheet.5964</title>
 						<path d="M22.79 75.69 L22.79 102.05 L0 88.8 L0 62.44 L22.79 75.69 Z" class="st3"/>
 					</g>
 				</g>
-				<g id="shape5826-10" transform="translate(28.6463,1.42109E-14)">
+				<g id="shape5965-10" transform="translate(28.6463,1.42109E-14)">
 					<title>b27129ef-d9eb-4579-8bb0-024170d</title>
 					<path d="M23.78 78.93 L23.92 79.06 a0.251488 0.249892 -180 0 0 0.330906 -4.26326E-14 L25.57 77.95 L28.01 73.97
 								 a0.254797 0.25318 -180 0 0 -0.0363996 -0.309077 L27.59 73.28 a0.254797 0.25318 -180 0 0 -0.330906
@@ -55,8 +55,8 @@
 								 0.499784 -180 0 0 0.727993 0 L12.26 94.03 A3.11051 3.09077 0 0 1 13.17 91.44 A2.87888 2.8606 0 0
 								 1 15.65 90.54 L17.47 88.67 L15.83 86.99 L23.78 78.93 Z" class="st4"/>
 				</g>
-				<g id="shape5827-12" transform="translate(28.9311,-0.0389779)">
-					<title>Sheet.5827</title>
+				<g id="shape5966-12" transform="translate(28.9311,-0.0389779)">
+					<title>Sheet.5966</title>
 					<path d="M26.62 96.82 L24.73 94.89 L12.69 82.53 L12.09 81.89 A6.71739 6.67474 -180 0 0 10.52 75.32 A6.22765 6.18811
 								 -180 0 0 4.92 73.53 a0.251488 0.249892 -180 0 0 -0.135671 0.424159 L7.94 77.14 a0.254797 0.25318
 								 0 0 1 0.0661812 0.23674 L7.16 80.65 a0.254797 0.25318 0 0 1 -0.178689 0.180843 L3.76 81.72 a0.254797
@@ -66,8 +66,8 @@
 								 0 0 27.47 98.98 A3.2892 3.26832 -180 0 0 26.62 96.82 Z" class="st5"/>
 				</g>
 			</g>
-			<g id="shape5820-16">
-				<g id="shadow5820-17" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
+			<g id="shape5959-16">
+				<g id="shadow5959-17" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
 				<text x="-0.59" y="117.75" class="st7">Blockchain DevKit</text>			</g>
 		</g>
 	</g>

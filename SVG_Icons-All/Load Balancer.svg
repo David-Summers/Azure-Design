@@ -23,18 +23,18 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group1962-1" transform="translate(34,-39.685)">
+		<g id="group1984-1" transform="translate(34,-39.685)">
 			<title>Load Balancer</title>
-			<g id="group1963-2">
-				<title>Sheet.1963</title>
-				<g id="shape1964-3">
-					<title>Sheet.1964</title>
+			<g id="group1985-2">
+				<title>Sheet.1985</title>
+				<g id="shape1986-3">
+					<title>Sheet.1986</title>
 					<path d="M0.57 100.66 L26.99 74.25 A1.92087 1.92043 0 0 1 29.71 74.25 L56.13 100.66 A1.92087 1.92043 0 0 1 56.13
 								 103.38 L29.68 129.83 A1.88938 1.88894 0 0 1 27.01 129.83 L0.56 103.38 A1.92087 1.92043 0 0 1 0.57
 								 100.66 Z" class="st1"/>
 				</g>
-				<g id="shape1965-7" transform="translate(5.8948,-21.9491)">
-					<title>Sheet.1965</title>
+				<g id="shape1987-7" transform="translate(5.8948,-21.9491)">
+					<title>Sheet.1987</title>
 					<path d="M29.38 108.26 L22.7 101.58 a0.336939 0.336862 -180 0 0 -0.478643 3.2685E-13 L15.53 108.26 a0.340088
 								 0.34001 -180 0 0 0.239321 0.579276 L19.7 108.84 a0.340088 0.34001 0 0 1 0.340088 0.34001 L20.04
 								 115.5 a0.340088 0.34001 -180 0 0 0.340088 0.34001 L24.53 115.84 a0.340088 0.34001 -180 0 0 0.340088
@@ -49,13 +49,13 @@
 								 L30.88 125.46 a0.340088 0.34001 -180 0 0 0.340088 0.34001 L37.54 125.8 a0.340088 0.34001 0 0 1 0.340088
 								 0.34001 L37.88 130.06 a0.340088 0.34001 -180 0 0 0.582558 0.239266 Z" class="st2"/>
 				</g>
-				<g id="shape1966-9" transform="translate(23.0883,-6.72479)">
-					<title>Sheet.1966</title>
+				<g id="shape1988-9" transform="translate(23.0883,-6.72479)">
+					<title>Sheet.1988</title>
 					<path d="M14.06 108.72 A8.77616 8.77415 -180 1 0 2.91 117.13 L2.91 120.12 A5.41937 5.41812 -180 1 0 7.85 120.16
 								 L7.85 117.07 A8.74782 8.74582 -180 0 0 14.06 108.72 Z" class="st3"/>
 				</g>
-				<g id="shape1967-11" transform="translate(23.2751,-23.2827)">
-					<title>Sheet.1967</title>
+				<g id="shape1989-11" transform="translate(23.2751,-23.2827)">
+					<title>Sheet.1989</title>
 					<ellipse cx="5.09817" cy="125.281" rx="5.09817" ry="5.097" class="st4"/>
 				</g>
 			</g>

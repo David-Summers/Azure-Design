@@ -28,20 +28,20 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5374-1" transform="translate(33.5231,-39.685)">
-			<title>Windows Virtual Desktop.5374</title>
+		<g id="group5513-1" transform="translate(33.5231,-39.685)">
+			<title>Windows Virtual Desktop.5513</title>
 			<desc>Windows Virtual Desktop</desc>
-			<g id="group5375-2">
+			<g id="group5514-2">
 				<title>layer1</title>
-				<g id="shape5376-3">
+				<g id="shape5515-3">
 					<title>circle19</title>
 					<ellipse cx="28.3465" cy="101.555" rx="28.3465" ry="28.3465" class="st1"/>
 				</g>
-				<g id="shape5377-7" transform="translate(3.93182,-3.93182)">
+				<g id="shape5516-7" transform="translate(3.93182,-3.93182)">
 					<title>circle21</title>
 					<ellipse cx="24.4146" cy="105.486" rx="24.4146" ry="24.4146" class="st2"/>
 				</g>
-				<g id="shape5378-9" transform="translate(15.0396,-12.9509)">
+				<g id="shape5517-9" transform="translate(15.0396,-12.9509)">
 					<title>path23</title>
 					<path d="M13.64 117.63 L4.19 108.25 A1.69078 1.69078 -180 0 0 1.82 108.25 L0.63 109.44 A1.56406 1.56406 -180
 								 0 0 0.16 110.56 A1.5874 1.5874 -180 0 0 0.63 111.69 L7.74 118.77 L0.47 125.98 A1.5774 1.5774 -180
@@ -54,8 +54,8 @@
 								 110.09 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape5374-11">
-				<g id="shadow5374-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape5513-11">
+				<g id="shadow5513-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="-12.92" y="145.6" class="st5">Windows Virtual Desktop</text>			</g>
 		</g>
 	</g>

@@ -36,57 +36,57 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group6695-1" transform="translate(32.7738,-33.7323)">
-			<title>Universal Print Service.6695</title>
+		<g id="group6835-1" transform="translate(32.7738,-33.7323)">
+			<title>Universal Print Service.6835</title>
 			<desc>Universal Print Service</desc>
-			<g id="group6696-2">
+			<g id="group6836-2">
 				<title>afb37d11-6e90-4ac0-b9c9-249fa60</title>
-				<g id="shape6697-3" transform="translate(0,-7.97469)">
+				<g id="shape6837-3" transform="translate(0,-7.97469)">
 					<title>path19</title>
 					<path d="M56.64 102.11 C56.64 99.53 52.88 98.68 51.43 96.69 C49.44 93.96 49.23 90.45 45.59 89.86 A16.0346 16.0661
 								 -180 0 0 29.07 74.49 A16.4567 16.489 -180 0 0 13.35 85.22 A15.1874 15.2172 -180 0 0 -0 99.87 A15.411
 								 15.4413 -180 0 0 15.95 114.7 C16.42 114.7 16.89 114.68 17.35 114.64 L43.18 114.64 A2.55433 2.55935
 								 -180 0 0 43.86 114.54 A12.8787 12.904 -180 0 0 56.64 102.11 Z" class="st1"/>
 				</g>
-				<g id="shape6698-7" transform="translate(24.1386,-20.2066)">
+				<g id="shape6838-7" transform="translate(24.1386,-20.2066)">
 					<title>rect21</title>
 					<path d="M0 113.76 a0.944904 0.94676 -180 0 0 0.944882 0.946738 L27.96 114.7 a0.944904 0.94676 -180 0 0 0.944882
 								 -0.946738 L28.91 104.04 a0.944904 0.94676 -180 0 0 -0.944882 -0.946738 L0.94 103.09 a0.944904 0.94676
 								 -180 0 0 -0.944882 0.946738 L0 113.76 Z" class="st2"/>
 				</g>
-				<g id="shape6699-9" transform="translate(26.9921,-21.5825)">
+				<g id="shape6839-9" transform="translate(26.9921,-21.5825)">
 					<title>rect23</title>
 					<path d="M-0 113.76 a0.944904 0.94676 -180 0 0 0.944882 0.946738 L22.26 114.7 a0.944904 0.94676 -180 0 0 0.944882
 								 -0.946738 L23.2 98.13 a0.944904 0.94676 -180 0 0 -0.944882 -0.946738 L0.94 97.19 a0.944904 0.94676
 								 -180 0 0 -0.944882 0.946738 L0 113.76 Z" class="st3"/>
 				</g>
-				<g id="shape6700-13" transform="translate(20.4945,-5.53842)">
+				<g id="shape6840-13" transform="translate(20.4945,-5.53842)">
 					<title>path25</title>
 					<path d="M1.89 93.56 L34.31 93.56 A1.88976 1.89348 0 0 1 36.2 95.45 L36.2 114.7 L0 114.7 L0 95.45 A1.88976 1.89348
 								 0 0 1 1.89 93.56 Z" class="st4"/>
 				</g>
-				<g id="shape6701-15" transform="translate(20.4945,-4.80312)">
+				<g id="shape6841-15" transform="translate(20.4945,-4.80312)">
 					<title>rect27</title>
 					<rect x="0" y="111.484" width="36.1984" height="3.21891" class="st5"/>
 				</g>
-				<g id="shape6702-17" transform="translate(25.1874,-9.90288)">
+				<g id="shape6842-17" transform="translate(25.1874,-9.90288)">
 					<title>rect29</title>
 					<path d="M0 113.76 a0.944904 0.94676 -180 0 0 0.944882 0.946738 L25.86 114.7 a0.944904 0.94676 -180 0 0 0.944882
 								 -0.946738 L26.8 111.89 a0.944904 0.94676 -180 0 0 -0.944882 -0.946738 L0.94 110.94 a0.944904 0.94676
 								 -180 0 0 -0.944882 0.946738 L0 113.76 Z" class="st6"/>
 				</g>
-				<g id="shape6703-19" transform="translate(49.6378,-19.7805)">
+				<g id="shape6843-19" transform="translate(49.6378,-19.7805)">
 					<title>circle31</title>
 					<ellipse cx="0.897638" cy="113.803" rx="0.897638" ry="0.899401" class="st7"/>
 				</g>
-				<g id="shape6704-21" transform="translate(26.989,-2.41585E-13)">
+				<g id="shape6844-21" transform="translate(26.989,-2.41585E-13)">
 					<title>path33</title>
 					<path d="M0 101.69 L23.21 101.69 L23.21 113.76 a0.944882 0.946738 0 0 1 -0.944882 0.946738 L0.94 114.7 a0.944882
 								 0.946738 0 0 1 -0.944882 -0.946738 L0 101.69 L0 101.69 Z" class="st8"/>
 				</g>
 			</g>
-			<g id="shape6695-25">
-				<g id="shadow6695-26" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st9"/>
+			<g id="shape6835-25">
+				<g id="shadow6835-26" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st9"/>
 				<text x="-8.09" y="129.13" class="st10">Universal Print Service</text>			</g>
 		</g>
 	</g>

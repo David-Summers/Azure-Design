@@ -17,23 +17,23 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group6541-1" transform="translate(8.71833,-31.748)">
-			<title>PowerShell.6541</title>
+		<g id="group6681-1" transform="translate(8.71833,-31.748)">
+			<title>PowerShell.6681</title>
 			<desc>PowerShell</desc>
-			<g id="group6542-2">
+			<g id="group6682-2">
 				<title>layer1</title>
-				<g id="shape6543-3">
+				<g id="shape6683-3">
 					<title>path6</title>
 					<path d="M56.68 43.93 L50.31 82.72 A4.15571 4.28518 0 0 1 46.17 85.95 L3.33 85.95 C1.36 85.95 0 84.5 0.25 82.72
 								 L6.62 43.93 A3.51981 3.62948 0 0 1 7.78 41.91 A4.47813 4.61766 0 0 1 10.76 40.7 L53.59 40.7 A2.91079
 								 3.00148 0 0 1 56.59 42.84 A2.44506 2.52124 0 0 1 56.68 43.93 L56.68 43.93 Z" class="st1"/>
 				</g>
-				<g id="shape6544-5" transform="translate(7.783,-2.22572)">
+				<g id="shape6684-5" transform="translate(7.783,-2.22572)">
 					<title>path10</title>
 					<path d="M48.81 45.06 L42.49 84.1 C42.38 84.79 42.08 85.43 41.64 85.95 C31.66 75.84 10.85 54.83 0 44.13 C0.81
 								 43.36 1.87 42.93 2.97 42.92 L45.81 42.92 C47.18 42.82 48.42 43.71 48.81 45.06 Z" class="st2"/>
 				</g>
-				<g id="shape6545-7" transform="translate(13.035,-5.29135)">
+				<g id="shape6685-7" transform="translate(13.035,-5.29135)">
 					<title>path8-6</title>
 					<path d="M2.07 85.58 A2.17637 2.24418 0 0 1 0.77 81.53 L19.16 67.58 L5.9 54.71 A2.16742 2.23495 0 0 1 5.81 51.55
 								 A2.19429 2.26265 0 0 1 8.9 51.45 L24.13 66.16 A2.16742 2.23495 0 0 1 23.93 69.59 L3.36 85.14 A2.18533
@@ -41,8 +41,8 @@
 								 L26.13 81.33 A2.23907 2.30883 0 0 1 26.13 85.95 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape6541-9">
-				<g id="shadow6541-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape6681-9">
+				<g id="shadow6681-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="10.16" y="99.95" class="st5">PowerShell</text>			</g>
 		</g>
 	</g>

@@ -18,13 +18,13 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group4770-1" transform="translate(18.2248,-39.685)">
-			<title>Cognitive Services OCR.4770</title>
+		<g id="group4888-1" transform="translate(18.2248,-39.685)">
+			<title>Cognitive Services OCR.4888</title>
 			<desc>Cognitive Services OCR</desc>
-			<g id="group4771-2">
-				<title>Sheet.4771</title>
-				<g id="shape4772-3">
-					<title>Sheet.4772</title>
+			<g id="group4889-2">
+				<title>Sheet.4889</title>
+				<g id="shape4890-3">
+					<title>Sheet.4890</title>
 					<path d="M42.14 100.77 L1.25 100.77 L1.25 94.8 C1.54 94.84 1.83 94.89 2.13 94.89 C4.54 94.89 6.5 92.88 6.5 90.41
 								 C6.5 87.94 4.54 85.85 2.13 85.85 C1.83 85.85 1.54 85.89 1.25 85.93 L1.25 78.6 C1.54 78.65 1.83 78.69
 								 2.13 78.69 C4.54 78.69 6.5 76.68 6.5 74.21 C6.5 71.74 4.54 69.74 2.13 69.74 C1.83 69.74 1.54 69.78
@@ -42,43 +42,43 @@
 								 C0.13 93.48 0 93.65 0 93.91 L0 101.41 C0 101.75 0.29 102.05 0.63 102.05 L42.77 102.05 C43.1 102.05
 								 43.4 101.75 43.4 101.41 L43.4 89.39 L42.14 89.39 L42.14 100.77 Z" class="st1"/>
 				</g>
-				<g id="shape4773-5" transform="translate(9.25428,-12.0206)">
-					<title>Sheet.4773</title>
+				<g id="shape4891-5" transform="translate(9.25428,-12.0206)">
+					<title>Sheet.4891</title>
 					<path d="M41.14 102.05 L0.63 102.05 C0.29 102.05 0 101.75 0 101.41 L0 82.06 C0 81.71 0.29 81.42 0.63 81.42 L41.14
 								 81.42 C41.48 81.42 41.77 81.71 41.77 82.06 L41.77 101.41 C41.77 101.75 41.48 102.05 41.14 102.05
 								 ZM1.25 100.77 L40.52 100.77 L40.52 82.69 L1.25 82.69 L1.25 100.77 Z" class="st1"/>
 				</g>
-				<g id="shape4774-7" transform="translate(-8.23562,6.20966) rotate(-30.2523)">
-					<title>Sheet.4774</title>
+				<g id="shape4892-7" transform="translate(-8.23562,6.20966) rotate(-30.2523)">
+					<title>Sheet.4892</title>
 					<rect x="0" y="100.768" width="8.71221" height="1.27877" class="st2"/>
 				</g>
-				<g id="shape4775-9" transform="translate(20.3428,-16.6669)">
-					<title>Sheet.4775</title>
+				<g id="shape4893-9" transform="translate(20.3428,-16.6669)">
+					<title>Sheet.4893</title>
 					<rect x="0" y="91.5186" width="1.25058" height="10.5287" class="st1"/>
 				</g>
-				<g id="shape4776-11" transform="translate(16.9662,-26.5988)">
-					<title>Sheet.4776</title>
+				<g id="shape4894-11" transform="translate(16.9662,-26.5988)">
+					<title>Sheet.4894</title>
 					<rect x="0" y="100.768" width="7.67022" height="1.27879" class="st1"/>
 				</g>
-				<g id="shape4777-13" transform="translate(38.7679,-16.7947)">
-					<title>Sheet.4777</title>
+				<g id="shape4895-13" transform="translate(38.7679,-16.7947)">
+					<title>Sheet.4895</title>
 					<rect x="0" y="91.5186" width="1.25058" height="10.5287" class="st1"/>
 				</g>
-				<g id="shape4778-15" transform="translate(35.6832,-26.5988)">
-					<title>Sheet.4778</title>
+				<g id="shape4896-15" transform="translate(35.6832,-26.5988)">
+					<title>Sheet.4896</title>
 					<rect x="0" y="100.768" width="7.67022" height="1.27879" class="st1"/>
 				</g>
-				<g id="shape4779-17" transform="translate(-29.4908,5.43675) rotate(-38.3529)">
-					<title>Sheet.4779</title>
+				<g id="shape4897-17" transform="translate(-29.4908,5.43675) rotate(-38.3529)">
+					<title>Sheet.4897</title>
 					<rect x="0" y="88.5774" width="1.25057" height="13.4698" class="st3"/>
 				</g>
-				<g id="shape4780-19" transform="translate(-53.4014,21.8753) rotate(-51.5004)">
-					<title>Sheet.4780</title>
+				<g id="shape4898-19" transform="translate(-53.4014,21.8753) rotate(-51.5004)">
+					<title>Sheet.4898</title>
 					<rect x="0" y="100.768" width="13.1726" height="1.27877" class="st4"/>
 				</g>
 			</g>
-			<g id="shape4770-21">
-				<g id="shadow4770-22" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape4888-21">
+				<g id="shadow4888-22" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="-11.64" y="117.75" class="st6">Cognitive Services OCR</text>			</g>
 		</g>
 	</g>

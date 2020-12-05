@@ -26,15 +26,15 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group6754-1" transform="translate(19.1174,-39.685)">
-			<title>Intune Exchange On-Premises Access.6754</title>
+		<g id="group6894-1" transform="translate(19.1174,-39.685)">
+			<title>Intune Exchange On-Premises Access.6894</title>
 			<desc>Intune Exchange On-Premises Access</desc>
-			<g id="shape6755-2">
-				<title>Sheet.6755</title>
+			<g id="shape6895-2">
+				<title>Sheet.6895</title>
 				<path d="M42.52 47.26 L42.52 100.15 A2.3811 1.86753 0 0 1 40.14 102.05 L2.42 102.05 A2.3811 1.86753 0 0 1 0 100.15
 							 L0 47.26 A2.3811 1.86753 0 0 1 2.42 45.35 L40.1 45.35 A2.3811 1.86753 0 0 1 42.52 47.26 Z" class="st1"/>
 			</g>
-			<g id="shape6756-6" transform="translate(5.01732,-1.20056)">
+			<g id="shape6896-6" transform="translate(5.01732,-1.20056)">
 				<title>a1bc77ea-5288-41a0-8f9a-2d282cf</title>
 				<path d="M0.64 52.46 L7.74 52.46 a0.595276 0.466883 0 0 1 0.595276 0.466883 L8.33 59.93 a0.595276 0.466883 0 0 1
 							 -0.595276 0.466883 L0.64 60.39 a0.637795 0.500232 0 0 1 -0.637795 -0.466883 L0 52.92 a0.637795 0.500232
@@ -61,8 +61,8 @@
 							 L24.96 85.84 a0.595276 0.466883 0 0 1 -0.595276 -0.466883 L24.36 78.24 a0.595276 0.466883 0 0 1 0.595276
 							 -0.333488 Z" class="st2"/>
 			</g>
-			<g id="shape6754-8">
-				<g id="shadow6754-9" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
+			<g id="shape6894-8">
+				<g id="shadow6894-9" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
 				<text x="-12.53" y="117.75" class="st4">Intune Exchange On-<tspan x="-5.14" dy="1.2em" class="st5">Premises Access</tspan></text>			</g>
 		</g>
 	</g>

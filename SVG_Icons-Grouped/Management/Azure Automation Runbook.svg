@@ -16,35 +16,35 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group8011-1" transform="translate(26.2189,-39.685)">
+		<g id="group8224-1" transform="translate(26.2189,-39.685)">
 			<title>COLOUR-DEVELOPMENT_Azure-Automation-Runbook</title>
 			<desc>Azure Automation Runbook</desc>
-			<g id="shape8012-2" transform="translate(7.38355,-14.088)">
+			<g id="shape8225-2" transform="translate(7.38355,-14.088)">
 				<title>path2</title>
 				<path d="M33.61 85.8 L2.53 85.8 C1.21 85.8 0 86.94 0 88.64 L0 100.8 L4.3 102.05 L4.3 90.23 L31.74 90.23 L31.74 101.93
 							 L36.04 100.68 L36.04 88.64 C36.04 86.94 34.82 85.8 33.61 85.8 Z" class="st1"/>
 			</g>
-			<g id="shape8013-4" transform="translate(23.2527,-26.2446)">
+			<g id="shape8226-4" transform="translate(23.2527,-26.2446)">
 				<title>rect4</title>
 				<rect x="0" y="90.2315" width="4.29789" height="11.8158" class="st1"/>
 			</g>
-			<g id="shape8014-6" transform="translate(15.8691,-37.9468)">
+			<g id="shape8227-6" transform="translate(15.8691,-37.9468)">
 				<title>path6</title>
 				<path d="M16.53 83.3 L2.64 83.3 C1.21 83.3 0 84.55 0 86.03 L0 99.32 C0 100.8 1.21 102.05 2.64 102.05 L16.42 102.05
 							 C17.85 102.05 19.06 100.8 19.06 99.32 L19.06 86.03 C19.18 84.55 17.96 83.3 16.53 83.3 Z" class="st2"/>
 			</g>
-			<g id="shape8015-8">
+			<g id="shape8228-8">
 				<title>path8</title>
 				<path d="M16.42 83.3 L2.64 83.3 C1.21 83.3 0 84.55 0 86.03 L0 99.32 C0 100.8 1.21 102.05 2.64 102.05 L16.42 102.05
 							 C17.85 102.05 19.06 100.8 19.06 99.32 L19.06 86.03 C19.06 84.55 17.85 83.3 16.42 83.3 Z" class="st2"/>
 			</g>
-			<g id="shape8016-10" transform="translate(31.8484,-2.55795E-13)">
+			<g id="shape8229-10" transform="translate(31.8484,-2.55795E-13)">
 				<title>path10</title>
 				<path d="M16.42 83.3 L2.64 83.3 C1.21 83.3 0 84.55 0 86.03 L0 99.32 C0 100.8 1.21 102.05 2.64 102.05 L16.42 102.05
 							 C17.85 102.05 19.06 100.8 19.06 99.32 L19.06 86.03 C19.18 84.55 17.96 83.3 16.42 83.3 Z" class="st2"/>
 			</g>
-			<g id="shape8011-12">
-				<g id="shadow8011-13" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
+			<g id="shape8224-12">
+				<g id="shadow8224-13" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
 				<text x="-19.64" y="117.75" class="st4">Azure Automation Runbook</text>			</g>
 		</g>
 	</g>

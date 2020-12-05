@@ -28,31 +28,31 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group2120-1" transform="translate(5.66929,-39.685)">
+		<g id="group2154-1" transform="translate(5.66929,-39.685)">
 			<title>Intune Tenant Status</title>
-			<g id="shape2121-2" transform="translate(0,-4.04472)">
-				<title>Sheet.2121</title>
+			<g id="shape2155-2" transform="translate(0,-4.04472)">
+				<title>Sheet.2155</title>
 				<path d="M46.06 102.05 A4.5 4.24528 -180 0 0 50.63 97.87 A2.69291 2.54048 -180 0 0 50.63 97.37 C48.86 84 40.78 73.13
 							 25.37 73.13 C9.96 73.13 1.56 82.26 0 97.33 A4.53543 4.27871 -180 0 0 4.04 102.01 L46.06 102.01 L46.06
 							 102.05 Z" class="st1"/>
 			</g>
-			<g id="shape2122-6" transform="translate(17.7165,-13.2373)">
-				<title>Sheet.2122</title>
+			<g id="shape2156-6" transform="translate(17.7165,-13.2373)">
+				<title>Sheet.2156</title>
 				<path d="M7.62 85.4 A13.8898 13.1036 0 0 1 0 83.26 L7.55 102.05 L15.09 83.39 A14.1732 13.371 0 0 1 7.62 85.4 Z"
 						class="st2"/>
 			</g>
-			<g id="shape2123-8" transform="translate(11.126,-29.8841)">
-				<title>Sheet.2123</title>
+			<g id="shape2157-8" transform="translate(11.126,-29.8841)">
+				<title>Sheet.2157</title>
 				<ellipse cx="14.2087" cy="88.6428" rx="14.2087" ry="13.4044" class="st3"/>
 			</g>
-			<g id="shape2124-12" transform="translate(31.8898,0)">
-				<title>Sheet.2124</title>
+			<g id="shape2158-12" transform="translate(31.8898,0)">
+				<title>Sheet.2158</title>
 				<path d="M18.81 79.85 A6.27165 5.91665 -180 0 0 12.4 83.8 A6.23622 5.88323 -180 0 0 5.99 79.85 C0.18 80.45 0 85.7
 							 0 87.77 C0 89.24 0.35 93.92 12.33 102.05 C24.48 93.82 24.8 89.24 24.8 87.77 C24.8 85.7 24.8 80.45 18.81
 							 79.85 Z" class="st4"/>
 			</g>
-			<g id="shape2125-14" transform="translate(33.7677,-5.44867)">
-				<title>Sheet.2125</title>
+			<g id="shape2159-14" transform="translate(33.7677,-5.44867)">
+				<title>Sheet.2159</title>
 				<path d="M22.93 92.59 L17.26 92.59 a0.389764 0.367702 -180 0 0 -0.389764 0.200565 L15.09 95.56 a0.248031 0.233992
 							 0 0 1 -0.389764 1.42109E-14 L12.3 90.85 a0.46063 0.434557 -180 0 0 -0.850394 -1.42109E-14 L9.04 97.53
 							 a0.212598 0.200565 0 0 1 -0.425197 0 L6.52 92.99 a0.46063 0.434557 -180 0 0 -0.814961 0 L2.94 97.74

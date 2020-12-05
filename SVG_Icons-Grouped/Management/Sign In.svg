@@ -16,12 +16,12 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group7462-1" transform="translate(11.7692,-39.685)">
-			<title>Sign In.7462</title>
+		<g id="group7654-1" transform="translate(11.7692,-39.685)">
+			<title>Sign In.7654</title>
 			<desc>Sign In</desc>
-			<g id="group7463-2">
+			<g id="group7655-2">
 				<title>g8</title>
-				<g id="shape7464-3" transform="translate(3.35198,1.42109E-14)">
+				<g id="shape7656-3" transform="translate(3.35198,1.42109E-14)">
 					<title>path4</title>
 					<path d="M22.1 51.45 C29.69 51.45 36.77 54.38 42.29 59.73 C53.34 70.75 53.34 88.85 42.29 99.88 C36.94 105.22
 								 29.69 108.15 22.1 108.15 C14.5 108.15 7.42 105.22 1.9 99.88 C0 97.98 0 95.05 1.9 93.16 C3.8 91.26
@@ -30,15 +30,15 @@
 								 C6.73 68.34 3.8 68.34 1.9 66.45 C0 64.55 0 61.62 1.9 59.73 C7.25 54.38 14.5 51.45 22.1 51.45 Z"
 							class="st1"/>
 				</g>
-				<g id="shape7465-5" transform="translate(2.8777E-13,-15.8343)">
+				<g id="shape7657-5" transform="translate(2.8777E-13,-15.8343)">
 					<title>path6</title>
 					<path d="M28.51 92.33 L19.04 82.3 L26.58 82.3 L39.33 95.22 L26.77 108.15 L19.04 108.15 L28.51 98.31 L1.76 98.31
 								 A1.75834 1.75521 0 0 1 -0 96.55 L0 94.09 C0 93.12 0.79 92.33 1.76 92.33 L28.51 92.33 Z"
 							class="st2"/>
 				</g>
 			</g>
-			<g id="shape7462-7">
-				<g id="shadow7462-8" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
+			<g id="shape7654-7">
+				<g id="shadow7654-8" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
 				<text x="17.59" y="123.85" class="st4">Sign In</text>			</g>
 		</g>
 	</g>

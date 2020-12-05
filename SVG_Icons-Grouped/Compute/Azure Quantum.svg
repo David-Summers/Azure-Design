@@ -33,27 +33,27 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5994-1" transform="translate(34.0514,-39.685)">
-			<title>Azure Quantum.5994</title>
+		<g id="group6133-1" transform="translate(34.0514,-39.685)">
+			<title>Azure Quantum.6133</title>
 			<desc>Azure Quantum</desc>
-			<g id="group5995-2">
-				<title>Sheet.5995</title>
-				<g id="shape5996-3" transform="translate(0.273598,-0.441122)">
-					<title>Sheet.5996</title>
+			<g id="group6134-2">
+				<title>Sheet.6134</title>
+				<g id="shape6135-3" transform="translate(0.273598,-0.441122)">
+					<title>Sheet.6135</title>
 					<path d="M7.63 87.8 L15.35 91.81 L22.36 130.38 L0 117.45 L7.63 87.8 Z" class="st1"/>
 				</g>
-				<g id="shape5997-7" transform="translate(0.273598,-13.366)">
-					<title>Sheet.5997</title>
+				<g id="shape6136-7" transform="translate(0.273598,-13.366)">
+					<title>Sheet.6136</title>
 					<path d="M37.71 91.45 L30 87.44 L8.04 100.48 A1.15729 1.15952 -180 0 0 7.51 101.19 L0 130.38 L22.36 117.1 L44.72
 								 130.02 L37.71 91.45 Z" class="st2"/>
 				</g>
-				<g id="shape5998-11" transform="translate(15.6234,-1.23531)">
-					<title>Sheet.5998</title>
+				<g id="shape6137-11" transform="translate(15.6234,-1.23531)">
+					<title>Sheet.6137</title>
 					<path d="M0 92.61 L22.36 79.32 L29.37 117.88 L8.45 130.32 A1.16043 1.16267 0 0 1 6.71 129.53 L0 92.61 Z"
 							class="st3"/>
 				</g>
-				<g id="shape5999-13" transform="translate(15.3341,-1.4305)">
-					<title>Sheet.5999</title>
+				<g id="shape6138-13" transform="translate(15.3341,-1.4305)">
+					<title>Sheet.6138</title>
 					<path d="M22.59 114.1 L28.32 110.77 L28.27 110.49 L22.55 113.82 L22.55 105.66 L27.97 108.81 L27.91 108.48 L22.56
 								 105.36 L22.56 105.17 L22.39 105.27 L26.87 102.67 L26.82 102.4 L22.48 104.92 L22.48 96.69 L26.17
 								 98.83 L26.11 98.52 L22.61 96.49 L25.44 94.84 L25.39 94.58 L22.48 96.27 L22.48 87.97 L24.4 89.1 L24.34
@@ -76,8 +76,8 @@
 								 L14.97 92.51 ZM15.06 118.14 L15.06 110.02 L22.04 114.09 L15.06 118.14 ZM22.29 113.93 L15.14 109.76
 								 L22.29 105.61 L22.29 113.93 Z" class="st4"/>
 				</g>
-				<g id="shape6000-17">
-					<title>Sheet.6000</title>
+				<g id="shape6139-17">
+					<title>Sheet.6139</title>
 					<path d="M38.53 78.18 C38.53 78.11 38.43 78.08 38.39 78.01 a0.70758 0.708946 -180 0 0 -0.31448 -0.497838 L31.07
 								 73.87 A1.67303 1.67626 -180 0 0 29.45 73.92 L7.66 86.87 a0.512603 0.513592 -180 0 0 -0.251584 0.453725
 								 L7.41 87.34 C7.41 87.37 7.36 87.38 7.35 87.41 L0 115.98 A1.68561 1.68887 -180 0 0 0.78 117.85 L22.38
@@ -91,8 +91,8 @@
 								 Z" class="st5"/>
 				</g>
 			</g>
-			<g id="shape5994-19">
-				<g id="shadow5994-20" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
+			<g id="shape6133-19">
+				<g id="shadow6133-20" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
 				<text x="-3.06" y="146.08" class="st7">Azure Quantum</text>			</g>
 		</g>
 	</g>

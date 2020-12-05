@@ -34,25 +34,25 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7657-1" transform="translate(34,-39.685)">
-			<title>Log Analytics Solution.7657</title>
+		<g id="group7850-1" transform="translate(34,-39.685)">
+			<title>Log Analytics Solution.7850</title>
 			<desc>Log Analytics Solution</desc>
-			<g id="group7658-2">
+			<g id="group7851-2">
 				<title>Icon-manage-321</title>
-				<g id="shape7659-3">
-					<title>Sheet.7659</title>
+				<g id="shape7852-3">
+					<title>Sheet.7852</title>
 					<path d="M16.91 115.76 L31.4 115.76 L31.4 128.71 A1.67731 1.67236 0 0 1 29.72 130.38 L16.91 130.38 L16.91 115.76
 								 ZM2.01 130.21 L14.49 130.21 L14.49 115.76 L0 115.76 L0 128.2 A2.01277 2.00683 -180 0 0 2.01 130.21
 								 ZM0 113.49 L14.49 113.49 L14.49 98.91 L1.68 98.91 A1.67731 1.67236 -180 0 0 -0 100.58 L0 113.49
 								 Z" class="st1"/>
 				</g>
-				<g id="shape7660-7" transform="translate(16.7731,-16.7236)">
-					<title>Sheet.7660</title>
+				<g id="shape7853-7" transform="translate(16.7731,-16.7236)">
+					<title>Sheet.7853</title>
 					<path d="M19.96 90.41 A19.7587 19.7004 0 0 1 39.92 110.48 A19.7587 19.7004 0 0 1 19.96 130.38 L0 130.38 L0 110.31
 								 A19.7587 19.7004 0 0 1 19.96 90.41 Z" class="st2"/>
 				</g>
-				<g id="shape7661-11" transform="translate(20.8418,-24.9947)">
-					<title>Sheet.7661</title>
+				<g id="shape7854-11" transform="translate(20.8418,-24.9947)">
+					<title>Sheet.7854</title>
 					<path d="M28.17 107.68 A3.35461 3.34471 -180 0 0 24.81 111.02 A3.35461 3.34471 -180 0 0 25.55 113.1 L19.95 123.1
 								 L19.51 123.1 A3.35461 3.34471 -180 0 0 17.74 123.63 L13.41 119.22 A3.35461 3.34471 -180 0 0 13.68
 								 117.91 A3.43848 3.42833 -180 0 0 6.8 117.91 A3.35461 3.34471 -180 0 0 7.24 119.52 L3.31 124.67 A4.22681
@@ -63,8 +63,8 @@
 								 3.34471 -180 0 0 28.17 107.68 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape7657-13">
-				<g id="shadow7657-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape7850-13">
+				<g id="shadow7850-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="-7.15" y="146.08" class="st5">Log Analytics Solution</text>			</g>
 		</g>
 	</g>

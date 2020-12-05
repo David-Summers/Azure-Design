@@ -17,12 +17,12 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group4695-1" transform="translate(9.22098,-29.7638)">
-			<title>Power BI.4695</title>
+		<g id="group4813-1" transform="translate(9.22098,-29.7638)">
+			<title>Power BI.4813</title>
 			<desc>Power BI</desc>
-			<g id="group4696-2">
+			<g id="group4814-2">
 				<title>Layer_1-2</title>
-				<g id="shape4697-3" transform="translate(0,-5.66812)">
+				<g id="shape4815-3" transform="translate(0,-5.66812)">
 					<title>path6</title>
 					<path d="M48.72 81.5 L48.72 78.87 L50 78.87 C52.44 78.87 54.04 76.9 54.04 74.49 L54.04 51.36 A3.85335 3.81677
 								 -180 0 0 50 47.29 L6.69 47.29 A3.85335 3.81677 -180 0 0 2.66 51.36 L2.66 74.49 C2.66 76.9 4.25 78.87
@@ -30,7 +30,7 @@
 								 0 0 1 6.69 44.65 L50 44.65 A6.76772 6.70347 0 0 1 56.69 51.36 L56.69 74.49 C56.69 78.14 53.7 81.5
 								 50 81.5 L48.72 81.5 Z" class="st1"/>
 				</g>
-				<g id="shape4698-5" transform="translate(10.6299,2.27374E-13)">
+				<g id="shape4816-5" transform="translate(10.6299,2.27374E-13)">
 					<title>path8</title>
 					<path d="M3.1 81.5 A3.19783 3.16748 0 0 1 0 78.24 L0 70.73 A3.19783 3.16748 0 0 1 3.1 67.47 A3.19783 3.16748
 								 0 0 1 6.2 70.72 L6.2 78.24 A3.19783 3.16748 0 0 1 3.11 81.5 L3.1 81.5 ZM12.84 81.21 A3.11811 3.08851
@@ -48,8 +48,8 @@
 								 22.6 81.36" class="st3"/>
 				</g>
 			</g>
-			<g id="shape4695-8">
-				<g id="shadow4695-9" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape4813-8">
+				<g id="shadow4813-9" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="13.84" y="95.08" class="st5">Power BI</text>			</g>
 		</g>
 	</g>

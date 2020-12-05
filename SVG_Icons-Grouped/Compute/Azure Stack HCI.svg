@@ -26,48 +26,48 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5939-1" transform="translate(34,-39.685)">
-			<title>Azure Stack HCI.5939</title>
+		<g id="group6078-1" transform="translate(34,-39.685)">
+			<title>Azure Stack HCI.6078</title>
 			<desc>Azure Stack HCI</desc>
-			<g id="group5940-2">
-				<title>Sheet.5940</title>
-				<g id="shape5941-3" transform="translate(1.70394,-2.84217E-13)">
-					<title>Sheet.5941</title>
+			<g id="group6079-2">
+				<title>Sheet.6079</title>
+				<g id="shape6080-3" transform="translate(1.70394,-2.84217E-13)">
+					<title>Sheet.6080</title>
 					<path d="M53.63 121.47 C53.12 123.71 50.38 125.89 45.44 127.6 A67.5748 68.5879 0 0 1 7.48 127.65 C2.91 126.01
 								 0.45 123.94 0.07 121.8 C0 121.42 0.07 115.55 0.07 115.55 L53.73 115.05 C53.73 115.05 53.69 121.2
 								 53.63 121.47 Z" class="st1"/>
 				</g>
-				<g id="shape5942-5" transform="translate(0.504905,-5.2576) rotate(-0.575)">
-					<title>Sheet.5942</title>
+				<g id="shape6081-5" transform="translate(0.504905,-5.2576) rotate(-0.575)">
+					<title>Sheet.6081</title>
 					<ellipse cx="26.8504" cy="120.964" rx="26.8504" ry="9.42104" class="st2"/>
 				</g>
-				<g id="shape5943-7" transform="translate(0,-15.911)">
-					<title>Sheet.5943</title>
+				<g id="shape6082-7" transform="translate(0,-15.911)">
+					<title>Sheet.6082</title>
 					<path d="M56.69 117.61 A12.737 12.928 -180 0 0 45.64 105.18 A16.063 16.3038 -180 0 0 29.1 89.6 A16.4661 16.713
 								 -180 0 0 13.35 100.5 A15.2 15.4279 -180 0 0 0 115.34 A15.4331 15.6644 -180 0 0 15.96 130.39 C16.44
 								 130.39 16.91 130.36 17.37 130.32 L43.22 130.32 A2.57953 2.6182 -180 0 0 43.9 130.22 A12.8913 13.0846
 								 -180 0 0 56.69 117.61 Z" class="st3"/>
 				</g>
-				<g id="shape5944-11" transform="translate(14.0787,-29.3697)">
-					<title>Sheet.5944</title>
+				<g id="shape6083-11" transform="translate(14.0787,-29.3697)">
+					<title>Sheet.6083</title>
 					<path d="M0 129.43 a0.944904 0.959069 -180 0 0 0.944882 0.959047 L27.32 130.39 a0.944904 0.959069 -180 0 0 0.944882
 								 -0.959047 L28.26 123.5 a0.944904 0.959069 -180 0 0 -0.944882 -0.959047 L0.94 122.54 a0.944904 0.959069
 								 -180 0 0 -0.944882 0.959047 L0 129.43 Z" class="st4"/>
 				</g>
-				<g id="shape5945-13" transform="translate(14.0787,-20.2395)">
-					<title>Sheet.5945</title>
+				<g id="shape6084-13" transform="translate(14.0787,-20.2395)">
+					<title>Sheet.6084</title>
 					<path d="M0 129.43 a0.944904 0.959069 -180 0 0 0.944882 0.959047 L27.32 130.39 a0.944904 0.959069 -180 0 0 0.944882
 								 -0.959047 L28.26 123.5 a0.944904 0.959069 -180 0 0 -0.944882 -0.959047 L0.94 122.54 a0.944904 0.959069
 								 -180 0 0 -0.944882 0.959047 L0 129.43 Z" class="st2"/>
 				</g>
-				<g id="shape5946-15" transform="translate(14.0787,-10.9559)">
-					<title>Sheet.5946</title>
+				<g id="shape6085-15" transform="translate(14.0787,-10.9559)">
+					<title>Sheet.6085</title>
 					<path d="M0 129.43 a0.944904 0.959069 -180 0 0 0.944882 0.959047 L27.32 130.39 a0.944904 0.959069 -180 0 0 0.944882
 								 -0.959047 L28.26 123.5 a0.944904 0.959069 -180 0 0 -0.944882 -0.959047 L0.94 122.54 a0.944904 0.959069
 								 -180 0 0 -0.944882 0.959047 L0 129.43 Z" class="st5"/>
 				</g>
-				<g id="shape5947-17" transform="translate(37.9528,-12.3274)">
-					<title>Sheet.5947</title>
+				<g id="shape6086-17" transform="translate(37.9528,-12.3274)">
+					<title>Sheet.6086</title>
 					<path d="M1.63 109.02 L0.47 109.02 a0.472441 0.479524 0 0 1 -0.472441 -0.479524 L0 107.35 a0.472441 0.479524
 								 0 0 1 0.472441 -0.479524 L1.64 106.87 a0.472441 0.479524 0 0 1 0.472441 0.479524 L2.11 108.54 a0.472441
 								 0.479524 0 0 1 -0.475591 0.479524 ZM2.11 111.49 L2.11 110.31 a0.472441 0.479524 -180 0 0 -0.472441
@@ -86,8 +86,8 @@
 								 -0.48272 L2.11 129.91 Z" class="st6"/>
 				</g>
 			</g>
-			<g id="shape5939-19">
-				<g id="shadow5939-20" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st7"/>
+			<g id="shape6078-19">
+				<g id="shadow6078-20" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st7"/>
 				<text x="2.92" y="146.09" class="st8">Azure Stack HCI</text>			</g>
 		</g>
 	</g>

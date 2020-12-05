@@ -25,19 +25,19 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8324-1" transform="translate(34,-39.685)">
-			<title>Load Balancer.8324</title>
+		<g id="group8551-1" transform="translate(34,-39.685)">
+			<title>Load Balancer.8551</title>
 			<desc>Load Balancer</desc>
-			<g id="group8325-2">
-				<title>Sheet.8325</title>
-				<g id="shape8326-3">
-					<title>Sheet.8326</title>
+			<g id="group8552-2">
+				<title>Sheet.8552</title>
+				<g id="shape8553-3">
+					<title>Sheet.8553</title>
 					<path d="M0.57 100.66 L26.99 74.25 A1.92087 1.92043 0 0 1 29.71 74.25 L56.13 100.66 A1.92087 1.92043 0 0 1 56.13
 								 103.38 L29.68 129.83 A1.88938 1.88894 0 0 1 27.01 129.83 L0.56 103.38 A1.92087 1.92043 0 0 1 0.57
 								 100.66 Z" class="st1"/>
 				</g>
-				<g id="shape8327-7" transform="translate(5.8948,-21.9491)">
-					<title>Sheet.8327</title>
+				<g id="shape8554-7" transform="translate(5.8948,-21.9491)">
+					<title>Sheet.8554</title>
 					<path d="M29.38 108.26 L22.7 101.58 a0.336939 0.336862 -180 0 0 -0.478643 3.2685E-13 L15.53 108.26 a0.340088
 								 0.34001 -180 0 0 0.239321 0.579276 L19.7 108.84 a0.340088 0.34001 0 0 1 0.340088 0.34001 L20.04
 								 115.5 a0.340088 0.34001 -180 0 0 0.340088 0.34001 L24.53 115.84 a0.340088 0.34001 -180 0 0 0.340088
@@ -52,18 +52,18 @@
 								 L30.88 125.46 a0.340088 0.34001 -180 0 0 0.340088 0.34001 L37.54 125.8 a0.340088 0.34001 0 0 1 0.340088
 								 0.34001 L37.88 130.06 a0.340088 0.34001 -180 0 0 0.582558 0.239266 Z" class="st2"/>
 				</g>
-				<g id="shape8328-9" transform="translate(23.0883,-6.72479)">
-					<title>Sheet.8328</title>
+				<g id="shape8555-9" transform="translate(23.0883,-6.72479)">
+					<title>Sheet.8555</title>
 					<path d="M14.06 108.72 A8.77616 8.77415 -180 1 0 2.91 117.13 L2.91 120.12 A5.41937 5.41812 -180 1 0 7.85 120.16
 								 L7.85 117.07 A8.74782 8.74582 -180 0 0 14.06 108.72 Z" class="st3"/>
 				</g>
-				<g id="shape8329-11" transform="translate(23.2751,-23.2827)">
-					<title>Sheet.8329</title>
+				<g id="shape8556-11" transform="translate(23.2751,-23.2827)">
+					<title>Sheet.8556</title>
 					<ellipse cx="5.09817" cy="125.281" rx="5.09817" ry="5.097" class="st4"/>
 				</g>
 			</g>
-			<g id="shape8324-13">
-				<g id="shadow8324-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape8551-13">
+				<g id="shadow8551-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="5.53" y="146.08" class="st6">Load Balancer</text>			</g>
 		</g>
 	</g>

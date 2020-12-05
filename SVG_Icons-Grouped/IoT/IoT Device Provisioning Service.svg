@@ -15,60 +15,60 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group7374-1" transform="translate(29.8094,-39.685)">
-			<title>IoT Device Provisioning Service.7374</title>
+		<g id="group7555-1" transform="translate(29.8094,-39.685)">
+			<title>IoT Device Provisioning Service.7555</title>
 			<desc>IoT Device Provisioning Service</desc>
-			<g id="group7375-2">
+			<g id="group7556-2">
 				<title>g30</title>
-				<g id="shape7376-3" transform="translate(17.1156,-41.2724)">
+				<g id="shape7557-3" transform="translate(17.1156,-41.2724)">
 					<title>circle4</title>
 					<ellipse cx="4.1583" cy="97.8478" rx="4.1583" ry="4.19947" class="st1"/>
 				</g>
-				<g id="shape7377-5" transform="translate(25.8147,-26.9438)">
+				<g id="shape7558-5" transform="translate(25.8147,-26.9438)">
 					<title>circle6</title>
 					<ellipse cx="4.95669" cy="97.0415" rx="4.95669" ry="5.00577" class="st1"/>
 				</g>
-				<g id="shape7378-7" transform="translate(35.1958,-13.1528)">
+				<g id="shape7559-7" transform="translate(35.1958,-13.1528)">
 					<title>circle8</title>
 					<ellipse cx="3.87553" cy="98.1333" rx="3.87553" ry="3.91391" class="st1"/>
 				</g>
-				<g id="shape7379-9" transform="translate(20.3424,-16.3948)">
+				<g id="shape7560-9" transform="translate(20.3424,-16.3948)">
 					<title>circle10</title>
 					<ellipse cx="3.34327" cy="98.6709" rx="3.34327" ry="3.37638" class="st1"/>
 				</g>
-				<g id="shape7380-11" transform="translate(6.80297,-26.6751)">
+				<g id="shape7561-11" transform="translate(6.80297,-26.6751)">
 					<title>circle12</title>
 					<ellipse cx="3.34327" cy="98.6709" rx="3.34327" ry="3.37638" class="st1"/>
 				</g>
-				<g id="shape7381-13" transform="translate(19.6411,-30.8223)">
+				<g id="shape7562-13" transform="translate(19.6411,-30.8223)">
 					<title>path14</title>
 					<path d="M0 87.73 L2.46 85.98 L12.43 100.3 L9.97 102.05 L0 87.73 Z" class="st1"/>
 				</g>
-				<g id="shape7382-15" transform="translate(29.1646,-16.2022)">
+				<g id="shape7563-15" transform="translate(29.1646,-16.2022)">
 					<title>path16</title>
 					<path d="M0 86.51 L2.61 85 L11.42 100.54 L8.81 102.05 L0 86.51 Z" class="st1"/>
 				</g>
-				<g id="shape7383-17" transform="translate(9.57623,-28.7604)">
+				<g id="shape7564-17" transform="translate(9.57623,-28.7604)">
 					<title>path18</title>
 					<path d="M0 99.02 L21.28 97.23 L21.53 100.26 L0.25 102.05 L0 99.02 Z" class="st1"/>
 				</g>
-				<g id="shape7384-19" transform="translate(21.9352,-18.7916)">
+				<g id="shape7565-19" transform="translate(21.9352,-18.7916)">
 					<title>path20</title>
 					<path d="M0 100.48 L7.63 87.69 L10.21 89.26 L2.58 102.05 L0 100.48 Z" class="st1"/>
 				</g>
-				<g id="shape7385-21" transform="translate(1.59679,-38.2992)">
+				<g id="shape7566-21" transform="translate(1.59679,-38.2992)">
 					<title>circle22</title>
 					<ellipse cx="3.99197" cy="98.0157" rx="3.99197" ry="4.0315" class="st1"/>
 				</g>
-				<g id="shape7386-23" transform="translate(44.1778,-38.2992)">
+				<g id="shape7567-23" transform="translate(44.1778,-38.2992)">
 					<title>circle24</title>
 					<ellipse cx="3.99197" cy="98.0157" rx="3.99197" ry="4.0315" class="st1"/>
 				</g>
-				<g id="shape7387-25" transform="translate(23.9518,1.42109E-14)">
+				<g id="shape7568-25" transform="translate(23.9518,1.42109E-14)">
 					<title>circle26</title>
 					<ellipse cx="3.99197" cy="98.0157" rx="3.99197" ry="4.0315" class="st1"/>
 				</g>
-				<g id="shape7388-27" transform="translate(0,-2.65407)">
+				<g id="shape7569-27" transform="translate(0,-2.65407)">
 					<title>path28</title>
 					<path d="M9.96 58.83 C14.24 54.31 20.26 51.5 26.93 51.5 C33.57 51.5 39.57 54.29 43.85 58.78 C44.59 57.85 45.64
 								 57.16 46.82 56.86 C46.56 56.56 46.27 56.26 45.97 55.97 C43.5 53.47 40.62 51.52 37.41 50.14 C34.08
@@ -84,8 +84,8 @@
 								 99.91 22.47 99.19 22.74 98.54 Z" class="st1"/>
 				</g>
 			</g>
-			<g id="shape7374-29">
-				<g id="shadow7374-30" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st2"/>
+			<g id="shape7555-29">
+				<g id="shadow7555-30" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st2"/>
 				<text x="-23.23" y="117.75" class="st3">IoT Device Provisioning Service</text>			</g>
 		</g>
 	</g>

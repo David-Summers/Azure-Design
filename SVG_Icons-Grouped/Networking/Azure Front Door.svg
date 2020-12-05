@@ -23,30 +23,30 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8430-1" transform="translate(34,-35.7165)">
-			<title>Azure Front Door.8430</title>
+		<g id="group8656-1" transform="translate(34,-35.7165)">
+			<title>Azure Front Door.8656</title>
 			<desc>Azure Front Door</desc>
-			<g id="group8431-2">
+			<g id="group8657-2">
 				<title>Icon-networking-73</title>
-				<g id="shape8432-3" transform="translate(0,-9.94801)">
-					<title>Sheet.8432</title>
+				<g id="shape8658-3" transform="translate(0,-9.94801)">
+					<title>Sheet.8658</title>
 					<path d="M56.69 107.85 A12.5984 12.8685 -180 0 0 45.64 95.53 A16.063 16.4073 -180 0 0 29.1 79.67 A16.4724 16.8256
 								 -180 0 0 13.35 90.64 A15.2126 15.5387 -180 0 0 0 105.57 A15.4331 15.7639 -180 0 0 15.97 120.72 L43.21
 								 120.72 A2.45669 2.50936 -180 0 0 43.91 120.72 A12.8819 13.158 -180 0 0 56.69 107.85 Z" class="st1"/>
 				</g>
-				<g id="shape8433-7" transform="translate(20.8819,-10.0053)">
-					<title>Sheet.8433</title>
+				<g id="shape8659-7" transform="translate(20.8819,-10.0053)">
+					<title>Sheet.8659</title>
 					<rect x="0" y="98.2276" width="15.937" height="22.5199" class="st2"/>
 				</g>
-				<g id="shape8434-9" transform="translate(27.748,1.42109E-14)">
-					<title>Sheet.8434</title>
+				<g id="shape8660-9" transform="translate(27.748,1.42109E-14)">
+					<title>Sheet.8660</title>
 					<path d="M11.97 86.77 L0.98 80.34 a0.787402 0.804282 -180 0 0 -0.976378 0.482569 L0 119.94 a0.787402 0.804282
 								 -180 0 0 0.755906 0.804282 L1.01 120.75 L12 114.12 a0.787402 0.804282 -180 0 0 0.535433 -0.739939
 								 L12.54 87.64 a0.818898 0.836453 -180 0 0 -0.566929 -0.868624 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape8430-11">
-				<g id="shadow8430-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape8656-11">
+				<g id="shadow8656-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="0.3" y="135.6" class="st5">Azure Front Door</text>			</g>
 		</g>
 	</g>

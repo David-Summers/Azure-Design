@@ -17,24 +17,24 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group8756-1" transform="translate(12.24,-39.685)">
-			<title>Security Center.8756</title>
+		<g id="group8987-1" transform="translate(12.24,-39.685)">
+			<title>Security Center.8987</title>
 			<desc>Security Center</desc>
-			<g id="group8757-2">
-				<title>Sheet.8757</title>
-				<g id="shape8758-3">
-					<title>Sheet.8758</title>
+			<g id="group8988-2">
+				<title>Sheet.8988</title>
+				<g id="shape8989-3">
+					<title>Sheet.8989</title>
 					<path d="M36.18 58.68 C23.4 57.31 21.26 51.93 21.26 51.93 C21.26 51.93 18.38 59 0 59 L0 88.04 C0 91.55 2 94.84
 								 4.76 97.71 C11.03 104.23 21.26 108.62 21.26 108.62 C21.26 108.62 42.52 99.51 42.52 88.04 L42.52
 								 59 C40.16 59 38.05 58.89 36.18 58.68 Z" class="st1"/>
 				</g>
-				<g id="shape8759-5" transform="translate(2.15827E-13,-10.903)">
-					<title>Sheet.8759</title>
+				<g id="shape8990-5" transform="translate(2.15827E-13,-10.903)">
+					<title>Sheet.8990</title>
 					<path d="M26.52 81.59 L36.18 69.59 C23.4 68.21 21.26 62.83 21.26 62.83 C21.26 62.83 18.38 69.91 0 69.91 L0 98.94
 								 C0 102.46 2 105.74 4.76 108.62 L11.9 99.75 L26.52 81.59 Z" class="st2"/>
 				</g>
-				<g id="shape8760-7" transform="translate(11.8996,-16.4939)">
-					<title>Sheet.8760</title>
+				<g id="shape8991-7" transform="translate(11.8996,-16.4939)">
+					<title>Sheet.8991</title>
 					<path d="M17.79 96.15 L16.55 96.15 L16.55 92.13 A7.76871 7.5933 -180 0 0 14.62 87.08 C14.57 87.03 14.53 86.98
 								 14.49 86.93 C13.2 85.58 11.38 84.72 9.36 84.72 C7.35 84.72 5.52 85.58 4.23 86.93 A7.76871 7.5933
 								 -180 0 0 2.16 92.12 L2.16 96.15 L0.93 96.15 a0.928023 0.907068 -180 0 0 -0.929183 0.908202 L0 107.71
@@ -45,8 +45,8 @@
 								 13.14 92.12 L13.14 96.15 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape8756-9">
-				<g id="shadow8756-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape8987-9">
+				<g id="shadow8987-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="-3.68" y="124.32" class="st5">Security Center</text>			</g>
 		</g>
 	</g>

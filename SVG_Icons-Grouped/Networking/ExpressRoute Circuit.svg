@@ -42,35 +42,35 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8394-1" transform="translate(34,-35.7165)">
-			<title>ExpressRoute Circuit.8394</title>
+		<g id="group8621-1" transform="translate(34,-35.7165)">
+			<title>ExpressRoute Circuit.8621</title>
 			<desc>ExpressRoute Circuit</desc>
-			<g id="group8395-2">
+			<g id="group8622-2">
 				<title>Icon-networking-79</title>
-				<g id="shape8396-3" transform="translate(7.87402,-10.9297)">
-					<title>Sheet.8396</title>
+				<g id="shape8623-3" transform="translate(7.87402,-10.9297)">
+					<title>Sheet.8623</title>
 					<path d="M14.96 91.83 L20.36 94.89 L5.4 120.27 L0 117.21 L14.96 91.83 ZM20.39 95.36 L25.79 92.31 L40.75 117.69
 								 L35.35 120.74 L20.39 95.36 Z" class="st1"/>
 				</g>
-				<g id="shape8397-5" transform="translate(13.0394,-4.84323)">
-					<title>Sheet.8397</title>
+				<g id="shape8624-5" transform="translate(13.0394,-4.84323)">
+					<title>Sheet.8624</title>
 					<rect x="0" y="114.632" width="29.9213" height="6.10803" class="st2"/>
 				</g>
-				<g id="shape8398-7" transform="translate(20.9764,-36.1546)">
-					<title>Sheet.8398</title>
+				<g id="shape8625-7" transform="translate(20.9764,-36.1546)">
+					<title>Sheet.8625</title>
 					<ellipse cx="7.59055" cy="113.306" rx="7.59055" ry="7.43452" class="st3"/>
 				</g>
-				<g id="shape8399-11" transform="translate(41.5118,1.42109E-14)">
-					<title>Sheet.8399</title>
+				<g id="shape8626-11" transform="translate(41.5118,1.42109E-14)">
+					<title>Sheet.8626</title>
 					<ellipse cx="7.59055" cy="113.306" rx="7.59055" ry="7.43452" class="st4"/>
 				</g>
-				<g id="shape8400-15">
-					<title>Sheet.8400</title>
+				<g id="shape8627-15">
+					<title>Sheet.8627</title>
 					<ellipse cx="7.59055" cy="113.306" rx="7.59055" ry="7.43452" class="st5"/>
 				</g>
 			</g>
-			<g id="shape8394-19">
-				<g id="shadow8394-20" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
+			<g id="shape8621-19">
+				<g id="shadow8621-20" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
 				<text x="-5.07" y="135.59" class="st7">ExpressRoute Circuit</text>			</g>
 		</g>
 	</g>

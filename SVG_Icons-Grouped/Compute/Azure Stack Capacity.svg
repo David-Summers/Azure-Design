@@ -43,67 +43,67 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5954-1" transform="translate(17.5245,-39.685)">
-			<title>Azure Stack Capacity.5954</title>
+		<g id="group6093-1" transform="translate(17.5245,-39.685)">
+			<title>Azure Stack Capacity.6093</title>
 			<desc>Azure Stack Capacity</desc>
-			<g id="group5955-2">
-				<title>Sheet.5955</title>
-				<g id="group5956-3" transform="translate(0,-0.291231)">
-					<title>Sheet.5956</title>
-					<g id="shape5957-4">
-						<title>Sheet.5957</title>
+			<g id="group6094-2">
+				<title>Sheet.6094</title>
+				<g id="group6095-3" transform="translate(0,-0.291231)">
+					<title>Sheet.6095</title>
+					<g id="shape6096-4">
+						<title>Sheet.6096</title>
 						<path d="M28.63 100.14 A1.67772 1.94154 0 0 1 26.98 102.05 L1.65 102.05 A1.64976 1.90918 0 0 1 0 100.14 L0
 									 47.55 A1.62179 1.87682 0 0 1 1.65 45.65 L26.98 45.65 A1.64976 1.90918 0 0 1 28.63 47.55 L28.63
 									 100.14 Z" class="st1"/>
 					</g>
-					<g id="shape5958-8" transform="translate(4.1943,-33.0061)">
-						<title>Sheet.5958</title>
+					<g id="shape6097-8" transform="translate(4.1943,-33.0061)">
+						<title>Sheet.6097</title>
 						<path d="M0 98.42 A3.13174 3.6242 0 0 1 3.13 94.83 L17.36 94.83 A3.10378 3.59185 0 0 1 20.47 98.42 A3.10378
 									 3.59185 0 0 1 17.36 102.05 L3.13 102.05 A3.13174 3.6242 0 0 1 0 98.42 Z" class="st2"/>
 					</g>
-					<g id="shape5959-10" transform="translate(4.1943,-43.717)">
-						<title>Sheet.5959</title>
+					<g id="shape6098-10" transform="translate(4.1943,-43.717)">
+						<title>Sheet.6098</title>
 						<path d="M0 98.46 A3.10378 3.59185 0 0 1 3.13 94.99 L17.36 94.99 A3.07582 3.55949 0 0 1 20.47 98.46 A3.10378
 									 3.59185 0 0 1 17.36 102.05 L3.13 102.05 A3.13174 3.6242 0 0 1 0 98.46 Z" class="st2"/>
 					</g>
-					<g id="shape5960-12" transform="translate(5.34074,-44.8819)">
-						<title>Sheet.5960</title>
+					<g id="shape6099-12" transform="translate(5.34074,-44.8819)">
+						<title>Sheet.6099</title>
 						<ellipse cx="2.09715" cy="99.6203" rx="2.09715" ry="2.42692" class="st3"/>
 					</g>
-					<g id="shape5961-14" transform="translate(5.34074,-34.2034)">
-						<title>Sheet.5961</title>
+					<g id="shape6100-14" transform="translate(5.34074,-34.2034)">
+						<title>Sheet.6100</title>
 						<ellipse cx="2.09715" cy="99.6203" rx="2.09715" ry="2.42692" class="st3"/>
 					</g>
 				</g>
-				<g id="shape5962-16" transform="translate(20.2445,-3.33297)">
-					<title>Sheet.5962</title>
+				<g id="shape6101-16" transform="translate(20.2445,-3.33297)">
+					<title>Sheet.6101</title>
 					<ellipse cx="12.5549" cy="96.0932" rx="12.5549" ry="5.95405" class="st4"/>
 				</g>
-				<g id="shape5963-18" transform="translate(28.9406,-8.02502)">
-					<title>Sheet.5963</title>
+				<g id="shape6102-18" transform="translate(28.9406,-8.02502)">
+					<title>Sheet.6102</title>
 					<ellipse cx="4.16633" cy="100.721" rx="4.16633" ry="1.32672" class="st5"/>
 				</g>
-				<g id="shape5964-20" transform="translate(20.2445,-16.5678)">
-					<title>Sheet.5964</title>
+				<g id="shape6103-20" transform="translate(20.2445,-16.5678)">
+					<title>Sheet.6103</title>
 					<ellipse cx="12.5549" cy="96.0932" rx="12.5549" ry="5.95405" class="st6"/>
 				</g>
-				<g id="shape5965-24" transform="translate(28.9406,-21.2598)">
-					<title>Sheet.5965</title>
+				<g id="shape6104-24" transform="translate(28.9406,-21.2598)">
+					<title>Sheet.6104</title>
 					<ellipse cx="4.16633" cy="100.721" rx="4.16633" ry="1.32672" class="st7"/>
 				</g>
-				<g id="shape5966-26" transform="translate(20.2445,1.42109E-14)">
-					<title>Sheet.5966</title>
+				<g id="shape6105-26" transform="translate(20.2445,1.42109E-14)">
+					<title>Sheet.6105</title>
 					<path d="M12.55 98.62 C19.49 98.62 25.11 95.93 25.11 92.63 L25.11 96.29 C24.86 99.52 19.35 102.05 12.55 102.05
 								 C5.76 102.05 0 99.39 0 96.09 L0 92.86 C0 95.93 5.62 98.62 12.55 98.62 Z" class="st5"/>
 				</g>
-				<g id="shape5967-28" transform="translate(20.2445,-13.3643)">
-					<title>Sheet.5967</title>
+				<g id="shape6106-28" transform="translate(20.2445,-13.3643)">
+					<title>Sheet.6106</title>
 					<path d="M12.55 98.71 C19.49 98.71 25.11 96.06 25.11 92.76 L25.11 96.29 C24.86 99.52 19.35 102.05 12.55 102.05
 								 C5.76 102.05 0 99.36 0 96.06 L0 92.82 C0 96.06 5.62 98.71 12.55 98.71 Z" class="st8"/>
 				</g>
 			</g>
-			<g id="shape5954-30">
-				<g id="shadow5954-31" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st9"/>
+			<g id="shape6093-30">
+				<g id="shadow6093-31" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st9"/>
 				<text x="-10.94" y="117.75" class="st10">Azure Stack Capacity</text>			</g>
 		</g>
 	</g>

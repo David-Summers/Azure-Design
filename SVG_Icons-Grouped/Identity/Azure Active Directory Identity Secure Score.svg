@@ -20,13 +20,13 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group7182-1" transform="translate(29.526,-39.685)">
-			<title>Azure Active Directory Identity Secure Score.7182</title>
+		<g id="group7337-1" transform="translate(29.526,-39.685)">
+			<title>Azure Active Directory Identity Secure Score.7337</title>
 			<desc>Azure Active Directory Identity Secure Score</desc>
-			<g id="group7183-2">
-				<title>Sheet.7183</title>
-				<g id="shape7184-3" transform="translate(0,-28.3465)">
-					<title>Sheet.7184</title>
+			<g id="group7338-2">
+				<title>Sheet.7338</title>
+				<g id="shape7339-3" transform="translate(0,-28.3465)">
+					<title>Sheet.7339</title>
 					<path d="M47.26 86.18 L6.6 86.18 C2.34 86.18 0 90.9 2.18 94.44 C4.36 97.99 6.82 104.86 6.82 104.86 C7.65 107.11
 								 10.45 108.62 12.93 108.62 L40.92 108.62 C43.41 108.62 46.21 107.11 47.03 104.86 C47.03 104.86 49.5
 								 97.99 51.68 94.44 C53.86 90.9 51.52 86.18 47.26 86.18 ZM48.69 92.58 C46.35 96.39 43.84 103.36 43.73
@@ -35,51 +35,51 @@
 								 L47.26 89.72 C48.1 89.72 48.53 90.19 48.75 90.59 C48.88 90.82 49.26 91.66 48.69 92.58 Z"
 							class="st1"/>
 				</g>
-				<g id="shape7185-5" transform="translate(29.2702,-28.3465)">
-					<title>Sheet.7185</title>
+				<g id="shape7340-5" transform="translate(29.2702,-28.3465)">
+					<title>Sheet.7340</title>
 					<path d="M17.99 86.18 L0 86.18 L0 89.72 L17.99 89.72 C18.82 89.72 19.26 90.19 19.48 90.59 C19.61 90.82 19.99
 								 91.66 19.42 92.58 C17.07 96.39 14.56 103.36 14.46 103.66 C14.15 104.5 13.26 105.07 12.24 105.07
 								 L0 105.07 L0 108.62 L11.65 108.62 C14.14 108.62 16.94 107.11 17.76 104.86 C17.76 104.86 20.23 97.99
 								 22.41 94.44 C24.59 90.9 22.25 86.18 17.99 86.18 Z" class="st2"/>
 				</g>
-				<g id="shape7186-7" transform="translate(22.2453,-10.6299)">
-					<title>Sheet.7186</title>
+				<g id="shape7341-7" transform="translate(22.2453,-10.6299)">
+					<title>Sheet.7341</title>
 					<rect x="0" y="95.6258" width="9.36645" height="12.9921" class="st3"/>
 				</g>
-				<g id="shape7187-9" transform="translate(26.9285,-10.6299)">
-					<title>Sheet.7187</title>
+				<g id="shape7342-9" transform="translate(26.9285,-10.6299)">
+					<title>Sheet.7342</title>
 					<rect x="0" y="95.6258" width="4.68323" height="12.9921" class="st4"/>
 				</g>
-				<g id="shape7188-11" transform="translate(11.4903,-2.70006E-13)">
-					<title>Sheet.7188</title>
+				<g id="shape7343-11" transform="translate(11.4903,-2.70006E-13)">
+					<title>Sheet.7343</title>
 					<path d="M30.58 107.15 L28.41 99.51 C27.71 97.88 27.12 96.81 25.25 96.81 L5.63 96.81 C3.76 96.81 3.16 97.88 2.47
 								 99.51 L0.3 107.15 C0 107.85 0.55 108.62 1.36 108.62 L29.51 108.62 C30.32 108.62 30.88 107.85 30.58
 								 107.15 Z" class="st1"/>
 				</g>
-				<g id="shape7189-13" transform="translate(26.9285,-2.70006E-13)">
-					<title>Sheet.7189</title>
+				<g id="shape7344-13" transform="translate(26.9285,-2.70006E-13)">
+					<title>Sheet.7344</title>
 					<path d="M15.14 107.15 L12.97 99.51 C12.28 97.88 11.68 96.81 9.81 96.81 L0 96.81 L0 108.62 L14.08 108.62 C14.88
 								 108.62 15.44 107.85 15.14 107.15 Z" class="st2"/>
 				</g>
-				<g id="shape7190-15" transform="translate(22.2453,-18.8976)">
-					<title>Sheet.7190</title>
+				<g id="shape7345-15" transform="translate(22.2453,-18.8976)">
+					<title>Sheet.7345</title>
 					<path d="M0 107.31 C1.43 108.14 3.02 108.62 4.68 108.62 C6.35 108.62 7.94 108.14 9.37 107.32 L9.37 103.89 L0
 								 103.89 L0 107.31 Z" class="st4"/>
 				</g>
-				<g id="shape7191-17" transform="translate(10.2422,-21.2598)">
-					<title>Sheet.7191</title>
+				<g id="shape7346-17" transform="translate(10.2422,-21.2598)">
+					<title>Sheet.7346</title>
 					<path d="M31.27 73.18 L2.02 73.18 C0 73.18 0.11 75.53 0.58 76.07 C1.06 76.61 4.49 80.95 4.49 96.48 C4.49 103.14
 								 10.12 108.62 16.64 108.62 C23.23 108.62 28.8 103.13 28.8 96.48 C28.8 80.95 32.1 76.68 32.7 76.07
 								 C33.3 75.47 33.41 73.18 31.27 73.18 Z" class="st3"/>
 				</g>
-				<g id="shape7192-19" transform="translate(26.9285,-21.2622)">
-					<title>Sheet.7192</title>
+				<g id="shape7347-19" transform="translate(26.9285,-21.2622)">
+					<title>Sheet.7347</title>
 					<path d="M0 108.62 C6.56 108.59 12.11 103.12 12.11 96.48 C12.11 80.95 15.42 76.68 16.02 76.08 C16.61 75.47 16.73
 								 73.19 14.58 73.19 L0 73.19 L0 108.62 Z" class="st5"/>
 				</g>
 			</g>
-			<g id="shape7182-21">
-				<g id="shadow7182-22" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
+			<g id="shape7337-21">
+				<g id="shadow7337-22" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
 				<text x="-22.94" y="124.32" class="st7">Azure Active Directory Identity <tspan x="6" dy="1.2em" class="st8">Secure Score</tspan></text>			</g>
 		</g>
 	</g>

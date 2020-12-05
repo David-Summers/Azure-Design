@@ -29,26 +29,26 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8860-1" transform="translate(34,-39.685)">
-			<title>Extended Security Updates.8860</title>
+		<g id="group9091-1" transform="translate(34,-39.685)">
+			<title>Extended Security Updates.9091</title>
 			<desc>Extended Security Updates</desc>
-			<g id="group8861-2">
+			<g id="group9092-2">
 				<title>Extended Security Updates icon</title>
-				<g id="shape8862-3">
-					<title>Sheet.8862</title>
+				<g id="shape9093-3">
+					<title>Sheet.9093</title>
 					<path d="M48.19 100.15 C48.19 115.39 29.06 127.66 24.88 130.16 A1.46337 1.43343 0 0 1 23.31 130.16 C19.13 127.69
 								 0 115.42 0 100.15 L0 81.82 A1.4974 1.46677 0 0 1 1.46 80.35 C16.37 79.99 12.93 73.69 24.09 73.69
 								 C35.26 73.69 31.82 79.99 46.73 80.35 A1.4974 1.46677 0 0 1 48.19 81.82 L48.19 100.15 Z"
 							class="st1"/>
 				</g>
-				<g id="shape8863-5" transform="translate(1.97384,-2.39058)">
-					<title>Sheet.8863</title>
+				<g id="shape9094-5" transform="translate(1.97384,-2.39058)">
+					<title>Sheet.9094</title>
 					<path d="M44.24 102.68 C44.24 116.68 26.68 127.91 22.84 130.18 A1.36127 1.33343 0 0 1 21.41 130.18 C17.56 127.91
 								 0 116.68 0 102.68 L0 86.01 A1.3953 1.36676 0 0 1 1.36 84.41 C15.04 84.18 11.91 78.44 22.12 78.44
 								 C32.33 78.44 29.2 84.18 42.88 84.41 A1.3953 1.36676 0 0 1 44.24 85.74 L44.24 102.68 Z" class="st2"/>
 				</g>
-				<g id="shape8864-9" transform="translate(13.2724,-18.3569)">
-					<title>Sheet.8864</title>
+				<g id="shape9095-9" transform="translate(13.2724,-18.3569)">
+					<title>Sheet.9095</title>
 					<path d="M20.52 115.91 L19.16 115.91 L19.16 111.18 A8.91632 8.73395 -180 0 0 16.78 105.14 A8.06553 7.90055 -180
 								 0 0 4.93 105.14 A8.88229 8.70061 -180 0 0 2.55 111.18 L2.55 115.91 L1.19 115.91 A1.08902 1.06674
 								 -180 0 0 -0 117.04 L0 129.31 A1.08902 1.06674 -180 0 0 1.12 130.38 L20.52 130.38 A1.08902 1.06674
@@ -56,19 +56,19 @@
 								 L6.4 111.11 A4.86654 4.767 0 0 1 7.79 107.78 A4.04978 3.96694 0 0 1 13.85 107.78 A5.30896 5.20036
 								 0 0 1 14.4 108.44 A4.76445 4.66699 0 0 1 15.25 111.08 L15.25 115.91 Z" class="st3"/>
 				</g>
-				<g id="shape8865-11" transform="translate(13.2724,-18.6902)">
-					<title>Sheet.8865</title>
+				<g id="shape9096-11" transform="translate(13.2724,-18.6902)">
+					<title>Sheet.9096</title>
 					<path d="M1.12 116.24 L20.52 116.24 A1.08902 1.06674 0 0 1 21.24 116.51 L0.41 130.38 A1.12305 1.10008 0 0 1 0
 								 129.58 L0 117.38 A1.08902 1.06674 0 0 1 1.12 116.24 Z" class="st4"/>
 				</g>
-				<g id="shape8866-13" transform="translate(13.6808,-18.6902)">
-					<title>Sheet.8866</title>
+				<g id="shape9097-13" transform="translate(13.6808,-18.6902)">
+					<title>Sheet.9097</title>
 					<path d="M20.11 116.24 L0.71 116.24 A1.08902 1.06674 -180 0 0 0 116.51 L20.83 130.38 A1.02095 1.00007 -180 0
 								 0 21.24 129.58 L21.24 117.38 A1.08902 1.06674 -180 0 0 20.11 116.24 Z" class="st5"/>
 				</g>
 			</g>
-			<g id="shape8860-15">
-				<g id="shadow8860-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
+			<g id="shape9091-15">
+				<g id="shadow9091-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
 				<text x="-19.69" y="146.08" class="st7">Extended Security Updates</text>			</g>
 		</g>
 	</g>

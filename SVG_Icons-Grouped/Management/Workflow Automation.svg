@@ -23,22 +23,22 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7397-1" transform="translate(32.2105,-39.685)">
-			<title>Workflow Automation.7397</title>
+		<g id="group7589-1" transform="translate(32.2105,-39.685)">
+			<title>Workflow Automation.7589</title>
 			<desc>Workflow Automation</desc>
-			<g id="group7398-2">
-				<title>Sheet.7398</title>
-				<g id="shape7399-3" transform="translate(29.115,0)">
-					<title>Sheet.7399</title>
+			<g id="group7590-2">
+				<title>Sheet.7590</title>
+				<g id="shape7591-3" transform="translate(29.115,0)">
+					<title>Sheet.7591</title>
 					<ellipse cx="13.789" cy="114.8" rx="13.789" ry="13.789" class="st1"/>
 				</g>
-				<g id="shape7400-5" transform="translate(39.8268,-7.64409)">
-					<title>Sheet.7400</title>
+				<g id="shape7592-5" transform="translate(39.8268,-7.64409)">
+					<title>Sheet.7592</title>
 					<path d="M9.09 122.29 L0.47 116.31 L0.15 116.31 C0.15 116.46 0 116.46 0 116.62 L0 128.27 C0 128.43 0 128.43 0.15
 								 128.59 L0.47 128.59 L9.09 122.76 a0.289764 0.289764 -180 0 0 -5.32907E-15 -0.475591 Z" class="st2"/>
 				</g>
-				<g id="shape7401-7" transform="translate(2.8777E-13,-1.53386)">
-					<title>Sheet.7401</title>
+				<g id="shape7593-7" transform="translate(2.8777E-13,-1.53386)">
+					<title>Sheet.7593</title>
 					<path d="M26.49 116.33 A16.1984 16.1984 0 0 1 27.65 110.38 L27.58 110.38 A9.37953 9.37953 0 1 1 36.96 101 L36.96
 								 101.07 A16.1039 16.1039 0 0 1 54.08 104.37 L55.17 103.98 L55.17 97.68 L54.28 97.37 L47.56 95.16
 								 L45.79 90.86 L49.21 83.58 L44.8 79.17 L43.92 79.61 L37.62 82.81 L33.32 81.05 L30.55 73.43 L24.25
@@ -48,8 +48,8 @@
 								 0 1 26.49 116.33 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape7397-11">
-				<g id="shadow7397-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape7589-11">
+				<g id="shadow7589-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="-7.99" y="144.29" class="st5">Workflow Automation</text>			</g>
 		</g>
 	</g>

@@ -26,26 +26,26 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7996-1" transform="translate(34.1619,-39.685)">
-			<title>Azure Lighthouse.7996</title>
+		<g id="group8209-1" transform="translate(34.1619,-39.685)">
+			<title>Azure Lighthouse.8209</title>
 			<desc>Azure Lighthouse</desc>
-			<g id="group7997-2">
+			<g id="group8210-2">
 				<title>Icon471-AzureLighthouse</title>
-				<g id="shape7998-3">
-					<title>Sheet.7998</title>
+				<g id="shape8211-3">
+					<title>Sheet.8211</title>
 					<path d="M48.19 127.88 L36.88 98.05 a0.88189 0.89634 -180 0 0 -0.818898 -0.576218 L28 97.47 L28 90.36 A4.09449
 								 4.16158 -180 1 0 19.84 90.36 L19.84 97.47 L12.57 97.47 a0.913386 0.928352 -180 0 0 -0.850394 0.576218
 								 L0 127.88 A1.73228 1.76067 -180 0 0 1.42 130.38 L46.77 130.38 A1.73228 1.76067 -180 0 0 48.19 127.88
 								 Z" class="st1"/>
 				</g>
-				<g id="shape7999-7" transform="translate(1.41732,0)">
-					<title>Sheet.7999</title>
+				<g id="shape8212-7" transform="translate(1.41732,0)">
+					<title>Sheet.8212</title>
 					<path d="M4.94 111.62 L32.13 97.47 L34.49 97.47 a0.88189 0.89634 0 0 1 0.850394 0.60823 L37.95 104.96 L0 124.42
 								 L4.94 111.62 ZM24.38 130.31 L43.28 118.79 L46.71 127.88 A1.76378 1.79268 0 0 1 45.26 130.38 L24.38
 								 130.31 Z" class="st2"/>
 				</g>
-				<g id="shape8000-9" transform="translate(10.4567,-32.9085)">
-					<title>Sheet.8000</title>
+				<g id="shape8213-9" transform="translate(10.4567,-32.9085)">
+					<title>Sheet.8213</title>
 					<path d="M13.23 106.62 L0.25 114.28 a0.503937 0.512194 -180 0 0 -0.251969 0.44817 L0 115.91 a0.503937 0.512194
 								 -180 0 0 0.503937 0.512194 L2.46 116.42 L2.46 130.38 L4.91 130.38 L4.91 116.42 L22.05 116.42 L22.05
 								 130.38 L24.47 130.38 L24.47 116.42 L26.46 116.42 a0.503937 0.512194 -180 0 0 0.503937 -0.512194
@@ -53,8 +53,8 @@
 								 0 0 -0.409449 2.84217E-14 Z" class="st3"/>
 				</g>
 			</g>
-			<g id="shape7996-11">
-				<g id="shadow7996-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
+			<g id="shape8209-11">
+				<g id="shadow8209-12" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st4"/>
 				<text x="-3.98" y="146.08" class="st5">Azure Lighthouse</text>			</g>
 		</g>
 	</g>

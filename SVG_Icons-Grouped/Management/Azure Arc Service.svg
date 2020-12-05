@@ -37,59 +37,59 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8024-1" transform="translate(34,-34)">
-			<title>Azure Arc Service.8024</title>
+		<g id="group8237-1" transform="translate(34,-34)">
+			<title>Azure Arc Service.8237</title>
 			<desc>Azure Arc Service</desc>
-			<g id="group8025-2">
-				<title>Sheet.8025</title>
-				<g id="shape8026-3" transform="translate(0,-29.4379)">
-					<title>Sheet.8026</title>
+			<g id="group8238-2">
+				<title>Sheet.8238</title>
+				<g id="shape8239-3" transform="translate(0,-29.4379)">
+					<title>Sheet.8239</title>
 					<path d="M22.46 103.98 L11.23 110.52 L0 103.98 L11.23 97.44 L22.46 103.98 Z" class="st1"/>
 				</g>
-				<g id="shape8027-5" transform="translate(11.2315,-0.0220816)">
-					<title>Sheet.8027</title>
+				<g id="shape8240-5" transform="translate(11.2315,-0.0220816)">
+					<title>Sheet.8240</title>
 					<path d="M11.23 103.98 L0 97.49 L0 110.52 L11.23 103.98 Z" class="st2"/>
 				</g>
-				<g id="shape8028-7">
-					<title>Sheet.8028</title>
+				<g id="shape8241-7">
+					<title>Sheet.8241</title>
 					<path d="M11.23 81.08 L11.23 81.08 L11.23 81.08 L0 74.54 L0 103.98 L11.23 110.52 L22.46 103.98 L22.46 103.96
 								 L11.23 110.5 L11.23 97.46 L22.46 103.96 L22.46 74.54 L11.23 81.08 Z" class="st3"/>
 				</g>
-				<g id="shape8029-9" transform="translate(34.2299,-29.4379)">
-					<title>Sheet.8029</title>
+				<g id="shape8242-9" transform="translate(34.2299,-29.4379)">
+					<title>Sheet.8242</title>
 					<path d="M0 103.98 L11.23 110.52 L22.46 103.98 L11.23 97.44 L0 103.98 Z" class="st4"/>
 				</g>
-				<g id="shape8030-11" transform="translate(34.2299,-0.0220816)">
-					<title>Sheet.8030</title>
+				<g id="shape8243-11" transform="translate(34.2299,-0.0220816)">
+					<title>Sheet.8243</title>
 					<path d="M0 103.98 L11.23 97.49 L11.23 110.52 L0 103.98 Z" class="st5"/>
 				</g>
-				<g id="shape8031-13" transform="translate(34.2299,-6.56139)">
-					<title>Sheet.8031</title>
+				<g id="shape8244-13" transform="translate(34.2299,-6.56139)">
+					<title>Sheet.8244</title>
 					<path d="M11.23 87.62 L11.23 87.62 L11.23 104 L0 110.52 L0 81.08 L11.23 87.62 Z" class="st6"/>
 				</g>
-				<g id="shape8032-17" transform="translate(34.2299,-29.4379)">
-					<title>Sheet.8032</title>
+				<g id="shape8245-17" transform="translate(34.2299,-29.4379)">
+					<title>Sheet.8245</title>
 					<path d="M0 103.98 L11.23 110.52 L22.46 103.98 L11.23 97.44 L0 103.98 Z" class="st4"/>
 				</g>
-				<g id="shape8033-19" transform="translate(34.2299,-1.98952E-13)">
-					<title>Sheet.8033</title>
+				<g id="shape8246-19" transform="translate(34.2299,-1.98952E-13)">
+					<title>Sheet.8246</title>
 					<path d="M11.23 81.08 L0 74.54 L0 103.96 L11.23 97.46 L11.23 110.5 L0 103.96 L0 103.98 L11.23 110.52 L22.46 103.98
 								 L22.46 74.54 L11.23 81.08 Z" class="st7"/>
 				</g>
-				<g id="shape8034-21" transform="translate(34.2299,-0.0220816)">
-					<title>Sheet.8034</title>
+				<g id="shape8247-21" transform="translate(34.2299,-0.0220816)">
+					<title>Sheet.8247</title>
 					<path d="M0 103.98 L11.23 97.49 L11.23 110.52 L0 103.98 Z" class="st5"/>
 				</g>
-				<g id="shape8035-23" transform="translate(34.2299,-6.56139)">
-					<title>Sheet.8035</title>
+				<g id="shape8248-23" transform="translate(34.2299,-6.56139)">
+					<title>Sheet.8248</title>
 					<path d="M11.23 87.62 L11.23 87.62 L11.23 104 L0 110.52 L0 81.08 L11.23 87.62 Z" class="st6"/>
 				</g>
-				<g id="shape8036-26" transform="translate(11.2315,-6.53931)">
-					<title>Sheet.8036</title>
+				<g id="shape8249-26" transform="translate(11.2315,-6.53931)">
+					<title>Sheet.8249</title>
 					<path d="M0 87.62 L0 87.62 L0 104 L11.23 110.52 L11.23 81.08 L0 87.62 Z" class="st8"/>
 				</g>
-				<g id="shape8037-30" transform="translate(11.1528,-9.98088)">
-					<title>Sheet.8037</title>
+				<g id="shape8250-30" transform="translate(11.1528,-9.98088)">
+					<title>Sheet.8250</title>
 					<path d="M34.27 102.37 C32.31 107.28 24.62 110.52 17.43 110.52 L16.92 110.52 C9.74 110.52 2.04 107.28 0.08 102.37
 								 C0.08 102.37 0 97.44 0.08 96.96 C1.51 102.44 9 106.5 16.75 106.5 L17.6 106.5 C25.34 106.5 32.84
 								 102.44 34.27 96.96 C34.35 97.44 34.27 102.37 34.27 102.37 ZM31.05 89.17 A20.9543 20.987 0 0 1 17.6
@@ -97,8 +97,8 @@
 								 L17.43 97.84 C24.09 97.84 31.18 95.05 33.75 90.74 L31.05 89.17 Z" class="st9"/>
 				</g>
 			</g>
-			<g id="shape8024-34">
-				<g id="shadow8024-35" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st10"/>
+			<g id="shape8237-34">
+				<g id="shadow8237-35" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st10"/>
 				<text x="0.13" y="124.1" class="st11">Azure Arc Service</text>			</g>
 		</g>
 	</g>

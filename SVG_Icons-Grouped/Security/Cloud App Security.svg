@@ -28,33 +28,33 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8885-1" transform="translate(9.00935,-31.748)">
-			<title>Cloud App Security.8885</title>
+		<g id="group9116-1" transform="translate(9.00935,-31.748)">
+			<title>Cloud App Security.9116</title>
 			<desc>Cloud App Security</desc>
-			<g id="group8886-2">
+			<g id="group9117-2">
 				<title>g8</title>
-				<g id="shape8887-3" transform="translate(18.3199,-22.533)">
+				<g id="shape9118-3" transform="translate(18.3199,-22.533)">
 					<title>path53</title>
 					<ellipse cx="10.6327" cy="70.2271" rx="10.6327" ry="11.4107" class="st1"/>
 				</g>
-				<g id="shape8888-5">
+				<g id="shape9119-5">
 					<title>path6-9</title>
 					<path d="M49.91 59.58 C49.95 59.08 49.98 58.58 49.98 58.08 C49.98 50.15 43.38 43.71 35.28 43.71 C30.47 43.71
 								 26.06 45.99 23.34 49.69 A11.1539 11.0272 -180 0 0 17.46 48.05 C11.34 48.05 6.35 52.94 6.35 58.94
 								 L6.37 59.81 C2.23 61.88 0 65.31 0 69.61 C0 76.36 5.57 81.64 12.67 81.64 L44.02 81.64 C51.13 81.64
 								 56.69 76.36 56.69 69.61 C56.69 65.15 54.25 61.58 49.91 59.58 Z" class="st2"/>
 				</g>
-				<g id="shape8889-9" transform="translate(26.2961,-18.0594)">
+				<g id="shape9120-9" transform="translate(26.2961,-18.0594)">
 					<title>path875</title>
 					<ellipse cx="2.50496" cy="79.1613" rx="2.50496" ry="2.47648" class="st3"/>
 				</g>
-				<g id="shape8890-11" transform="translate(26.6903,-1.67639)">
+				<g id="shape9121-11" transform="translate(26.6903,-1.67639)">
 					<title>rect893</title>
 					<rect x="0" y="70.4234" width="4.29724" height="11.2144" class="st4"/>
 				</g>
 			</g>
-			<g id="shape8885-13">
-				<g id="shadow8885-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape9116-13">
+				<g id="shadow9116-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="-2.43" y="95.64" class="st6">Cloud App Security</text>			</g>
 		</g>
 	</g>

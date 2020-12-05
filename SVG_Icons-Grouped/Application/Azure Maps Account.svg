@@ -25,32 +25,32 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5246-1" transform="translate(11.7771,-39.685)">
-			<title>Azure Maps Account.5246</title>
+		<g id="group5385-1" transform="translate(11.7771,-39.685)">
+			<title>Azure Maps Account.5385</title>
 			<desc>Azure Maps Account</desc>
-			<g id="group5247-2">
+			<g id="group5386-2">
 				<title> atlasicon</title>
-				<g id="shape5248-3">
-					<title>Sheet.5248</title>
+				<g id="shape5387-3">
+					<title>Sheet.5387</title>
 					<path d="M43.74 93.54 C32.78 102.05 17.04 100.05 8.52 89.11 C0 78.17 2 62.44 12.96 53.93 C13.03 53.86 13.1 53.79
 								 13.24 53.72 C24.27 45.35 40.01 47.57 48.39 58.58 C56.69 69.59 54.62 85.1 43.74 93.54 Z"
 							class="st1"/>
 				</g>
-				<g id="shape5249-7" transform="translate(13.6722,-17.0145)">
-					<title>Sheet.5249</title>
+				<g id="shape5388-7" transform="translate(13.6722,-17.0145)">
+					<title>Sheet.5388</title>
 					<path d="M18.68 72.38 L0 102.05 L23.41 92.97 L18.68 72.38 L18.68 72.38 Z" class="st2"/>
 				</g>
-				<g id="shape5250-9" transform="translate(28.5612,-12.582)">
-					<title>Sheet.5250</title>
+				<g id="shape5389-9" transform="translate(28.5612,-12.582)">
+					<title>Sheet.5389</title>
 					<path d="M0 73.95 L11.6 102.05 L3.79 67.95 L0 73.95 L0 73.95 Z" class="st3"/>
 				</g>
-				<g id="shape5251-11" transform="translate(27.9168,-12.5109)">
-					<title>Sheet.5251</title>
+				<g id="shape5390-11" transform="translate(27.9168,-12.5109)">
+					<title>Sheet.5390</title>
 					<path d="M0 92.04 L7.02 89.32 L12.24 102.05 L0 92.04 L0 92.04 Z" class="st4"/>
 				</g>
 			</g>
-			<g id="shape5246-13">
-				<g id="shadow5246-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape5385-13">
+				<g id="shadow5385-14" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="-5.19" y="117.75" class="st6">Azure Maps Account</text>			</g>
 		</g>
 	</g>

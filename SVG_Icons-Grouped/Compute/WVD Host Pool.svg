@@ -26,38 +26,38 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5360-1" transform="translate(34,-39.685)">
-			<title>WVD Host Pool.5360</title>
+		<g id="group5499-1" transform="translate(34,-39.685)">
+			<title>WVD Host Pool.5499</title>
 			<desc>WVD Host Pool</desc>
-			<g id="group5361-2">
+			<g id="group5500-2">
 				<title>HostPools</title>
-				<g id="shape5362-3">
-					<title>Sheet.5362</title>
+				<g id="shape5501-3">
+					<title>Sheet.5501</title>
 					<ellipse cx="28.3465" cy="102.031" rx="28.3465" ry="28.3465" class="st1"/>
 				</g>
-				<g id="shape5363-7" transform="translate(28.2931,-12.6492)">
-					<title>Sheet.5363</title>
+				<g id="shape5502-7" transform="translate(28.2931,-12.6492)">
+					<title>Sheet.5502</title>
 					<path d="M13.55 106.79 L13.55 122.5 L0 130.38 L0 114.65 L13.55 106.79 Z" class="st2"/>
 				</g>
-				<g id="shape5364-9" transform="translate(14.7668,-28.3465)">
-					<title>Sheet.5364</title>
+				<g id="shape5503-9" transform="translate(14.7668,-28.3465)">
+					<title>Sheet.5503</title>
 					<path d="M27.07 122.49 L13.55 130.38 L0 122.49 L13.55 114.61 L27.07 122.49 Z" class="st3"/>
 				</g>
-				<g id="shape5365-11" transform="translate(14.7668,-12.6425)">
-					<title>Sheet.5365</title>
+				<g id="shape5504-11" transform="translate(14.7668,-12.6425)">
+					<title>Sheet.5504</title>
 					<path d="M13.53 114.67 L13.53 130.38 L0 122.49 L0 106.79 L13.53 114.67 Z" class="st4"/>
 				</g>
-				<g id="shape5366-13" transform="translate(14.7668,-12.6492)">
-					<title>Sheet.5366</title>
+				<g id="shape5505-13" transform="translate(14.7668,-12.6492)">
+					<title>Sheet.5505</title>
 					<path d="M0 122.5 L13.53 114.65 L13.53 130.38 L0 122.5 Z" class="st3"/>
 				</g>
-				<g id="shape5367-15" transform="translate(28.2931,-12.6492)">
-					<title>Sheet.5367</title>
+				<g id="shape5506-15" transform="translate(28.2931,-12.6492)">
+					<title>Sheet.5506</title>
 					<path d="M13.55 122.5 L0 114.65 L0 130.38 L13.55 122.5 Z" class="st4"/>
 				</g>
 			</g>
-			<g id="shape5360-17">
-				<g id="shadow5360-18" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
+			<g id="shape5499-17">
+				<g id="shadow5499-18" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st5"/>
 				<text x="3.54" y="146.08" class="st6">WVD Host Pool</text>			</g>
 		</g>
 	</g>

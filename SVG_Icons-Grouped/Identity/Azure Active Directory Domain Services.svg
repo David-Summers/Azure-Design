@@ -36,51 +36,51 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7210-1" transform="translate(34,-36.019)">
-			<title>Azure Active Directory Domain Services.7210</title>
+		<g id="group7365-1" transform="translate(34,-36.019)">
+			<title>Azure Active Directory Domain Services.7365</title>
 			<desc>Azure Active Directory Domain Services</desc>
-			<g id="group7211-2">
+			<g id="group7366-2">
 				<title>Icon-identity-222</title>
-				<g id="shape7212-3">
-					<title>Sheet.7212</title>
+				<g id="shape7367-3">
+					<title>Sheet.7367</title>
 					<path d="M3.18 99.24 L28.13 115.25 L53.51 99.18 L56.69 102.82 L28.13 121.04 L0 102.85 L3.18 99.24 Z"
 							class="st1"/>
 				</g>
-				<g id="shape7213-5" transform="translate(5.07087,-9.12694)">
-					<title>Sheet.7213</title>
+				<g id="shape7368-5" transform="translate(5.07087,-9.12694)">
+					<title>Sheet.7368</title>
 					<path d="M0 106.31 L23.06 79.15 L46.58 106.34 L23.06 121.04 L0 106.31 Z" class="st2"/>
 				</g>
-				<g id="shape7214-7" transform="translate(5.07087,-9.12694)">
-					<title>Sheet.7214</title>
+				<g id="shape7369-7" transform="translate(5.07087,-9.12694)">
+					<title>Sheet.7369</title>
 					<path d="M23.06 79.15 L23.06 121.04 L0 106.31 L23.06 79.15 Z" class="st1"/>
 				</g>
-				<g id="shape7215-9" transform="translate(28.126,-9.12694)">
-					<title>Sheet.7215</title>
+				<g id="shape7370-9" transform="translate(28.126,-9.12694)">
+					<title>Sheet.7370</title>
 					<path d="M0 79.15 L0 121.04 L23.53 106.34 L0 79.15 Z" class="st3"/>
 				</g>
-				<g id="shape7216-13" transform="translate(28.126,-9.12694)">
-					<title>Sheet.7216</title>
+				<g id="shape7371-13" transform="translate(28.126,-9.12694)">
+					<title>Sheet.7371</title>
 					<path d="M0 100.8 L23.53 106.34 L0 121.04 L0 100.8 Z" class="st4"/>
 				</g>
-				<g id="shape7217-15" transform="translate(5.07087,-9.12694)">
-					<title>Sheet.7217</title>
+				<g id="shape7372-15" transform="translate(5.07087,-9.12694)">
+					<title>Sheet.7372</title>
 					<path d="M23.06 121.04 L0 106.31 L23.06 100.8 L23.06 121.04 Z" class="st5"/>
 				</g>
-				<g id="shape7218-17" transform="translate(28.126,2.55795E-13)">
-					<title>Sheet.7218</title>
+				<g id="shape7373-17" transform="translate(28.126,2.55795E-13)">
+					<title>Sheet.7373</title>
 					<path d="M0 121.04 L28.57 102.82 L25.39 99.18 L0 115.25 L0 121.04 Z" class="st6"/>
 				</g>
-				<g id="shape7219-21" transform="translate(28.5354,-0.342649)">
-					<title>Sheet.7219</title>
+				<g id="shape7374-21" transform="translate(28.5354,-0.342649)">
+					<title>Sheet.7374</title>
 					<path d="M14.08 95.87 L0 115.37 L14.08 121.04 L28.16 115.37 L14.08 95.87 Z" class="st7"/>
 				</g>
-				<g id="shape7220-23" transform="translate(28.5354,-0.342649)">
-					<title>Sheet.7220</title>
+				<g id="shape7375-23" transform="translate(28.5354,-0.342649)">
+					<title>Sheet.7375</title>
 					<path d="M14.08 95.87 L0 115.37 L14.08 121.04 L14.08 95.87 Z" class="st8"/>
 				</g>
 			</g>
-			<g id="shape7210-25">
-				<g id="shadow7210-26" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st9"/>
+			<g id="shape7365-25">
+				<g id="shadow7365-26" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st9"/>
 				<text x="-21.62" y="135.9" class="st10">Azure Active Directory Domain <tspan x="15.15" dy="1.2em" class="st11">Services</tspan></text>			</g>
 		</g>
 	</g>

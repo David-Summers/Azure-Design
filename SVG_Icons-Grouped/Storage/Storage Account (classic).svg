@@ -27,42 +27,42 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group9025-1" transform="translate(34,-34)">
-			<title>Storage Account (classic).9025</title>
+		<g id="group9263-1" transform="translate(34,-34)">
+			<title>Storage Account (classic).9263</title>
 			<desc>Storage Account (classic)</desc>
-			<g id="group9026-2">
+			<g id="group9264-2">
 				<title>Icon-storage-87</title>
-				<g id="shape9027-3">
-					<title>Sheet.9027</title>
+				<g id="shape9265-3">
+					<title>Sheet.9265</title>
 					<path d="M0 80.01 L56.69 80.01 L56.69 111.46 A1.90088 1.89115 0 0 1 54.79 113.35 L1.9 113.35 A1.90088 1.89115
 								 0 0 1 0 111.46 L0 80.01 Z" class="st1"/>
 				</g>
-				<g id="shape9028-7" transform="translate(0,-33.3439)">
-					<title>Sheet.9028</title>
+				<g id="shape9266-7" transform="translate(0,-33.3439)">
+					<title>Sheet.9266</title>
 					<path d="M1.9 101.34 L54.79 101.34 A1.90088 1.89115 0 0 1 56.69 103.24 L56.69 113.35 L0 113.35 L0 103.2 A1.90088
 								 1.89115 0 0 1 1.9 101.34 Z" class="st2"/>
 				</g>
-				<g id="shape9029-9" transform="translate(6.8365,-23.2578)">
-					<title>Sheet.9029</title>
+				<g id="shape9267-9" transform="translate(6.8365,-23.2578)">
+					<title>Sheet.9267</title>
 					<path d="M0.87 106.92 L42.12 106.92 a0.900417 0.895806 0 0 1 0.867068 0.895806 L42.99 112.46 a0.900417 0.895806
 								 0 0 1 -0.867068 0.895806 L0.87 113.35 a0.900417 0.895806 0 0 1 -0.867068 -0.895806 L0 107.81 a0.900417
 								 0.895806 0 0 1 0.867068 -0.895806 Z" class="st3"/>
 				</g>
-				<g id="shape9030-11" transform="translate(6.86985,-13.9679)">
-					<title>Sheet.9030</title>
+				<g id="shape9268-11" transform="translate(6.86985,-13.9679)">
+					<title>Sheet.9268</title>
 					<path d="M0.87 106.88 L42.12 106.88 a0.900417 0.895806 0 0 1 0.867068 0.895806 L42.99 112.46 a0.900417 0.895806
 								 0 0 1 -0.867068 0.895806 L0.87 113.35 a0.900417 0.895806 0 0 1 -0.867068 -0.895806 L0 107.95 a0.900417
 								 0.895806 0 0 1 0.867068 -1.0617 Z" class="st4"/>
 				</g>
-				<g id="shape9031-13" transform="translate(6.86985,-4.61174)">
-					<title>Sheet.9031</title>
+				<g id="shape9269-13" transform="translate(6.86985,-4.61174)">
+					<title>Sheet.9269</title>
 					<path d="M0.87 106.88 L42.12 106.88 a0.900417 0.895806 0 0 1 0.867068 0.895806 L42.99 112.46 a0.900417 0.895806
 								 0 0 1 -0.867068 0.895806 L0.87 113.35 a0.900417 0.895806 0 0 1 -0.867068 -0.895806 L0 107.78 a0.900417
 								 0.895806 0 0 1 0.867068 -0.895806 Z" class="st5"/>
 				</g>
 			</g>
-			<g id="shape9025-15">
-				<g id="shadow9025-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
+			<g id="shape9263-15">
+				<g id="shadow9263-16" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st6"/>
 				<text x="-11.97" y="127.36" class="st7">Storage Account (classic)</text>			</g>
 		</g>
 	</g>

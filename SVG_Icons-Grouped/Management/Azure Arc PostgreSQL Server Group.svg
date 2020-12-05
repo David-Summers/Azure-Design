@@ -31,46 +31,46 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8038-1" transform="translate(33.9071,-39.685)">
-			<title>Azure Arc PostgreSQL Server Group.8038</title>
+		<g id="group8251-1" transform="translate(33.9071,-39.685)">
+			<title>Azure Arc PostgreSQL Server Group.8251</title>
 			<desc>Azure Arc PostgreSQL Server Group</desc>
-			<g id="group8039-2">
-				<title>Sheet.8039</title>
-				<g id="shape8040-3" transform="translate(0.0746201,0)">
-					<title>Sheet.8040</title>
+			<g id="group8252-2">
+				<title>Sheet.8252</title>
+				<g id="shape8253-3" transform="translate(0.0746201,0)">
+					<title>Sheet.8253</title>
 					<path d="M53.61 121.5 C53.11 123.72 50.37 125.9 45.42 127.6 A67.5472 68.2711 0 0 1 7.47 127.66 C2.91 126.03 0.45
 								 123.96 0.07 121.83 C0 121.46 0.07 115.61 0.07 115.61 L53.69 115.11 C53.69 115.11 53.67 121.23 53.61
 								 121.5 Z" class="st1"/>
 				</g>
-				<g id="shape8041-5" transform="translate(-1.12118,-5.23233) rotate(-0.575)">
-					<title>Sheet.8041</title>
+				<g id="shape8254-5" transform="translate(-1.12118,-5.23233) rotate(-0.575)">
+					<title>Sheet.8254</title>
 					<ellipse cx="26.8374" cy="121" rx="26.8374" ry="9.37799" class="st2"/>
 				</g>
-				<g id="shape8042-7" transform="translate(7.96373,-9.88204)">
-					<title>Sheet.8042</title>
+				<g id="shape8255-7" transform="translate(7.96373,-9.88204)">
+					<title>Sheet.8255</title>
 					<path d="M17.46 96.34 C7.82 96.34 0 93.59 0 89.96 L0 123.99 C0 127.49 7.68 130.31 17.21 130.38 L17.46 130.38
 								 C27.11 130.38 34.92 127.62 34.92 123.99 L34.92 89.96 C34.92 93.51 27.1 96.34 17.46 96.34 Z"
 							class="st3"/>
 				</g>
-				<g id="shape8043-11" transform="translate(7.96373,-43.918)">
-					<title>Sheet.8043</title>
+				<g id="shape8256-11" transform="translate(7.96373,-43.918)">
+					<title>Sheet.8256</title>
 					<path d="M34.92 123.99 C34.92 127.54 27.1 130.38 17.46 130.38 C7.82 130.38 0 127.64 0 123.99 C0 120.35 7.82 117.6
 								 17.46 117.6 C27.11 117.6 34.92 120.36 34.92 123.99 Z" class="st4"/>
 				</g>
-				<g id="shape8044-13" transform="translate(12.0225,-46.7519)">
-					<title>Sheet.8044</title>
+				<g id="shape8257-13" transform="translate(12.0225,-46.7519)">
+					<title>Sheet.8257</title>
 					<path d="M26.8 126.3 C26.8 128.56 20.78 130.38 13.39 130.38 C6.01 130.38 0 128.55 0 126.3 C0 124.05 6.02 122.25
 								 13.4 122.25 C20.79 122.25 26.8 124.07 26.8 126.31 L26.8 126.3 Z" class="st5"/>
 					<path d="M26.8 126.3 C26.8 128.56 20.78 130.38 13.39 130.38 C6.01 130.38 0 128.55 0 126.3 C0 124.05 6.02 122.25
 								 13.4 122.25 C20.79 122.25 26.8 124.07 26.8 126.31" class="st6"/>
 				</g>
-				<g id="shape8045-16" transform="translate(14.8295,-46.7488)">
-					<title>Sheet.8045</title>
+				<g id="shape8258-16" transform="translate(14.8295,-46.7488)">
+					<title>Sheet.8258</title>
 					<path d="M10.6 127.3 A31.4626 31.7998 -180 0 0 -0 128.89 A31.1089 31.4424 -180 0 0 10.6 130.38 A30.3047 30.6295
 								 -180 0 0 21.19 128.8 A32.32 32.6664 -180 0 0 10.6 127.3 Z" class="st7"/>
 				</g>
-				<g id="shape8046-18" transform="translate(13.728,-14.5568)">
-					<title>Sheet.8046</title>
+				<g id="shape8259-18" transform="translate(13.728,-14.5568)">
+					<title>Sheet.8259</title>
 					<path d="M20.42 111.86 L20.42 113.01 A14.4795 14.6347 -180 0 0 20.21 114.75 A4.3279 4.37429 -180 0 0 20.34 116.01
 								 A2.30008 2.32473 0 0 1 20.34 117 A4.54696 4.59569 0 0 1 19.66 119.37 a0.97323 0.983661 -180 0 0
 								 -1.77636E-14 0.192937 L19.93 119.89 A28.7557 29.0639 -180 0 0 22.82 113.34 C23.58 110.73 23.66 108.86
@@ -114,19 +114,19 @@
 								 0 0 1 18.82 120.9 A1.71176 1.7301 0 0 1 19.56 120.24 A14.5922 14.7486 0 0 1 16.64 115.27 L16.53
 								 115.43 Z" class="st8"/>
 				</g>
-				<g id="shape8047-20" transform="translate(-44.66,23.6962) rotate(-40.155)">
-					<title>Sheet.8047</title>
+				<g id="shape8260-20" transform="translate(-44.66,23.6962) rotate(-40.155)">
+					<title>Sheet.8260</title>
 					<ellipse cx="8.37729" cy="124.236" rx="8.37729" ry="6.14235" class="st9"/>
 				</g>
-				<g id="shape8048-22" transform="translate(35.6867,-12.3333)">
-					<title>Sheet.8048</title>
+				<g id="shape8261-22" transform="translate(35.6867,-12.3333)">
+					<title>Sheet.8261</title>
 					<path d="M4.11 128.24 A2.93847 2.96996 0 0 1 4.23 123.21 C7.36 120.94 7.56 124.21 5.05 124.64 C5.05 125.81 8.32
 								 125.67 9.74 123.06 C11.33 120.09 6.67 118.22 2.64 122.71 C0.06 125.59 0 129.52 2.28 130.38 A6.88459
 								 6.95837 -180 0 0 11.11 123.1 C8.92 128.23 5.83 128.97 4.11 128.24 Z" class="st10"/>
 				</g>
 			</g>
-			<g id="shape8038-24">
-				<g id="shadow8038-25" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st11"/>
+			<g id="shape8251-24">
+				<g id="shadow8251-25" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st11"/>
 				<text x="-19.54" y="146.08" class="st12">Azure Arc PostgreSQL Server <tspan x="16.7" dy="1.2em" class="st13">Group</tspan></text>			</g>
 		</g>
 	</g>

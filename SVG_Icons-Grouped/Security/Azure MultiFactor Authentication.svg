@@ -16,21 +16,21 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group8891-1" transform="translate(39.6,-39.685)">
-			<title>Azure MultiFactor Authentication.8891</title>
+		<g id="group9122-1" transform="translate(39.6,-39.685)">
+			<title>Azure MultiFactor Authentication.9122</title>
 			<desc>Azure MultiFactor Authentication</desc>
-			<g id="group8892-2">
+			<g id="group9123-2">
 				<title> MFA_Icon</title>
-				<g id="group8893-3">
-					<title>Sheet.8893</title>
-					<g id="shape8894-4" transform="translate(7.08661,-41.8145)">
-						<title>Sheet.8894</title>
+				<g id="group9124-3">
+					<title>Sheet.9124</title>
+					<g id="shape9125-4" transform="translate(7.08661,-41.8145)">
+						<title>Sheet.9125</title>
 						<path d="M14.17 126.48 A8.78445 8.77171 0 0 1 22.95 135.03 C24.7 135.26 26.5 135.57 28.33 135.98 C28.34 135.74
 									 28.35 135.5 28.35 135.25 A14.1732 14.1527 -180 1 0 0 135.25 C0 135.48 0.01 135.71 0.02 135.94
 									 C1.59 135.59 3.4 135.27 5.41 135.01 A8.78445 8.77171 0 0 1 14.17 126.48 Z" class="st1"/>
 					</g>
-					<g id="shape8895-6">
-						<title>Sheet.8895</title>
+					<g id="shape9126-6">
+						<title>Sheet.9126</title>
 						<path d="M0 98.82 L0 104.13 A34.6211 34.5709 -180 0 0 21.26 135.98 A34.6211 34.5709 -180 0 0 42.52 104.13
 									 L42.52 98.82 A65.0912 64.9968 -180 0 0 -0 98.82 ZM28.35 120.1 L14.17 120.1 L14.17 119.17 A7.09797
 									 7.08768 0 0 1 18.98 112.46 A5.31496 5.30725 0 1 1 23.53 112.46 A7.09797 7.08768 0 0 1 28.35
@@ -38,8 +38,8 @@
 					</g>
 				</g>
 			</g>
-			<g id="shape8891-8">
-				<g id="shadow8891-9" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st2"/>
+			<g id="shape9122-8">
+				<g id="shadow9122-9" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st2"/>
 				<text x="-8.01" y="151.68" class="st3">Azure MultiFactor <tspan x="-3.02" dy="1.2em" class="st4">Authentication</tspan></text>			</g>
 		</g>
 	</g>

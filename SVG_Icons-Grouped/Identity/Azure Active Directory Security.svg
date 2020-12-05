@@ -23,27 +23,27 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7152-1" transform="translate(34,-39.685)">
-			<title>Azure Active Directory Security.7152</title>
+		<g id="group7304-1" transform="translate(34,-39.685)">
+			<title>Azure Active Directory Security.7304</title>
 			<desc>Azure Active Directory Security</desc>
-			<g id="group7153-2">
+			<g id="group7305-2">
 				<title>blueshield</title>
-				<g id="shape7154-3">
-					<title>Sheet.7154</title>
+				<g id="shape7306-3">
+					<title>Sheet.7306</title>
 					<path d="M45.35 100.15 C45.35 115.39 27.33 127.68 23.42 130.17 A1.41732 1.44901 0 0 1 21.94 130.17 C18.02 127.68
 								 0 115.39 0 100.15 L0 81.81 A1.41732 1.44901 0 0 1 1.39 80.36 C15.41 79.99 12.17 73.69 22.68 73.69
 								 C33.18 73.69 29.95 79.99 43.97 80.36 A1.41732 1.44901 0 0 1 45.35 81.81 L45.35 100.15 Z"
 							class="st1"/>
 				</g>
-				<g id="shape7155-5" transform="translate(1.87949,-2.35265)">
-					<title>Sheet.7155</title>
+				<g id="shape7307-5" transform="translate(1.87949,-2.35265)">
+					<title>Sheet.7307</title>
 					<path d="M41.6 102.66 C41.6 116.64 25.08 127.86 21.48 130.19 A1.32181 1.35136 0 0 1 20.12 130.19 C16.51 127.92
 								 0 116.64 0 102.66 L0 85.83 A1.29408 1.32301 0 0 1 1.26 84.51 C14.11 84.16 11.15 78.4 20.8 78.4 C30.44
 								 78.4 27.48 84.16 40.33 84.51 A1.29408 1.32301 0 0 1 41.6 85.83 L41.6 102.66 Z" class="st2"/>
 				</g>
 			</g>
-			<g id="shape7152-9">
-				<g id="shadow7152-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
+			<g id="shape7304-9">
+				<g id="shadow7304-10" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st3"/>
 				<text x="-13.68" y="146.08" class="st4">Azure Active Directory <tspan x="9.59" dy="1.2em" class="st5">Security</tspan></text>			</g>
 		</g>
 	</g>

@@ -37,41 +37,41 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7221-1" transform="translate(34,-37.7008)">
-			<title>Azure Active Directory Connect Health.7221</title>
+		<g id="group7376-1" transform="translate(34,-37.7008)">
+			<title>Azure Active Directory Connect Health.7376</title>
 			<desc>Azure Active Directory Connect Health</desc>
-			<g id="group7222-2">
+			<g id="group7377-2">
 				<title>Icon-identity-224</title>
-				<g id="shape7223-3" transform="translate(0,-1.22113)">
-					<title>Sheet.7223</title>
+				<g id="shape7378-3" transform="translate(0,-1.22113)">
+					<title>Sheet.7378</title>
 					<path d="M3.21 103.06 L28.08 119.58 L53.42 103 L56.6 106.79 L28.08 125.56 L0 106.79 L3.21 103.06 Z" class="st1"/>
 				</g>
-				<g id="shape7224-5" transform="translate(5.06243,-10.6367)">
-					<title>Sheet.7224</title>
+				<g id="shape7379-5" transform="translate(5.06243,-10.6367)">
+					<title>Sheet.7379</title>
 					<path d="M0 110.36 L23.02 82.34 L46.51 110.39 L23.02 125.56 L0 110.36 Z" class="st2"/>
 				</g>
-				<g id="shape7225-7" transform="translate(5.06243,-10.6367)">
-					<title>Sheet.7225</title>
+				<g id="shape7380-7" transform="translate(5.06243,-10.6367)">
+					<title>Sheet.7380</title>
 					<path d="M23.02 82.34 L23.02 125.56 L0 110.36 L23.02 82.34 Z" class="st1"/>
 				</g>
-				<g id="shape7226-9" transform="translate(28.0792,-10.6367)">
-					<title>Sheet.7226</title>
+				<g id="shape7381-9" transform="translate(28.0792,-10.6367)">
+					<title>Sheet.7381</title>
 					<path d="M0 82.34 L0 125.56 L23.49 110.39 L0 82.34 Z" class="st3"/>
 				</g>
-				<g id="shape7227-13" transform="translate(28.0792,-10.6367)">
-					<title>Sheet.7227</title>
+				<g id="shape7382-13" transform="translate(28.0792,-10.6367)">
+					<title>Sheet.7382</title>
 					<path d="M0 104.67 L23.49 110.39 L0 125.56 L0 104.67 Z" class="st4"/>
 				</g>
-				<g id="shape7228-15" transform="translate(5.06243,-10.6367)">
-					<title>Sheet.7228</title>
+				<g id="shape7383-15" transform="translate(5.06243,-10.6367)">
+					<title>Sheet.7383</title>
 					<path d="M23.02 125.56 L0 110.36 L23.02 104.67 L23.02 125.56 Z" class="st5"/>
 				</g>
-				<g id="shape7229-17" transform="translate(28.0792,-1.22113)">
-					<title>Sheet.7229</title>
+				<g id="shape7384-17" transform="translate(28.0792,-1.22113)">
+					<title>Sheet.7384</title>
 					<path d="M0 125.56 L28.52 106.79 L25.34 103 L0 119.58 L0 125.56 Z" class="st6"/>
 				</g>
-				<g id="shape7230-21" transform="translate(28.3936,0)">
-					<title>Sheet.7230</title>
+				<g id="shape7385-21" transform="translate(28.3936,0)">
+					<title>Sheet.7385</title>
 					<path d="M14.21 125.56 C27.98 115.47 28.3 109.72 28.3 107.92 C28.3 105.35 28.05 98.66 21.48 98.28 A7.13771 7.29465
 								 -180 0 0 14.15 103.16 A7.10627 7.26251 -180 0 0 6.92 98.15 C0.35 98.63 0 105.35 0 107.92 C0 109.72
 								 0.41 115.47 14.06 125.46 L14.21 125.56 Z" class="st7"/>
@@ -79,8 +79,8 @@
 								 -180 0 0 14.15 103.16 A7.10627 7.26251 -180 0 0 6.92 98.15 C0.35 98.63 0 105.35 0 107.92 C0 109.72
 								 0.41 115.47 14.06 125.46" class="st8"/>
 				</g>
-				<g id="shape7231-24" transform="translate(30.5632,-6.70233)">
-					<title>Sheet.7231</title>
+				<g id="shape7386-24" transform="translate(30.5632,-6.70233)">
+					<title>Sheet.7386</title>
 					<path d="M26.13 113.59 L19.84 113.59 a0.534542 0.546295 -180 0 0 -0.440211 0.25708 L17.42 117.29 a0.251549 0.25708
 								 0 0 1 -0.440211 -1.42109E-14 L13.99 111.76 a0.503099 0.51416 -180 0 0 -0.94331 1.42109E-14 L10.41
 								 120.11 a0.251549 0.25708 0 0 1 -0.471655 0 L7.55 114.49 a0.503099 0.51416 -180 0 0 -0.911866 1.42109E-14
@@ -98,8 +98,8 @@
 								 L20.72 115.94 a0.534542 0.546295 0 0 1 0.440211 -0.25708 L26.13 115.68" class="st8"/>
 				</g>
 			</g>
-			<g id="shape7221-27">
-				<g id="shadow7221-28" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st10"/>
+			<g id="shape7376-27">
+				<g id="shadow7376-28" transform="matrix(1,0,0,1,1.41732,1.41732)" class="st10"/>
 				<text x="-22.38" y="140.84" class="st11">Azure Active Directory Connect <tspan x="17.59" dy="1.2em" class="st12">Health</tspan></text>			</g>
 		</g>
 	</g>
