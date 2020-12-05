@@ -85,7 +85,9 @@ Some example images to show stencil functionality: -
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Shape-Data.png)
 
+## Sponsorhip
 
+If you would like to support my development or just say thank you! Then check out my Sponsorhip page https://github.com/sponsors/David-Summers
 
 ## Stencil Usage
 
