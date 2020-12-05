@@ -112,6 +112,7 @@ A few versions ago I added search metadata to each icon, this was a massive feat
 This is a quirk of Visio going back to 2007 and I figured out the right combination of settings that "should" work for you. 
 
 First, ensure that your Windows Search service is actually running
+
 Next, ensure that your Windows Indexing settings for VSSX files is enabled to index content as below. 
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Indexing%20Options.jpg)
@@ -122,13 +123,13 @@ Next, ensure your Shapes folder is enabled for indexing.
 
 Next, ensure that Visio has the following setting under Shape Search to match on any word
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Visio%Options.jpg)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Visio%20Options.jpg)
 
 Finally, and this was the main showstopper for many. Visio will only provide results if the Stencil is in English (United States) locale AND (This is the important bit) if you open a new document using US Units of measure then you will receive search results! Metric = No results :( 
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/New%20Document%20Options.jpg)
 
-To assists in part with the above, in version 3.1 I changed the Stencil locale from English Australia to English United States. Hopefully the above will get search working and as an example on my Windows 10 with Visio 2016 install, search is working for me. 
+To assist in part with the above, in version 3.1 I changed the Stencil locale from English Australia to English United States. Hopefully the other suggestions above will get search working for you and as an example on my Windows 10 with Visio 2016 install, search is working for me. 
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Working%20Search%20Example.jpg)
 
