@@ -1,5 +1,3 @@
-
-
 ## Background
 
 Visio remains to this day an industry standard for the depiction of IT infrastructure from both a conceptual and design perspective, over the years I have built diagrams using Visio stencils created by Microsoft and the IT Tech community to convey my ideas accurately and effectively as design documentation. 
@@ -14,8 +12,6 @@ SVG's can easily be imported into Visio and due to the file format supporting ra
 - **Lack of programmability** (having icons in a stencil allows you to leverage PowerShell or other languages to programmatically draw diagrams)
 
 With these limitations and the lack of standardised up to date stencils I set out on a personal mission to build my own functional, relevant and as up to date as possible Visio stencil for anyone to use. With permission (and the only caveat that I maintain an up to date collection) from the Microsoft Cloud and Enterprise team to build an icon collection based on the publicly available icons, I built a fully programmatic method to build a stencil collection using SVG's as the source icons. 
-
-
 
 ### My process and methodology
 
@@ -38,56 +34,53 @@ However things started getting messy when Microsoft updated a huge collection of
 Enter PowerShell and the Visio COM application method. If you review my version history below you will see that this project has evolved significantly since I started and I have built a full import and conversion process that performs the following. 
 
 1. Scans a build directory for SVG's and sorts a list of icons by name 
-
 2. Launches Visio as a COM application and performs a page drop for the SVG
-
 3. Gets the current width and height of the icon and scales up or down until either the width or height of the icon is 20mm
-
 4. Adds Shape data placeholders to support adding metadata when using PowerShell to enumerate Azure resources such as ResourceID for example
-
 5. Adds connection points to the icon (North, East, South, West, South of Textbox, North East, South East, South West and North West)
-
 6. Adds a slight drop shadow to the icon
-
 7. Repositions the default text field to the bottom of the icon
-
 8. Drops the icon into the main stencil and another copy into the by category stencil
-
 9. Adds metadata to the stencil master such as Name, Hover, Search (Including the category and icon name)
-
 10. Imports my drawing tools from a stencil 
-
 11. Sorts all of the imported icons into a grid for inspection and then export to PNG as a visual index for the stencil content
-
 12. Exports out a high resolution PNG and SVG version of the now re-scaled icon for use in other applications
-
-13. Saves everything to my GitHub Repo staging folder
-
-    
+13. Saves everything to my GitHub Repo staging folder   
 
 With this process I can build and re-build over and over again in minutes and this allows me to keep this collection up to date and focus on adding more functionality. 
+
+**PNG Image of the current full stencil content**
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-3.1.png)
 
 Some example images to show stencil functionality: -
 
 **Source SVG files**
 
+This is where I pick up the source SVG Files, using an _ as a delimiter this allows me to classify the type of icon for the grouping process.
+
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/SourceFiles.png)
 
 **Connection points**
+Exact connection points relative to the center of the icon
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Connection-Points.png)
 
 **Connection point usage**
 
+Easily connect to and from the icon in multiple directions
+
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Connection-Point-Example.png)
 
 **Shape Data**
+
+Coming soon, super awesome programatic diagram creation. Enumerating resources from Azure and then populating the resources into Visio and adding the relevant metadata to the shape. This unlocks a massive initiative I am working on which is a reverse of this. Design in Visio, add Azure metadata and then push the deployment to Azure via PowerShell. 
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Shape-Data.png)
 
 ## Sponsorhip
 
-If you would like to support my development or just say thank you! Then check out my Sponsorhip page https://github.com/sponsors/David-Summers
+If you would like to support my development or just say thank you! Then check out my Sponsorhip page https://github.com/sponsors/David-Summers - if I receive enough support I will consider adding a new support tier where you can request your own customised stencil. 
 
 ## Stencil Usage
 
@@ -95,21 +88,52 @@ First you need to decide how you would like to use these stencils. I have provid
 
 **Option 1 - Use the single stencil file that contains all of the icons and drawing tools**
 
+Download the current version containing all Icons - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-3.1.vssx
+
 **Option 2 - Use just the category stencil files that you need** 
 
-### Installation
+In the root of this repo you will see categorised stencils. Only want to use the Identity related stencil then just download the one you need. 
 
-Download the stencil(s) and save to your "My Shapes" folder (normally under C:\Users\%YourUserName%\Documents\My Shapes)
+**Option 3 - Dont use Visio?
+
+You also have the PNG and SVG versions of the Icons, they have been scaled the same way as the stencil and can be used in other applications. 
+
+## Installation
+
+Download the stencil(s) and save to your "My Shapes" folder (normally under "C:\Users\%YourUserName%\Documents\My Shapes")
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Collection-Example.png)
 
+## Special note on Search
 
+A few versions ago I added search metadata to each icon, this was a massive feature add and really tricky to work out via the Visio COM. However after publishing this update I recieve heaps of feedback that search was not working. I posted a Twitter poll about this and suprisingly 50% responded that search was working! 
+
+This is a quirk of Visio going back to 2007 and I figured out the right combination of settings that "should" work for you. 
+
+First, ensure that your Windows Search service is actually running
+Next, ensure that your Windows Indexing settings for VSSX files is enabled to index content as below. 
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Indexing Options.png)
+
+Next, ensure your Shapes folder is enabled for indexing.
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Folder Index Options.png)
+
+Next, ensure that Visio has the following setting under Shape Search to match on any word
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Visio Options.png)
+
+Finally, and this was the main showstopper for many. Visio will only provide results if the Stencil is in English (United States) locale AND (This is the important bit) if you open a new document using US Units of measure then you will receive search results! Metric = No results :( 
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/New Document Options.png)
+
+To assists in part with the above, in version 3.1 I changed the Stencil locale from English Australia to English United States. Hopefully the above will get search working and as an example on my Windows 10 with Visio 2016 install, search is working for me. 
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Working Search Example.png)
 
 ## Roadmap
 
 See the [open issues](https://github.com/David-Summers/Azure-Design/issues) for a list of proposed features (and known issues).
-
-
 
 ## Contact
 
@@ -118,14 +142,29 @@ Twitter is my primary communication method and if you would like to discuss this
 - **Twitter - https://twitter.com/Xeeva_D3**
 - **LinkedIn - https://au.linkedin.com/in/djsummers**
 
-
-
 ## Version History
 
 ### Current
 
-**Version 3.0 14/10/2020**
+**Version 3.1 05/12/2020**
 
+Likely to be the last version release for this very interesting year of 2020. 
+
+Search Fixes (See above) and added 5 new service icons (The icon for Azure Purview is my new favourite!) 
+
+Over the past year I have seen incremental changes to certain icons but not others. The team is doing an amazing job at converting to super modern gradiant shaded versions which look stunning. But some icons have not received a modern revamp. 
+
+This was a good opportunity to work through the set and start applying the same style and theme to some of the icons to make them consistent. Here is one example where I have taken the image on the right (User License Allocation) and updated it to match the modern style of other user type icons. This update has 23 new or refreshed icons bringing the total count up to 506 (Excluding drawing tools)
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Icon Refresh Example.png)
+
+A few more examples (left origional, right modern)
+
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Icon Refresh Examples.png)
+
+### Previous
+
+*Update version 3.0 14/10/2020*
 Major update with this release so we are now on version 3! I have added placeholder shape data in preparation for an Azure documentor script that I am working on, essentially this will open up the capability of enumerating resources in Azure and then drawing those resources in Visio and populating each shape with the relevant meta data for the resource. I have included basic fields at this stage that can be retrieved using get-azresource and then added to the shape via PowerShell
 
 Fields included: -
@@ -144,66 +183,38 @@ Also based on feedback you now have the option to use a single large stencil con
 
 Added or refreshed 66 icons
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-3.0.png)
-
-
-
-### Previous
-
 *Update version 2.8 15/07/2020*
-
 Refreshed 19 icons and added new ones, welcome Office 365 to the collection. O365 services have been requested a few times so I am starting to add them into the Stencil. These icons are more difficult to convert as sourcing SVG versions is challenging so I have had to trace some bitmap versions by hand in my SVG editor.
 
-
-
 *Update version 2.6 21/04/2020*
-
 I noticed that the Cosmos DB Icon had broken from a previous update and while fixing that I ended up reviewing and updating 96 icons! – I extended my icon collection passed the Azure Portal as even some of those icons are out of date.
 
-
-
 *Update version 2.5 20/04/2020*
-
 New Icons and several icon refreshers, fixed the drawing boxes that were fixed to square shapes and not adjustable. Added a new Line drawing tool with a nice glow “A_GlowLine-1” – I am toying with Dark mode designs and this new line format really makes a design jump off the page in my opinion. Below are 2 examples of the same reference architecture
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/SAMPLE_Advanced-Analytics_LIGHT.png)
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/SAMPLE_Advanced-Analytics_DARK.png)
 
-
-
 *Update Version 2.4 - 21/02/2020*
-
 Added new drawing resources for number labels/boxes/lines and arrows. I have also included SVG and PNG versions of the icons after multiple requests, this was a challenge due to scaling but my script now builds the stencil, SVG and PNG versions of the icons.
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/PNG-Icons.png)
 
-
-
 *Update Version 2.3 - 22/01/2020*
-
 Added new icons for Synapse and others, refreshed 19 updated icons. Big announcement here:- </p>
 
 <p><b>SEARCH</b> - I finally figured out how to add search metadata to each icon via PowerShell, for best results ensure that Visio search is set to OR keyword matching (Visio Options\Advanced\Show Shape Search Pane\Search for Any of the Words) </p>
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Search-Added.png)
 
-
-
 *Version 2.2 - 05/11/2019*
-
 Welcome to the Icon family Azure Arc and Spring Cloud
 
-
-
 *Version 2.1 - 04/11/2019*
-
 This weekend I found another major icon update. 209 icons to be precise! - I have restructured the Repo as well, created a folder structure for archived versions as I felt the landing page was getting a bit cluttered. The latest version will always be at the root of the Repo with previous versions moving into the Archive folder
 
-
-
 *Version 2.0 - 22/10/2019*
-
 Over the past week I have noticed significant updates to key Azure Service Icons and in preperation for an expected announcement at Ignite this year I have re-designed my entire conversion process, previously I had to manually work on each icon to set the initial placement of the connection points and name them for scripted modification. I finally managed to figure out the PS syntax that the Visio COM.Application is expecting for inserting new connection point rows. My process is now automated taking SVG's from a directory and inserting them into my Master Stencil for processing. Recorded a quick video showing the automation into Visio
 
 https://github.com/David-Summers/Azure-Design/blob/master/Assets/VIDEO_Icon-Builder.mp4
@@ -216,10 +227,7 @@ One key change here is that I renamed the connection points to North, East, West
 
 I use this stencil for a suite of Azure Documentor scripts and using named connection points allows you to specify direction for connections easier
 
-
-
 *Version 1.6 - 8/10/2019*
-
 Corrected mis-coloured icons, thanks to Cédric De Loor for pointing that out
 
 Added new icons
@@ -269,9 +277,7 @@ Added new icons
   </li>
 </ol>
 
-
 *Version 1.5 - 26/08/2019*
-
 Major change with this release, initially I hand placed the four connection points for each icon and that was not perfect placement. I thought it would be easy to script modify the connection point position (like I did with the Text field in V-1.1) but it turns out that visio does not name a connection point when you add it so I could not modify it through PowerShell. I added a new script process that allowed me to hand place the connection points and then name them 1-5 (I added a new connection point under the text field for easier south connections when there is data in the text field). Now that they are named, I can modify them when I build my stencil using my gold master. Example below: -
 
 <p>
@@ -303,9 +309,7 @@ Major change with this release, initially I hand placed the four connection poin
   </li>
 </ul>
 
-
 *Version 1.4 - 16/08/2019*
-
 Started on the drawing resources, added a colour pallet for what I believe are the best mainly used colours in the stencil range. For fun I scripted an export of every Hex colour value that is being used and there are 88 total colours. Some are extremely close to each other so I selected the most common used colours and included them in the pallet. Added 3 connector styles and deciding on the remaining set. Ideas welcome! and lastly, re-worked the colour scheme on the Azure lighthouse icons.
 
 Added new icons
@@ -342,7 +346,6 @@ Added new icons
 
 
 *Version 1.3 - 14/08/2019*
-
 Added new Icons for storage account sub services, had to hand draw these as they did not appear to exist. Renamed Data brick to the correct name Databricks.
 <UL type="Circle">
   <li>
@@ -356,10 +359,7 @@ Added new Icons for storage account sub services, had to hand draw these as they
   </li>
   </ul>    
 
-
-
 *Version 1.2 - 03/08/2019*
-
 Removed "Azure" prefix for some incorrectly named icons. Added new Icons
 
 <UL type="Circle">
@@ -383,13 +383,8 @@ Removed "Azure" prefix for some incorrectly named icons. Added new Icons
   </li>
   </ul>    
 
-
 *Version 1.1 - 27/07/2019*
-
 First major change, I realised that some of the text fields were not perfectly aligned so I rebuilt my PowerShell process to use dynamic  values for the text field. Since the shapes differ in Height\Width my initial placement was slightly off due to distance from center. This placement is now relative to the bottom edge of the icon. I also inserted the name of the icon into the Text field for page drop as well and reformatted the text to a dark Blue. Final change was to add a subtle drop shadow to each icon as I feel they jump off the page with a small amount of depth.
 
-
-
 *Version 1.0 - 25/07/2019*
-
 Initial release of the stencil and bonus SVG and PNG versions. I built a conversion process that can re-colour each icon and these initial versions were made with a Blue and Grey scale pallet.
