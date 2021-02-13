@@ -29,7 +29,7 @@ Now I am pretty good at performing mundane repetitive operations like this and w
 
 However things started getting messy when Microsoft updated a huge collection of Azure Service icons a short while after I was finished that made my version irrelevant.  So I looked for a better way to build this stencil, as I knew that that Microsoft would forever be adding new services to Azure and or refreshing current service icons (which is a good thing by the way!) and I just did not have the time or energy to perform a few thousand mouse clicks after each version update.  
 
-**My current method of building**
+**My method of building**
 
 Enter PowerShell and the Visio COM application method. If you review my version history below you will see that this project has evolved significantly since I started and I have built a full import and conversion process that performs the following. 
 
@@ -51,7 +51,7 @@ With this process I can build and re-build over and over again in minutes and th
 
 **PNG Image of the current full stencil content**
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-3.1.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.2.png)
 
 Some example images to show stencil functionality: -
 
@@ -89,11 +89,11 @@ First you need to decide how you would like to use these stencils. I have provid
 
 **Option 1 - Use the single stencil file that contains all of the icons and drawing tools**
 
-Download the current version containing all Icons - https://github.com/David-Summers/Azure-Design/blob/master/ICONS_Azure-Full-Colour_V-3.1.vssx
+Download the current version containing all Icons - https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.2.vssx
 
 **Option 2 - Use just the category stencil files that you need** 
 
-In the root of this repo you will see categorised stencils. Only want to use the Identity related stencil then just download the one you need. 
+In the root of this repo you will see categorised stencils. Only want to use the Identity related stencil? then just download the one you need. 
 
 **Option 3 - Dont use Visio?**
 
@@ -148,6 +148,12 @@ Twitter is my primary communication method and if you would like to discuss this
 
 ### Current
 
+**Version 3.2 13/02/2021**
+
+The first update for the year. Several new and refreshed icons and a new naming convention for the stencils. 10 days ago I reached 25,000 downloads and I thank everyone for supporting my project.
+
+### Previous
+
 **Version 3.1 05/12/2020**
 
 Likely to be the last version release for this very interesting year of 2020. 
@@ -163,8 +169,6 @@ This was a good opportunity to work through the set and start applying the same 
 A few more examples (left origional, right modern)
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Icon%20Refresh%20Examples.jpg)
-
-### Previous
 
 *Update version 3.0 14/10/2020*
 
