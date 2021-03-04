@@ -51,7 +51,7 @@ With this process I can build and re-build over and over again in minutes and th
 
 **PNG Image of the current full stencil content**
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.2.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.3.png)
 
 Some example images to show stencil functionality: -
 
@@ -89,11 +89,11 @@ First you need to decide how you would like to use these stencils. I have provid
 
 **Option 1 - Use the single stencil file that contains all of the icons and drawing tools**
 
-Download the current version containing all Icons - https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.2.vssx
+Download the current version containing all Icons - https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.3.vssx
 
 **Option 2 - Use just the category stencil files that you need** 
 
-In the root of this repo you will see categorised stencils. Only want to use the Identity related stencil? then just download the one you need. 
+In the root of this repo you will see categorised stencils. Only want to use the Identity related stencil? then just download the one(s) you need. 
 
 **Option 3 - Dont use Visio?**
 
@@ -148,11 +148,15 @@ Twitter is my primary communication method and if you would like to discuss this
 
 ### Current
 
+**Version 3.3 04/03/2021**
+
+It is that time of year again. Yes Microsoft Ignite just happened and as always new services were announced. The 2 major new items announced were "Azure Managed Instance for Apache Cassandra" and the new Augmented Reality service "Azure Percept" as well as these 2 I updated or added 28 new icons. I also added 2 new containers to the drawing tools that I use for full architecture diagrams. I am looking into adding smart containers for core features such as Subscription, Resource Group and Virtual Network for the next release. 
+
+### Previous
+
 **Version 3.2 13/02/2021**
 
 The first update for the year. Several new and refreshed icons and a new naming convention for the stencils. 10 days ago I reached 25,000 downloads and I thank everyone for supporting my project.
-
-### Previous
 
 **Version 3.1 05/12/2020**
 

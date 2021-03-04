@@ -26,51 +26,51 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group4576-1" transform="translate(34,-34.0157)">
+		<g id="group4747-1" transform="translate(34,-34.0157)">
 			<title>Azure Active Directory B2C</title>
-			<g id="group4577-2">
+			<g id="group4748-2">
 				<title>Icon-identity-228</title>
-				<g id="shape4578-3" transform="translate(0,-1.189)">
+				<g id="shape4749-3" transform="translate(0,-1.189)">
 					<title>path4</title>
 					<path d="M3.18 99.38 L28.13 115.86 L53.51 99.32 L56.69 103.08 L28.13 121.87 L0 103.11 L3.18 99.38 Z"
 							class="st1"/>
 				</g>
-				<g id="shape4579-5" transform="translate(5.07087,-10.6046)">
+				<g id="shape4750-5" transform="translate(5.07087,-10.6046)">
 					<title>path6</title>
 					<path d="M0 106.67 L23.06 78.62 L46.58 106.71 L23.06 121.87 L0 106.67 Z" class="st2"/>
 				</g>
-				<g id="shape4580-7" transform="translate(5.07087,-10.6046)">
+				<g id="shape4751-7" transform="translate(5.07087,-10.6046)">
 					<title>path8</title>
 					<path d="M23.06 78.62 L23.06 121.87 L0 106.67 L23.06 78.62 Z" class="st1"/>
 				</g>
-				<g id="shape4581-9" transform="translate(28.126,-10.6046)">
+				<g id="shape4752-9" transform="translate(28.126,-10.6046)">
 					<title>path10</title>
 					<path d="M0 78.62 L0 121.87 L23.53 106.71 L0 78.62 Z" class="st3"/>
 				</g>
-				<g id="shape4582-13" transform="translate(28.126,-10.6046)">
+				<g id="shape4753-13" transform="translate(28.126,-10.6046)">
 					<title>path12</title>
 					<path d="M0 100.95 L23.53 106.71 L0 121.87 L0 100.95 Z" class="st4"/>
 				</g>
-				<g id="shape4583-15" transform="translate(5.07087,-10.6046)">
+				<g id="shape4754-15" transform="translate(5.07087,-10.6046)">
 					<title>path14</title>
 					<path d="M23.06 121.87 L0 106.67 L23.06 100.95 L23.06 121.87 Z" class="st5"/>
 				</g>
-				<g id="shape4584-17" transform="translate(28.126,-1.189)">
+				<g id="shape4755-17" transform="translate(28.126,-1.189)">
 					<title>path16</title>
 					<path d="M0 121.87 L28.57 103.08 L25.39 99.32 L0 115.86 L0 121.87 Z" class="st6"/>
 				</g>
-				<g id="shape4585-19" transform="translate(25.1969,0)">
+				<g id="shape4756-19" transform="translate(25.1969,0)">
 					<title>path24</title>
 					<path d="M21.04 121.87 A2.04724 2.08878 -180 0 0 23.12 119.75 L23.12 119.5 C22.3 112.91 18.61 107.51 11.56 107.51
 								 C4.5 107.51 0.69 112.07 0 119.53 A2.04724 2.08878 -180 0 0 1.83 121.84 L21.07 121.84 L21.04 121.87
 								 Z" class="st7"/>
 				</g>
-				<g id="shape4586-21" transform="translate(33.3543,-4.43463)">
+				<g id="shape4757-21" transform="translate(33.3543,-4.43463)">
 					<title>path26</title>
 					<path d="M3.5 113.52 A6.29921 6.427 0 0 1 -0 112.46 L3.46 121.87 L6.93 112.65 A6.29921 6.427 0 0 1 3.5 113.52
 								 Z" class="st8"/>
 				</g>
-				<g id="shape4587-23" transform="translate(30.3307,-12.7897)">
+				<g id="shape4758-23" transform="translate(30.3307,-12.7897)">
 					<title>circle28</title>
 					<ellipse cx="6.48819" cy="115.254" rx="6.48819" ry="6.61981" class="st7"/>
 				</g>

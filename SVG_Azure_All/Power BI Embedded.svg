@@ -30,18 +30,18 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group1315-1" transform="translate(4.25197,-34.0157)">
+		<g id="group1332-1" transform="translate(4.25197,-34.0157)">
 			<title>Power BI Embedded</title>
-			<g id="shape1316-2" transform="translate(23.622,1.42109E-14)">
+			<g id="shape1333-2" transform="translate(23.622,1.42109E-14)">
 				<title>path9</title>
 				<rect x="0" y="39.685" width="18.8976" height="56.6929" class="st1"/>
 				<rect x="0" y="39.685" width="18.8976" height="56.6929" class="st2"/>
 			</g>
-			<g id="shape1317-7" transform="translate(11.811,1.42109E-14)">
+			<g id="shape1334-7" transform="translate(11.811,1.42109E-14)">
 				<title>path11</title>
 				<path d="M18.9 56.22 L18.9 96.38 L0 96.38 L0 53.86 L16.54 53.86 A2.3622 2.3622 0 0 1 18.9 56.22 Z" class="st3"/>
 			</g>
-			<g id="shape1318-12">
+			<g id="shape1335-12">
 				<title>path13</title>
 				<path d="M0 68.03 L0 96.38 L18.9 96.38 L18.9 70.39 A2.3622 2.3622 -180 0 0 16.54 68.03 L0 68.03 Z" class="st4"/>
 			</g>
