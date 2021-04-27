@@ -51,7 +51,7 @@ With this process I can build and re-build over and over again in minutes and th
 
 **PNG Image of the current full stencil content**
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.4.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.4.svg)
 
 Some example images to show stencil functionality: -
 
@@ -152,27 +152,21 @@ Twitter is my primary communication method and if you would like to discuss this
 
 Icon refresh and new aditions
 
-Application	Static Web Folder
-Application	FTP
-Application	Event Grid Partner Topic
-Application	Event Grid Input Output
-Compute		Server Farm
-Deployment	Commit
-Deployment	Repository
-Deployment	Backlog
-Deployment	Confluent Organisation
-Generic		Warning
-Identity	Azure Token
-Identity	Azure Active Directory Verifiable Credential
-Identity	Azure Active Directory Verifyable Credentials
-Identity	Admin Consent
-Identity	Azure Active Directory Privileged Identity Management
-Identity	Collection
-Iot		Custom Location
-Management	Azure LightHouse Multi Tenancy
-Management	Datadog
-Management	Diagnostics
-Storage		Data Box Gateway
+**Application**	- Static Web Folder, FTP, Event Grid Partner Topic andEvent Grid Input Output
+
+**Compute**	- Server Farm
+
+**Deployment** - Commit, Repository, Backlog and Confluent Organisation
+
+**Generic**	- Warning
+
+**Identity** - Azure Token, Azure Active Directory Verifiable Credential, Azure Active Directory Verifyable Credentials, Admin Consent, Azure Active Directory Privileged Identity Management and Collection
+
+**Iot** - Custom Location
+
+**Management** - Azure LightHouse Multi Tenancy, Datadog, Diagnostics
+
+**Storage** - Data Box Gateway
 
 ### Previous
 
