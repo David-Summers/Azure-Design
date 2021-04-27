@@ -18,19 +18,19 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group6337-1" transform="translate(12.24,-34.0157)">
-			<title>Cost Analysis.6337</title>
-			<g id="group6338-2">
+		<g id="group1071-1" transform="translate(12.24,-34.0157)">
+			<title>Cost Analysis</title>
+			<g id="group1072-2">
 				<title>g22</title>
-				<g id="shape6339-3" transform="translate(9.22542,-48.8125)">
+				<g id="shape1073-3" transform="translate(9.22542,-48.8125)">
 					<title>circle4</title>
 					<ellipse cx="4.02798" cy="99.0084" rx="4.02798" ry="3.94023" class="st1"/>
 				</g>
-				<g id="shape6340-5" transform="translate(9.22542,-1.94788)">
+				<g id="shape1074-5" transform="translate(9.22542,-1.94788)">
 					<title>circle6</title>
 					<ellipse cx="4.02798" cy="99.0084" rx="4.02798" ry="3.94023" class="st1"/>
 				</g>
-				<g id="shape6341-7" transform="translate(0,-11.7029)">
+				<g id="shape1075-7" transform="translate(0,-11.7029)">
 					<title>path8</title>
 					<path d="M27.45 93 C27.45 98.76 21.61 102.95 13.56 102.95 C6.47 102.95 2.04 100.34 0 94.97 L6.91 93.7 C7.81 95.59
 								 9.78 97.75 14.13 97.75 C18.49 97.75 20.11 95.19 20.11 93.58 C20.11 90.23 15.98 89.06 14.2 88.72
@@ -39,33 +39,33 @@
 								 10.53 80.48 13.71 81.2 C17.69 82.1 20.48 82.8 22.11 83.47 C24.69 84.53 27.45 87.6 27.45 93 Z"
 							class="st1"/>
 				</g>
-				<g id="shape6342-9" transform="translate(37.4053,2.84217E-13)">
+				<g id="shape1076-9" transform="translate(37.4053,2.84217E-13)">
 					<title>path10</title>
 					<path d="M11.34 102.95 C10.68 102.95 10.06 102.7 9.6 102.24 L0 92.86 L3.49 89.44 L13.09 98.83 A2.46912 2.41533
 								 0 0 1 11.34 102.95 Z" class="st2"/>
 				</g>
-				<g id="shape6343-11" transform="translate(38.3832,-7.01046)">
+				<g id="shape1077-11" transform="translate(38.3832,-7.01046)">
 					<title>path12</title>
 					<path d="M0 100.83 L3.49 97.41 L5.66 99.53 A13.3283 13.038 0 0 1 2.17 102.95 L0 100.83 Z" class="st3"/>
 				</g>
-				<g id="shape6344-13" transform="translate(16.4166,-8.9992)">
+				<g id="shape1078-13" transform="translate(16.4166,-8.9992)">
 					<title>circle14</title>
 					<ellipse cx="12.7977" cy="90.4298" rx="12.7977" ry="12.5188" class="st4"/>
 				</g>
-				<g id="shape6345-15" transform="translate(18.2322,-10.0723)">
+				<g id="shape1079-15" transform="translate(18.2322,-10.0723)">
 					<title>path16</title>
 					<path d="M0 86.43 C1.97 87.32 4.48 89.43 4.48 91.94 C4.48 93.36 2.8 96.22 0.22 97.23 C0.98 99.4 2.84 101.35 4.44
 								 102.95 C9.94 101 12.85 96.42 12.85 91.47 C12.85 84.86 8.86 81.11 5.7 79.81 C5.45 79.71 0.95 83.3
 								 0 86.43 Z" class="st5"/>
 				</g>
-				<g id="shape6346-17" transform="translate(17.4804,-10.0398)">
+				<g id="shape1080-17" transform="translate(17.4804,-10.0398)">
 					<title>path18</title>
 					<path d="M11.73 81.19 C17.53 81.19 22.24 85.8 22.24 91.47 C22.24 97.14 17.53 101.75 11.73 101.75 C5.94 101.75
 								 1.23 97.14 1.23 91.47 C1.23 85.8 5.94 81.19 11.73 81.19 ZM11.73 79.99 C5.25 79.99 0 85.13 0 91.47
 								 C0 97.81 5.25 102.95 11.73 102.95 C18.21 102.95 23.47 97.81 23.47 91.47 C23.47 85.13 18.21 79.99
 								 11.73 79.99 Z" class="st6"/>
 				</g>
-				<g id="shape6347-19" transform="translate(13.3762,-6.00828)">
+				<g id="shape1081-19" transform="translate(13.3762,-6.00828)">
 					<title>path20</title>
 					<path d="M0 87.45 C0 96.01 7.09 102.95 15.85 102.95 C24.6 102.95 31.69 96.01 31.69 87.45 C31.69 78.89 24.6 71.95
 								 15.85 71.95 C7.09 71.95 0 78.89 0 87.45 ZM4.1 87.45 C4.1 81.1 9.36 75.96 15.85 75.96 C22.33 75.96

@@ -15,11 +15,11 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group7858-1" transform="translate(8.9811,-34.0157)">
-			<title>Python.7858</title>
-			<g id="group7859-2">
+		<g id="group2961-1" transform="translate(8.9811,-34.0157)">
+			<title>Python</title>
+			<g id="group2962-2">
 				<title>layer1</title>
-				<g id="shape7860-3" transform="translate(2.79776E-13,-14.4977)">
+				<g id="shape2963-3" transform="translate(2.79776E-13,-14.4977)">
 					<title>path6</title>
 					<path d="M0 85.41 C0 85.33 0.05 85.25 0.05 85.17 C0.1 84.34 0.11 83.51 0.2 82.69 A14.1821 14.1909 0 0 1 2.76
 								 75.23 A7.46902 7.47366 0 0 1 7.88 72.24 A7.00108 7.00543 0 0 1 8.78 72.19 L27.9 72.19 C28.27 72.19
@@ -34,11 +34,11 @@
 								 1 1.26 93.81 A17.8987 17.9098 0 0 1 0.24 89.29 C0.15 88.3 0.12 87.31 0.05 86.32 C0.05 86.21 0 86.1
 								 0 85.99 L0 85.41 Z" class="st1"/>
 				</g>
-				<g id="shape7861-5" transform="translate(17.998,-47.7054)">
+				<g id="shape2964-5" transform="translate(17.998,-47.7054)">
 					<title>path8</title>
 					<path d="M0 97.01 A2.69965 2.70132 0 0 1 5.4 97.01 A2.69965 2.70132 0 1 1 0 97.01 Z" class="st2"/>
 				</g>
-				<g id="shape7862-7" transform="translate(14.9564,0)">
+				<g id="shape2965-7" transform="translate(14.9564,0)">
 					<title>path10</title>
 					<path d="M41.74 71.81 A1.44881 1.44971 -180 0 0 41.68 72.05 C41.64 72.88 41.63 73.71 41.54 74.53 A14.1821 14.1909
 								 0 0 1 38.97 81.96 A7.46902 7.47366 0 0 1 33.85 84.95 A7.00108 7.00543 0 0 1 32.95 85 L13.84 85 C13.46
@@ -53,7 +53,7 @@
 								 0 0 1 41.48 67.98 C41.57 68.97 41.6 69.96 41.66 70.95 A2.92462 2.92643 -180 0 0 41.72 71.27 C41.73
 								 71.45 41.74 71.63 41.74 71.81 L41.74 71.81 Z" class="st3"/>
 				</g>
-				<g id="shape7863-9" transform="translate(33.7549,-4.55682)">
+				<g id="shape2966-9" transform="translate(33.7549,-4.55682)">
 					<title>path12</title>
 					<path d="M5.4 97.01 A2.69965 2.70132 0 1 1 0 97.01 A2.69965 2.70132 0 0 1 5.4 97.01 Z" class="st2"/>
 				</g>

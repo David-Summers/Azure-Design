@@ -24,38 +24,38 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group4108-1" transform="translate(5.66929,-34.0157)">
+		<g id="group4272-1" transform="translate(5.66929,-34.0157)">
 			<title>Azure Percept Vision</title>
-			<g id="group4109-2">
+			<g id="group4273-2">
 				<title>aecfdb5d-21ee-4a1d-bdd3-f59c1b4</title>
-				<g id="shape4110-3" transform="translate(3.07717,-3.14961)">
-					<title>Sheet.4110</title>
+				<g id="shape4274-3" transform="translate(3.07717,-3.14961)">
+					<title>Sheet.4274</title>
 					<ellipse cx="25.1969" cy="71.1811" rx="25.1969" ry="25.1969" class="st1"/>
 				</g>
-				<g id="shape4111-5" transform="translate(25.1969,0)">
-					<title>Sheet.4111</title>
+				<g id="shape4275-5" transform="translate(25.1969,1.42109E-14)">
+					<title>Sheet.4275</title>
 					<path d="M3.15 96.38 A3.14961 3.14961 0 1 1 3.15 90.08 A22.0724 22.0724 -180 0 0 25.2 68.03 A3.14961 3.14961
 								 0 0 1 31.5 68.03 A28.378 28.378 0 0 1 3.15 96.38 Z" class="st2"/>
 				</g>
-				<g id="shape4112-7" transform="translate(0,-25.1969)">
-					<title>Sheet.4112</title>
+				<g id="shape4276-7" transform="translate(0,-25.1969)">
+					<title>Sheet.4276</title>
 					<path d="M3.15 96.38 A3.14961 3.14961 0 0 1 0 93.23 A28.378 28.378 0 0 1 28.35 64.88 A3.14961 3.14961 0 1 1 28.35
 								 71.18 A22.0724 22.0724 -180 0 0 6.3 93.23 A3.14961 3.14961 0 0 1 3.15 96.38 Z" class="st2"/>
 				</g>
-				<g id="shape4113-9" transform="translate(6.50079,-6.09134)">
-					<title>Sheet.4113</title>
+				<g id="shape4277-9" transform="translate(6.50079,-6.09134)">
+					<title>Sheet.4277</title>
 					<ellipse cx="21.7732" cy="74.6047" rx="21.7732" ry="21.7732" class="st3"/>
 				</g>
-				<g id="shape4114-13" transform="translate(10.4976,-10.4504)">
-					<title>Sheet.4114</title>
+				<g id="shape4278-13" transform="translate(10.4976,-10.4504)">
+					<title>Sheet.4278</title>
 					<ellipse cx="17.7764" cy="78.6016" rx="17.7764" ry="17.7764" class="st4"/>
 				</g>
-				<g id="shape4115-15" transform="translate(18.5575,-18.4378)">
-					<title>Sheet.4115</title>
+				<g id="shape4279-15" transform="translate(18.5575,-18.4378)">
+					<title>Sheet.4279</title>
 					<ellipse cx="9.78898" cy="86.589" rx="9.78898" ry="9.78898" class="st5"/>
 				</g>
-				<g id="shape4116-17" transform="translate(29.1307,-22.778)">
-					<title>Sheet.4116</title>
+				<g id="shape4280-17" transform="translate(29.1307,-22.778)">
+					<title>Sheet.4280</title>
 					<ellipse cx="2.56693" cy="93.811" rx="2.56693" ry="2.56693" class="st6"/>
 				</g>
 			</g>

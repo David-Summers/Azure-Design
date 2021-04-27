@@ -24,37 +24,37 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group6837-1" transform="translate(35.9601,-43.3721)">
-			<title>Domain Controller.6837</title>
-			<g id="group6838-2" transform="translate(0,-1.1189)">
+		<g id="group1574-1" transform="translate(35.9601,-43.3721)">
+			<title>Domain Controller</title>
+			<g id="group1575-2" transform="translate(0,-1.1189)">
 				<title>Icon-databases-136</title>
-				<g id="shape6839-3">
+				<g id="shape1576-3">
 					<title>path4-5</title>
 					<path d="M32.98 134.13 A1.94806 1.92781 0 0 1 31.07 136.03 L1.91 136.03 A1.91448 1.89457 0 0 1 0 134.13 L0 82.35
 								 A1.88089 1.86133 0 0 1 1.91 80.45 L31.07 80.45 A1.91448 1.89457 0 0 1 32.98 82.35 L32.98 134.13
 								 Z" class="st1"/>
 				</g>
-				<g id="shape6840-7" transform="translate(4.83657,-32.54)">
+				<g id="shape1577-7" transform="translate(4.83657,-32.54)">
 					<title>path6-7</title>
 					<path d="M0 132.47 A3.59384 3.55647 0 0 1 3.56 128.95 L20.02 128.95 A3.59384 3.55647 0 0 1 23.71 132.47 A3.59384
 								 3.55647 0 0 1 20.02 136.03 L3.56 136.03 A3.59384 3.55647 0 0 1 0 132.47 ZM0 121.97 A3.59384 3.55647
 								 0 0 1 3.56 118.41 L20.02 118.41 A3.59384 3.55647 0 0 1 23.71 121.97 A3.59384 3.55647 0 0 1 20.02
 								 125.49 L3.56 125.49 A3.59384 3.55647 0 0 1 0 121.97 Z" class="st2"/>
 				</g>
-				<g id="shape6841-9" transform="translate(6.18006,-44.2066)">
+				<g id="shape1578-9" transform="translate(6.18006,-44.2066)">
 					<title>circle8-5</title>
 					<ellipse cx="2.41828" cy="133.632" rx="2.41828" ry="2.39314" class="st3"/>
 				</g>
-				<g id="shape6842-11" transform="translate(6.18006,-33.7034)">
+				<g id="shape1579-11" transform="translate(6.18006,-33.7034)">
 					<title>circle10-2</title>
 					<ellipse cx="2.41828" cy="133.632" rx="2.41828" ry="2.39314" class="st3"/>
 				</g>
 			</g>
-			<g id="shape6843-13" transform="translate(14.8073,2.84217E-13)">
+			<g id="shape1580-13" transform="translate(14.8073,2.84217E-13)">
 				<title>path18</title>
 				<path d="M18.11 103.63 L0 128.73 L18.11 136.03 L36.22 128.73 L18.11 103.63 Z" class="st4"/>
 			</g>
-			<g id="shape6844-15" transform="translate(14.8073,2.84217E-13)">
+			<g id="shape1581-15" transform="translate(14.8073,2.84217E-13)">
 				<title>path20-6</title>
 				<path d="M18.11 103.63 L0 128.73 L18.11 136.03 L18.11 103.63 Z" class="st5"/>
 			</g>

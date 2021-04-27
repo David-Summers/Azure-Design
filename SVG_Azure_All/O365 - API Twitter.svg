@@ -14,24 +14,24 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group1696-1" transform="translate(5.66929,-34.0157)">
+		<g id="group1755-1" transform="translate(5.66929,-34.0157)">
 			<title>O365 - API Twitter</title>
 			<desc>This package will provide stencils to visually represent Power Platform: Power Bi, Power Apps, Power Virtual Agents and/or Power Automate devices, architectures or solutions diagrams. It will provide stencils to visually represent features, systems, processes and architectures that use these technologies.</desc>
-			<g id="group1697-2">
+			<g id="group1756-2">
 				<title>Page-1</title>
-				<g id="group1698-3">
+				<g id="group1757-3">
 					<title>Power Automate API: Twitter</title>
-					<g id="group1699-4">
+					<g id="group1758-4">
 						<title>rect5924</title>
-						<g id="shape1700-5">
-							<title>Sheet.1700</title>
+						<g id="shape1759-5">
+							<title>Sheet.1759</title>
 							<rect x="0" y="39.685" width="56.6929" height="56.6929" class="st1"/>
 						</g>
 					</g>
-					<g id="group1701-7" transform="translate(11.3628,-12.4522)">
+					<g id="group1760-7" transform="translate(11.3628,-12.4522)">
 						<title>path5926</title>
-						<g id="shape1702-8">
-							<title>Sheet.1702</title>
+						<g id="shape1761-8">
+							<title>Sheet.1761</title>
 							<path d="M38.32 68.82 A15.7145 15.7145 0 0 1 33.84 70.02 A7.85723 7.85723 -180 0 0 37.35 65.68 A15.7145
 										 15.7145 0 0 1 32.4 67.61 A7.85723 7.85723 -180 0 0 18.97 74.74 A22.242 22.242 0 0 1 2.78
 										 66.53 A7.85723 7.85723 -180 0 0 5.2 77.04 A7.85723 7.85723 0 0 1 1.69 76.07 A7.85723 7.85723

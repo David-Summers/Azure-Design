@@ -26,41 +26,41 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group5339-1" transform="translate(34,-34.0157)">
-			<title>Virtual Machine Windows.5339</title>
-			<g id="group5340-2">
+		<g id="group48-1" transform="translate(34,-34.0157)">
+			<title>Virtual Machine Windows</title>
+			<g id="group49-2">
 				<title>g16</title>
-				<g id="shape5341-3" transform="translate(0,-14.2056)">
+				<g id="shape50-3" transform="translate(0,-14.2056)">
 					<title>rect2</title>
 					<path d="M0 117.2 A1.88981 1.84094 -180 0 0 1.89 119.04 L54.8 119.04 A1.88981 1.84094 -180 0 0 56.69 117.2 L56.69
 								 84.06 A1.88981 1.84094 -180 0 0 54.8 82.22 L1.89 82.22 A1.88981 1.84094 -180 0 0 0 84.06 L0 117.2
 								 Z" class="st1"/>
 				</g>
-				<g id="shape5342-7" transform="translate(14.1732,0)">
+				<g id="shape51-7" transform="translate(14.1732,0)">
 					<title>path14</title>
 					<path d="M25.54 115.97 C19.94 115.11 19.72 111.18 19.72 104.83 L8.6 104.83 C8.6 111.18 8.41 115.11 2.8 115.97
 								 A3.14961 3.06817 -180 0 0 0 119.04 L28.35 119.04 A3.14961 3.06817 -180 0 0 25.54 115.97 Z"
 							class="st2"/>
 				</g>
-				<g id="shape5343-11" transform="translate(14.2042,-20.5365)">
+				<g id="shape52-11" transform="translate(14.2042,-20.5365)">
 					<title>path10</title>
 					<path d="M26.59 119.04 L1.07 117.03 C0.47 116.99 0 116.49 0 115.9 L0 96.82 C0 96.23 0.47 95.73 1.07 95.69 C1.07
 								 95.69 26.6 93.68 26.6 93.68 C27.34 93.68 27.85 94.19 27.85 94.82 L27.85 117.9 C27.85 118.21 27.73
 								 118.49 27.51 118.71 C27.29 118.92 27 119.04 26.69 119.04 L26.59 119.04 Z" class="st3"/>
 				</g>
-				<g id="shape5344-13" transform="translate(28.1308,-34.1029)">
+				<g id="shape53-13" transform="translate(28.1308,-34.1029)">
 					<title>polygon12</title>
 					<path d="M0 119.04 L12.76 119.04 L12.76 108.38 L0 109.38 L0 119.04 Z" class="st4"/>
 				</g>
-				<g id="shape5345-15" transform="translate(15.3703,-34.1029)">
+				<g id="shape54-15" transform="translate(15.3703,-34.1029)">
 					<title>polygon14</title>
 					<path d="M0 119.04 L10.94 119.04 L10.94 109.53 L0 110.39 L0 119.04 Z" class="st4"/>
 				</g>
-				<g id="shape5346-17" transform="translate(28.1308,-21.6737)">
+				<g id="shape55-17" transform="translate(28.1308,-21.6737)">
 					<title>polygon16</title>
 					<path d="M0 108.39 L12.76 108.39 L12.76 119.04 L0 118.04 L0 108.39 Z" class="st4"/>
 				</g>
-				<g id="shape5347-19" transform="translate(15.3703,-22.8172)">
+				<g id="shape56-19" transform="translate(15.3703,-22.8172)">
 					<title>polygon18</title>
 					<path d="M0 109.53 L10.94 109.53 L10.94 119.04 L0 118.18 L0 109.53 Z" class="st4"/>
 				</g>

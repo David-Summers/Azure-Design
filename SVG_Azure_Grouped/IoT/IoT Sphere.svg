@@ -28,58 +28,58 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group10366-1" transform="translate(5.10236,-34.0157)">
-			<title>IoT Sphere.10366</title>
-			<g id="group10367-2">
+		<g id="group5251-1" transform="translate(5.10236,-34.0157)">
+			<title>IoT Sphere</title>
+			<g id="group5252-2">
 				<title>g40</title>
-				<g id="shape10368-3">
+				<g id="shape5253-3">
 					<title>circle16</title>
 					<ellipse cx="25.5118" cy="69.0785" rx="25.5118" ry="27.2994" class="st1"/>
 				</g>
-				<g id="shape10369-7" transform="translate(12.4828,-8.48852)">
+				<g id="shape5254-7" transform="translate(12.4828,-8.48852)">
 					<title>path18</title>
 					<path d="M12.46 96.01 C9.54 94.08 0 87.18 0 79.13 L0 68.83 L1.02 68.76 A12.1376 12.9881 -180 0 0 8.08 66.38 A7.44345
 								 7.96501 0 0 1 13.03 64.81 A7.53649 8.06458 0 0 1 17.98 66.37 A12.1496 13.001 -180 0 0 25.03 68.76
 								 L26.06 68.83 L26.06 79.13 C26.06 87.18 16.52 94.08 13.59 96.01 L13.03 96.38 L12.46 96.01 Z"
 							class="st2"/>
 				</g>
-				<g id="shape10370-11" transform="translate(13.8634,-10.2228)">
+				<g id="shape5255-11" transform="translate(13.8634,-10.2228)">
 					<title>path20</title>
 					<path d="M11.65 96.38 C5.99 92.62 0 86.6 0 80.86 L0 71.95 A13.3442 14.2792 -180 0 0 7.46 69.34 A6.08382 6.51011
 								 0 0 1 11.65 68.02 A6.22188 6.65785 0 0 1 15.83 69.34 A13.3742 14.3113 -180 0 0 23.3 71.95 L23.3
 								 80.86 C23.3 86.6 17.31 92.62 11.65 96.38 Z" class="st3"/>
 				</g>
-				<g id="group10371-13" transform="translate(40.4138,-7.57835)">
+				<g id="group5256-13" transform="translate(40.4138,-7.57835)">
 					<title>g26</title>
-					<g id="shape10372-14" transform="translate(0.234046,-0.261411)">
+					<g id="shape5257-14" transform="translate(0.234046,-0.261411)">
 						<title>circle22</title>
 						<ellipse cx="3.90781" cy="92.1963" rx="3.90781" ry="4.18163" class="st4"/>
 					</g>
-					<g id="shape10373-16">
+					<g id="shape5258-16">
 						<title>path24</title>
 						<path d="M4.14 87.75 A3.90181 4.17521 0 1 1 0.24 91.93 A3.90181 4.17521 0 0 1 4.14 87.75 ZM4.14 85.66 A5.86472
 									 6.27566 -180 1 0 10.01 91.93 A5.87072 6.28208 -180 0 0 4.15 85.66 L4.14 85.66 Z" class="st5"/>
 					</g>
 				</g>
-				<g id="group10374-18" transform="translate(2.31801,-7.58062)">
+				<g id="group5259-18" transform="translate(2.31801,-7.58062)">
 					<title>g32</title>
-					<g id="shape10375-19" transform="translate(0.242171,-0.25914)">
+					<g id="shape5260-19" transform="translate(0.242171,-0.25914)">
 						<title>circle28</title>
 						<ellipse cx="3.90781" cy="92.1963" rx="3.90781" ry="4.18163" class="st4"/>
 					</g>
-					<g id="shape10376-21">
+					<g id="shape5261-21">
 						<title>path30</title>
 						<path d="M4.15 87.76 A3.90181 4.17521 0 1 1 0.25 91.93 A3.90181 4.17521 0 0 1 4.15 87.76 ZM4.15 85.66 A5.86472
 									 6.27566 -180 1 0 10.01 91.94 A5.86772 6.27887 -180 0 0 4.15 85.66 Z" class="st5"/>
 					</g>
 				</g>
-				<g id="group10377-23" transform="translate(21.3608,-45.9808)">
+				<g id="group5262-23" transform="translate(21.3608,-45.9808)">
 					<title>g38</title>
-					<g id="shape10378-24" transform="translate(0.243233,-0.254793)">
+					<g id="shape5263-24" transform="translate(0.243233,-0.254793)">
 						<title>circle34</title>
 						<ellipse cx="3.90781" cy="92.1963" rx="3.90781" ry="4.18163" class="st4"/>
 					</g>
-					<g id="shape10379-26">
+					<g id="shape5264-26">
 						<title>path36</title>
 						<path d="M4.15 87.76 A3.90181 4.17521 0 1 1 0.25 91.94 A3.90181 4.17521 0 0 1 4.15 87.76 ZM4.15 85.67 A5.86472
 									 6.27566 -180 1 0 10.01 91.94 A5.87072 6.28208 -180 0 0 4.15 85.67 Z" class="st5"/>

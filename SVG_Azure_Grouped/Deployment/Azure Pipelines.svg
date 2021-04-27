@@ -19,38 +19,38 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group8084-1" transform="translate(5.66929,-34.0157)">
-			<title>Azure Pipelines.8084</title>
-			<g id="shape8085-2" transform="translate(19.2795,-0.059247)">
+		<g id="group3207-1" transform="translate(5.66929,-34.0157)">
+			<title>Azure Pipelines</title>
+			<g id="shape3208-2" transform="translate(19.2795,-0.059247)">
 				<title>path2</title>
 				<path d="M0.27 88.69 L7.95 96.38 L20.42 96.38 C21.94 96.38 23.16 95.14 23.16 93.63 L23.16 64.8 L0.27 87.73 C0 87.99
 							 0 88.42 0.27 88.69 Z" class="st1"/>
 			</g>
-			<g id="shape8086-4" transform="translate(-2.8777E-13,-19.365)">
+			<g id="shape3209-4" transform="translate(-2.8777E-13,-19.365)">
 				<title>path4</title>
 				<path d="M0 75.93 L0 88.42 L7.68 96.11 C7.95 96.38 8.38 96.38 8.63 96.11 L31.53 73.17 L2.74 73.17 C1.24 73.17 0 74.41
 							 0 75.93 Z" class="st2"/>
 			</g>
-			<g id="shape8087-6" transform="translate(9.71102,-9.62716)">
+			<g id="shape3210-6" transform="translate(9.71102,-9.62716)">
 				<title>path6</title>
 				<path d="M19.11 52.21 L0.62 80.54 C0 81.5 0.13 82.77 0.94 83.58 L12.78 95.44 C13.59 96.25 14.87 96.38 15.82 95.75
 							 L44.1 77.22 C45.9 76.04 46.98 74.03 46.98 71.88 L46.98 52.13 C46.98 50.58 45.72 49.31 44.17 49.31 L24.46
 							 49.31 C22.31 49.31 20.3 50.41 19.11 52.21 Z" class="st3"/>
 			</g>
-			<g id="shape8088-8">
+			<g id="shape3211-8">
 				<title>path8</title>
 				<path d="M4.16 92.42 L4.16 82.41 L0 82.41 L0 96.38 L14.16 96.38 L14.16 92.42 L4.16 92.42 Z" class="st4"/>
 			</g>
-			<g id="shape8089-10" transform="translate(35.4632,-35.7069)">
+			<g id="shape3212-10" transform="translate(35.4632,-35.7069)">
 				<title>path10</title>
 				<path d="M7.04 96.38 C10.93 96.38 14.08 93.22 14.08 89.33 C14.08 85.43 10.93 82.27 7.04 82.27 C3.15 82.27 0 85.43
 							 0 89.33 C0 93.22 3.15 96.38 7.04 96.38 Z" class="st5"/>
 			</g>
-			<g id="shape8090-12" transform="translate(14.8407,-14.7498)">
+			<g id="shape3213-12" transform="translate(14.8407,-14.7498)">
 				<title>path12</title>
 				<path d="M15.06 77.82 L0 92.9 L3.47 96.38 L18.53 81.3 L15.06 77.82 Z" class="st6"/>
 			</g>
-			<g id="shape8091-14" transform="translate(11.8415,-11.7494)">
+			<g id="shape3214-14" transform="translate(11.8415,-11.7494)">
 				<title>path14</title>
 				<path d="M3.47 96.38 L6.47 93.38 L2.99 89.9 L0 92.9 L3.47 96.38 Z" class="st7"/>
 			</g>

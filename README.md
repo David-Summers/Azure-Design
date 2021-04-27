@@ -51,7 +51,7 @@ With this process I can build and re-build over and over again in minutes and th
 
 **PNG Image of the current full stencil content**
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.3.png)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.4.png)
 
 Some example images to show stencil functionality: -
 
@@ -89,7 +89,7 @@ First you need to decide how you would like to use these stencils. I have provid
 
 **Option 1 - Use the single stencil file that contains all of the icons and drawing tools**
 
-Download the current version containing all Icons - https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.3.vssx
+Download the current version containing all Icons - https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.4.vssx
 
 **Option 2 - Use just the category stencil files that you need** 
 
@@ -148,11 +148,37 @@ Twitter is my primary communication method and if you would like to discuss this
 
 ### Current
 
+**Version 3.4 27/04/2021**
+
+Icon refresh and new aditions
+
+Application	Static Web Folder
+Application	FTP
+Application	Event Grid Partner Topic
+Application	Event Grid Input Output
+Compute		Server Farm
+Deployment	Commit
+Deployment	Repository
+Deployment	Backlog
+Deployment	Confluent Organisation
+Generic		Warning
+Identity	Azure Token
+Identity	Azure Active Directory Verifiable Credential
+Identity	Azure Active Directory Verifyable Credentials
+Identity	Admin Consent
+Identity	Azure Active Directory Privileged Identity Management
+Identity	Collection
+Iot		Custom Location
+Management	Azure LightHouse Multi Tenancy
+Management	Datadog
+Management	Diagnostics
+Storage		Data Box Gateway
+
+### Previous
+
 **Version 3.3 04/03/2021**
 
 It is that time of year again. Yes Microsoft Ignite just happened and as always new services were announced. The 2 major new items announced were "Azure Managed Instance for Apache Cassandra" and the new Augmented Reality service "Azure Percept" as well as these 2 I updated or added 28 new icons. I also added 2 new containers to the drawing tools that I use for full architecture diagrams. I am looking into adding smart containers for core features such as Subscription, Resource Group and Virtual Network for the next release. 
-
-### Previous
 
 **Version 3.2 13/02/2021**
 

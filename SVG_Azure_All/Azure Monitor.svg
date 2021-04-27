@@ -38,41 +38,41 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group4171-1" transform="translate(34,-34.0157)">
+		<g id="group4335-1" transform="translate(34,-34.0157)">
 			<title>Azure Monitor</title>
-			<g id="group4172-2">
+			<g id="group4336-2">
 				<title>g16</title>
-				<g id="shape4173-3">
+				<g id="shape4337-3">
 					<title>ellipse2</title>
 					<ellipse cx="28.3465" cy="96.3622" rx="28.3465" ry="28.3465" class="st1"/>
 				</g>
-				<g id="shape4174-7" transform="translate(3.66836,-3.68136)">
+				<g id="shape4338-7" transform="translate(3.66836,-3.68136)">
 					<title>ellipse4</title>
 					<ellipse cx="24.6781" cy="100.044" rx="24.6781" ry="24.6651" class="st2"/>
 				</g>
-				<g id="shape4175-9" transform="translate(7.40343,-13.4872)">
+				<g id="shape4339-9" transform="translate(7.40343,-13.4872)">
 					<title>path6</title>
 					<path d="M0 111.32 A20.8096 20.8833 -180 0 0 6.07 124.71 L12.74 118.02 A11.7721 11.8138 0 0 1 9.4 111.32 L0 111.32
 								 Z" class="st3"/>
 				</g>
-				<g id="shape4176-11" transform="translate(14.5734,-29.819)">
+				<g id="shape4340-11" transform="translate(14.5734,-29.819)">
 					<title>path8</title>
 					<path d="M27.55 110.35 A20.843 20.9168 -180 0 0 15.24 105.23 L15.24 114.57 A11.3719 11.4122 0 0 1 20.94 116.91
 								 L27.55 110.35 ZM0 110.35 L6.67 117.04 A11.3719 11.4122 0 0 1 12.37 114.7 L12.37 105.23 A20.843 20.9168
 								 -180 0 0 0 110.35 ZM23.04 118.99 A12.0056 12.0481 0 0 1 25.41 124.71 L34.72 124.71 A20.5428 20.6156
 								 -180 0 0 29.61 112.43 L23.04 118.99 Z" class="st4"/>
 				</g>
-				<g id="shape4177-13" transform="translate(7.40343,-29.819)">
+				<g id="shape4341-13" transform="translate(7.40343,-29.819)">
 					<title>path10</title>
 					<path d="M11.67 118.99 L5 112.29 A20.5428 20.6156 -180 0 0 0 124.71 L9.3 124.71 A12.0056 12.0481 0 0 1 11.67
 								 118.99 Z" class="st5"/>
 				</g>
-				<g id="shape4178-15" transform="translate(29.8472,-27.6102)">
+				<g id="shape4342-15" transform="translate(29.8472,-27.6102)">
 					<title>path12</title>
 					<path d="M15.64 117.28 A1.50069 1.50601 -180 0 0 13.74 116.44 L0 122 L1.07 124.71 L14.81 119.25 A1.46735 1.47254
 								 -180 0 0 15.64 117.28 Z" class="st6"/>
 				</g>
-				<g id="shape4179-17" transform="translate(24.3446,-24.3304)">
+				<g id="shape4343-17" transform="translate(24.3446,-24.3304)">
 					<title>ellipse14</title>
 					<ellipse cx="4.00185" cy="120.693" rx="4.00185" ry="4.01603" class="st7"/>
 				</g>

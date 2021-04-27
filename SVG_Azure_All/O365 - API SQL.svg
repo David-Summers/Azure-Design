@@ -10,45 +10,45 @@
 		.st2 {fill:#ffffff;stroke:none;stroke-width:0.75}
 		.st3 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st4 {fill:none;stroke:none;stroke-linecap:butt;stroke-width:0.75}
-		.st5 {fill:#ffffff;font-family:Lato;font-size:1.00001em;font-weight:bold}
+		.st5 {fill:#ffffff;font-family:Calibri;font-size:1.00001em}
 		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
 	<g>
 		<title>Page-1</title>
-		<g id="group1703-1" transform="translate(5.66929,-34.0157)">
+		<g id="group1762-1" transform="translate(5.66929,-34.0157)">
 			<title>O365 - API SQL</title>
 			<desc>This package will provide stencils to visually represent Power Platform: Power Bi, Power Apps, Power Virtual Agents and/or Power Automate devices, architectures or solutions diagrams. It will provide stencils to visually represent features, systems, processes and architectures that use these technologies.</desc>
-			<g id="group1704-2">
+			<g id="group1763-2">
 				<title>Page-1</title>
-				<g id="group1705-3">
-					<title>Sheet.1705</title>
-					<g id="group1706-4">
+				<g id="group1764-3">
+					<title>Sheet.1764</title>
+					<g id="group1765-4">
 						<title>rect5904</title>
-						<g id="shape1707-5">
-							<title>Sheet.1707</title>
+						<g id="shape1766-5">
+							<title>Sheet.1766</title>
 							<rect x="0" y="39.685" width="56.6929" height="56.6929" class="st1"/>
 						</g>
 					</g>
-					<g id="group1708-7" transform="translate(11.121,-13.4193)">
+					<g id="group1767-7" transform="translate(11.121,-13.4193)">
 						<title>path5906</title>
-						<g id="shape1709-8">
-							<title>Sheet.1709</title>
+						<g id="shape1768-8">
+							<title>Sheet.1768</title>
 							<path d="M34.33 91.79 L18.38 91.79 L18.38 94.08 L22.97 94.08 L22.97 96.38 L11.48 96.38 L11.48 94.08 L16.07
 										 94.08 L16.07 91.79 L0 91.79 L0 71.24 L34.33 71.24 L34.33 91.91 L34.33 91.79 ZM2.29 73.41
 										 L2.29 89.49 L32.04 89.49 L32.04 73.41 L2.29 73.41 Z" class="st2"/>
 						</g>
 					</g>
-					<g id="group1710-10" transform="translate(10.5852,-19.3548)">
-						<title>Sheet.1710</title>
+					<g id="group1769-10" transform="translate(10.5852,-19.3548)">
+						<title>Sheet.1769</title>
 						<desc>SQL</desc>
-						<g id="shape1711-11" transform="translate(-2.29816E-13,-3.83747)">
-							<title>Sheet.1711</title>
+						<g id="shape1770-11" transform="translate(-2.29816E-13,-3.83747)">
+							<title>Sheet.1770</title>
 							<rect x="0" y="88.156" width="35.5226" height="8.22198" class="st3"/>
 						</g>
-						<g id="shape1712-13" transform="translate(5.49373,1.42109E-14)">
-							<title>Sheet.1712</title>
+						<g id="shape1771-13" transform="translate(5.49373,0)">
+							<title>Sheet.1771</title>
 							<desc>SQL</desc>
 							<rect x="0" y="80.4923" width="39.7141" height="15.8857" class="st4"/>
 							<text x="0" y="92.04" class="st5">SQL</text>						</g>
