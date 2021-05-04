@@ -152,7 +152,7 @@ Twitter is my primary communication method and if you would like to discuss this
 
 Icon refresh and new aditions
 
-**Application**	- Static Web Folder, FTP, Event Grid Partner Topic andEvent Grid Input Output
+**Application**	- Static Web Folder, FTP, Event Grid Partner Topic and Event Grid Input Output
 
 **Compute**	- Server Farm
 
