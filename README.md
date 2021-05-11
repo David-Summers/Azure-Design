@@ -89,11 +89,26 @@ First you need to decide how you would like to use these stencils. I have provid
 
 **Option 1 - Use the single stencil file that contains all of the icons and drawing tools**
 
-Download the current version containing all Icons - https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.5.vssx
+**Download below**
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.5.vssx
 
 **Option 2 - Use just the category stencil files that you need** 
 
-In the root of this repo you will see categorised stencils. Only want to use the Identity related stencil? then just download the one(s) you need. 
+**Download below**
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-3.5.vssx
+https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-3.5.vssx
 
 **Option 3 - Dont use Visio?**
 
