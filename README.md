@@ -51,7 +51,7 @@ With this process I can build and re-build over and over again in minutes and th
 
 **PNG Image of the current full stencil content**
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.4.svg)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.5.svg)
 
 Some example images to show stencil functionality: -
 
@@ -89,7 +89,7 @@ First you need to decide how you would like to use these stencils. I have provid
 
 **Option 1 - Use the single stencil file that contains all of the icons and drawing tools**
 
-Download the current version containing all Icons - https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.4.vssx
+Download the current version containing all Icons - https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.5.vssx
 
 **Option 2 - Use just the category stencil files that you need** 
 
@@ -148,6 +148,12 @@ Twitter is my primary communication method and if you would like to discuss this
 
 ### Current
 
+**Version 3.5 11/05/2021**
+
+Azure received an Icon rebranding! The new icon for Azure is here and until the community starts to use it in design and documentation I have included the old one and new one labelled Azure V1 and Azure V2. I also corrected a background issue with the PNG versions. Visio does not allow you to export a PNG file with no background so I had to get a little creative. This would not have been an issue for white background diagrams but in dark mode you would have had a white background box around the icon. 
+
+### Previous
+
 **Version 3.4 27/04/2021**
 
 Icon refresh and new aditions
@@ -167,8 +173,6 @@ Icon refresh and new aditions
 **Management** - Azure LightHouse Multi Tenancy, Datadog, Diagnostics
 
 **Storage** - Data Box Gateway
-
-### Previous
 
 **Version 3.3 04/03/2021**
 

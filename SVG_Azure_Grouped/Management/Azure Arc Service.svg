@@ -35,58 +35,58 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group1398-1" transform="translate(34,-34.0157)">
-			<title>Azure Arc Service</title>
-			<g id="group1399-2">
-				<title>Sheet.1399</title>
-				<g id="shape1400-3" transform="translate(0,-29.4379)">
-					<title>Sheet.1400</title>
+		<g id="group6908-1" transform="translate(34,-34.0157)">
+			<title>Azure Arc Service.6908</title>
+			<g id="group6909-2">
+				<title>Sheet.6909</title>
+				<g id="shape6910-3" transform="translate(0,-29.4379)">
+					<title>Sheet.6910</title>
 					<path d="M22.46 104 L11.23 110.54 L0 103.99 L11.23 97.45 L22.46 104 Z" class="st1"/>
 				</g>
-				<g id="shape1401-5" transform="translate(11.2315,-0.0220816)">
-					<title>Sheet.1401</title>
+				<g id="shape6911-5" transform="translate(11.2315,-0.0220816)">
+					<title>Sheet.6911</title>
 					<path d="M11.23 104 L0 97.5 L0 110.54 L11.23 104 Z" class="st2"/>
 				</g>
-				<g id="shape1402-7">
-					<title>Sheet.1402</title>
+				<g id="shape6912-7">
+					<title>Sheet.6912</title>
 					<path d="M11.23 81.1 L11.23 81.09 L11.23 81.1 L0 74.56 L0 104 L11.23 110.54 L22.46 104 L22.46 103.97 L11.23 110.51
 								 L11.23 97.48 L22.46 103.97 L22.46 74.56 L11.23 81.1 Z" class="st3"/>
 				</g>
-				<g id="shape1403-9" transform="translate(34.2299,-29.4379)">
-					<title>Sheet.1403</title>
+				<g id="shape6913-9" transform="translate(34.2299,-29.4379)">
+					<title>Sheet.6913</title>
 					<path d="M0 104 L11.23 110.54 L22.46 103.99 L11.23 97.45 L0 104 Z" class="st4"/>
 				</g>
-				<g id="shape1404-11" transform="translate(34.2299,-0.0220816)">
-					<title>Sheet.1404</title>
+				<g id="shape6914-11" transform="translate(34.2299,-0.0220816)">
+					<title>Sheet.6914</title>
 					<path d="M0 104 L11.23 97.5 L11.23 110.54 L0 104 Z" class="st5"/>
 				</g>
-				<g id="shape1405-13" transform="translate(34.2299,-6.56139)">
-					<title>Sheet.1405</title>
+				<g id="shape6915-13" transform="translate(34.2299,-6.56139)">
+					<title>Sheet.6915</title>
 					<path d="M11.23 87.64 L11.23 87.64 L11.23 104.02 L0 110.54 L0 81.1 L11.23 87.64 Z" class="st6"/>
 				</g>
-				<g id="shape1406-17" transform="translate(34.2299,-29.4379)">
-					<title>Sheet.1406</title>
+				<g id="shape6916-17" transform="translate(34.2299,-29.4379)">
+					<title>Sheet.6916</title>
 					<path d="M0 104 L11.23 110.54 L22.46 103.99 L11.23 97.45 L0 104 Z" class="st4"/>
 				</g>
-				<g id="shape1407-19" transform="translate(34.2299,-2.13163E-13)">
-					<title>Sheet.1407</title>
+				<g id="shape6917-19" transform="translate(34.2299,-2.13163E-13)">
+					<title>Sheet.6917</title>
 					<path d="M11.23 81.1 L0 74.56 L0 103.97 L11.23 97.48 L11.23 110.51 L0 103.97 L0 104 L11.23 110.54 L22.46 104
 								 L22.46 74.56 L11.23 81.1 Z" class="st7"/>
 				</g>
-				<g id="shape1408-21" transform="translate(34.2299,-0.0220816)">
-					<title>Sheet.1408</title>
+				<g id="shape6918-21" transform="translate(34.2299,-0.0220816)">
+					<title>Sheet.6918</title>
 					<path d="M0 104 L11.23 97.5 L11.23 110.54 L0 104 Z" class="st5"/>
 				</g>
-				<g id="shape1409-23" transform="translate(34.2299,-6.56139)">
-					<title>Sheet.1409</title>
+				<g id="shape6919-23" transform="translate(34.2299,-6.56139)">
+					<title>Sheet.6919</title>
 					<path d="M11.23 87.64 L11.23 87.64 L11.23 104.02 L0 110.54 L0 81.1 L11.23 87.64 Z" class="st6"/>
 				</g>
-				<g id="shape1410-26" transform="translate(11.2315,-6.53931)">
-					<title>Sheet.1410</title>
+				<g id="shape6920-26" transform="translate(11.2315,-6.53931)">
+					<title>Sheet.6920</title>
 					<path d="M0 87.63 L0 87.63 L0 104.02 L11.23 110.54 L11.23 81.1 L0 87.63 Z" class="st8"/>
 				</g>
-				<g id="shape1411-30" transform="translate(11.1528,-9.98088)">
-					<title>Sheet.1411</title>
+				<g id="shape6921-30" transform="translate(11.1528,-9.98088)">
+					<title>Sheet.6921</title>
 					<path d="M34.27 102.38 C32.31 107.29 24.62 110.54 17.43 110.54 L16.92 110.54 C9.74 110.54 2.04 107.29 0.08 102.38
 								 C0.08 102.38 0 97.46 0.08 96.98 C1.51 102.46 9 106.51 16.75 106.51 L17.6 106.51 C25.34 106.51 32.84
 								 102.46 34.27 96.98 C34.35 97.46 34.27 102.38 34.27 102.38 ZM31.05 89.19 A20.9543 20.987 0 0 1 17.6
