@@ -90,7 +90,8 @@ First you need to decide how you would like to use these stencils. I have provid
 **Option 1 - Use the single stencil file that contains all of the icons and drawing tools**
 
 **Download below**
-https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.5.vssx
+
+<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.5.vssx</br>
 
 **Option 2 - Use just the category stencil files that you need** 
 
