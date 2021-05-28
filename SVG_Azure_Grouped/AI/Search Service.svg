@@ -22,18 +22,18 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group10069-1" transform="translate(34,-34.0157)">
-			<title>Search Service.10069</title>
-			<g id="group10070-2">
+		<g id="group11218-1" transform="translate(34,-34.0157)">
+			<title>Search Service.11218</title>
+			<g id="group11219-2">
 				<title>Azure-Search</title>
-				<g id="shape10071-3" transform="translate(0,-8.13293)">
-					<title>Sheet.10071</title>
+				<g id="shape11220-3" transform="translate(0,-8.13293)">
+					<title>Sheet.11220</title>
 					<path d="M56.69 111.8 A12.9764 12.9764 -180 0 0 45.64 99.2 A16.2205 16.2205 -180 0 0 29.1 83.46 A16.5354 16.5354
 								 -180 0 0 13.35 94.45 A15.3071 15.3071 -180 0 0 -0 109.5 A15.748 15.748 -180 0 0 15.97 124.68 L43.21
 								 124.68 A2.45669 2.45669 -180 0 0 43.91 124.68 A13.0079 13.0079 -180 0 0 56.69 111.8 Z" class="st1"/>
 				</g>
-				<g id="shape10072-7" transform="translate(14.1015,-14.3937)">
-					<title>Sheet.10072</title>
+				<g id="shape11221-7" transform="translate(14.1015,-14.3937)">
+					<title>Sheet.11221</title>
 					<path d="M24.73 103.17 A9.66929 9.66929 -180 0 0 7.06 105.84 A9.95276 9.95276 -180 0 0 8.1 112.99 L0.73 120.46
 								 A2.48819 2.48819 -180 0 0 0.73 123.98 A2.45669 2.45669 -180 0 0 2.5 124.71 A2.3937 2.3937 -180 0
 								 0 4.26 123.98 L11.6 116.55 A9.88976 9.88976 -180 0 0 14.15 117.59 A9.70079 9.70079 -180 0 0 24.73
@@ -42,12 +42,12 @@
 								 A6.74016 6.74016 0 0 1 16.45 101.31 A7.27559 7.27559 0 0 1 18.09 101.5 A6.86614 6.86614 0 0 1 22.24
 								 104.65 A6.70866 6.70866 0 0 1 23.03 109.78 Z" class="st2"/>
 				</g>
-				<g id="shape10073-9" transform="translate(23.748,-24.126)">
-					<title>Sheet.10073</title>
+				<g id="shape11222-9" transform="translate(23.748,-24.126)">
+					<title>Sheet.11222</title>
 					<ellipse cx="6.77165" cy="117.906" rx="6.77165" ry="6.80315" class="st3"/>
 				</g>
-				<g id="shape10074-11">
-					<title>Sheet.10074</title>
+				<g id="shape11223-11">
+					<title>Sheet.11223</title>
 					<rect x="0" y="68.0157" width="56.6929" height="56.6929" class="st4"/>
 				</g>
 			</g>

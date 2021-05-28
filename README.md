@@ -1,4 +1,6 @@
-## Background
+[TOC]
+
+# Background
 
 Visio remains to this day an industry standard for the depiction of IT infrastructure from both a conceptual and design perspective, over the years I have built diagrams using Visio stencils created by Microsoft and the IT Tech community to convey my ideas accurately and effectively as design documentation. 
 
@@ -11,11 +13,11 @@ SVG's can easily be imported into Visio and due to the file format supporting ra
 - **Import size is dependent on the source SVG view box and scale** (depending on the source file, when it is dropped onto a drawing it may need to be down\up sized to match the scale of other icons)
 - **Lack of programmability** (having icons in a stencil allows you to leverage PowerShell or other languages to programmatically draw diagrams)
 
-With these limitations and the lack of standardised up to date stencils I set out on a personal mission to build my own functional, relevant and as up to date as possible Visio stencil for anyone to use. With permission (and the only caveat that I maintain an up to date collection) from the Microsoft Cloud and Enterprise team to build an icon collection based on the publicly available icons, I built a fully programmatic method to build a stencil collection using SVG's as the source icons. 
+With these limitations and the lack of standardized up to date stencils I set out on a personal mission to build my own functional, relevant and as up to date as possible Visio stencil for anyone to use. With permission (and the only caveat that I maintain an up to date collection) from the Microsoft Cloud and Enterprise team to build an icon collection based on the publicly available icons, I built a fully programmatic method to build a stencil collection using SVG's as the source icons. 
 
-### My process and methodology
+## My process and methodology
 
-**Project ultimate goal**
+### **Project ultimate goal**
 
 ***Function > Ease of use > Form***
 
@@ -29,7 +31,7 @@ Now I am pretty good at performing mundane repetitive operations like this and w
 
 However things started getting messy when Microsoft updated a huge collection of Azure Service icons a short while after I was finished that made my version irrelevant.  So I looked for a better way to build this stencil, as I knew that that Microsoft would forever be adding new services to Azure and or refreshing current service icons (which is a good thing by the way!) and I just did not have the time or energy to perform a few thousand mouse clicks after each version update.  
 
-**My method of building**
+### **My method of building**
 
 Enter PowerShell and the Visio COM application method. If you review my version history below you will see that this project has evolved significantly since I started and I have built a full import and conversion process that performs the following. 
 
@@ -49,68 +51,72 @@ Enter PowerShell and the Visio COM application method. If you review my version 
 
 With this process I can build and re-build over and over again in minutes and this allows me to keep this collection up to date and focus on adding more functionality. 
 
-**PNG Image of the current full stencil content**
+#### SVG image of the current full stencil content
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.5.svg)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.6.svg)
 
 Some example images to show stencil functionality: -
 
-**Source SVG files**
+#### **Source SVG files**
 
 This is where I pick up the source SVG Files, using an _ as a delimiter this allows me to classify the type of icon for the grouping process.
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/SourceFiles.png)
 
-**Connection points**
+#### **Connection points**
 
 Exact connection points relative to the center of the icon
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Connection-Points.png)
 
-**Connection point usage**
+#### **Connection point usage**
 
 Easily connect to and from the icon in multiple directions
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Connection-Point-Example.png)
 
-**Shape Data**
+#### **Shape Data**
 
-Coming soon, super awesome programatic diagram creation. Enumerating resources from Azure and then populating the resources into Visio and adding the relevant metadata to the shape. This unlocks a massive initiative I am working on which is a reverse of this. Design in Visio, add Azure metadata and then push the deployment to Azure via PowerShell. 
+Coming soon, super awesome programmatic diagram creation. Enumerating resources from Azure and then populating the resources into Visio and adding the relevant metadata to the shape. This unlocks a massive initiative I am working on which is a reverse of this. Design in Visio, add Azure metadata and then push the deployment to Azure via PowerShell. 
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Shape-Data.png)
 
-## Sponsorhip
+# Sponsorship
 
-If you would like to support my development or just say thank you! Then check out my Sponsorhip page https://github.com/sponsors/David-Summers - if I receive enough support I will consider adding a new support tier where you can request your own customised stencil. 
+If you would like to support my development or just say thank you! Then check out my Sponsorship page:-
 
-## Stencil Usage
+-  https://github.com/sponsors/David-Summers 
+
+# Stencil Usage
 
 First you need to decide how you would like to use these stencils. I have provided 2 operational methods based on community feedback. 
 
-**Option 1 - Download the single stencil file that contains all of the icons and drawing tools**
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.5.vssx</br>
+## **Option 1 - Download the single stencil file that contains all of the icons and drawing tools**
 
-**Option 2 - Download just the category stencil files that you need** 
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-3.5.vssx</br>
-<br>https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-3.5.vssx</br>
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.6.vssx
 
-**Option 3 - Dont use Visio?**
+## **Option 2 - Download just the category stencil files that you need** 
+
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-3.6.vssx
+
+## **Option 3 - Don't use Visio?**
 
 You also have the PNG and SVG versions of the Icons, they have been scaled the same way as the stencil and can be used in other applications. 
 
-## Installation
+# Installation
 
 Download the stencil(s) and save to your "My Shapes" folder (normally under "C:\ Users \ %YourUserName% \Documents \My Shapes")
 
@@ -118,7 +124,7 @@ Download the stencil(s) and save to your "My Shapes" folder (normally under "C:\
 
 ## Special note on Search
 
-A few versions ago I added search metadata to each icon, this was a massive feature add and really tricky to work out via the Visio COM. However after publishing this update I recieve heaps of feedback that search was not working. I posted a Twitter poll about this and suprisingly 50% responded that search was working! 
+A few versions ago I added search metadata to each icon, this was a massive feature add and really tricky to work out via the Visio COM. However after publishing this update I received heaps of feedback that search was not working. I posted a Twitter poll about this and surprisingly 50% responded that search was working! 
 
 This is a quirk of Visio going back to 2007 and I figured out the right combination of settings that "should" work for you. 
 
@@ -155,29 +161,102 @@ Twitter is my primary communication method and if you would like to discuss this
 - **Twitter - https://twitter.com/Xeeva_D3**
 - **LinkedIn - https://au.linkedin.com/in/djsummers**
 
-## Version History
+# Version History
 
-### Current
+## Current
+
+**Version 3.6 28/05/2021**
+
+Large update with this release. 56 new or refreshed icons added bringing the collection up to 613 items (Minus drawing tools) I have also completely re-worked the Drawing tools. I Scripted a full extract of the Hex colour values for all icons and sorted them by occurrence, after that I designed a new colour pallet using the top 30 colours that are used across the board. This helps to keep visual consistency with colouring, As well as the colour pallet I did the same for gradients so there are now two pallets to chose from. I also took the most common colours and redrew the connection objects providing a line, arc, glow line, path based and angled connection objects in each colour as well as dashed line boxes as containers. 
+
+**Fixes**
+
+The Azure Icon, so I could not source an SVG of the new Azure Icon so I drew it from scratch but it was not perfect and I found an alignment issue with the bottom two horizontal lines that I corrected. I have since found other “SVG” sources of the Azure Icon but these are not vector images and I refuse to use bitmaps in my stencil.
+
+Text Box positioning, a few updates ago I changed the Y positioning of the Text box to be 14mm below the center of the icon, this lined up the text box nicely with icons of a differing height. Unfortunately this change to position breaks the text box if you resize the icon so I reverted to a calculation based on the height of the icon. 
+
+**Significant new Icons**
+
+Visual Studio and VS Code now have the new Fluent styling, as per the Azure Icon I had to draw these from scratch.
+
+Azure Active Directory Sync hosts, these are based on an upcoming per workload stencil that I am working on that uses the same styling as Azure.
+
+Full list of icon changes below:-
+
+| Category    | Icon                                                | Status    |
+| ----------- | --------------------------------------------------- | --------- |
+| AI          | Cognitive Services Content Moderator.svg            | Refreshed |
+| AI          | Cognitive Services Data Collection Rule.svg         | Refreshed |
+| AI          | Cognitive Services Face Detection.svg               | Refreshed |
+| AI          | Cognitive Services Health Bot.svg                   | Refreshed |
+| AI          | Cognitive Services QnA Maker.svg                    | Refreshed |
+| AI          | Cognitive Services Speech.svg                       | Refreshed |
+| AI          | Cognitive Services Text Translator.svg              | Refreshed |
+| AI          | Cognitive Services Vision.svg                       | Refreshed |
+| AI          | Power BI Embedded.svg                               | Refreshed |
+| Application | Logic App.svg                                       | Refreshed |
+| Data        | Elasticsearch.svg                                   | New       |
+| Data        | Video Analyzer.svg                                  | New       |
+| Deployment  | Visual Studio Code.svg                              | New       |
+| Deployment  | Visual Studio.svg                                   | New       |
+| Generic     | Azure v2.svg                                        | Refreshed |
+| Identity    | AADConnect Staged Rollout.svg                       | New       |
+| Identity    | Active Directory Domain Services.svg                | Refreshed |
+| Identity    | Active Directory Federation Proxy.svg               | Refreshed |
+| Identity    | Active Directory Federation Services.svg            | Refreshed |
+| Identity    | Active Directory Lightweight Directory Services.svg | New       |
+| Identity    | Authentication Context.svg                          | New       |
+| Identity    | Azure Active Directory Sync Primary.svg             | New       |
+| Identity    | Azure Active Directory Sync Standby.svg             | New       |
+| Identity    | Continuous Access Evaluation.svg                    | New       |
+| Identity    | Custom Control.svg                                  | New       |
+| Identity    | Identity Governance.svg                             | New       |
+| Identity    | Terms of use.svg                                    | New       |
+| Identity    | User Setting.svg                                    | New       |
+| Identity    | VPN Connectivity.svg                                | Refreshed |
+| IoT         | Built-in Endpoint.svg                               | New       |
+| IoT         | Certificate.svg                                     | New       |
+| IoT         | Device.svg                                          | New       |
+| IoT         | File Upload.svg                                     | New       |
+| IoT         | Identity.svg                                        | New       |
+| IoT         | Message Routing.svg                                 | New       |
+| IoT         | Query Explorer.svg                                  | New       |
+| Management  | Azure Monitor AKS Health.svg                        | New       |
+| Management  | Azure Monitor Azure Stack Health.svg                | New       |
+| Management  | Azure Monitor Data Collection Rules.svg             | New       |
+| Management  | Azure Monitor Data sources.svg                      | New       |
+| Management  | Azure Monitor Log Analytics   Health.svg            | New       |
+| Management  | Azure Monitor Service Bus Health.svg                | New       |
+| Management  | Update Management.svg                               | New       |
+| Management  | Usage and Quota.svg                                 | New       |
+| Networking  | Connected Device.svg                                | New       |
+| Networking  | Service Endpoint.svg                                | New       |
+| Networking  | Virtual Network Peering.svg                         | Refreshed |
+| Security    | Azure Firewall Security Partner Provider.svg        | New       |
+| Security    | Azure Firewall Virtual Hub.svg                      | New       |
+| Security    | Azure Firewall Virtual Network.svg                  | New       |
+
+
+
+## Previous
 
 **Version 3.5 11/05/2021**
 
 Azure received an Icon rebranding! The new icon for Azure is here and until the community starts to use it in design and documentation I have included the old one and new one labelled Azure V1 and Azure V2. I also corrected a background issue with the PNG versions. Visio does not allow you to export a PNG file with no background so I had to get a little creative. This would not have been an issue for white background diagrams but in dark mode you would have had a white background box around the icon. 
 
-### Previous
-
 **Version 3.4 27/04/2021**
 
-Icon refresh and new aditions
+Icon refresh and new additions
 
 **Application**	- Static Web Folder, FTP, Event Grid Partner Topic and Event Grid Input Output
 
 **Compute**	- Server Farm
 
-**Deployment** - Commit, Repository, Backlog and Confluent Organisation
+**Deployment** - Commit, Repository, Backlog and Confluent Organization
 
 **Generic**	- Warning
 
-**Identity** - Azure Token, Azure Active Directory Verifiable Credential, Azure Active Directory Verifyable Credentials, Admin Consent, Azure Active Directory Privileged Identity Management and Collection
+**Identity** - Azure Token, Azure Active Directory Verifiable Credential, Azure Active Directory Verifiable Credentials, Admin Consent, Azure Active Directory Privileged Identity Management and Collection
 
 **Iot** - Custom Location
 
@@ -197,7 +276,7 @@ The first update for the year. Several new and refreshed icons and a new naming 
 
 Likely to be the last version release for this very interesting year of 2020. 
 
-Search Fixes (See above) and added 5 new service icons (The icon for Azure Purview is my new favourite!) 
+Search Fixes (See above) and added 5 new service icons (The icon for Azure Purview is my new favorite!) 
 
 Over the past year I have seen incremental changes to certain icons but not others. The team is doing an amazing job at converting to super modern gradiant shaded versions which look stunning. But some icons have not received a modern revamp. 
 
@@ -205,7 +284,7 @@ This was a good opportunity to work through the set and start applying the same 
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Icon%20Refresh%20Example.jpg)
 
-A few more examples (left origional, right modern)
+A few more examples (left original, right modern)
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Icon%20Refresh%20Examples.jpg)
 
@@ -225,7 +304,7 @@ Fields included: -
 
 Based on community feedback from a series of Twitter polls I posted a few months ago I have changed the default text format from dark blue to black
 
-Also based on feedback you now have the option to use a single large stencil containing all 496 icons or you can use the category stencils for just networking, compute etc. I have placed all of the current versions at the root of the repo including categorised structured PNG and SVG versions 
+Also based on feedback you now have the option to use a single large stencil containing all 496 icons or you can use the category stencils for just networking, compute etc. I have placed all of the current versions at the root of the repo including categorized structured PNG and SVG versions 
 
 Added or refreshed 66 icons
 
@@ -269,7 +348,7 @@ This weekend I found another major icon update. 209 icons to be precise! - I hav
 
 *Version 2.0 - 22/10/2019*
 
-Over the past week I have noticed significant updates to key Azure Service Icons and in preperation for an expected announcement at Ignite this year I have re-designed my entire conversion process, previously I had to manually work on each icon to set the initial placement of the connection points and name them for scripted modification. I finally managed to figure out the PS syntax that the Visio COM.Application is expecting for inserting new connection point rows. My process is now automated taking SVG's from a directory and inserting them into my Master Stencil for processing. Recorded a quick video showing the automation into Visio
+Over the past week I have noticed significant updates to key Azure Service Icons and in preparation for an expected announcement at Ignite this year I have re-designed my entire conversion process, previously I had to manually work on each icon to set the initial placement of the connection points and name them for scripted modification. I finally managed to figure out the PS syntax that the Visio COM.Application is expecting for inserting new connection point rows. My process is now automated taking SVG's from a directory and inserting them into my Master Stencil for processing. Recorded a quick video showing the automation into Visio
 
 https://github.com/David-Summers/Azure-Design/blob/master/Assets/VIDEO_Icon-Builder.mp4
 
@@ -334,7 +413,7 @@ Added new icons
 
 *Version 1.5 - 26/08/2019*
 
-Major change with this release, initially I hand placed the four connection points for each icon and that was not perfect placement. I thought it would be easy to script modify the connection point position (like I did with the Text field in V-1.1) but it turns out that visio does not name a connection point when you add it so I could not modify it through PowerShell. I added a new script process that allowed me to hand place the connection points and then name them 1-5 (I added a new connection point under the text field for easier south connections when there is data in the text field). Now that they are named, I can modify them when I build my stencil using my gold master. Example below: -
+Major change with this release, initially I hand placed the four connection points for each icon and that was not perfect placement. I thought it would be easy to script modify the connection point position (like I did with the Text field in V-1.1) but it turns out that Visio does not name a connection point when you add it so I could not modify it through PowerShell. I added a new script process that allowed me to hand place the connection points and then name them 1-5 (I added a new connection point under the text field for easier south connections when there is data in the text field). Now that they are named, I can modify them when I build my stencil using my gold master. Example below: -
 
 <p>
 "$shape.CellsU("Connections.1.X").Formula = "Width*0.5""
@@ -444,7 +523,7 @@ Removed "Azure" prefix for some incorrectly named icons. Added new Icons
 
 *Version 1.1 - 27/07/2019*
 
-First major change, I realised that some of the text fields were not perfectly aligned so I rebuilt my PowerShell process to use dynamic  values for the text field. Since the shapes differ in Height\Width my initial placement was slightly off due to distance from center. This placement is now relative to the bottom edge of the icon. I also inserted the name of the icon into the Text field for page drop as well and reformatted the text to a dark Blue. Final change was to add a subtle drop shadow to each icon as I feel they jump off the page with a small amount of depth.
+First major change, I realized that some of the text fields were not perfectly aligned so I rebuilt my PowerShell process to use dynamic  values for the text field. Since the shapes differ in Height\Width my initial placement was slightly off due to distance from center. This placement is now relative to the bottom edge of the icon. I also inserted the name of the icon into the Text field for page drop as well and reformatted the text to a dark Blue. Final change was to add a subtle drop shadow to each icon as I feel they jump off the page with a small amount of depth.
 
 *Version 1.0 - 25/07/2019*
 
