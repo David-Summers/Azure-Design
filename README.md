@@ -1,5 +1,3 @@
-[TOC]
-
 # Background
 
 Visio remains to this day an industry standard for the depiction of IT infrastructure from both a conceptual and design perspective, over the years I have built diagrams using Visio stencils created by Microsoft and the IT Tech community to convey my ideas accurately and effectively as design documentation. 
@@ -102,6 +100,7 @@ First you need to decide how you would like to use these stencils. I have provid
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-3.6.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-3.6.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-3.6.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-3.6.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-3.6.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-3.6.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-3.6.vssx
