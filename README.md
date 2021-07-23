@@ -120,7 +120,7 @@ You also have the PNG and SVG versions of the Icons, they have been scaled the s
 # Installation
 
 Download the stencil(s) and save to your "My Shapes" folder (normally under "C:\ Users \ %YourUserName% \Documents \My Shapes")
-
+ 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Collection-Example.png)
 
 ## Special note on Search
