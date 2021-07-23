@@ -17,38 +17,38 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group1815-1" transform="translate(5.66929,-34.0157)">
+		<g id="group1985-1" transform="translate(5.66929,-34.0157)">
 			<title>O365 - API SQL</title>
 			<desc>This package will provide stencils to visually represent Power Platform: Power Bi, Power Apps, Power Virtual Agents and/or Power Automate devices, architectures or solutions diagrams. It will provide stencils to visually represent features, systems, processes and architectures that use these technologies.</desc>
-			<g id="group1816-2">
+			<g id="group1986-2">
 				<title>Page-1</title>
-				<g id="group1817-3">
-					<title>Sheet.1817</title>
-					<g id="group1818-4">
+				<g id="group1987-3">
+					<title>Sheet.1987</title>
+					<g id="group1988-4">
 						<title>rect5904</title>
-						<g id="shape1819-5">
-							<title>Sheet.1819</title>
+						<g id="shape1989-5">
+							<title>Sheet.1989</title>
 							<rect x="0" y="39.685" width="56.6929" height="56.6929" class="st1"/>
 						</g>
 					</g>
-					<g id="group1820-7" transform="translate(11.121,-13.4193)">
+					<g id="group1990-7" transform="translate(11.121,-13.4193)">
 						<title>path5906</title>
-						<g id="shape1821-8">
-							<title>Sheet.1821</title>
+						<g id="shape1991-8">
+							<title>Sheet.1991</title>
 							<path d="M34.33 91.79 L18.38 91.79 L18.38 94.08 L22.97 94.08 L22.97 96.38 L11.48 96.38 L11.48 94.08 L16.07
 										 94.08 L16.07 91.79 L0 91.79 L0 71.24 L34.33 71.24 L34.33 91.91 L34.33 91.79 ZM2.29 73.41
 										 L2.29 89.49 L32.04 89.49 L32.04 73.41 L2.29 73.41 Z" class="st2"/>
 						</g>
 					</g>
-					<g id="group1822-10" transform="translate(10.5852,-19.3548)">
-						<title>Sheet.1822</title>
+					<g id="group1992-10" transform="translate(10.5852,-19.3548)">
+						<title>Sheet.1992</title>
 						<desc>SQL</desc>
-						<g id="shape1823-11" transform="translate(-2.29816E-13,-3.83747)">
-							<title>Sheet.1823</title>
+						<g id="shape1993-11" transform="translate(-2.29816E-13,-3.83747)">
+							<title>Sheet.1993</title>
 							<rect x="0" y="88.156" width="35.5226" height="8.22198" class="st3"/>
 						</g>
-						<g id="shape1824-13" transform="translate(5.49373,1.42109E-14)">
-							<title>Sheet.1824</title>
+						<g id="shape1994-13" transform="translate(5.49373,1.42109E-14)">
+							<title>Sheet.1994</title>
 							<desc>SQL</desc>
 							<rect x="0" y="80.4923" width="39.7141" height="15.8857" class="st4"/>
 							<text x="0" y="92.04" class="st5">SQL</text>						</g>

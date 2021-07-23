@@ -25,28 +25,28 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group2132-1" transform="translate(34.0003,-34.0157)">
+		<g id="group2362-1" transform="translate(34.0003,-34.0157)">
 			<title>Managed Disk Snapshot</title>
-			<g id="group2133-2">
+			<g id="group2363-2">
 				<title>Icon-compute-26</title>
-				<g id="shape2134-3" transform="translate(8.23093,-14.2047)">
-					<title>Sheet.2134</title>
+				<g id="shape2364-3" transform="translate(8.23093,-14.2047)">
+					<title>Sheet.2364</title>
 					<ellipse cx="18.8535" cy="116.87" rx="18.8535" ry="7.84252" class="st1"/>
 				</g>
-				<g id="shape2135-5" transform="translate(21.2762,-20.378)">
-					<title>Sheet.2135</title>
+				<g id="shape2365-5" transform="translate(21.2762,-20.378)">
+					<title>Sheet.2365</title>
 					<ellipse cx="6.27415" cy="122.981" rx="6.27415" ry="1.73228" class="st2"/>
 				</g>
-				<g id="shape2136-7" transform="translate(8.23093,-31.622)">
-					<title>Sheet.2136</title>
+				<g id="shape2366-7" transform="translate(8.23093,-31.622)">
+					<title>Sheet.2366</title>
 					<ellipse cx="18.8535" cy="116.87" rx="18.8535" ry="7.84252" class="st3"/>
 				</g>
-				<g id="shape2137-11" transform="translate(21.2762,-37.8268)">
-					<title>Sheet.2137</title>
+				<g id="shape2367-11" transform="translate(21.2762,-37.8268)">
+					<title>Sheet.2367</title>
 					<ellipse cx="6.27415" cy="122.981" rx="6.27415" ry="1.73228" class="st4"/>
 				</g>
-				<g id="shape2138-13">
-					<title>Sheet.2138</title>
+				<g id="shape2368-13">
+					<title>Sheet.2368</title>
 					<path d="M11.18 68.02 L1.86 68.02 A1.80149 1.82677 -180 0 0 0 69.88 L0 79.33 a0.900744 0.913386 -180 0 0 0.900744
 								 0.913386 L1.93 80.24 a0.900744 0.913386 -180 0 0 0.931804 -0.913386 L2.86 70.79 L11.18 70.79 a0.900744
 								 0.913386 -180 0 0 0.931804 -0.913386 L12.11 68.96 a0.900744 0.913386 -180 0 0 -0.931804 -0.944882
@@ -61,14 +61,14 @@
 								 0.944882 -180 0 0 0.931804 0.913386 L51.9 124.71 A1.83255 1.85827 -180 0 0 53.73 122.85 L53.73 113.41
 								 a0.900744 0.913386 -180 0 0 -0.931804 -0.976378 Z" class="st5"/>
 				</g>
-				<g id="shape2139-15" transform="translate(8.19987,-9.82677)">
-					<title>Sheet.2139</title>
+				<g id="shape2369-15" transform="translate(8.19987,-9.82677)">
+					<title>Sheet.2369</title>
 					<path d="M18.85 120.18 C29.26 120.18 37.71 116.68 37.71 112.33 L37.71 116.96 C37.49 121.19 29.07 124.71 18.85
 								 124.71 C8.63 124.71 0 121.19 0 116.87 L0 112.33 C0.03 116.68 8.48 120.18 18.85 120.18 Z"
 							class="st2"/>
 				</g>
-				<g id="shape2140-17" transform="translate(8.23093,-27.4016)">
-					<title>Sheet.2140</title>
+				<g id="shape2370-17" transform="translate(8.23093,-27.4016)">
+					<title>Sheet.2370</title>
 					<path d="M18.82 120.24 C29.23 120.24 37.68 116.71 37.68 112.4 L37.68 117.09 C37.46 121.34 29.04 124.71 18.82
 								 124.71 C8.6 124.71 0 121.19 0 116.84 L0 112.49 C0 116.81 8.45 120.24 18.82 120.24 Z" class="st6"/>
 				</g>
