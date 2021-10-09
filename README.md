@@ -233,7 +233,7 @@ Updated double click behavior on each icon to open the text box editor as reques
 | Dynamics 365 | Mixed Reality Product Visualise           | New     |
 | Dynamics 365 | Mixed Reality Remote Assist               | New     |
 | Dynamics 365 | Mixed Reality Voice Assistant             | New     |
-| Identity     | Azure AD B2B                              | New     |
+| Identity     | Azure AD B2B                              | Updated |
 | IoT          | IoT Connector                             | New     |
 | Management   | Intelligent Recommendations Account       | New     |
 | Management   | Metrics Advisor                           | New     |
