@@ -104,7 +104,7 @@ First you need to decide how you would like to use these stencils. I have provid
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-3.8.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-3.8.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-3.6.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Dynamics-365_V-3.8.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-3.8.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-3.8.vssx
