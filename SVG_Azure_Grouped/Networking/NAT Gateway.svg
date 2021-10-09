@@ -23,51 +23,51 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group13774-1" transform="translate(33.2388,-34.0157)">
-			<title>NAT Gateway.13774</title>
-			<g id="group13775-2">
+		<g id="group13720-1" transform="translate(33.2388,-34.0157)">
+			<title>NAT Gateway.13720</title>
+			<g id="group13721-2">
 				<title>Icon-310-NATService</title>
-				<g id="shape13776-3" transform="translate(-59.2977,36.3034) rotate(-45)">
-					<title>Sheet.13776</title>
+				<g id="shape13722-3" transform="translate(-59.2977,36.3034) rotate(-45)">
+					<title>Sheet.13722</title>
 					<path d="M0 122.11 A1.83763 1.83763 -180 0 0 1.84 123.95 L38.25 123.95 A1.83763 1.83763 -180 0 0 40.09 122.11
 								 L40.09 85.7 A1.83763 1.83763 -180 0 0 38.25 83.86 L1.84 83.86 A1.83763 1.83763 -180 0 0 -0 85.7
 								 L0 122.11 Z" class="st1"/>
 				</g>
-				<g id="shape13777-7" transform="translate(12.1431,-11.0433)">
-					<title>Sheet.13777</title>
+				<g id="shape13723-7" transform="translate(12.1431,-11.0433)">
+					<title>Sheet.13723</title>
 					<path d="M32.04 109.96 L30.92 108.85 L30.92 104.56 L22.04 104.56 L22.04 109.29 L26.02 109.29 L16.02 119.3 L6.01
 								 109.29 L10.06 109.29 L10.06 104.56 L0.3 104.56 L0.3 109.29 L0.67 109.29 L0 109.96 L13.99 123.95
 								 L16.02 121.92 L18.05 123.95 L32.04 109.96 Z" class="st2"/>
 				</g>
-				<g id="shape13778-9" transform="translate(-75.066,15.3739) rotate(-45.121)">
-					<title>Sheet.13778</title>
+				<g id="shape13724-9" transform="translate(-75.066,15.3739) rotate(-45.121)">
+					<title>Sheet.13724</title>
 					<ellipse cx="4.90333" cy="119.019" rx="4.90333" ry="4.92821" class="st3"/>
 				</g>
-				<g id="shape13779-11" transform="translate(-74.9835,12.2876) rotate(-45.061)">
-					<title>Sheet.13779</title>
+				<g id="shape13725-11" transform="translate(-74.9835,12.2876) rotate(-45.061)">
+					<title>Sheet.13725</title>
 					<ellipse cx="2.78591" cy="121.134" rx="2.78591" ry="2.8139" class="st4"/>
 				</g>
-				<g id="shape13780-13" transform="translate(-43.8572,15.3761) rotate(-45.121)">
-					<title>Sheet.13780</title>
+				<g id="shape13726-13" transform="translate(-43.8572,15.3761) rotate(-45.121)">
+					<title>Sheet.13726</title>
 					<ellipse cx="4.90333" cy="119.019" rx="4.90333" ry="4.92821" class="st3"/>
 				</g>
-				<g id="shape13781-15" transform="translate(-43.7739,12.292) rotate(-45.061)">
-					<title>Sheet.13781</title>
+				<g id="shape13727-15" transform="translate(-43.7739,12.292) rotate(-45.061)">
+					<title>Sheet.13727</title>
 					<ellipse cx="2.78591" cy="121.134" rx="2.78591" ry="2.8139" class="st4"/>
 				</g>
-				<g id="shape13782-17" transform="translate(21.4879,-8.34446)">
-					<title>Sheet.13782</title>
+				<g id="shape13728-17" transform="translate(21.4879,-8.34446)">
+					<title>Sheet.13728</title>
 					<path d="M13.2 90.91 L6.99 84.69 a0.466392 0.466392 -180 0 0 -0.662277 -9.9476E-14 L0.1 90.91 a0.466392 0.466392
 								 -180 0 0 0.329584 0.799085 L3.96 91.7 a0.332693 0.332693 0 0 1 0.332693 0.332693 L4.3 123.95 L9.04
 								 123.95 L9.04 92.04 a0.332693 0.332693 0 0 1 0.310928 -0.332693 L12.86 91.7 a0.466392 0.466392 -180
 								 0 0 0.338911 -0.799085 Z" class="st3"/>
 				</g>
-				<g id="shape13783-19" transform="translate(-59.6493,31.0749) rotate(-45.121)">
-					<title>Sheet.13783</title>
+				<g id="shape13729-19" transform="translate(-59.6493,31.0749) rotate(-45.121)">
+					<title>Sheet.13729</title>
 					<ellipse cx="4.90333" cy="119.019" rx="4.90333" ry="4.92821" class="st3"/>
 				</g>
-				<g id="shape13784-21" transform="translate(-59.5637,27.9898) rotate(-45.061)">
-					<title>Sheet.13784</title>
+				<g id="shape13730-21" transform="translate(-59.5637,27.9898) rotate(-45.061)">
+					<title>Sheet.13730</title>
 					<ellipse cx="2.78591" cy="121.134" rx="2.78591" ry="2.8139" class="st4"/>
 				</g>
 			</g>

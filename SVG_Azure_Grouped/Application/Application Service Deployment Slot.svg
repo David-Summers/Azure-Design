@@ -28,51 +28,51 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group10572-1" transform="translate(34,-34.2145)">
-			<title>Application Service Deployment Slot.10572</title>
-			<g id="group10573-2">
-				<title>Sheet.10573</title>
-				<g id="shape10574-3" transform="translate(39.7732,-18.2061)">
-					<title>Sheet.10574</title>
+		<g id="group10851-1" transform="translate(34,-34.2145)">
+			<title>Application Service Deployment Slot.10851</title>
+			<g id="group10852-2">
+				<title>Sheet.10852</title>
+				<g id="shape10853-3" transform="translate(39.7732,-18.2061)">
+					<title>Sheet.10853</title>
 					<path d="M0 124.38 a0.39685 0.399155 -180 0 0 0.258268 0.500528 L4.98 124.84 C5.21 124.84 11.43 124.91 11.67
 								 124.9 L16.39 124.87 a0.40315 0.405491 -180 0 0 0.314961 -0.12038 a0.39685 0.399155 -180 0 0 -1.06581E-14
 								 -0.563886 L8.57 116.04 a0.425197 0.427666 -180 0 0 -0.592126 0 L0.03 124.3 L0 124.38 Z"
 							class="st1"/>
 				</g>
-				<g id="shape10575-5" transform="translate(0,-17.7689)">
-					<title>Sheet.10575</title>
+				<g id="shape10854-5" transform="translate(0,-17.7689)">
+					<title>Sheet.10854</title>
 					<path d="M22.43 114.66 A3.77953 3.80148 0 0 1 18.65 110.85 L18.65 106.44 L0 106.44 L0 123.71 A1.1874 1.1943 -180
 								 0 0 1.19 124.91 L34.26 124.91 A1.1874 1.1943 -180 0 0 35.45 123.71 L35.45 114.66 L22.43 114.66 Z"
 							class="st2"/>
 				</g>
-				<g id="shape10576-9" transform="translate(0,-35.1322)">
-					<title>Sheet.10576</title>
+				<g id="shape10855-9" transform="translate(0,-35.1322)">
+					<title>Sheet.10855</title>
 					<path d="M18.65 116.21 L1.19 116.21 A1.19055 1.19747 -180 0 0 0 117.38 L0 124.91 L18.65 124.91 L18.65 116.21 Z"
 							class="st3"/>
 				</g>
-				<g id="shape10577-11" transform="translate(4.7685,-37.9643)">
-					<title>Sheet.10577</title>
+				<g id="shape10856-11" transform="translate(4.7685,-37.9643)">
+					<title>Sheet.10856</title>
 					<path d="M13.88 121.83 L0.59 121.83 a0.582677 0.586061 -180 0 0 -0.585827 0.586061 L0 124.32 a0.582677 0.586061
 								 -180 0 0 0.585827 0.586061 L13.88 124.91 L13.88 121.83 Z" class="st4"/>
 				</g>
-				<g id="shape10578-13" transform="translate(21.2409,-30.6274)">
-					<title>Sheet.10578</title>
+				<g id="shape10857-13" transform="translate(21.2409,-30.6274)">
+					<title>Sheet.10857</title>
 					<path d="M0 106.44 L0 123.71 A1.19055 1.19747 -180 0 0 1.19 124.91 L34.26 124.91 A1.1874 1.1943 -180 0 0 35.45
 								 123.71 L35.45 106.44 L0 106.44 Z" class="st5"/>
 				</g>
-				<g id="shape10579-17" transform="translate(21.2409,-47.9939)">
-					<title>Sheet.10579</title>
+				<g id="shape10858-17" transform="translate(21.2409,-47.9939)">
+					<title>Sheet.10858</title>
 					<path d="M1.19 116.21 L34.26 116.21 A1.1874 1.1943 0 0 1 35.45 117.42 L35.45 124.91 L0 124.91 L0 117.38 A1.19055
 								 1.19747 0 0 1 1.19 116.21 Z" class="st6"/>
 				</g>
-				<g id="shape10580-19" transform="translate(26.0157,-50.8355)">
-					<title>Sheet.10580</title>
+				<g id="shape10859-19" transform="translate(26.0157,-50.8355)">
+					<title>Sheet.10859</title>
 					<path d="M0 124.32 a0.582691 0.586075 -180 0 0 0.582677 0.586061 L25.34 124.91 a0.582691 0.586075 -180 0 0 0.582677
 								 -0.586061 L25.92 122.43 a0.582691 0.586075 -180 0 0 -0.582677 -0.586061 L0.58 121.84 a0.582691 0.586075
 								 -180 0 0 -0.582677 0.586061 L0 124.32 Z" class="st4"/>
 				</g>
-				<g id="shape10581-21" transform="translate(14.3402,0)">
-					<title>Sheet.10581</title>
+				<g id="shape10860-21" transform="translate(14.3402,0)">
+					<title>Sheet.10860</title>
 					<path d="M31.74 106.59 A14.1323 14.2144 0 0 1 4.32 111.48 A1.00472 1.01056 -180 0 0 3.37 110.83 L0.97 110.83
 								 A1.01417 1.02006 -180 0 0 0 112.15 A18.4189 18.5259 -180 0 0 35.99 106.59 L31.74 106.59 Z"
 							class="st1"/>

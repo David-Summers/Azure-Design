@@ -28,26 +28,26 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group2711-1" transform="translate(32.0111,-34.0157)">
+		<g id="group2844-1" transform="translate(32.0111,-34.0157)">
 			<title>IoT Edge</title>
-			<g id="group2712-2">
+			<g id="group2845-2">
 				<title>layer1</title>
-				<g id="shape2713-3" transform="translate(0,-16.0731)">
+				<g id="shape2846-3" transform="translate(0,-16.0731)">
 					<title>path12</title>
 					<path d="M56.69 109.98 A12.7874 12.9166 -180 0 0 45.64 97.73 A16.063 16.2253 -180 0 0 29.1 82.11 A16.4724 16.6389
 								 -180 0 0 13.35 92.96 A15.1811 15.3345 -180 0 0 0 107.72 A15.4331 15.589 -180 0 0 15.97 122.7 L43.21
 								 122.7 A2.45669 2.48152 -180 0 0 43.91 122.7 A12.8819 13.012 -180 0 0 56.69 109.98 L56.69 109.98
 								 Z" class="st1"/>
 				</g>
-				<g id="shape2714-7" transform="translate(27.0236,-10.3713)">
+				<g id="shape2847-7" transform="translate(27.0236,-10.3713)">
 					<title>path14</title>
 					<rect x="0" y="103.034" width="2.45669" height="19.693" class="st2"/>
 				</g>
-				<g id="shape2715-9" transform="translate(21.7008,-29.3961)">
+				<g id="shape2848-9" transform="translate(21.7008,-29.3961)">
 					<title>circle16</title>
 					<ellipse cx="6.55118" cy="116.11" rx="6.55118" ry="6.61737" class="st3"/>
 				</g>
-				<g id="shape2716-11" transform="translate(22.2992,0)">
+				<g id="shape2849-11" transform="translate(22.2992,0)">
 					<title>rect18</title>
 					<path d="M-0 120.4 A2.29926 2.3225 -180 0 0 2.3 122.73 L9.61 122.73 A2.29926 2.3225 -180 0 0 11.91 120.4 L11.91
 								 113.02 A2.29926 2.3225 -180 0 0 9.61 110.7 L2.3 110.7 A2.29926 2.3225 -180 0 0 -0 113.02 L0 120.4

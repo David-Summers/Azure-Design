@@ -51,7 +51,7 @@ With this process I can build and re-build over and over again in minutes and th
 
 #### SVG image of the current full stencil content
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.7.svg)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.8.svg)
 
 Some example images to show stencil functionality: -
 
@@ -93,34 +93,41 @@ First you need to decide how you would like to use these stencils. I have provid
 
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.7.vssx
 
-## **Option 2 - Download just the category stencil files that you need** 
+## Option 2 - Download the latest full ZIP package
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-3.7.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload-Service_V-3.7.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/V-3.8.zip
 
-## **Option 3 - Don't use Visio?**
+## **Option 3 - Download just the category stencil files that you need** 
+
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Dynamics-365_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload-Service_V-3.8.vssx
+
+## **Option 4 - Don't use Visio?**
 
 You also have the PNG and SVG versions of the Icons, they have been scaled the same way as the stencil and can be used in other applications. 
+
+## 
 
 # Installation
 
 Download the stencil(s) and save to your "My Shapes" folder (normally under "C:\ Users \ %YourUserName% \Documents \My Shapes")
- 
+
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Collection-Example.png)
 
 ## Special note on Search
@@ -165,6 +172,79 @@ Twitter is my primary communication method and if you would like to discuss this
 # Version History
 
 ## Current
+
+**Version 3.8 - 09/10/2021**
+
+Updated double click behavior on each icon to open the text box editor as requested by @jikuja. Added new icons below.
+
+| Category     | Icon                                      | Status  |
+| ------------ | ----------------------------------------- | ------- |
+| AI           | Cognitive Services Communication Services | New     |
+| Application  | Fluid Relay                               | New     |
+| Compute      | Azure Edge Hardware Center                | New     |
+| Compute      | Capacity Reservation Group                | New     |
+| Compute      | Windows 365                               | New     |
+| Data         | Azure Integration Runtime                 | New     |
+| Data         | Data Lake Storage Gen2                    | New     |
+| Data         | Integration Runtime                       | New     |
+| Data         | Linked Integration Runtime                | New     |
+| Data         | Shared Integration Runtime                | New     |
+| Data         | Snowflake                                 | New     |
+| Data         | SSIS Integration Runtime                  | New     |
+| Deployment   | 1ES                                       | New     |
+| Deployment   | 1ES CloudTest Account                     | New     |
+| Deployment   | 1ES CloudTest Image                       | New     |
+| Deployment   | 1ES Hosted Pool                           | New     |
+| Deployment   | Bicep                                     | New     |
+| Deployment   | Custom Template                           | New     |
+| Dynamics 365 | Application Business Central              | New     |
+| Dynamics 365 | Application Commerce                      | New     |
+| Dynamics 365 | Application Connected Store               | New     |
+| Dynamics 365 | Application Core HR                       | New     |
+| Dynamics 365 | Application Customer Insights             | New     |
+| Dynamics 365 | Application Customer Service              | New     |
+| Dynamics 365 | Application Customer Service Insights     | New     |
+| Dynamics 365 | Application Customer Voice                | New     |
+| Dynamics 365 | Application Field Service                 | New     |
+| Dynamics 365 | Application Finance                       | New     |
+| Dynamics 365 | Application Finance and Operations        | New     |
+| Dynamics 365 | Application Fraud Protection              | New     |
+| Dynamics 365 | Application Intelligent Order Management  | New     |
+| Dynamics 365 | Application Market Insights               | New     |
+| Dynamics 365 | Application Marketing                     | New     |
+| Dynamics 365 | Application Product Insights              | New     |
+| Dynamics 365 | Application Project Operations            | New     |
+| Dynamics 365 | Application Project Service Automation    | New     |
+| Dynamics 365 | Application Project Timesheet             | New     |
+| Dynamics 365 | Application Return To School              | New     |
+| Dynamics 365 | Application Return To Work                | New     |
+| Dynamics 365 | Application Sales                         | New     |
+| Dynamics 365 | Application Sales Insights                | New     |
+| Dynamics 365 | Application SCM Warehousing               | New     |
+| Dynamics 365 | Application Supply Chain Management       | New     |
+| Dynamics 365 | Application Sustainability Calculator     | New     |
+| Dynamics 365 | Application Talent                        | New     |
+| Dynamics 365 | Application Talent Attract                | New     |
+| Dynamics 365 | Application Talent Onboard                | New     |
+| Dynamics 365 | Dynamics 365                              | New     |
+| Dynamics 365 | Mixed Reality Guide                       | New     |
+| Dynamics 365 | Mixed Reality Import Tool                 | New     |
+| Dynamics 365 | Mixed Reality Layout                      | New     |
+| Dynamics 365 | Mixed Reality Portal                      | New     |
+| Dynamics 365 | Mixed Reality Product Visualise           | New     |
+| Dynamics 365 | Mixed Reality Remote Assist               | New     |
+| Dynamics 365 | Mixed Reality Voice Assistant             | New     |
+| Identity     | Azure AD B2B                              | New     |
+| IoT          | IoT Connector                             | New     |
+| Management   | Intelligent Recommendations Account       | New     |
+| Management   | Metrics Advisor                           | New     |
+| Management   | Resource Management Private Link          | New     |
+| Management   | Update Management Center                  | New     |
+| Networking   | Service Endpoint                          | Updated |
+| Office365    | O365 - Dataverse                          | New     |
+| Office365    | O365 - Power App Virtual Agent            | New     |
+
+## Previous
 
 **Version 3.7 - 23/07/2021**
 
@@ -278,8 +358,6 @@ So if that was not enough for a release I also included a total of 100 new Icons
 | Workload-Service | Exchange Edge Transport Server                   | New    |
 | Workload-Service | Certification Authority Online Responder         | New    |
 | Workload-Service | Active Directory Federation Proxy                | New    |
-
-## Previous
 
 **Version 3.6 - 28/05/2021**
 

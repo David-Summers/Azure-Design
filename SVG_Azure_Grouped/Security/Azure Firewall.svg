@@ -27,11 +27,11 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group13048-1" transform="translate(17.1165,-34.0157)">
-			<title>Azure Firewall.13048</title>
-			<g id="group13049-2">
+		<g id="group12919-1" transform="translate(17.1165,-34.0157)">
+			<title>Azure Firewall.12919</title>
+			<g id="group12920-2">
 				<title>layer1</title>
-				<g id="shape13050-3" transform="translate(0,-22.2582)">
+				<g id="shape12921-3" transform="translate(0,-22.2582)">
 					<title>path4</title>
 					<path d="M45.48 73.39 L1.92 73.39 A1.82751 1.81704 -180 0 0 -0 75.24 L0 97.51 A1.82751 1.81704 -180 0 0 1.86
 								 99.32 L25.98 99.32 L25.98 90.55 A1.54238 1.53354 0 0 1 27.06 89.08 L27.46 89.08 A15.4005 15.3122
@@ -40,47 +40,47 @@
 								 0 0 45.48 73.39 L45.48 73.39 ZM32.19 91.06 L32.19 96.82 L44.98 96.82 L44.98 91.06 L32.19 91.06 Z"
 							class="st1"/>
 				</g>
-				<g id="shape13051-5" transform="translate(2.67791,-39.9826)">
+				<g id="shape12922-5" transform="translate(2.67791,-39.9826)">
 					<title>path6</title>
 					<rect x="0" y="93.6849" width="12.8176" height="5.63678" class="st2"/>
 				</g>
-				<g id="shape13052-7" transform="translate(17.4181,-39.9826)">
+				<g id="shape12923-7" transform="translate(17.4181,-39.9826)">
 					<title>path8</title>
 					<rect x="0" y="93.6849" width="12.8176" height="5.63678" class="st3"/>
 				</g>
-				<g id="shape13053-9" transform="translate(2.67791,-32.4342)">
+				<g id="shape12924-9" transform="translate(2.67791,-32.4342)">
 					<title>path10</title>
 					<path d="M42.33 86.14 L29.51 86.14 L29.51 91.77 L42.33 91.77 L42.33 86.14 ZM5.32 93.68 L0 93.68 L0 99.32 L5.32
 								 99.32 L5.32 93.68 Z" class="st2"/>
 				</g>
-				<g id="shape13054-11" transform="translate(9.95294,-32.4342)">
+				<g id="shape12925-11" transform="translate(9.95294,-32.4342)">
 					<title>path12</title>
 					<path d="M35.02 93.68 L35.02 94.81 A12.3474 12.2766 -180 0 0 32.38 94.47 A12.5992 12.527 -180 0 0 29.73 94.72
 								 L29.73 93.69 L35.02 93.68 ZM12.82 93.68 L0 93.68 L0 99.32 L12.82 99.32 L12.82 93.68 Z" class="st3"/>
 				</g>
-				<g id="shape13055-13" transform="translate(2.67791,-24.856)">
+				<g id="shape12926-13" transform="translate(2.67791,-24.856)">
 					<title>path14</title>
 					<path d="M34.83 86.11 L34.83 88.02 A15.4005 15.3122 0 0 1 24.79 91.65 L22.02 91.65 L22.02 86.11 L34.84 86.11
 								 L34.83 86.11 ZM12.82 93.68 L0 93.68 L0 99.32 L12.82 99.32 L12.82 93.68 Z" class="st2"/>
 				</g>
-				<g id="shape13056-15" transform="translate(17.4181,-24.8875)">
+				<g id="shape12927-15" transform="translate(17.4181,-24.8875)">
 					<title>path16</title>
 					<path d="M8.57 93.68 L0 93.68 L0 99.32 L8.57 99.32 L8.57 93.68 Z" class="st3"/>
 				</g>
-				<g id="shape13057-17" transform="translate(28.063,-2.41585E-13)">
+				<g id="shape12928-17" transform="translate(28.063,-2.41585E-13)">
 					<title>path18</title>
 					<path d="M28.63 80.82 C28.63 90.22 17.29 97.67 14.84 99.2 A1.00713 1.00136 0 0 1 13.89 99.2 C11.34 97.7 0 90.22
 								 0 80.82 L0 69.64 a0.913756 0.908519 0 0 1 0.882077 -0.908511 C9.7 68.52 7.65 64.66 14.27 64.66 C20.88
 								 64.66 18.84 68.52 27.65 68.73 a0.913756 0.908519 0 0 1 0.883745 0.908511 L28.63 80.82 Z"
 							class="st4"/>
 				</g>
-				<g id="shape13058-19" transform="translate(29.2919,-1.65233)">
+				<g id="shape12929-19" transform="translate(29.2919,-1.65233)">
 					<title>path20</title>
 					<path d="M13.04 83.66 L13.04 67.76 C19.12 67.76 17.23 71.3 25.32 71.51 a0.818712 0.81402 0 0 1 0.818715 0.814014
 								 L26.14 83.54 L13.04 83.66 ZM13.04 83.66 L0 83.66 C0.79 91.71 10.45 98.1 12.6 99.32 L12.98 99.32
 								 L13.04 83.66 Z" class="st5"/>
 				</g>
-				<g id="shape13059-23" transform="translate(29.2919,-1.402)">
+				<g id="shape12930-23" transform="translate(29.2919,-1.402)">
 					<title>path22</title>
 					<path d="M0.76 71.26 C8.85 71.05 7.05 67.51 13.04 67.51 L13.04 83.41 L0 83.41 L0 72.08 a0.817045 0.812362 0 0
 								 1 0.755358 -0.814014 ZM26.08 83.41 L13.04 83.41 L13.04 99.32 L13.39 99.32 C15.65 97.88 25.29 91.62

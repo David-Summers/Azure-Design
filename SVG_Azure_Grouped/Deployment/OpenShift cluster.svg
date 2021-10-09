@@ -17,45 +17,45 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group13258-1" transform="translate(5.38583,-34.0157)">
-			<title>OpenShift cluster.13258</title>
-			<g id="group13259-2">
-				<title>Sheet.13259</title>
-				<g id="shape13260-3" transform="translate(6.97867,-23.5579)">
-					<title>Sheet.13260</title>
+		<g id="group13129-1" transform="translate(5.38583,-34.0157)">
+			<title>OpenShift cluster.13129</title>
+			<g id="group13130-2">
+				<title>Sheet.13130</title>
+				<g id="shape13131-3" transform="translate(6.97867,-23.5579)">
+					<title>Sheet.13131</title>
 					<path d="M8.65 89.05 L0 92.23 C0.11 93.65 0.33 95.03 0.71 96.38 L8.91 93.39 C8.65 91.89 8.54 90.47 8.65 89.05
 								 ZM46.88 79.4 C46.29 78.16 45.58 76.93 44.8 75.81 L36.15 78.98 C37.15 80.03 38.01 81.19 38.71 82.42
 								 C38.68 82.39 46.88 79.4 46.88 79.4 Z" class="st1"/>
 				</g>
-				<g id="shape13261-5" transform="translate(3.09957,-26.4138)">
-					<title>Sheet.13261</title>
+				<g id="shape13132-5" transform="translate(3.09957,-26.4138)">
+					<title>Sheet.13132</title>
 					<path d="M31.74 79.78 C33.52 80.6 35.08 81.8 36.42 83.14 L45.06 79.97 C42.69 76.6 39.38 73.76 35.41 71.89 C23.05
 								 66.1 8.32 71.48 2.56 83.93 C0.71 87.97 0 92.23 0.33 96.38 L8.98 93.2 C9.13 91.29 9.58 89.42 10.43
 								 87.59 C14.14 79.52 23.68 76.04 31.74 79.78 Z" class="st2"/>
 				</g>
-				<g id="shape13262-7" transform="translate(0,-12.3733)">
-					<title>Sheet.13262</title>
+				<g id="shape13133-7" transform="translate(0,-12.3733)">
+					<title>Sheet.13133</title>
 					<path d="M8.2 84.94 L0 87.93 C0.74 90.92 2.08 93.8 3.86 96.38 L12.47 93.2 C10.28 90.92 8.8 88.04 8.2 84.94 Z"
 							class="st3"/>
 				</g>
-				<g id="shape13263-9" transform="translate(7.98093,0)">
-					<title>Sheet.13263</title>
+				<g id="shape13134-9" transform="translate(7.98093,0)">
+					<title>Sheet.13134</title>
 					<path d="M36.08 69.28 C35.93 71.18 35.45 73.05 34.63 74.88 C30.88 82.96 21.31 86.51 13.29 82.7 C11.51 81.87 9.95
 								 80.68 8.61 79.33 L0 82.51 C2.38 85.87 5.64 88.71 9.65 90.58 C22.01 96.38 36.75 91 42.5 78.55 C44.36
 								 74.51 45.06 70.25 44.73 66.1 L36.08 69.28 Z" class="st2"/>
 				</g>
-				<g id="shape13264-11" transform="translate(37.9855,-25.6326)">
-					<title>Sheet.13264</title>
+				<g id="shape13135-11" transform="translate(37.9855,-25.6326)">
+					<title>Sheet.13135</title>
 					<path d="M8.2 84.27 L0 87.26 C1.52 90.02 2.26 93.2 2 96.38 L10.62 93.2 C10.39 90.14 9.54 87.11 8.2 84.27 Z"
 							class="st3"/>
 				</g>
-				<g id="shape13265-13" transform="translate(7.00094,-26.0512)">
-					<title>Sheet.13265</title>
+				<g id="shape13136-13" transform="translate(7.00094,-26.0512)">
+					<title>Sheet.13136</title>
 					<path d="M0 94.7 L8.61 91.56 L8.57 93.28 L0.26 96.38 L0 94.7 ZM36.12 81.43 L44.88 78.43 L45.81 79.78 L37.31 82.77
 								 C37.27 82.81 36.12 81.43 36.12 81.43 Z" class="st4"/>
 				</g>
-				<g id="shape13266-15" transform="translate(7.93638,-11.192)">
-					<title>Sheet.13266</title>
+				<g id="shape13137-15" transform="translate(7.93638,-11.192)">
+					<title>Sheet.13137</title>
 					<path d="M0 93.69 L8.61 90.58 L11.21 93.01 L2.15 96.38 C2.19 96.38 0 93.69 0 93.69 ZM44.89 77.36 L36.13 80.5
 								 L35.5 83.97 L44.86 80.69 C44.82 80.65 44.89 77.36 44.89 77.36 Z" class="st5"/>
 				</g>

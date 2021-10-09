@@ -30,23 +30,23 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group288-1" transform="translate(34,-34.0157)">
+		<g id="group266-1" transform="translate(34,-34.0157)">
 			<title>Virtual Machine SQL</title>
-			<g id="group289-2">
+			<g id="group267-2">
 				<title>Sql virtual machine</title>
-				<g id="shape290-3" transform="translate(0,-15.1723)">
+				<g id="shape268-3" transform="translate(0,-15.1723)">
 					<title>rect4</title>
 					<path d="M0 119.95 A1.87751 1.92233 -180 0 0 1.88 121.87 L54.82 121.87 A1.87751 1.92233 -180 0 0 56.69 119.95
 								 L56.69 85.11 A1.87751 1.92233 -180 0 0 54.82 83.19 L1.88 83.19 A1.87751 1.92233 -180 0 0 0 85.11
 								 L0 119.95 Z" class="st1"/>
 				</g>
-				<g id="shape291-7" transform="translate(14.1816,0)">
+				<g id="shape269-7" transform="translate(14.1816,0)">
 					<title>path6</title>
 					<path d="M25.55 118.44 C19.95 117.55 19.71 113.4 19.75 106.74 L8.62 106.74 C8.62 113.4 8.42 117.55 2.82 118.44
 								 A3.35263 3.43265 -180 0 0 0 121.87 L28.36 121.87 A3.35263 3.43265 -180 0 0 25.55 118.44 Z"
 							class="st2"/>
 				</g>
-				<g id="shape292-11" transform="translate(11.9018,-24.4748)">
+				<g id="shape270-11" transform="translate(11.9018,-24.4748)">
 					<title>path8</title>
 					<path d="M30.11 115.52 L30.11 103.58 L26.75 103.58 L26.75 118.17 L35.24 118.17 L35.24 115.52 L30.11 115.52 ZM5.5
 								 109.62 A6.70525 6.8653 0 0 1 3.75 108.56 A1.50868 1.54469 0 0 1 3.32 107.39 A1.20695 1.23575 0 0

@@ -17,60 +17,60 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group718-1" transform="translate(12.24,-34.0157)">
+		<g id="group704-1" transform="translate(12.24,-34.0157)">
 			<title>Storage Account Blob Hot</title>
-			<g id="group719-2">
+			<g id="group705-2">
 				<title>Page-1</title>
-				<g id="group720-3">
+				<g id="group706-3">
 					<title>Azure Storage (Blog) Hot Tier</title>
-					<g id="shape721-4">
-						<title>Sheet.721</title>
+					<g id="shape707-4">
+						<title>Sheet.707</title>
 						<path d="M0 92.3 C0 93.43 0.8 94.44 2.15 94.44 L54.54 94.44 C55.67 94.44 56.69 93.65 56.69 92.3 L56.69 54.85
 									 L0 54.85 L0 92.3 Z" class="st1"/>
 					</g>
-					<g id="shape722-6" transform="translate(0,-39.5915)">
-						<title>Sheet.722</title>
+					<g id="shape708-6" transform="translate(0,-39.5915)">
+						<title>Sheet.708</title>
 						<path d="M54.54 85.85 L2.15 85.85 C0.8 85.85 0 86.87 0 88 L0 94.44 L56.69 94.44 L56.69 88 C56.69 86.87 55.9
 									 85.85 54.54 85.85 Z" class="st2"/>
 					</g>
-					<g id="shape723-8" transform="translate(21.3171,-27.2613)">
-						<title>Sheet.723</title>
+					<g id="shape709-8" transform="translate(21.3171,-27.2613)">
+						<title>Sheet.709</title>
 						<rect x="0" y="85.8477" width="14.287" height="8.59704" class="st3"/>
 					</g>
-					<g id="shape724-10" transform="translate(21.3171,-15.6101)">
-						<title>Sheet.724</title>
+					<g id="shape710-10" transform="translate(21.3171,-15.6101)">
+						<title>Sheet.710</title>
 						<rect x="0" y="85.8477" width="14.287" height="8.59704" class="st4"/>
 					</g>
-					<g id="shape725-12" transform="translate(38.3255,-15.6101)">
-						<title>Sheet.725</title>
+					<g id="shape711-12" transform="translate(38.3255,-15.6101)">
+						<title>Sheet.711</title>
 						<rect x="0" y="85.8477" width="14.287" height="8.59704" class="st4"/>
 					</g>
-					<g id="shape726-14" transform="translate(38.3255,-27.2613)">
-						<title>Sheet.726</title>
+					<g id="shape712-14" transform="translate(38.3255,-27.2613)">
+						<title>Sheet.712</title>
 						<rect x="0" y="85.8477" width="14.287" height="8.59704" class="st3"/>
 					</g>
-					<g id="shape727-16" transform="translate(4.30878,-27.2613)">
-						<title>Sheet.727</title>
+					<g id="shape713-16" transform="translate(4.30878,-27.2613)">
+						<title>Sheet.713</title>
 						<rect x="0" y="85.8477" width="14.287" height="8.59704" class="st3"/>
 					</g>
-					<g id="shape728-18" transform="translate(4.30878,-15.6101)">
-						<title>Sheet.728</title>
+					<g id="shape714-18" transform="translate(4.30878,-15.6101)">
+						<title>Sheet.714</title>
 						<rect x="0" y="85.8477" width="14.287" height="8.59704" class="st3"/>
 					</g>
-					<g id="shape729-20" transform="translate(4.30878,-4.07196)">
-						<title>Sheet.729</title>
+					<g id="shape715-20" transform="translate(4.30878,-4.07196)">
+						<title>Sheet.715</title>
 						<rect x="0" y="85.8477" width="14.287" height="8.59704" class="st4"/>
 					</g>
-					<g id="shape730-22" transform="translate(21.3171,-4.07196)">
-						<title>Sheet.730</title>
+					<g id="shape716-22" transform="translate(21.3171,-4.07196)">
+						<title>Sheet.716</title>
 						<rect x="0" y="85.8477" width="14.287" height="8.59704" class="st4"/>
 					</g>
-					<g id="shape731-24" transform="translate(38.3255,-4.07196)">
-						<title>Sheet.731</title>
+					<g id="shape717-24" transform="translate(38.3255,-4.07196)">
+						<title>Sheet.717</title>
 						<rect x="0" y="85.8477" width="14.287" height="8.59704" class="st4"/>
 					</g>
-					<g id="shape732-26">
-						<title>Sheet.732</title>
+					<g id="shape718-26">
+						<title>Sheet.718</title>
 						<path d="M2.15 46.26 C1.13 46.26 0 47.27 0 48.4 L0 56.77 L0 60.51 L0 92.3 C0 93.43 1.13 94.44 2.15 94.44
 									 L4.53 94.44 L49.44 46.26 L2.15 46.26 Z" class="st5"/>
 					</g>
