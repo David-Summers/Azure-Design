@@ -116,7 +116,6 @@ First you need to decide how you would like to use these stencils. I have provid
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-3.8.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-3.8.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload-Service_V-3.8.vssx
 
 ## **Option 4 - Don't use Visio?**
 
