@@ -87,13 +87,13 @@ If you would like to support my development or just say thank you! Then check ou
 
 # Stencil Usage
 
-First you need to decide how you would like to use these stencils. I have provided 2 operational methods based on community feedback. 
+Download only what you need or the entire collection using the links below. 
 
 ## **Option 1 - Download the single stencil file that contains all of the icons and drawing tools**
 
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.7.vssx
 
-## Option 2 - Download the latest full ZIP package
+## Option 2 - Download the latest full ZIP package containing all stencils, PNG and SVG versions.
 
 - https://github.com/David-Summers/Azure-Design/raw/master/V-3.8.zip
 
