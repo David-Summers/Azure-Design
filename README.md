@@ -91,7 +91,7 @@ Download only what you need or the entire collection using the links below.
 
 ## **Option 1 - Download the single stencil file that contains all of the icons and drawing tools**
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.7.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.8.vssx
 
 ## Option 2 - Download the latest full ZIP package containing all stencils, PNG and SVG versions.
 
