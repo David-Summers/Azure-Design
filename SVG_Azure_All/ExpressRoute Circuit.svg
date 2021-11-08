@@ -40,29 +40,29 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group3467-1" transform="translate(34,-34.0157)">
+		<g id="group3588-1" transform="translate(34,-34.0157)">
 			<title>ExpressRoute Circuit</title>
-			<g id="group3468-2">
+			<g id="group3589-2">
 				<title>Icon-networking-79</title>
-				<g id="shape3469-3" transform="translate(7.87402,-10.9297)">
-					<title>Sheet.3469</title>
+				<g id="shape3590-3" transform="translate(7.87402,-10.9297)">
+					<title>Sheet.3590</title>
 					<path d="M14.96 90.13 L20.36 93.19 L5.4 118.56 L0 115.51 L14.96 90.13 ZM20.39 93.66 L25.79 90.61 L40.75 115.99
 								 L35.35 119.04 L20.39 93.66 Z" class="st1"/>
 				</g>
-				<g id="shape3470-5" transform="translate(13.0394,-4.84323)">
-					<title>Sheet.3470</title>
+				<g id="shape3591-5" transform="translate(13.0394,-4.84323)">
+					<title>Sheet.3591</title>
 					<rect x="0" y="112.931" width="29.9213" height="6.10803" class="st2"/>
 				</g>
-				<g id="shape3471-7" transform="translate(20.9764,-36.1546)">
-					<title>Sheet.3471</title>
+				<g id="shape3592-7" transform="translate(20.9764,-36.1546)">
+					<title>Sheet.3592</title>
 					<ellipse cx="7.59055" cy="111.605" rx="7.59055" ry="7.43452" class="st3"/>
 				</g>
-				<g id="shape3472-11" transform="translate(41.5118,1.42109E-14)">
-					<title>Sheet.3472</title>
+				<g id="shape3593-11" transform="translate(41.5118,0)">
+					<title>Sheet.3593</title>
 					<ellipse cx="7.59055" cy="111.605" rx="7.59055" ry="7.43452" class="st4"/>
 				</g>
-				<g id="shape3473-15">
-					<title>Sheet.3473</title>
+				<g id="shape3594-15">
+					<title>Sheet.3594</title>
 					<ellipse cx="7.59055" cy="111.605" rx="7.59055" ry="7.43452" class="st5"/>
 				</g>
 			</g>

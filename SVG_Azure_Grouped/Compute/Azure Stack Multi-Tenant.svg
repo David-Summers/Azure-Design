@@ -32,44 +32,44 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group8923-1" transform="translate(5.66929,-34.0157)">
-			<title>Azure Stack Multi-Tenant.8923</title>
-			<g id="group8924-2">
-				<title>Sheet.8924</title>
-				<g id="group8925-3" transform="translate(2.79776E-13,-11.2605)">
-					<title>Sheet.8925</title>
-					<g id="shape8926-4" transform="translate(27.4989,-7.33446)">
-						<title>Sheet.8926</title>
+		<g id="group9169-1" transform="translate(5.66929,-34.0157)">
+			<title>Azure Stack Multi-Tenant.9169</title>
+			<g id="group9170-2">
+				<title>Sheet.9170</title>
+				<g id="group9171-3" transform="translate(2.79776E-13,-11.2605)">
+					<title>Sheet.9171</title>
+					<g id="shape9172-4" transform="translate(27.4989,-7.33446)">
+						<title>Sheet.9172</title>
 						<path d="M23.88 96.38 A2.33149 2.44937 -180 0 0 26.21 93.93 A1.67615 1.7609 -180 0 0 26.21 93.64 C25.28 85.94
 									 21.1 79.68 13.13 79.68 C5.01 79.68 0.82 84.99 0 93.67 A2.34724 2.46592 -180 0 0 2.09 96.37 A1.97861
 									 2.07865 -180 0 0 2.33 96.37 L23.88 96.38 Z" class="st1"/>
 					</g>
-					<g id="shape8927-6" transform="translate(33.2615,-22.2197)">
-						<title>Sheet.8927</title>
+					<g id="shape9173-6" transform="translate(33.2615,-22.2197)">
+						<title>Sheet.9173</title>
 						<ellipse cx="7.35678" cy="88.6492" rx="7.35678" ry="7.72875" class="st1"/>
 					</g>
-					<g id="shape8928-8">
-						<title>Sheet.8928</title>
+					<g id="shape9174-8">
+						<title>Sheet.9174</title>
 						<path d="M35.76 96.38 A3.49408 3.67074 -180 0 0 39.26 92.72 A3.15066 3.30996 -180 0 0 39.24 92.28 C37.86
 									 80.75 31.6 71.35 19.65 71.35 C7.5 71.35 1.22 79.29 0 92.31 A3.51298 3.6906 -180 0 0 3.13 96.36
 									 A3.31134 3.47876 -180 0 0 3.48 96.38 L35.76 96.38 Z" class="st2"/>
 					</g>
-					<g id="shape8929-12" transform="translate(13.8755,-7.93065)">
-						<title>Sheet.8929</title>
+					<g id="shape9175-12" transform="translate(13.8755,-7.93065)">
+						<title>Sheet.9175</title>
 						<path d="M5.95 82.02 A10.9674 11.522 0 0 1 -0 80.18 L5.9 96.38 L11.76 80.27 A10.9265 11.4789 0 0 1 5.95 82.02
 									 Z" class="st3"/>
 					</g>
-					<g id="shape8930-14" transform="translate(8.74307,-22.2892)">
-						<title>Sheet.8930</title>
+					<g id="shape9176-14" transform="translate(8.74307,-22.2892)">
+						<title>Sheet.9176</title>
 						<ellipse cx="11.0147" cy="84.8063" rx="11.0147" ry="11.5716" class="st4"/>
 					</g>
 				</g>
-				<g id="shape8931-18" transform="translate(28.7403,0)">
-					<title>Sheet.8931</title>
+				<g id="shape9177-18" transform="translate(28.7403,0)">
+					<title>Sheet.9177</title>
 					<path d="M13.98 69.82 L0 90.38 L13.98 96.38 L27.95 90.38 L13.98 69.82 Z" class="st5"/>
 				</g>
-				<g id="shape8932-22" transform="translate(28.7403,0)">
-					<title>Sheet.8932</title>
+				<g id="shape9178-22" transform="translate(28.7403,0)">
+					<title>Sheet.9178</title>
 					<path d="M13.98 69.82 L0 90.38 L13.98 96.38 L13.98 69.82 Z" class="st6"/>
 				</g>
 			</g>

@@ -17,60 +17,60 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group6499-1" transform="translate(9.84087,-34.0157)">
+		<g id="group6686-1" transform="translate(9.84087,-34.0157)">
 			<title>Azure Data Explorer Cluster</title>
-			<g id="group6500-2">
+			<g id="group6687-2">
 				<title> 1- Icon - Query 60x60 Color</title>
-				<g id="shape6501-3" transform="translate(0.35913,-0.367252)">
-					<title>Sheet.6501</title>
+				<g id="shape6688-3" transform="translate(0.35913,-0.367252)">
+					<title>Sheet.6688</title>
 					<path d="M56.33 44.58 L0 44.58 L56.33 100.91 L56.33 44.58 Z" class="st1"/>
 				</g>
-				<g id="shape6502-5" transform="translate(-67.3761,29.557) rotate(-45)">
-					<title>Sheet.6502</title>
+				<g id="shape6689-5" transform="translate(-67.3761,29.557) rotate(-45)">
+					<title>Sheet.6689</title>
 					<path d="M-0 100.03 a0.883522 0.883395 -180 0 0 0.883501 0.883374 L30.17 100.91 a0.883522 0.883395 -180 0 0 0.883501
 								 -0.883374 L31.05 96.17 a0.883522 0.883395 -180 0 0 -0.883501 -0.883374 L0.88 95.28 a0.883522 0.883395
 								 -180 0 0 -0.883501 0.883374 L0 100.03 Z" class="st2"/>
 				</g>
-				<g id="shape6503-7" transform="translate(-67.3652,13.6073) rotate(-45)">
-					<title>Sheet.6503</title>
+				<g id="shape6690-7" transform="translate(-67.3652,13.6073) rotate(-45)">
+					<title>Sheet.6690</title>
 					<path d="M0 100.03 a0.883522 0.883395 -180 0 0 0.883501 0.883374 L18.95 100.91 a0.883522 0.883395 -180 0 0 0.883501
 								 -0.883374 L19.84 96.17 a0.883522 0.883395 -180 0 0 -0.883501 -0.883374 L0.88 95.28 a0.883522 0.883395
 								 -180 0 0 -0.883501 0.883374 L0 100.03 Z" class="st2"/>
 				</g>
-				<g id="shape6504-9" transform="translate(17.0217,-17.0274)">
-					<title>Sheet.6504</title>
+				<g id="shape6691-9" transform="translate(17.0217,-17.0274)">
+					<title>Sheet.6691</title>
 					<path d="M0 77.9 L23.01 100.91 L39.67 84.25 L39.67 61.24 L16.66 61.24 L0 77.9 Z" class="st3"/>
 				</g>
-				<g id="shape6505-11" transform="translate(-51.5499,29.5391) rotate(-45)">
-					<title>Sheet.6505</title>
+				<g id="shape6692-11" transform="translate(-51.5499,29.5391) rotate(-45)">
+					<title>Sheet.6692</title>
 					<path d="M0 100.03 a0.883522 0.883395 -180 0 0 0.883501 0.883374 L18.95 100.91 a0.883522 0.883395 -180 0 0 0.883501
 								 -0.883374 L19.84 96.17 a0.883522 0.883395 -180 0 0 -0.883501 -0.883374 L0.88 95.28 a0.883522 0.883395
 								 -180 0 0 -0.883501 0.883374 L0 100.03 Z" class="st2"/>
 				</g>
-				<g id="shape6506-13" transform="translate(28.526,-0.367252)">
-					<title>Sheet.6506</title>
+				<g id="shape6693-13" transform="translate(28.526,-0.367252)">
+					<title>Sheet.6693</title>
 					<path d="M28.17 100.91 L28.17 44.58 L0 72.75 L28.17 100.91 Z" class="st4"/>
 				</g>
-				<g id="shape6507-15" transform="translate(-39.561,-6.26328) rotate(-45)">
-					<title>Sheet.6507</title>
+				<g id="shape6694-15" transform="translate(-39.561,-6.26328) rotate(-45)">
+					<title>Sheet.6694</title>
 					<path d="M0 99.66 A1.25158 1.2514 -180 0 0 1.25 100.91 L4.37 100.91 A1.25158 1.2514 -180 0 0 5.62 99.66 L5.62
 								 96.54 A1.25158 1.2514 -180 0 0 4.37 95.28 L1.25 95.28 A1.25158 1.2514 -180 0 0 0 96.54 L0 99.66
 								 Z" class="st5"/>
 				</g>
-				<g id="shape6508-17" transform="translate(-31.6051,-14.2167) rotate(-45)">
-					<title>Sheet.6508</title>
+				<g id="shape6695-17" transform="translate(-31.6051,-14.2167) rotate(-45)">
+					<title>Sheet.6695</title>
 					<path d="M0 99.66 A1.25158 1.2514 -180 0 0 1.25 100.91 L4.37 100.91 A1.25158 1.2514 -180 0 0 5.62 99.66 L5.62
 								 96.54 A1.25158 1.2514 -180 0 0 4.37 95.28 L1.25 95.28 A1.25158 1.2514 -180 0 0 0 96.54 L0 99.66
 								 Z" class="st5"/>
 				</g>
-				<g id="shape6509-19" transform="translate(-31.6058,1.69084) rotate(-45)">
-					<title>Sheet.6509</title>
+				<g id="shape6696-19" transform="translate(-31.6058,1.69084) rotate(-45)">
+					<title>Sheet.6696</title>
 					<path d="M0 99.66 A1.25158 1.2514 -180 0 0 1.25 100.91 L4.37 100.91 A1.25158 1.2514 -180 0 0 5.62 99.66 L5.62
 								 96.54 A1.25158 1.2514 -180 0 0 4.37 95.28 L1.25 95.28 A1.25158 1.2514 -180 0 0 0 96.54 L0 99.66
 								 Z" class="st5"/>
 				</g>
-				<g id="shape6510-21" transform="translate(-23.6512,-6.26261) rotate(-45)">
-					<title>Sheet.6510</title>
+				<g id="shape6697-21" transform="translate(-23.6512,-6.26261) rotate(-45)">
+					<title>Sheet.6697</title>
 					<path d="M0 99.66 A1.25158 1.2514 -180 0 0 1.25 100.91 L4.37 100.91 A1.25158 1.2514 -180 0 0 5.62 99.66 L5.62
 								 96.54 A1.25158 1.2514 -180 0 0 4.37 95.28 L1.25 95.28 A1.25158 1.2514 -180 0 0 0 96.54 L0 99.66
 								 Z" class="st5"/>

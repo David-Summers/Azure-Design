@@ -27,21 +27,21 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group201-1" transform="translate(34.0111,-34.3269)">
+		<g id="group239-1" transform="translate(34.0111,-34.3269)">
 			<title>Virtual WAN</title>
-			<g id="group202-2">
+			<g id="group240-2">
 				<title>g37</title>
-				<g id="shape203-3" transform="translate(0,-15.616)">
+				<g id="shape241-3" transform="translate(0,-15.616)">
 					<title>path19</title>
 					<path d="M56.69 112.14 A12.8526 13.0835 -180 0 0 45.69 99.58 A16.2442 16.536 -180 0 0 29.01 83.96 A16.7111 17.0113
 								 -180 0 0 13.34 94.82 A15.6506 15.9317 -180 0 0 -0 109.76 A15.3805 15.6567 -180 0 0 16.01 125.04
 								 L44.02 125.04 A12.6725 12.9002 -180 0 0 56.69 112.14 Z" class="st1"/>
 				</g>
-				<g id="shape204-7" transform="translate(13.673,-2.70006E-13)">
+				<g id="shape242-7" transform="translate(13.673,-2.70006E-13)">
 					<title>circle21</title>
 					<ellipse cx="14.6735" cy="110.1" rx="14.6735" ry="14.9371" class="st2"/>
 				</g>
-				<g id="shape205-9" transform="translate(15.3404,-1.69739)">
+				<g id="shape243-9" transform="translate(15.3404,-1.69739)">
 					<title>path23</title>
 					<path d="M25.35 102.29 A15.3404 15.616 -180 0 0 4 99.24 A15.2104 15.4836 -180 1 0 22.68 123.68 A15.197 15.47
 								 -180 0 0 25.35 102.29 ZM0 110.78 A15.6973 15.9793 0 0 1 1.33 105.35 L5 105.35 A25.9187 26.3843 -180
@@ -61,31 +61,31 @@
 								 0 1 14.01 125.04 ZM21.34 122.32 A8.74405 8.90113 0 0 1 18.34 124.02 A11.2686 11.471 -180 0 0 20.34
 								 119.95 L23.34 119.95 A4.48208 4.56259 0 0 1 21.34 122.32 Z" class="st3"/>
 				</g>
-				<g id="shape206-11" transform="translate(8.00371,-20.0292)">
+				<g id="shape244-11" transform="translate(8.00371,-20.0292)">
 					<title>path25</title>
 					<path d="M7.34 125.04 A13.4229 13.664 0 0 1 -0 115.19 A12.159 12.3774 0 0 1 5 105.35 L7 103.65 L8.67 105.69 L6.67
 								 107.38 A8.36721 8.51752 -180 0 0 2.67 114.85 A10.108 10.2896 -180 0 0 8.67 122.66 L7.34 125.04 Z"
 							class="st4"/>
 				</g>
-				<g id="shape207-13" transform="translate(12.339,-36.6637)">
+				<g id="shape245-13" transform="translate(12.339,-36.6637)">
 					<title>circle27</title>
 					<ellipse cx="3.66836" cy="121.303" rx="3.66836" ry="3.73426" class="st2"/>
 				</g>
-				<g id="shape208-15" transform="translate(39.3516,-20.0292)">
+				<g id="shape246-15" transform="translate(39.3516,-20.0292)">
 					<title>path29</title>
 					<path d="M1.33 125.04 L0 122.66 A10.8684 11.0636 -180 0 0 6 114.85 A9.16424 9.32887 -180 0 0 2 107.38 L0 106.03
 								 L1.67 103.99 L3.67 105.35 A10.2414 10.4254 0 0 1 8.67 115.19 A13.4229 13.664 0 0 1 1.33 125.04 Z"
 							class="st4"/>
 				</g>
-				<g id="shape209-17" transform="translate(36.6836,-36.6637)">
+				<g id="shape247-17" transform="translate(36.6836,-36.6637)">
 					<title>circle31</title>
 					<ellipse cx="3.66836" cy="121.303" rx="3.66836" ry="3.73426" class="st2"/>
 				</g>
-				<g id="shape210-19" transform="translate(12.339,-17.3134)">
+				<g id="shape248-19" transform="translate(12.339,-17.3134)">
 					<title>circle33</title>
 					<ellipse cx="3.66836" cy="121.303" rx="3.66836" ry="3.73426" class="st5"/>
 				</g>
-				<g id="shape211-21" transform="translate(36.6836,-17.3134)">
+				<g id="shape249-21" transform="translate(36.6836,-17.3134)">
 					<title>circle35</title>
 					<ellipse cx="3.66836" cy="121.303" rx="3.66836" ry="3.73426" class="st5"/>
 				</g>

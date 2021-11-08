@@ -6,22 +6,34 @@
 		class="st2">
 	<style type="text/css">
 	<![CDATA[
-		.st1 {fill:#007eb7;stroke:none;stroke-linecap:butt;stroke-width:1.29175}
+		.st1 {fill:url(#grad0-7);stroke:none;stroke-linecap:butt;stroke-width:0.749999}
 		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-7" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-90 0.5 0.5)">
+			<stop offset="0" stop-color="#0078d4" stop-opacity="1"/>
+			<stop offset="0.16" stop-color="#1380da" stop-opacity="1"/>
+			<stop offset="0.53" stop-color="#3c91e5" stop-opacity="1"/>
+			<stop offset="0.82" stop-color="#559cec" stop-opacity="1"/>
+			<stop offset="1" stop-color="#5ea0ef" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group6452-1" transform="translate(5.66929,-34.0157)">
+		<g id="group6638-1" transform="translate(5.66929,-34.0157)">
 			<title>Azure Dev Ops</title>
-			<g id="group6453-2">
-				<title>g6</title>
-				<g id="shape6454-3">
-					<title>path4</title>
-					<path d="M56.69 50.08 L56.69 84.72 L42.36 96.38 L20.31 88.35 L20.31 96.38 L8.03 80.16 L44.41 82.99 L44.41 51.81
-								 L56.69 50.08 ZM44.57 51.81 L24.25 39.69 L24.25 47.72 L5.51 53.23 L0 60.47 L0 76.85 L8.03 80.31 L8.03
-								 59.37 L44.57 51.81 Z" class="st1"/>
+			<g id="group6639-2">
+				<title>Page-1</title>
+				<g id="group6640-3">
+					<title>a91f0ca4-8fb7-4019-9c09-0a52e2c</title>
+					<g id="shape6641-4">
+						<title>Sheet.6641</title>
+						<path d="M56.69 50.3 L56.69 84.77 L42.52 96.38 L20.55 88.38 L20.55 96.31 L8.11 80.06 L44.36 82.89 L44.36
+									 51.86 L56.69 50.3 ZM44.61 52.03 L24.27 39.69 L24.27 47.79 L5.6 53.27 L0 60.46 L0 76.77 L8.01
+									 80.31 L8.01 59.4 L44.61 52.03 Z" class="st1"/>
+					</g>
 				</g>
 			</g>
 		</g>

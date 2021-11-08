@@ -18,42 +18,42 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group12966-1" transform="translate(25.7179,-34.0157)">
-			<title>Azure Firewall Policy.12966</title>
-			<g id="group12967-2">
+		<g id="group13312-1" transform="translate(25.7179,-34.0157)">
+			<title>Azure Firewall Policy.13312</title>
+			<g id="group13313-2">
 				<title>layer1</title>
-				<g id="shape12968-3" transform="translate(2.91599,-30.7318)">
+				<g id="shape13314-3" transform="translate(2.91599,-30.7318)">
 					<title>path10-7</title>
 					<path d="M13.66 93.15 L0.05 93.15 L0 99.38 L13.88 99.42 L13.66 93.15 L13.66 93.15 Z" class="st1"/>
 				</g>
-				<g id="shape12969-5" transform="translate(18.4372,-30.4848)">
+				<g id="shape13315-5" transform="translate(18.4372,-30.4848)">
 					<title>path12-3</title>
 					<path d="M13.79 92.9 L0.18 92.9 L0 99.1 L13.97 99.42 L13.79 92.9 L13.79 92.9 Z" class="st2"/>
 				</g>
-				<g id="shape12970-7" transform="translate(2.96955,-23.2929)">
+				<g id="shape13316-7" transform="translate(2.96955,-23.2929)">
 					<title>path14-3</title>
 					<path d="M44.9 85.71 L31.3 85.71 L31.26 92.32 L45.68 92.21 L45.09 85.71 L44.9 85.71 ZM5.67 93.57 L0 93.57 L0
 								 99.42 L5.67 99.42 L5.67 93.58 L5.67 93.57 Z" class="st1"/>
 				</g>
-				<g id="shape12971-9" transform="translate(10.6786,-23.2929)">
+				<g id="shape13317-9" transform="translate(10.6786,-23.2929)">
 					<title>path16-9</title>
 					<path d="M37.2 93.57 L31.53 93.57 L31.53 99.42 L37.2 99.42 L37.2 93.58 L37.2 93.57 ZM13.6 93.57 L0 93.57 L0 99.42
 								 L13.61 99.42 L13.61 93.58 L13.6 93.57 Z" class="st2"/>
 				</g>
-				<g id="shape12972-11" transform="translate(2.72905,-15.1657)">
+				<g id="shape13318-11" transform="translate(2.72905,-15.1657)">
 					<title>path18-1</title>
 					<path d="M37.2 85.45 L23.6 85.45 L23.6 91.29 L38.66 91.42 L38.04 85.43 L37.2 85.45 ZM13.83 92.94 L0.2 92.96 L0
 								 99.42 L13.92 99.38 L14.27 92.94 L13.83 92.94 Z" class="st1"/>
 				</g>
-				<g id="shape12973-13" transform="translate(18.3485,-15.0699)">
+				<g id="shape13319-13" transform="translate(18.3485,-15.0699)">
 					<title>path20-0</title>
 					<path d="M13.88 93.11 L0.12 92.89 L0 99.36 L14.1 99.42 L13.88 93.11 Z" class="st2"/>
 				</g>
-				<g id="shape12974-15" transform="translate(33.8802,-15.1651)">
+				<g id="shape13320-15" transform="translate(33.8802,-15.1651)">
 					<title>path22-5</title>
 					<rect x="0" y="92.9634" width="14.2523" height="6.45589" class="st3"/>
 				</g>
-				<g id="shape12975-17" transform="translate(0,-12.6506)">
+				<g id="shape13321-17" transform="translate(0,-12.6506)">
 					<title>path8-5</title>
 					<path d="M48.38 99.42 A1.90759 1.96909 -180 0 0 50.33 97.5 L50.33 74.3 A1.90759 1.96909 -180 0 0 48.38 72.38
 								 L1.95 72.38 A1.90513 1.96655 -180 0 0 -0 74.3 L0 97.5 A1.90513 1.96655 -180 0 0 1.95 99.42 L48.38
@@ -66,7 +66,7 @@
 								 96.68 ZM32.22 96.68 L18.62 96.68 L18.62 90.69 L32.22 90.69 L32.22 96.68 ZM34.27 96.68 L34.27 90.69
 								 L47.87 90.69 L47.87 96.59 L34.27 96.68 Z" class="st4"/>
 				</g>
-				<g id="shape12976-19" transform="translate(29.5389,-1.98952E-13)">
+				<g id="shape13322-19" transform="translate(29.5389,-1.98952E-13)">
 					<title>path18</title>
 					<path d="M27.15 78.71 L27.15 81.67 L0 81.67 L0 98.61 a0.814622 0.840884 -180 0 0 0.844942 0.809555 L26.22 99.42
 								 a0.843373 0.870563 -180 0 0 0.875307 -0.807933 L27.09 78.71 L27.15 78.71 L27.15 78.71 ZM2.17 85.97
@@ -81,7 +81,7 @@
 								 6.06 86.65 6.06 86.43 L6.06 85.47 C6.06 85.28 6.37 85.09 6.73 85.09 L23.47 85.09 C23.83 85.09 24.14
 								 85.28 24.14 85.47 L24.14 86.43 Z" class="st5"/>
 				</g>
-				<g id="shape12977-21" transform="translate(29.5389,-2.98926)">
+				<g id="shape13323-21" transform="translate(29.5389,-2.98926)">
 					<title>path20</title>
 					<path d="M0.88 80.89 a0.757119 0.781528 -180 0 0 -0.875307 0.778211 L0 84.63 L27.15 84.63 L27.15 81.7 a0.782676
 								 0.807908 -180 0 0 -0.814576 -0.746925 L0.88 80.95 L0.88 80.89 ZM23.47 92.47 L6.73 92.47 C6.36 92.47

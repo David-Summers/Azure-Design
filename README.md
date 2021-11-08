@@ -51,7 +51,7 @@ With this process I can build and re-build over and over again in minutes and th
 
 #### SVG image of the current full stencil content
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.8.svg)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.9.svg)
 
 Some example images to show stencil functionality: -
 
@@ -91,31 +91,31 @@ Download only what you need or the entire collection using the links below.
 
 ## **Option 1 - Download the single stencil file that contains all of the icons and drawing tools**
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.9.vssx
 
 ## Option 2 - Download the latest full ZIP package containing all stencils, PNG and SVG versions.
 
-- https://github.com/David-Summers/Azure-Design/raw/master/V-3.8.zip
+- https://github.com/David-Summers/Azure-Design/raw/master/V-3.9.zip
 
 ## **Option 3 - Download just the category stencil files that you need** 
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-3.9.vssx
 - https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-3.6.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Dynamics-365_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-3.8.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-3.8.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Dynamics-365_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-3.9.vssx
 
 ## **Option 4 - Don't use Visio?**
 
@@ -171,6 +171,49 @@ Twitter is my primary communication method and if you would like to discuss this
 # Version History
 
 ## Current
+
+**Version 3.9 - 08/11/2021**
+
+Updated the collection with the new services announced at Microsoft Ignite this month as below
+
+| Category    | Icon                                                   | Status  |
+| ----------- | ------------------------------------------------------ | ------- |
+| AI          | Cognitive Services Language.svg                        | Updated |
+| AI          | Machine Learning Studio Web Service (classic).svg      | Updated |
+| AI          | Machine Learning Studio Web Service Plan (classic).svg | Updated |
+| AI          | Machine Learning Studio Workspace (classic).svg        | Updated |
+| AI          | Machine Learning.svg                                   | Updated |
+| Application | API Playground.svg                                     | New     |
+| Application | Chaos Experiment Target.svg                            | New     |
+| Application | Chaos Experiment.svg                                   | New     |
+| Application | Chaos Studio.svg                                       | New     |
+| Application | CloudTest Account.svg                                  | New     |
+| Application | CloudTest Image.svg                                    | New     |
+| Application | Container App.svg                                      | New     |
+| Application | DICOM service.svg                                      | New     |
+| Application | FHIR Service.svg                                       | New     |
+| Application | Genomics Account.svg                                   | Updated |
+| Compute     | Azure Compute Gallery.svg                              | New     |
+| Compute     | Azure Edge Hardware Center.svg                         | New     |
+| Compute     | Capacity Reservation Group.svg                         | New     |
+| Compute     | VM Application Definition.svg                          | New     |
+| Compute     | VM Application Version.svg                             | New     |
+| Compute     | VM Image Definition.svg                                | New     |
+| Compute     | VM Image Version.svg                                   | New     |
+| Data        | Time Series Insights Reference Data Set.svg            | Updated |
+| Data        | Video Analyzer for Media.svg                           | New     |
+| Deployment  | Azure DevOps                                           | Updated |
+| Deployment  | Custom Template.svg                                    | New     |
+| IoT         | IoT connector.svg                                      | New     |
+| Management  | Azure Arc Private Link Scope.svg                       | New     |
+| Management  | Invoice.svg                                            | New     |
+| Networking  | Network Function Manager – Device.svg                  | New     |
+| Networking  | Network Function Manager – Network Function.svg        | New     |
+| Networking  | Network Function Manager – Vendor.svg                  | New     |
+| Networking  | Network Manager.svg                                    | New     |
+| Security    | Confidential Ledger.svg                                | New     |
+
+## Previous
 
 **Version 3.8 - 09/10/2021**
 
@@ -242,8 +285,6 @@ Updated double click behavior on each icon to open the text box editor as reques
 | Networking   | Service Endpoint                          | Updated |
 | Office365    | O365 - Dataverse                          | New     |
 | Office365    | O365 - Power App Virtual Agent            | New     |
-
-## Previous
 
 **Version 3.7 - 23/07/2021**
 
