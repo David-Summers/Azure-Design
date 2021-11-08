@@ -176,42 +176,42 @@ Twitter is my primary communication method and if you would like to discuss this
 
 Updated the collection with the new services announced at Microsoft Ignite this month as below
 
-| Category    | Icon                                                   | Status  |
-| ----------- | ------------------------------------------------------ | ------- |
-| AI          | Cognitive Services Language.svg                        | Updated |
-| AI          | Machine Learning Studio Web Service (classic).svg      | Updated |
-| AI          | Machine Learning Studio Web Service Plan (classic).svg | Updated |
-| AI          | Machine Learning Studio Workspace (classic).svg        | Updated |
-| AI          | Machine Learning.svg                                   | Updated |
-| Application | API Playground.svg                                     | New     |
-| Application | Chaos Experiment Target.svg                            | New     |
-| Application | Chaos Experiment.svg                                   | New     |
-| Application | Chaos Studio.svg                                       | New     |
-| Application | CloudTest Account.svg                                  | New     |
-| Application | CloudTest Image.svg                                    | New     |
-| Application | Container App.svg                                      | New     |
-| Application | DICOM service.svg                                      | New     |
-| Application | FHIR Service.svg                                       | New     |
-| Application | Genomics Account.svg                                   | Updated |
-| Compute     | Azure Compute Gallery.svg                              | New     |
-| Compute     | Azure Edge Hardware Center.svg                         | New     |
-| Compute     | Capacity Reservation Group.svg                         | New     |
-| Compute     | VM Application Definition.svg                          | New     |
-| Compute     | VM Application Version.svg                             | New     |
-| Compute     | VM Image Definition.svg                                | New     |
-| Compute     | VM Image Version.svg                                   | New     |
-| Data        | Time Series Insights Reference Data Set.svg            | Updated |
-| Data        | Video Analyzer for Media.svg                           | New     |
-| Deployment  | Azure DevOps                                           | Updated |
-| Deployment  | Custom Template.svg                                    | New     |
-| IoT         | IoT connector.svg                                      | New     |
-| Management  | Azure Arc Private Link Scope.svg                       | New     |
-| Management  | Invoice.svg                                            | New     |
-| Networking  | Network Function Manager – Device.svg                  | New     |
-| Networking  | Network Function Manager – Network Function.svg        | New     |
-| Networking  | Network Function Manager – Vendor.svg                  | New     |
-| Networking  | Network Manager.svg                                    | New     |
-| Security    | Confidential Ledger.svg                                | New     |
+| Category    | Icon                                               | Status  |
+| ----------- | -------------------------------------------------- | ------- |
+| AI          | Cognitive Services Language                        | New     |
+| AI          | Machine Learning Studio Web Service (classic)      | Updated |
+| AI          | Machine Learning Studio Web Service Plan (classic) | Updated |
+| AI          | Machine Learning Studio Workspace (classic)        | Updated |
+| AI          | Machine Learning                                   | Updated |
+| Application | API Playground                                     | New     |
+| Application | Chaos Experiment Target                            | New     |
+| Application | Chaos Experiment                                   | New     |
+| Application | Chaos Studio                                       | New     |
+| Application | CloudTest Account                                  | New     |
+| Application | CloudTest Image                                    | New     |
+| Application | Container App                                      | New     |
+| Application | DICOM service                                      | New     |
+| Application | FHIR Service                                       | New     |
+| Application | Genomics Account                                   | Updated |
+| Compute     | Azure Compute Gallery                              | New     |
+| Compute     | Azure Edge Hardware Center                         | New     |
+| Compute     | Capacity Reservation Group                         | New     |
+| Compute     | VM Application Definition                          | New     |
+| Compute     | VM Application Version                             | New     |
+| Compute     | VM Image Definition                                | New     |
+| Compute     | VM Image Version                                   | New     |
+| Data        | Time Series Insights Reference Data Set            | Updated |
+| Data        | Video Analyzer for Media                           | New     |
+| Deployment  | Azure DevOps                                       | Updated |
+| Deployment  | Custom Template                                    | New     |
+| IoT         | IoT connector                                      | New     |
+| Management  | Azure Arc Private Link Scope                       | New     |
+| Management  | Invoice                                            | New     |
+| Networking  | Network Function Manager – Device                  | New     |
+| Networking  | Network Function Manager – Network Function        | New     |
+| Networking  | Network Function Manager – Vendor                  | New     |
+| Networking  | Network Manager                                    | New     |
+| Security    | Confidential Ledger                                | New     |
 
 ## Previous
 
