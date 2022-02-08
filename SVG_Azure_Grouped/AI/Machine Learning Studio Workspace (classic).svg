@@ -29,48 +29,48 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group15454-1" transform="translate(33.6353,-34.0157)">
-			<title>Machine Learning Studio Workspace (classic).15454</title>
-			<g id="group15455-2">
+		<g id="group18674-1" transform="translate(33.6353,-34.0157)">
+			<title>Machine Learning Studio Workspace (classic).18674</title>
+			<g id="group18675-2">
 				<title>Icon-machinelearning-167</title>
-				<g id="shape15456-3" transform="translate(17.309,-25.4106)">
-					<title>Sheet.15456</title>
+				<g id="shape18676-3" transform="translate(17.309,-25.4106)">
+					<title>Sheet.18676</title>
 					<path d="M1.26 93.43 L38.06 93.43 A1.22454 1.24859 0 0 1 39.32 94.57 L39.32 123.56 A1.19144 1.21485 0 0 1 38.06
 								 124.71 L1.26 124.71 A1.19144 1.21485 0 0 1 -0 123.56 L0 94.57 A1.22454 1.24859 0 0 1 1.26 93.43
 								 Z" class="st1"/>
 				</g>
-				<g id="shape15457-5" transform="translate(17.1767,-51.2261)">
-					<title>Sheet.15457</title>
+				<g id="shape18677-5" transform="translate(17.1767,-51.2261)">
+					<title>Sheet.18677</title>
 					<path d="M1.19 119.24 L38.26 119.24 A1.15835 1.1811 0 0 1 39.45 120.32 L39.45 124.71 L0 124.71 L0 120.32 A1.15835
 								 1.1811 0 0 1 1.19 119.24 Z" class="st2"/>
 				</g>
-				<g id="shape15458-7" transform="translate(17.1767,-38.3015)">
-					<title>Sheet.15458</title>
+				<g id="shape18678-7" transform="translate(17.1767,-38.3015)">
+					<title>Sheet.18678</title>
 					<rect x="0" y="111.785" width="13.1721" height="12.9246" class="st3"/>
 				</g>
-				<g id="shape15459-9" transform="translate(30.2826,-38.3015)">
-					<title>Sheet.15459</title>
+				<g id="shape18679-9" transform="translate(30.2826,-38.3015)">
+					<title>Sheet.18679</title>
 					<rect x="0" y="111.785" width="13.1721" height="12.9246" class="st4"/>
 				</g>
-				<g id="shape15460-11" transform="translate(43.4546,-38.3015)">
-					<title>Sheet.15460</title>
+				<g id="shape18680-11" transform="translate(43.4546,-38.3015)">
+					<title>Sheet.18680</title>
 					<rect x="0" y="111.785" width="13.1721" height="12.9246" class="st3"/>
 				</g>
-				<g id="shape15461-13" transform="translate(43.4546,-25.2756)">
-					<title>Sheet.15461</title>
+				<g id="shape18681-13" transform="translate(43.4546,-25.2756)">
+					<title>Sheet.18681</title>
 					<path d="M11.29 124.71 L0 124.71 L0 111.65 L13.24 111.65 L13.24 122.65 A1.88645 1.92351 0 0 1 11.29 124.71 Z"
 							class="st4"/>
 				</g>
-				<g id="shape15462-15" transform="translate(30.3818,-25.4106)">
-					<title>Sheet.15462</title>
+				<g id="shape18682-15" transform="translate(30.3818,-25.4106)">
+					<title>Sheet.18682</title>
 					<rect x="0" y="111.785" width="13.1721" height="12.9246" class="st3"/>
 				</g>
-				<g id="shape15463-17" transform="translate(17.2098,-25.4106)">
-					<title>Sheet.15463</title>
+				<g id="shape18683-17" transform="translate(17.2098,-25.4106)">
+					<title>Sheet.18683</title>
 					<rect x="0" y="111.785" width="13.1721" height="12.9246" class="st4"/>
 				</g>
-				<g id="shape15464-19">
-					<title>Sheet.15464</title>
+				<g id="shape18684-19">
+					<title>Sheet.18684</title>
 					<path d="M34.22 124.71 L1.65 124.71 C0.63 124.71 0 123.02 0.6 122.14 L11.82 105.27 A1.12525 1.14736 -180 0 0
 								 11.95 104.7 L11.95 93.66 a0.661914 0.674916 -180 0 0 -0.529531 -0.674916 L10.79 92.99 A1.29073 1.31609
 								 0 0 1 9.5 91.67 L9.5 91.1 A1.29073 1.31609 0 0 1 10.79 89.82 L25.19 89.82 A1.25764 1.28234 0 0 1
@@ -78,8 +78,8 @@
 								 0 0 -0.661914 0.64117 L23.83 104.7 A1.35692 1.38358 -180 0 0 24.06 105.44 L35.31 122.11 C35.88 123.02
 								 35.28 124.71 34.22 124.71 Z" class="st5"/>
 				</g>
-				<g id="shape15465-23" transform="translate(5.88125,-3.57705)">
-					<title>Sheet.15465</title>
+				<g id="shape18685-23" transform="translate(5.88125,-3.57705)">
+					<title>Sheet.18685</title>
 					<path d="M0.08 123.56 L8.22 111.45 A2.84623 2.90214 -180 0 0 8.75 109.73 L8.75 104.66 a0.959775 0.978628 0 0
 								 1 0.959775 -0.978628 L14.34 103.69 a0.926679 0.944882 0 0 1 0.926679 0.978628 L15.27 110.06 A1.98574
 								 2.02475 -180 0 0 15.63 111.21 L23.97 123.56 a0.695009 0.708661 0 0 1 -0.595722 1.14736 L0.64 124.71

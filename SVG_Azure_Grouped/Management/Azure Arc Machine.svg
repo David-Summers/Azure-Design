@@ -22,35 +22,35 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group10137-1" transform="translate(33.907,-34.0157)">
-			<title>Azure Arc Machine.10137</title>
-			<g id="group10138-2">
-				<title>Sheet.10138</title>
-				<g id="shape10139-3" transform="translate(0.0730759,0)">
-					<title>Sheet.10139</title>
+		<g id="group11990-1" transform="translate(33.907,-34.0157)">
+			<title>Azure Arc Machine.11990</title>
+			<g id="group11991-2">
+				<title>Sheet.11991</title>
+				<g id="shape11992-3" transform="translate(0.0730759,1.42109E-14)">
+					<title>Sheet.11992</title>
 					<path d="M53.61 115.88 C53.1 118.08 50.37 120.26 45.42 121.95 A67.5833 67.9794 0 0 1 7.47 122 C2.91 120.37 0.45
 								 118.31 0.07 116.19 C0 115.82 0.07 110 0.07 110 L53.69 109.5 C53.69 109.5 53.67 115.6 53.61 115.88
 								 Z" class="st1"/>
 				</g>
-				<g id="shape10140-5" transform="translate(-1.06475,-5.22144) rotate(-0.575)">
-					<title>Sheet.10140</title>
+				<g id="shape11993-5" transform="translate(-1.06475,-5.22144) rotate(-0.575)">
+					<title>Sheet.11993</title>
 					<ellipse cx="26.8374" cy="115.377" rx="26.8374" ry="9.33304" class="st2"/>
 				</g>
-				<g id="shape10141-7" transform="translate(13.2961,-14.3951)">
-					<title>Sheet.10141</title>
+				<g id="shape11994-7" transform="translate(13.2961,-14.3951)">
+					<title>Sheet.11994</title>
 					<path d="M27.29 123.28 A1.50888 1.51772 0 0 1 25.73 124.71 L1.57 124.71 A1.50888 1.51772 0 0 1 0 123.28 L0 83.85
 								 A1.50262 1.51142 0 0 1 1.57 82.41 L25.72 82.41 A1.50575 1.51457 0 0 1 27.28 83.84 L27.29 123.28
 								 Z" class="st3"/>
 				</g>
-				<g id="shape10142-11" transform="translate(17.3,-35.3094)">
-					<title>Sheet.10142</title>
+				<g id="shape11995-11" transform="translate(17.3,-35.3094)">
+					<title>Sheet.11995</title>
 					<path d="M16.55 124.71 L2.96 124.71 A3.13045 3.1488 0 0 1 0 121.42 A3.13045 3.1488 0 0 1 2.96 118.13 L16.55 118.13
 								 A3.13045 3.1488 0 0 1 19.52 121.42 A3.13045 3.1488 0 0 1 16.55 124.71 ZM19.52 111.64 A3.13045 3.1488
 								 -180 0 0 16.55 108.36 L2.96 108.36 A3.13045 3.1488 -180 0 0 -0 111.64 A3.13045 3.1488 -180 0 0 2.96
 								 114.93 L16.55 114.93 A3.13045 3.1488 -180 0 0 19.52 111.64 Z" class="st4"/>
 				</g>
-				<g id="shape10143-13" transform="translate(30.8047,-37.0634)">
-					<title>Sheet.10143</title>
+				<g id="shape11996-13" transform="translate(30.8047,-37.0634)">
+					<title>Sheet.11996</title>
 					<path d="M2.19 111.19 A2.19132 2.20416 0 1 1 0 113.39 A2.19132 2.20416 0 0 1 2.19 111.19 ZM0 123.15 A2.19132
 								 2.20416 -180 1 0 2.19 120.95 A2.19132 2.20416 -180 0 0 0 123.16 L0 123.15 Z" class="st2"/>
 				</g>

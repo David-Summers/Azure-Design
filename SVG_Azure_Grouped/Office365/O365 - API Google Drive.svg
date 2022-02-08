@@ -34,59 +34,59 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group16386-1" transform="translate(5.66929,-34.0157)">
-			<title>O365 - API Google Drive.16386</title>
+		<g id="group19673-1" transform="translate(5.66929,-34.0157)">
+			<title>O365 - API Google Drive.19673</title>
 			<desc>This package will provide stencils to visually represent Power Platform: Power Bi, Power Apps, Power Virtual Agents and/or Power Automate devices, architectures or solutions diagrams. It will provide stencils to visually represent features, systems, processes and architectures that use these technologies.</desc>
-			<g id="group16387-2">
+			<g id="group19674-2">
 				<title>Page-1</title>
-				<g id="group16388-3">
+				<g id="group19675-3">
 					<title>Power Automate API: Google Drive</title>
-					<g id="group16389-4">
+					<g id="group19676-4">
 						<title>rect5940</title>
-						<g id="shape16390-5">
-							<title>Sheet.16390</title>
+						<g id="shape19677-5">
+							<title>Sheet.19677</title>
 							<rect x="0" y="39.685" width="56.6929" height="56.6929" class="st1"/>
 						</g>
 					</g>
-					<g id="group16391-7" transform="translate(20.187,-22.6062)">
+					<g id="group19678-7" transform="translate(20.187,-22.6062)">
 						<title>path5942</title>
-						<g id="shape16392-8">
-							<title>Sheet.16392</title>
+						<g id="shape19679-8">
+							<title>Sheet.19679</title>
 							<path d="M0 71.72 L15.11 71.72 L29.26 96.38 L14.14 96.38 L0 71.72 Z" class="st2"/>
 						</g>
 					</g>
-					<g id="group16393-12" transform="translate(13.6595,-9.43022)">
+					<g id="group19680-12" transform="translate(13.6595,-9.43022)">
 						<title>path5944</title>
-						<g id="shape16394-13">
-							<title>Sheet.16394</title>
+						<g id="shape19681-13">
+							<title>Sheet.19681</title>
 							<path d="M35.78 83.21 L28.16 96.38 L0 96.38 L7.61 83.21 L35.9 83.21 L35.78 83.21 Z" class="st3"/>
 						</g>
 					</g>
-					<g id="group16395-17" transform="translate(6.16493,-9.55109)">
+					<g id="group19682-17" transform="translate(6.16493,-9.55109)">
 						<title>path5946</title>
-						<g id="shape16396-18">
-							<title>Sheet.16396</title>
+						<g id="shape19683-18">
+							<title>Sheet.19683</title>
 							<path d="M7.49 96.38 L0 83.21 L14.14 58.54 L21.75 71.72 L7.49 96.38 Z" class="st4"/>
 						</g>
 					</g>
-					<g id="group16397-22" transform="translate(13.6595,-9.55109)">
+					<g id="group19684-22" transform="translate(13.6595,-9.55109)">
 						<title>path5948</title>
-						<g id="shape16398-23">
-							<title>Sheet.16398</title>
+						<g id="shape19685-23">
+							<title>Sheet.19685</title>
 							<path d="M0 96.38 L14.02 83.21 L7.49 83.21 L0 96.38 Z" class="st5"/>
 						</g>
 					</g>
-					<g id="group16399-25" transform="translate(31.0663,-22.6062)">
+					<g id="group19686-25" transform="translate(31.0663,-22.6062)">
 						<title>path5950</title>
-						<g id="shape16400-26">
-							<title>Sheet.16400</title>
+						<g id="shape19687-26">
+							<title>Sheet.19687</title>
 							<path d="M18.38 96.38 L3.27 96.38 L0 90.58 L18.38 96.38 Z" class="st5"/>
 						</g>
 					</g>
-					<g id="group16401-28" transform="translate(20.187,-28.5294)">
+					<g id="group19688-28" transform="translate(20.187,-28.5294)">
 						<title>path5952</title>
-						<g id="shape16402-29">
-							<title>Sheet.16402</title>
+						<g id="shape19689-29">
+							<title>Sheet.19689</title>
 							<path d="M0 77.65 L4.35 96.38 L7.61 90.82 L0 77.65 Z" class="st5"/>
 						</g>
 					</g>

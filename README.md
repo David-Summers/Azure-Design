@@ -8,7 +8,7 @@ SVG's can easily be imported into Visio and due to the file format supporting ra
 
 - **No connection points** (when you draw a line from icon A to icon B, Visio will either attach the line to the icon edge or the center)
 - **No properly positioned text field** (when adding descriptive text to the icon Visio will place the text at the center of the icon, requiring manual repositioning)
-- **Import size is dependent on the source SVG view box and scale** (depending on the source file, when it is dropped onto a drawing it may need to be down\up sized to match the scale of other icons)
+- **Import size is dependent on the source SVG view box and scale** (depending on the source file, when it is dropped onto a drawing it may need to be down/up sized to match the scale of other icons)
 - **Lack of programmability** (having icons in a stencil allows you to leverage PowerShell or other languages to programmatically draw diagrams)
 
 With these limitations and the lack of standardized up to date stencils I set out on a personal mission to build my own functional, relevant and as up to date as possible Visio stencil for anyone to use. With permission (and the only caveat that I maintain an up to date collection) from the Microsoft Cloud and Enterprise team to build an icon collection based on the publicly available icons, I built a fully programmatic method to build a stencil collection using SVG's as the source icons. 
@@ -51,7 +51,7 @@ With this process I can build and re-build over and over again in minutes and th
 
 #### SVG image of the current full stencil content
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-3.9.svg)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-4.0.svg)
 
 Some example images to show stencil functionality: -
 
@@ -91,31 +91,31 @@ Download only what you need or the entire collection using the links below.
 
 ## **Option 1 - Download the single stencil file that contains all of the icons and drawing tools**
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-4.0.vssx
 
 ## Option 2 - Download the latest full ZIP package containing all stencils, PNG and SVG versions.
 
-- https://github.com/David-Summers/Azure-Design/raw/master/V-3.9.zip
+- https://github.com/David-Summers/Azure-Design/raw/master/V-4.0.zip
 
 ## **Option 3 - Download just the category stencil files that you need** 
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-3.6.vssx
-- https://github.com/David-Summers/Azure-Design/blob/master/Azure_Dynamics%20365_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-3.9.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-3.9.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/blob/master/Azure_Dynamics%20365_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-4.0.vssx
 
 ## **Option 4 - Don't use Visio?**
 
@@ -172,7 +172,226 @@ Twitter is my primary communication method and if you would like to discuss this
 
 ## Current
 
-**Version 3.9 - 08/11/2021**
+#### Version 4.0 - 09/02/2022
+
+Huge update, 210 new icons added to the collection. I have added a lot of per service configuration items to help with accurate designs using the particular service category stencils. This does mean a few double up icons when looking at the full stencil. Special thank you to @SvenAelterman for supplying several AKS icons.
+
+| Category    | Icon                                         | Status |
+| ----------- | -------------------------------------------- | ------ |
+| AI          | Azure OpenAI                                 | New    |
+| AI          | Object Anchors Account                       | New    |
+| Application | API Management API                           | New    |
+| Application | API Management Backend                       | New    |
+| Application | API Management External Cache                | New    |
+| Application | API Management Identity                      | New    |
+| Application | API Management Managed Identity              | New    |
+| Application | API Management Named Value                   | New    |
+| Application | API Management OAuth 2.0 and OpenID Connect  | New    |
+| Application | API Management Power Platform                | New    |
+| Application | API Management Pricing Tier                  | New    |
+| Application | API Management Product                       | New    |
+| Application | API Playground                               | New    |
+| Application | App Gateway Backend Health                   | New    |
+| Application | App Gateway Backend Pool                     | New    |
+| Application | App Gateway Configuration                    | New    |
+| Application | App Gateway Frontend IP Configuration        | New    |
+| Application | App Gateway HTTP Setting                     | New    |
+| Application | App Gateway Listener                         | New    |
+| Application | App Gateway Rule                             | New    |
+| Application | App Gateway WAF                              | New    |
+| Application | App Service Advanced Tools                   | New    |
+| Application | App Service Advisor                          | New    |
+| Application | App Service API Definition                   | New    |
+| Application | App Service API Management                   | New    |
+| Application | App Service Authentication                   | New    |
+| Application | App Service Backup                           | New    |
+| Application | App Service Clone App                        | New    |
+| Application | App Service Connector                        | New    |
+| Application | App Service Console                          | New    |
+| Application | App Service Custom Domain                    | New    |
+| Application | App Service Deployment Slot                  | New    |
+| Application | App Service Editor                           | New    |
+| Application | App Service Event                            | New    |
+| Application | App Service Export Template                  | New    |
+| Application | App Service Extension                        | New    |
+| Application | App Service Health check                     | New    |
+| Application | App Service Identity                         | New    |
+| Application | App Service Insights                         | New    |
+| Application | App Service Log Stream                       | New    |
+| Application | App Service Logs                             | New    |
+| Application | App Service Management                       | New    |
+| Application | App Service MySQL In App                     | New    |
+| Application | App Service Networking                       | New    |
+| Application | App Service Process Explorer                 | New    |
+| Application | App Service Quickstart                       | New    |
+| Application | App Service Quota                            | New    |
+| Application | App Service Reset Publish Profile            | New    |
+| Application | App Service Scale Out                        | New    |
+| Application | App Service Scale up                         | New    |
+| Application | App Service Security                         | New    |
+| Application | App Service Start                            | New    |
+| Application | App Service Stop                             | New    |
+| Application | App Service WebJob                           | New    |
+| Application | Event Hub Event                              | New    |
+| Application | Event Hub Networking                         | New    |
+| Application | Event Hub Scale                              | New    |
+| Application | Event Hub Schema Registry                    | New    |
+| Application | Function App Advanced Tool                   | New    |
+| Application | Function App API Definition                  | New    |
+| Application | Function App API Management                  | New    |
+| Application | Function App Authentication                  | New    |
+| Application | Function App CORS                            | New    |
+| Application | Function App Deployment Slot                 | New    |
+| Application | Function App Extension                       | New    |
+| Application | Function App File                            | New    |
+| Application | Function App Function                        | New    |
+| Application | Function App Properties                      | New    |
+| Application | Function App Proxy                           | New    |
+| Application | Function App Scale out                       | New    |
+| Application | Function App Service Editor                  | New    |
+| Compute     | Kubernetes Cluster Configuration             | New    |
+| Compute     | Kubernetes Configuration                     | New    |
+| Compute     | Kubernetes Deployment Center                 | New    |
+| Compute     | Kubernetes GitOps                            | New    |
+| Compute     | Kubernetes Namespace                         | New    |
+| Compute     | Kubernetes Networking                        | New    |
+| Compute     | Kubernetes Node Pool                         | New    |
+| Compute     | Kubernetes Policy                            | New    |
+| Compute     | Kubernetes Service and Ingres                | New    |
+| Compute     | Kubernetes Storage                           | New    |
+| Compute     | Kubernetes Workload                          | New    |
+| Compute     | Virtual Machine SQL Assessment               | New    |
+| Compute     | Virtual Machine SQL Feature                  | New    |
+| Compute     | Virtual Machine SQL High Availability        | New    |
+| Compute     | Virtual Machine SQL Patching                 | New    |
+| Compute     | Virtual Network Gateway BGP Peer             | New    |
+| Data        | Apache Spark Configuration                   | New    |
+| Data        | Apache Spark Package                         | New    |
+| Data        | Apache Spark Pause Setting                   | New    |
+| Data        | Apache Spark Pool                            | New    |
+| Data        | Apache Spark Scale Setting                   | New    |
+| Data        | Azure Cosmos DB Cognitive Search             | New    |
+| Data        | Azure Cosmos DB CORS                         | New    |
+| Data        | Azure Cosmos DB Dedicated Gateway            | New    |
+| Data        | Azure Cosmos DB Document Explorer            | New    |
+| Data        | Azure Cosmos DB Feature                      | New    |
+| Data        | Azure Cosmos DB Firewall and VNET            | New    |
+| Data        | Azure Cosmos DB Notification                 | New    |
+| Data        | Azure Cosmos DB Query Explorer               | New    |
+| Data        | Azure Cosmos DB Replication                  | New    |
+| Data        | Azure Cosmos DB Script Explorer              | New    |
+| Data        | Azure Cosmos DB Synapse Link                 | New    |
+| Data        | Azure Synapse Analytics Dedicated SQL Pool   | New    |
+| Data        | Azure Synapse Analytics Pipeline             | New    |
+| Data        | Azure Synapse Analytics Serverless SQL Pool  | New    |
+| Data        | Azure Synapse Analytics Spark Pool           | New    |
+| Data        | Data Collection Data source                  | New    |
+| Data        | Data collection Rule                         | New    |
+| Data        | SQL Database Auditing                        | New    |
+| Data        | SQL Database Automatic Tuning                | New    |
+| Data        | SQL Database Azure Data Studio               | New    |
+| Data        | SQL Database Connection String               | New    |
+| Data        | SQL Database Data Discovery & Classification | New    |
+| Data        | SQL Database Dynamic Data Masking            | New    |
+| Data        | SQL Database Export                          | New    |
+| Data        | SQL Database Ledger                          | New    |
+| Data        | SQL Database Performance Overview            | New    |
+| Data        | SQL Database Performance Recommendation      | New    |
+| Data        | SQL Database Query Editor                    | New    |
+| Data        | SQL Database Query Performance Insight       | New    |
+| Data        | SQL Database Restore                         | New    |
+| Data        | SQL Database Sync                            | New    |
+| Data        | SQL Database Transparent Data Encryption     | New    |
+| Data        | SQL Server Auditing                          | New    |
+| Data        | SQL Server Automatic Tuning                  | New    |
+| Data        | SQL Server Failover Group                    | New    |
+| Data        | SQL Server Firewalls and VNET                | New    |
+| Data        | SQL Server Identity                          | New    |
+| Data        | SQL Server Import Export                     | New    |
+| Data        | SQL Server Recommendation                    | New    |
+| IoT         | IoT Hub Built-in Endpoint                    | New    |
+| IoT         | IoT Hub Certificate                          | New    |
+| IoT         | IoT Hub Device                               | New    |
+| IoT         | IoT Hub Event                                | New    |
+| IoT         | IoT Hub File Upload                          | New    |
+| IoT         | IoT Hub Message Routing                      | New    |
+| IoT         | IoT Hub Query                                | New    |
+| IoT         | IoT Hub Security Alert                       | New    |
+| IoT         | IoT Hub Update                               | New    |
+| IoT         | IoT Hub Workbook                             | New    |
+| Management  | Automation Certificate                       | New    |
+| Management  | Automation Change Tracking                   | New    |
+| Management  | Automation Connection                        | New    |
+| Management  | Automation Event Grid                        | New    |
+| Management  | Automation Hybrid Worker Group               | New    |
+| Management  | Automation Identity                          | New    |
+| Management  | Automation Job                               | New    |
+| Management  | Automation Linked Workspace                  | New    |
+| Management  | Automation Module                            | New    |
+| Management  | Automation Python Package                    | New    |
+| Management  | Automation Run as Account                    | New    |
+| Management  | Automation Runbook                           | New    |
+| Management  | Automation Schedule                          | New    |
+| Management  | Automation Source Control                    | New    |
+| Management  | Automation Start Stop VM                     | New    |
+| Management  | Automation State Configuration (DSC)         | New    |
+| Management  | Automation Update Management                 | New    |
+| Management  | Automation Variable                          | New    |
+| Management  | Azure Automation Runbook Description         | New    |
+| Management  | Azure Automation Runbook Job                 | New    |
+| Management  | Azure Automation Runbook Schedule            | New    |
+| Management  | Azure Automation Runbook Webhook             | New    |
+| Management  | Quota                                        | New    |
+| Management  | Recovery Services Policy                     | New    |
+| Management  | Recovery Services Restore Point              | New    |
+| Management  | Restore Point Collection                     | New    |
+| Networking  | CDN Compression                              | New    |
+| Networking  | CDN Custom Domain                            | New    |
+| Networking  | CDN Geo-Filtering                            | New    |
+| Networking  | CDN Optimisation                             | New    |
+| Networking  | CDN Origin                                   | New    |
+| Networking  | ExpressRoute Authorisation                   | New    |
+| Networking  | ExpressRoute Health                          | New    |
+| Networking  | ExpressRoute Peering                         | New    |
+| Networking  | Load Balancer Backend pool                   | New    |
+| Networking  | Load Balancer Frontend IP Configuration      | New    |
+| Networking  | Load Balancer Inbound NAT Rule               | New    |
+| Networking  | Network Interface Effective Route            | New    |
+| Networking  | Network Interface Effective Security Rule    | New    |
+| Networking  | Network Security Group Inbound Rule          | New    |
+| Networking  | Network Security Group Outbound Rule         | New    |
+| Security    | Azure Firewall IDPS                          | New    |
+| Security    | Azure Firewall Secured Virtual Network       | New    |
+| Security    | Azure Firewall Threat Intelligence           | New    |
+| Security    | Azure Firewall TLS Inspection                | New    |
+| Security    | Azure Firewall Web Category                  | New    |
+| Security    | Key Vault Access Policy                      | New    |
+| Security    | Key Vault Certificate                        | New    |
+| Security    | Key Vault Networking                         | New    |
+| Security    | Web Application Firewall Custom Rule         | New    |
+| Security    | Web Application Firewall Managed Rule        | New    |
+| Security    | Web Application Firewall Policy Settings     | New    |
+| Storage     | Storage Account Blob inventory               | New    |
+| Storage     | Storage Account Browser                      | New    |
+| Storage     | Storage Account Connectivity Check           | New    |
+| Storage     | Storage Account Data Migration               | New    |
+| Storage     | Storage Account Encryption                   | New    |
+| Storage     | Storage Account File Share                   | New    |
+| Storage     | Storage Account Lifecycle Management         | New    |
+| Storage     | Storage Account Networking                   | New    |
+| Storage     | Storage Account Object Replication           | New    |
+| Storage     | Storage Account Queue                        | New    |
+| Storage     | Storage Account Recovery                     | New    |
+| Storage     | Storage Account Resource sharing (CORS)      | New    |
+| Storage     | Storage Account Shared Access Signature      | New    |
+| Storage     | Storage Account Table                        | New    |
+| Storage     | Storage Account Upgrade                      | New    |
+| Storage     | Storage Sync Network                         | New    |
+| Storage     | Storage Sync Registered Server               | New    |
+
+## Previous
+
+#### **Version 3.9 - 08/11/2021**
 
 Updated the collection with the new services announced at Microsoft Ignite this month as below
 
@@ -213,9 +432,7 @@ Updated the collection with the new services announced at Microsoft Ignite this 
 | Networking  | Network Manager                                    | New     |
 | Security    | Confidential Ledger                                | New     |
 
-## Previous
-
-**Version 3.8 - 09/10/2021**
+#### **Version 3.8 - 09/10/2021**
 
 Updated double click behavior on each icon to open the text box editor as requested by @jikuja. Added new icons below.
 
@@ -286,7 +503,7 @@ Updated double click behavior on each icon to open the text box editor as reques
 | Office365    | O365 - Dataverse                          | New     |
 | Office365    | O365 - Power App Virtual Agent            | New     |
 
-**Version 3.7 - 23/07/2021**
+#### **Version 3.7 - 23/07/2021**
 
 Exciting update with this release. For a while I have been building my own set of Icons to represent workload services for infrastructure hosted anywhere. While not technically Azure specific I have utilised the same colouring and styling as per the Azure Icons to maintain consistency with designs especially with Hybrid hosting models. 
 
@@ -399,7 +616,7 @@ So if that was not enough for a release I also included a total of 100 new Icons
 | Workload-Service | Certification Authority Online Responder         | New    |
 | Workload-Service | Active Directory Federation Proxy                | New    |
 
-**Version 3.6 - 28/05/2021**
+#### **Version 3.6 - 28/05/2021**
 
 Large update with this release. 56 new or refreshed icons added bringing the collection up to 613 items (Minus drawing tools) I have also completely re-worked the Drawing tools. I Scripted a full extract of the Hex colour values for all icons and sorted them by occurrence, after that I designed a new colour pallet using the top 30 colours that are used across the board. This helps to keep visual consistency with colouring, As well as the colour pallet I did the same for gradients so there are now two pallets to chose from. I also took the most common colours and redrew the connection objects providing a line, arc, glow line, path based and angled connection objects in each colour as well as dashed line boxes as containers. 
 
@@ -453,11 +670,11 @@ Full list of icon changes below:-
 | Management | Azure Monitor Log Analytics  Health              | New       |
 | Management | Azure Monitor Service Bus  Health                | New       |
 
-**Version 3.5 - 11/05/2021**
+#### **Version 3.5 - 11/05/2021**
 
 Azure received an Icon rebranding! The new icon for Azure is here and until the community starts to use it in design and documentation I have included the old one and new one labelled Azure V1 and Azure V2. I also corrected a background issue with the PNG versions. Visio does not allow you to export a PNG file with no background so I had to get a little creative. This would not have been an issue for white background diagrams but in dark mode you would have had a white background box around the icon. 
 
-**Version 3.4 - 27/04/2021**
+#### **Version 3.4 - 27/04/2021**
 
 Icon refresh and new additions
 
@@ -477,15 +694,15 @@ Icon refresh and new additions
 
 **Storage** - Data Box Gateway
 
-**Version 3.3 - 04/03/2021**
+#### **Version 3.3 - 04/03/2021**
 
 It is that time of year again. Yes Microsoft Ignite just happened and as always new services were announced. The 2 major new items announced were "Azure Managed Instance for Apache Cassandra" and the new Augmented Reality service "Azure Percept" as well as these 2 I updated or added 28 new icons. I also added 2 new containers to the drawing tools that I use for full architecture diagrams. I am looking into adding smart containers for core features such as Subscription, Resource Group and Virtual Network for the next release. 
 
-**Version 3.2 - 13/02/2021**
+#### **Version 3.2 - 13/02/2021**
 
 The first update for the year. Several new and refreshed icons and a new naming convention for the stencils. 10 days ago I reached 25,000 downloads and I thank everyone for supporting my project.
 
-**Version 3.1 - 05/12/2020**
+#### **Version 3.1 - 05/12/2020**
 
 Likely to be the last version release for this very interesting year of 2020. 
 
@@ -501,7 +718,7 @@ A few more examples (left original, right modern)
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Icon%20Refresh%20Examples.jpg)
 
-**Version 3.0 - 14/10/2020**
+#### **Version 3.0 - 14/10/2020**
 
 Major update with this release so we are now on version 3! I have added placeholder shape data in preparation for an Azure documentor script that I am working on, essentially this will open up the capability of enumerating resources in Azure and then drawing those resources in Visio and populating each shape with the relevant meta data for the resource. I have included basic fields at this stage that can be retrieved using get-azresource and then added to the shape via PowerShell
 
@@ -521,15 +738,15 @@ Also based on feedback you now have the option to use a single large stencil con
 
 Added or refreshed 66 icons
 
-**Version 2.8 - 15/07/2020**
+#### **Version 2.8 - 15/07/2020**
 
 Refreshed 19 icons and added new ones, welcome Office 365 to the collection. O365 services have been requested a few times so I am starting to add them into the Stencil. These icons are more difficult to convert as sourcing SVG versions is challenging so I have had to trace some bitmap versions by hand in my SVG editor.
 
-**Version 2.6 - 21/04/2020**
+#### **Version 2.6 - 21/04/2020**
 
 I noticed that the Cosmos DB Icon had broken from a previous update and while fixing that I ended up reviewing and updating 96 icons! – I extended my icon collection passed the Azure Portal as even some of those icons are out of date.
 
-**Version 2.5 - 20/04/2020**
+#### **Version 2.5 - 20/04/2020**
 
 New Icons and several icon refreshers, fixed the drawing boxes that were fixed to square shapes and not adjustable. Added a new Line drawing tool with a nice glow “A_GlowLine-1” – I am toying with Dark mode designs and this new line format really makes a design jump off the page in my opinion. Below are 2 examples of the same reference architecture
 
@@ -537,13 +754,13 @@ New Icons and several icon refreshers, fixed the drawing boxes that were fixed t
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/SAMPLE_Advanced-Analytics_DARK.png)
 
-**Version 2.4 - 21/02/2020**
+#### **Version 2.4 - 21/02/2020**
 
 Added new drawing resources for number labels/boxes/lines and arrows. I have also included SVG and PNG versions of the icons after multiple requests, this was a challenge due to scaling but my script now builds the stencil, SVG and PNG versions of the icons.
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/PNG-Icons.png)
 
-**Version 2.3 - 22/01/2020**
+#### **Version 2.3 - 22/01/2020**
 
 Added new icons for Synapse and others, refreshed 19 updated icons. Big announcement here:- </p>
 
@@ -551,15 +768,15 @@ Added new icons for Synapse and others, refreshed 19 updated icons. Big announce
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Search-Added.png)
 
-**Version 2.2 - 05/11/2019**
+#### **Version 2.2 - 05/11/2019**
 
 Welcome to the Icon family Azure Arc and Spring Cloud
 
-**Version 2.1 - 04/11/2019**
+#### **Version 2.1 - 04/11/2019**
 
 This weekend I found another major icon update. 209 icons to be precise! - I have restructured the Repo as well, created a folder structure for archived versions as I felt the landing page was getting a bit cluttered. The latest version will always be at the root of the Repo with previous versions moving into the Archive folder
 
-**Version 2.0 - 22/10/2019**
+#### **Version 2.0 - 22/10/2019**
 
 Over the past week I have noticed significant updates to key Azure Service Icons and in preparation for an expected announcement at Ignite this year I have re-designed my entire conversion process, previously I had to manually work on each icon to set the initial placement of the connection points and name them for scripted modification. I finally managed to figure out the PS syntax that the Visio COM.Application is expecting for inserting new connection point rows. My process is now automated taking SVG's from a directory and inserting them into my Master Stencil for processing. Recorded a quick video showing the automation into Visio
 
@@ -573,7 +790,7 @@ One key change here is that I renamed the connection points to North, East, West
 
 I use this stencil for a suite of Azure Documentor scripts and using named connection points allows you to specify direction for connections easier
 
-**Version 1.6 - 8/10/2019**
+#### **Version 1.6 - 8/10/2019**
 
 Corrected mis-coloured icons, thanks to Cédric De Loor for pointing that out
 
@@ -623,7 +840,7 @@ Added new icons
   Private Link
   </li>
 </ol>
-**Version 1.5 - 26/08/2019**
+#### **Version 1.5 - 26/08/2019**
 
 Major change with this release, initially I hand placed the four connection points for each icon and that was not perfect placement. I thought it would be easy to script modify the connection point position (like I did with the Text field in V-1.1) but it turns out that Visio does not name a connection point when you add it so I could not modify it through PowerShell. I added a new script process that allowed me to hand place the connection points and then name them 1-5 (I added a new connection point under the text field for easier south connections when there is data in the text field). Now that they are named, I can modify them when I build my stencil using my gold master. Example below: -
 
@@ -655,7 +872,7 @@ Major change with this release, initially I hand placed the four connection poin
   Azure Board
   </li>
 </ul>
-**Version 1.4 - 16/08/2019**
+#### **Version 1.4 - 16/08/2019**
 
 Started on the drawing resources, added a colour pallet for what I believe are the best mainly used colours in the stencil range. For fun I scripted an export of every Hex colour value that is being used and there are 88 total colours. Some are extremely close to each other so I selected the most common used colours and included them in the pallet. Added 3 connector styles and deciding on the remaining set. Ideas welcome! and lastly, re-worked the colour scheme on the Azure lighthouse icons.
 
@@ -690,7 +907,7 @@ Added new icons
   Recent
   </li>
 </ul>
-**Version 1.3 - 14/08/2019**
+#### **Version 1.3 - 14/08/2019**
 
 Added new Icons for storage account sub services, had to hand draw these as they did not appear to exist. Renamed Data brick to the correct name Databricks.
 <UL type="Circle">
@@ -704,7 +921,7 @@ Added new Icons for storage account sub services, had to hand draw these as they
   Azure Storage Table
   </li>
   </ul>    
-**Version 1.2 - 03/08/2019**
+#### **Version 1.2 - 03/08/2019**
 
 Removed "Azure" prefix for some incorrectly named icons. Added new Icons
 
@@ -728,10 +945,10 @@ Removed "Azure" prefix for some incorrectly named icons. Added new Icons
   Azure Batch Accounts
   </li>
   </ul>    
-**Version 1.1 - 27/07/2019**
+#### **Version 1.1 - 27/07/2019**
 
 First major change, I realized that some of the text fields were not perfectly aligned so I rebuilt my PowerShell process to use dynamic  values for the text field. Since the shapes differ in Height\Width my initial placement was slightly off due to distance from center. This placement is now relative to the bottom edge of the icon. I also inserted the name of the icon into the Text field for page drop as well and reformatted the text to a dark Blue. Final change was to add a subtle drop shadow to each icon as I feel they jump off the page with a small amount of depth.
 
-**Version 1.0 - 25/07/2019**
+#### **Version 1.0 - 25/07/2019**
 
 Initial release of the stencil and bonus SVG and PNG versions. I built a conversion process that can re-colour each icon and these initial versions were made with a Blue and Grey scale pallet.

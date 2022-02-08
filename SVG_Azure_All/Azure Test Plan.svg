@@ -22,61 +22,61 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group5995-1" transform="translate(5.66929,-34.0157)">
+		<g id="group6894-1" transform="translate(5.66929,-34.0157)">
 			<title>Azure Test Plan</title>
-			<g id="shape5996-2" transform="translate(19.347,-37.2781)">
+			<g id="shape6895-2" transform="translate(19.347,-37.2781)">
 				<title>path2</title>
 				<path d="M17.75 81.71 L0 81.71 L0 90.14 L17.75 90.14 L17.75 81.71 Z" class="st1"/>
 			</g>
-			<g id="shape5997-4">
+			<g id="shape6896-4">
 				<title>path4</title>
 				<path d="M54.03 80.48 L50.31 74.49 L34.42 74.49 C34.42 74.52 34.42 74.56 34.42 74.59 C34.42 79.53 30.09 83.54 24.77
 							 83.54 C19.44 83.54 15.12 79.53 15.12 74.59 C15.12 74.56 15.12 74.52 15.12 74.49 L6.32 74.49 L2.63 80.52
 							 C0 84.82 3.34 90.14 8.67 90.14 L48.01 90.14 C53.35 90.14 56.69 84.78 54.03 80.48 Z" class="st2"/>
 			</g>
-			<g id="shape5998-6" transform="translate(15.1281,-6.59452)">
+			<g id="shape6897-6" transform="translate(15.1281,-6.59452)">
 				<title>path6</title>
 				<path d="M0 81.2 C0 86.13 4.32 90.14 9.65 90.14 C14.98 90.14 19.3 86.13 19.3 81.2 C19.3 81.16 19.3 81.13 19.3 81.09
 							 L0 81.09 C0 81.13 0 81.16 0 81.2 Z" class="st3"/>
 			</g>
-			<g id="shape5999-8" transform="translate(6.31939,-15.6449)">
+			<g id="shape6898-8" transform="translate(6.31939,-15.6449)">
 				<title>path8</title>
 				<path d="M18.45 81.3 C18.95 81.3 19.44 81.33 19.92 81.4 C20.47 79.14 22.65 77.46 25.26 77.46 C28.28 77.46 30.73 79.73
 							 30.73 82.53 C30.73 84.6 29.4 86.37 27.5 87.17 C27.87 88.1 28.07 89.09 28.08 90.14 L43.98 90.14 L30.78
 							 68.86 L30.78 68.51 L13.03 68.51 L13.03 68.86 L0 90.13 L8.81 90.13 C8.87 85.25 13.16 81.3 18.45 81.3
 							 Z" class="st4"/>
 			</g>
-			<g id="shape6000-10" transform="translate(15.1281,-15.6576)">
+			<g id="shape6899-10" transform="translate(15.1281,-15.6576)">
 				<title>path10</title>
 				<path d="M16.45 87.63 C13.42 87.63 10.97 85.35 10.97 82.55 C10.97 82.16 11.02 81.78 11.11 81.42 C10.63 81.35 10.14
 							 81.31 9.64 81.31 C4.35 81.31 0.06 85.26 0 90.14 L19.29 90.14 C19.27 89.1 19.07 88.1 18.71 87.17 C18.02
 							 87.46 17.25 87.63 16.45 87.63 Z" class="st5"/>
 			</g>
-			<g id="shape6001-12" transform="translate(26.234,-18.6271)">
+			<g id="shape6900-12" transform="translate(26.234,-18.6271)">
 				<title>path12</title>
 				<path d="M7.59 90.14 C9.5 89.35 10.82 87.57 10.82 85.51 C10.82 82.7 8.37 80.43 5.34 80.43 C2.73 80.43 0.55 82.12
 							 0 84.38 C3.51 84.88 6.4 87.14 7.59 90.14 Z" class="st6"/>
 			</g>
-			<g id="shape6002-14" transform="translate(26.0938,-18.1737)">
+			<g id="shape6901-14" transform="translate(26.0938,-18.1737)">
 				<title>path14</title>
 				<path d="M5.48 90.14 C6.28 90.14 7.04 89.98 7.73 89.69 C6.53 86.67 3.64 84.42 0.14 83.92 C0.05 84.28 0 84.67 0 85.05
 							 C0 87.87 2.45 90.14 5.48 90.14 Z" class="st7"/>
 			</g>
-			<g id="shape6003-16" transform="translate(16.557,-47.2959)">
+			<g id="shape6902-16" transform="translate(16.557,-47.2959)">
 				<title>path16</title>
 				<path d="M2.79 86.41 L1.52 86.41 C0.68 86.41 0 87.04 0 87.82 L0 88.73 C0 89.51 0.68 90.14 1.52 90.14 L2.79 90.14
 							 L2.79 86.41 Z" class="st8"/>
 			</g>
-			<g id="shape6004-18" transform="translate(37.1001,-47.2959)">
+			<g id="shape6903-18" transform="translate(37.1001,-47.2959)">
 				<title>path18</title>
 				<path d="M2.64 88.73 L2.64 87.82 C2.64 87.04 1.96 86.41 1.12 86.41 L0 86.41 L0 90.14 L1.12 90.14 C1.96 90.14 2.64
 							 89.51 2.64 88.73 Z" class="st8"/>
 			</g>
-			<g id="shape6005-20" transform="translate(19.347,-47.2959)">
+			<g id="shape6904-20" transform="translate(19.347,-47.2959)">
 				<title>path20</title>
 				<path d="M17.75 86.41 L0 86.41 L0 90.14 L17.75 90.14 L17.75 86.41 Z" class="st9"/>
 			</g>
-			<g id="shape6006-22" transform="translate(19.347,-45.7118)">
+			<g id="shape6905-22" transform="translate(19.347,-45.7118)">
 				<title>path22</title>
 				<path d="M17.75 88.56 L0 88.56 L0 90.14 L17.75 90.14 L17.75 88.56 Z" class="st10"/>
 			</g>

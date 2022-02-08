@@ -18,24 +18,24 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group2103-1" transform="translate(5.66929,-34.0157)">
+		<g id="group2558-1" transform="translate(5.66929,-34.0157)">
 			<title>O365 - API SharePoint</title>
 			<desc>This package will provide stencils to visually represent Power Platform: Power Bi, Power Apps, Power Virtual Agents and/or Power Automate devices, architectures or solutions diagrams. It will provide stencils to visually represent features, systems, processes and architectures that use these technologies.</desc>
-			<g id="group2104-2">
+			<g id="group2559-2">
 				<title>Page-1</title>
-				<g id="group2105-3">
-					<title>Sheet.2105</title>
-					<g id="group2106-4">
+				<g id="group2560-3">
+					<title>Sheet.2560</title>
+					<g id="group2561-4">
 						<title>rect5890</title>
-						<g id="shape2107-5">
-							<title>Sheet.2107</title>
+						<g id="shape2562-5">
+							<title>Sheet.2562</title>
 							<rect x="0" y="39.685" width="56.6929" height="56.6929" class="st1"/>
 						</g>
 					</g>
-					<g id="group2108-7" transform="translate(33.2421,-15.2271)">
+					<g id="group2563-7" transform="translate(33.2421,-15.2271)">
 						<title>path5892</title>
-						<g id="shape2109-8">
-							<title>Sheet.2109</title>
+						<g id="shape2564-8">
+							<title>Sheet.2564</title>
 							<path d="M14.63 83.2 A4.10993 4.10993 -180 0 0 11 79.09 A9.30779 9.30779 -180 0 0 5.56 74.38 A4.10993
 										 4.10993 -180 0 0 1.45 70.27 A2.65937 2.65937 -180 0 0 0 70.63 L0 78 A2.65937 2.65937 -180
 										 0 0 1.45 78.36 A4.10993 4.10993 -180 0 0 4.84 76.54 A7.13194 7.13194 0 0 1 8.7 79.57 A4.10993
@@ -45,22 +45,22 @@
 										 14.63 83.2 Z" class="st2"/>
 						</g>
 					</g>
-					<g id="group2110-10" transform="translate(8.95235,-9.39996)">
-						<title>Sheet.2110</title>
+					<g id="group2565-10" transform="translate(8.95235,-9.39996)">
+						<title>Sheet.2565</title>
 						<desc>S</desc>
-						<g id="shape2111-11">
-							<title>Sheet.2111</title>
+						<g id="shape2566-11">
+							<title>Sheet.2566</title>
 							<path d="M0 91.74 L0 62.85 L23.16 58.61 L23.16 96.38 L0 91.74 Z" class="st3"/>
 						</g>
-						<g id="shape2112-13" transform="translate(6.18964,-6.82528)">
-							<title>Sheet.2112</title>
+						<g id="shape2567-13" transform="translate(6.18964,-6.82528)">
+							<title>Sheet.2567</title>
 							<rect x="0" y="72.2565" width="10.7843" height="24.1214" class="st4"/>
 						</g>
-						<g id="shape2113-15" transform="translate(6.18673,-6.82327)">
-							<title>Sheet.2113</title>
+						<g id="shape2568-15" transform="translate(6.18673,-6.82327)">
+							<title>Sheet.2568</title>
 							<desc>S</desc>
 							<rect x="0" y="72.2564" width="20.1013" height="24.1216" class="st5"/>
-							<text x="0" y="89.72" class="st6">S</text>						</g>
+							<text x="-0" y="89.72" class="st6">S</text>						</g>
 					</g>
 				</g>
 			</g>
