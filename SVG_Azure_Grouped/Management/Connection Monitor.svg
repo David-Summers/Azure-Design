@@ -21,69 +21,69 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group11551-1" transform="translate(12.24,-34.0157)">
-			<title>Connection Monitor.11551</title>
-			<g id="group11552-2">
+		<g id="group11938-1" transform="translate(12.24,-34.0157)">
+			<title>Connection Monitor.11938</title>
+			<g id="group11939-2">
 				<title>g28</title>
-				<g id="shape11553-3" transform="translate(9.08904,-4.52152)">
+				<g id="shape11940-3" transform="translate(9.08904,-4.52152)">
 					<title>path4</title>
 					<path d="M26.61 90.81 L11.17 90.81 C13.02 97.5 10.92 99.47 0 99.47 L0 102.95 L36.75 102.95 L36.75 99.45 C25.83
 								 99.45 24.76 97.51 26.61 90.81 Z" class="st1"/>
 				</g>
-				<g id="shape11554-5" transform="translate(2.8777E-13,-16.6531)">
+				<g id="shape11941-5" transform="translate(2.8777E-13,-16.6531)">
 					<title>path6</title>
 					<path d="M51.09 62.91 L3.1 62.91 C1.38 62.91 0 64.47 0 66.21 L0 99.68 C0 101.41 1.38 102.95 3.1 102.95 L51.09
 								 102.95 C52.8 102.95 54.54 101.41 54.54 99.68 L54.54 66.21 C54.53 64.46 52.8 62.91 51.09 62.91 Z"
 							class="st2"/>
 				</g>
-				<g id="shape11555-7" transform="translate(0,-16.6519)">
+				<g id="shape11942-7" transform="translate(0,-16.6519)">
 					<title>path8</title>
 					<path d="M50.96 62.91 L50.93 62.91 L3.09 62.91 C1.38 62.91 0 64.47 0 66.21 L0 99.67 C0 101.41 1.38 102.95 3.09
 								 102.95 L4.28 102.95 L50.96 62.91 Z" class="st3"/>
 				</g>
-				<g id="shape11556-9" transform="translate(4.54452,-20.7526)">
+				<g id="shape11943-9" transform="translate(4.54452,-20.7526)">
 					<title>path10</title>
 					<rect x="0" y="71.6458" width="45.4452" height="31.3028" class="st4"/>
 				</g>
-				<g id="shape11557-11" transform="translate(4.47863,-21.1132)">
+				<g id="shape11944-11" transform="translate(4.47863,-21.1132)">
 					<title>path12</title>
 					<path d="M0 102.95 L0.07 102.95 L0.07 71.83 L41.57 71.76 L41.57 71.76 L0 71.83 L0 102.95 Z" class="st4"/>
 				</g>
-				<g id="shape11558-13" transform="translate(9.08904,-4.52152)">
+				<g id="shape11945-13" transform="translate(9.08904,-4.52152)">
 					<title>path14</title>
 					<path d="M0 99.47 L36.75 99.45 L36.75 102.95 L0 102.95 L0 99.47 Z" class="st2"/>
 				</g>
-				<g id="shape11559-15" transform="translate(26.4593,-53.551)">
+				<g id="shape11946-15" transform="translate(26.4593,-53.551)">
 					<title>path16</title>
 					<path d="M1.61 102.13 a0.806653 0.823149 0 1 1 -1.61331 0 a0.806653 0.823149 0 1 1 1.61331 -1.42109E-14 Z"
 							class="st5"/>
 				</g>
-				<g id="shape11560-17" transform="translate(17.4476,-37.8022)">
+				<g id="shape11947-17" transform="translate(17.4476,-37.8022)">
 					<title>path18</title>
 					<path d="M9.85 102.95 a0.299938 0.306072 0 0 1 -0.145425 -0.0417371 L0.14 97.27 a0.290849 0.296797 0 0 1 -4.82947E-15
 								 -0.51128 L9.65 91.17 a0.289713 0.295638 0 0 1 0.285169 -1.42109E-14 L19.5 96.8 a0.287441 0.293319
 								 0 0 1 0.142016 0.25506 a0.285169 0.291 0 0 1 -0.142016 0.25506 L10 102.91 a0.291986 0.297957 0 0
 								 1 -0.146561 0.0428965 Z" class="st6"/>
 				</g>
-				<g id="shape11561-19" transform="translate(16.0206,-23.9548)">
+				<g id="shape11948-19" transform="translate(16.0206,-23.9548)">
 					<title>path20</title>
 					<path d="M9.83 102.95 a0.270399 0.275929 0 0 1 -0.145425 -0.0394184 L0.15 97.36 a0.279488 0.285204 0 0 1 -0.147697
 								 -0.252741 L0 85.97 C0 85.86 0.06 85.77 0.15 85.71 a0.289713 0.295638 0 0 1 0.290849 -1.42109E-14
 								 L9.97 91.26 a0.29653 0.302594 0 0 1 0.14088 0.253901 L10.11 102.66 C10.11 102.76 10.05 102.86 9.97
 								 102.91 a0.304483 0.31071 0 0 1 -0.144289 0.0405777 Z" class="st7"/>
 				</g>
-				<g id="shape11562-21" transform="translate(28.4033,-23.9548)">
+				<g id="shape11949-21" transform="translate(28.4033,-23.9548)">
 					<title>path22</title>
 					<path d="M0.29 102.95 a0.310164 0.316506 0 0 1 -0.149969 -0.0394184 a0.293122 0.299116 0 0 1 -0.139744 -0.253901
 								 L0 91.59 a0.295394 0.301435 0 0 1 0.139744 -0.252741 L9.67 85.79 a0.286305 0.29216 0 0 1 0.286305
 								 -7.10543E-14 C10.05 85.84 10.1 85.93 10.1 86.04 L10.1 97.1 a0.279488 0.285204 0 0 1 -0.146561 0.252741
 								 L0.43 102.91 a0.247676 0.252741 0 0 1 -0.138608 0.0405777 Z" class="st8"/>
 				</g>
-				<g id="shape11563-23" transform="translate(29.653,2.84217E-13)">
+				<g id="shape11950-23" transform="translate(29.653,2.84217E-13)">
 					<title>circle24</title>
 					<ellipse cx="13.52" cy="89.1522" rx="13.52" ry="13.7964" class="st9"/>
 				</g>
-				<g id="shape11564-25" transform="translate(33.3818,-3.80503)">
+				<g id="shape11951-25" transform="translate(33.3818,-3.80503)">
 					<title>path26</title>
 					<path d="M12.85 99.28 A6.80542 6.94459 0 0 1 9.79 100.03 A6.93494 7.07676 0 0 1 2.86 92.96 A6.93494 7.07676 0
 								 0 1 9.79 85.89 C13.2 85.89 16.03 88.49 16.61 91.8 L13.2 91.8 L17.74 98.17 L22.29 91.8 L19.5 91.8

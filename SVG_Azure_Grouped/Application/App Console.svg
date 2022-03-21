@@ -24,33 +24,33 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group13767-1" transform="translate(34.3424,-34.3424)">
-			<title>App Console.13767</title>
-			<g id="group13768-2">
+		<g id="group14159-1" transform="translate(34.3424,-34.3424)">
+			<title>App Console.14159</title>
+			<g id="group14160-2">
 				<title>MsPortalFx.base.images-38</title>
-				<g id="shape13769-3">
+				<g id="shape14161-3">
 					<title>path4</title>
 					<path d="M0 80.7 L56.69 80.7 L56.69 112.15 A1.89421 1.88479 0 0 1 54.8 114.04 L1.89 114.04 A1.89421 1.88479 0
 								 0 1 0 112.15 L0 80.7 Z" class="st1"/>
 				</g>
-				<g id="shape13770-7" transform="translate(0,-33.3355)">
+				<g id="shape14162-7" transform="translate(0,-33.3355)">
 					<title>path6</title>
 					<path d="M1.9 102.02 L54.79 102.02 A1.89421 1.88479 0 0 1 56.68 103.91 L56.68 114.04 L0 114.04 L0 103.91 A1.89421
 								 1.88479 0 0 1 1.9 102.02 Z" class="st2"/>
 				</g>
-				<g id="shape13771-9" transform="translate(7.59075,-15.4566)">
+				<g id="shape14163-9" transform="translate(7.59075,-15.4566)">
 					<title>path8</title>
 					<path d="M0.16 103.43 L1.39 102.2 a0.556925 0.554154 0 0 1 0.787031 -0.00331829 L11.29 111.24 A1.11718 1.11163
 								 0 0 1 11.29 112.81 L10.06 114.04 L0.17 104.22 a0.556925 0.554154 0 0 1 -0.00333488 -0.786434 Z"
 							class="st3"/>
 				</g>
-				<g id="shape13772-11" transform="translate(7.77084,-7.57117)">
+				<g id="shape14164-11" transform="translate(7.77084,-7.57117)">
 					<title>path10</title>
 					<path d="M1.4 113.88 L0.16 112.65 a0.556925 0.554154 0 0 1 -5.27356E-15 -0.783115 L9.89 102.16 L11.12 103.38
 								 A1.11718 1.11163 0 0 1 11.12 104.96 L2.17 113.89 a0.556925 0.554154 0 0 1 -0.777026 -0.00663657
 								 Z" class="st4"/>
 				</g>
-				<g id="shape13773-13" transform="translate(22.4137,-7.24382)">
+				<g id="shape14165-13" transform="translate(22.4137,-7.24382)">
 					<title>rect12</title>
 					<path d="M0 113.07 a0.970472 0.965644 -180 0 0 0.970449 0.965621 L14.94 114.04 a0.970472 0.965644 -180 0 0 0.970449
 								 -0.965621 L15.91 111.65 a0.970472 0.965644 -180 0 0 -0.970449 -0.965621 L0.97 110.68 a0.970472 0.965644

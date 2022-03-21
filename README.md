@@ -51,7 +51,7 @@ With this process I can build and re-build over and over again in minutes and th
 
 #### SVG image of the current full stencil content
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-4.0.svg)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-4.1.svg)
 
 Some example images to show stencil functionality: -
 
@@ -91,31 +91,31 @@ Download only what you need or the entire collection using the links below.
 
 ## **Option 1 - Download the single stencil file that contains all of the icons and drawing tools**
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-4.1.vssx
 
 ## Option 2 - Download the latest full ZIP package containing all stencils, PNG and SVG versions.
 
-- https://github.com/David-Summers/Azure-Design/raw/master/V-4.0.zip
+- https://github.com/David-Summers/Azure-Design/raw/master/V-4.1.zip
 
 ## **Option 3 - Download just the category stencil files that you need** 
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/blob/master/Azure_Dynamics%20365_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-4.0.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-4.0.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/blob/master/Azure_Dynamics%20365_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-4.1.vssx
 
 ## **Option 4 - Don't use Visio?**
 
@@ -171,6 +171,58 @@ Twitter is my primary communication method and if you would like to discuss this
 # Version History
 
 ## Current
+
+#### Version 4.1 - 21/03/2022
+
+43 new icons with this update. 
+
+| Category    | Icon                                            | Status |
+| ----------- | ----------------------------------------------- | ------ |
+| Application | MedTech Service                                 | New    |
+| Application | Open Supply Chain Platform                      | New    |
+| Compute     | Azure VMware Solution Virtual Machine           | New    |
+| Compute     | Container                                       | New    |
+| Compute     | Virtual Machine Auto-Shutdown                   | New    |
+| Compute     | Virtual Machine Change Tracking                 | New    |
+| Compute     | Virtual Machine Configuration Management        | New    |
+| Compute     | Virtual Machine Continuous Delivery             | New    |
+| Compute     | Virtual Machine Redeploy                        | New    |
+| Compute     | Virtual Machine Reservation                     | New    |
+| Compute     | Virtual Machine Restart                         | New    |
+| Compute     | Virtual Machine Run Command                     | New    |
+| Compute     | Virtual Machine Serial Console                  | New    |
+| Compute     | Virtual Machine Start                           | New    |
+| Compute     | Virtual Machine Stop                            | New    |
+| Compute     | Virtual Machine Updates                         | New    |
+| Management  | Audit logs                                      | New    |
+| Management  | Azure Arc Azure Stack HCI                       | New    |
+| Management  | Azure Arc Resource Bridge                       | New    |
+| Management  | Azure Arc SQL Managed Instance                  | New    |
+| Management  | Azure Arc SQL Server                            | New    |
+| Management  | Azure Arc Virtual Machine                       | New    |
+| Management  | Azure Arc VMware vCenter                        | New    |
+| Management  | Azure Load Testing                              | New    |
+| Management  | Cost exports                                    | New    |
+| Management  | Cost Management for AWS                         | New    |
+| Management  | Logz metrics data source                        | New    |
+| Management  | Policy Assignment                               | New    |
+| Management  | Policy Compliance                               | New    |
+| Management  | Policy Definition                               | New    |
+| Management  | Policy Event                                    | New    |
+| Management  | Policy Exemption                                | New    |
+| Management  | Policy Initiative                               | New    |
+| Management  | Policy Remediation                              | New    |
+| Management  | Reservation Auto Renew                          | New    |
+| Networking  | Application Gateway Health Probe                | New    |
+| Networking  | Application Gateway Listener                    | New    |
+| Networking  | Application Gateway SSL Setting                 | New    |
+| Networking  | Load Balancer Backend Frontend IP Configuration | New    |
+| Networking  | Load Balancer Backend Load Balancing Rule       | New    |
+| Networking  | Load Balancer Backend Outbound Rule             | New    |
+| Networking  | Load Balancer Health Probe                      | New    |
+| Networking  | Mobile Networks                                 | New    |
+
+## Previous
 
 #### Version 4.0 - 09/02/2022
 
@@ -388,8 +440,6 @@ Huge update, 210 new icons added to the collection. I have added a lot of per se
 | Storage     | Storage Account Upgrade                      | New    |
 | Storage     | Storage Sync Network                         | New    |
 | Storage     | Storage Sync Registered Server               | New    |
-
-## Previous
 
 #### **Version 3.9 - 08/11/2021**
 

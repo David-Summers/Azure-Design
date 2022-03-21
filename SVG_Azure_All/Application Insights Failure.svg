@@ -15,24 +15,24 @@
 
 	<g>
 		<title>Page-1</title>
-		<g id="group8894-1" transform="translate(12.24,-34.0157)">
+		<g id="group9166-1" transform="translate(12.24,-34.0157)">
 			<title>Application Insights Failure</title>
-			<g id="group8895-2">
-				<title>Sheet.8895</title>
-				<g id="shape8896-3" transform="translate(0,-6.48605)">
-					<title>Sheet.8896</title>
+			<g id="group9167-2">
+				<title>Sheet.9167</title>
+				<g id="shape9168-3" transform="translate(0,-6.48605)">
+					<title>Sheet.9168</title>
 					<path d="M0 59.95 L7.31 59.95 L7.31 88.78 L0 88.78 L0 59.95 ZM14.61 52.74 L21.92 52.74 L21.92 88.78 L14.61 88.78
 								 L14.61 52.74 ZM29.22 62.83 L36.53 62.83 L36.53 88.78 L29.22 88.78 L29.22 62.83 ZM43.83 57.07 L51.14
 								 57.07 L51.14 88.78 L43.83 88.78 L43.83 57.07 Z" class="st1"/>
 				</g>
-				<g id="shape8897-5" transform="translate(23.2324,-1.00894)">
-					<title>Sheet.8897</title>
+				<g id="shape9169-5" transform="translate(23.2324,-1.00894)">
+					<title>Sheet.9169</title>
 					<path d="M3.51 88.78 C2.19 88.78 1.17 88.2 0.58 87.05 C0 85.89 0 84.6 0.58 83.59 L7.01 72.49 L13.44 61.97 C14.17
 								 60.81 15.2 60.24 16.36 60.24 C17.53 60.24 18.56 60.81 19.14 61.97 L32 83.73 C32.73 84.88 32.73 86.18
 								 32.15 87.19 C31.56 88.2 30.39 88.78 29.08 88.78 L3.51 88.78 Z" class="st2"/>
 				</g>
-				<g id="shape8898-7" transform="translate(22.0635,-2.13163E-13)">
-					<title>Sheet.8898</title>
+				<g id="shape9170-7" transform="translate(22.0635,-2.13163E-13)">
+					<title>Sheet.9170</title>
 					<path d="M17.39 60.09 C18.12 60.09 18.85 60.53 19.43 61.39 L25.86 72.34 L32.29 83.15 C33.31 84.88 32.29 86.9
 								 30.25 86.9 L4.68 86.9 C2.63 86.9 1.61 84.88 2.63 83.15 L9.06 71.91 L15.49 61.39 C15.93 60.53 16.66
 								 60.09 17.39 60.09 ZM17.39 58.22 C15.93 58.22 14.47 59.08 13.73 60.38 L7.31 70.9 L0.88 82.15 C0 83.59
@@ -40,12 +40,12 @@
 								 C34.63 85.32 34.63 83.59 33.75 82.15 L27.32 71.34 L20.89 60.38 C20.31 59.08 18.85 58.22 17.39 58.22
 								 Z" class="st3"/>
 				</g>
-				<g id="shape8899-9" transform="translate(37.4056,-6.05365)">
-					<title>Sheet.8899</title>
+				<g id="shape9171-9" transform="translate(37.4056,-6.05365)">
+					<title>Sheet.9171</title>
 					<ellipse cx="2.04562" cy="86.7576" rx="2.04562" ry="2.01788" class="st3"/>
 				</g>
-				<g id="shape8900-11" transform="translate(37.6979,-10.9542)">
-					<title>Sheet.8900</title>
+				<g id="shape9172-11" transform="translate(37.6979,-10.9542)">
+					<title>Sheet.9172</title>
 					<path d="M2.19 79.12 L0 79.12 L0.58 88.78 L3.21 88.78 L3.8 79.12 L2.19 79.12 Z" class="st3"/>
 				</g>
 			</g>
