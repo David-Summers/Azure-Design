@@ -27,37 +27,37 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group17453-1" transform="translate(34,-34.0157)">
-			<title>Application Gateway Configuration.17453</title>
-			<g id="group17454-2">
+		<g id="group17837-1" transform="translate(34,-34.0157)">
+			<title>Application Gateway Configuration.17837</title>
+			<g id="group17838-2">
 				<title>MsPortalFx.base.images-78</title>
-				<g id="shape17455-3" transform="translate(14.9036,-38.1699)">
-					<title>Sheet.17455</title>
+				<g id="shape17839-3" transform="translate(14.9036,-38.1699)">
+					<title>Sheet.17839</title>
 					<path d="M27.23 116.21 L24.4 116.21 L24.4 108.95 a0.333488 0.324243 -180 0 0 -0.0867068 1.13687E-13 L2.92 108.95
 								 a0.310144 0.301546 -180 0 0 -0.0867068 1.42109E-14 L2.83 116.21 L0 116.21 L0 108.81 A2.82131 2.74309
 								 0 0 1 2.92 106.19 L24.31 106.19 A2.82131 2.74309 0 0 1 27.23 108.81 L27.23 116.21 Z" class="st1"/>
 				</g>
-				<g id="shape17456-5">
-					<title>Sheet.17456</title>
+				<g id="shape17840-5">
+					<title>Sheet.17840</title>
 					<path d="M0 114.37 A1.89092 1.8385 -180 0 0 1.89 116.21 L54.8 116.21 A1.89092 1.8385 -180 0 0 56.69 114.37 L56.69
 								 79.55 A1.89092 1.8385 -180 0 0 54.8 77.71 L1.89 77.71 A1.89092 1.8385 -180 0 0 -0 79.55 L0 114.37
 								 Z" class="st2"/>
 				</g>
-				<g id="shape17457-9" transform="translate(0,-24.4025)">
-					<title>Sheet.17457</title>
+				<g id="shape17841-9" transform="translate(0,-24.4025)">
+					<title>Sheet.17841</title>
 					<rect x="0" y="111.956" width="56.6929" height="4.25082" class="st3"/>
 				</g>
-				<g id="shape17458-11" transform="translate(20.3994,-18.5272)">
-					<title>Sheet.17458</title>
+				<g id="shape17842-11" transform="translate(20.3994,-18.5272)">
+					<title>Sheet.17842</title>
 					<path d="M0 110.33 L16.28 110.33 L16.28 115.3 a0.937101 0.911122 0 0 1 -0.937101 0.911122 L0.94 116.21 a0.937101
 								 0.911122 0 0 1 -0.937101 -0.911122 L0.01 110.33 L0 110.33 Z" class="st4"/>
 				</g>
-				<g id="shape17459-13" transform="translate(0,-3.41428)">
-					<title>Sheet.17459</title>
+				<g id="shape17843-13" transform="translate(0,-3.41428)">
+					<title>Sheet.17843</title>
 					<path d="M0 101.67 L0 111.38 L15.49 116.21 L18.39 107.4 L0 101.67 Z" class="st5"/>
 				</g>
-				<g id="shape17460-15" transform="translate(43.4924,-2.75282)">
-					<title>Sheet.17460</title>
+				<g id="shape17844-15" transform="translate(43.4924,-2.75282)">
+					<title>Sheet.17844</title>
 					<path d="M13.2 100.52 A9.0642 8.81292 -180 1 0 13.2 116.21 L13.2 100.52 Z" class="st6"/>
 				</g>
 			</g>

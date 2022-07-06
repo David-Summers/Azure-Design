@@ -28,49 +28,49 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group7678-1" transform="translate(5.66929,-34.0157)">
+		<g id="group7829-1" transform="translate(5.66929,-34.0157)">
 			<title>Azure Integration Runtime</title>
-			<g id="shape7679-2">
-				<title>Sheet.7679</title>
+			<g id="shape7830-2">
+				<title>Sheet.7830</title>
 				<rect x="0" y="39.685" width="56.6929" height="56.6929" class="st1"/>
 			</g>
-			<g id="shape7680-4" transform="translate(3.46847,-13.6239)">
-				<title>Sheet.7680</title>
+			<g id="shape7831-4" transform="translate(3.46847,-13.6239)">
+				<title>Sheet.7831</title>
 				<path d="M11.11 96.38 L35.75 96.38 A13.5388 13.5388 -180 0 0 49.76 83.37 A13.3398 13.3398 -180 0 0 38.02 70.53 A14.4051
 							 14.4051 -180 0 0 24.21 61.26 A14.0734 14.0734 -180 0 0 9.7 74.6 A11.2048 11.2048 -180 0 0 0 85.34 A11.3046
 							 11.3046 -180 0 0 11.11 96.38 Z" class="st2"/>
 			</g>
-			<g id="group7681-8" transform="translate(32.514,-1.71609)">
-				<title>Sheet.7681</title>
-				<g id="shape7682-9">
-					<title>Sheet.7682</title>
+			<g id="group7832-8" transform="translate(32.514,-1.71609)">
+				<title>Sheet.7832</title>
+				<g id="shape7833-9">
+					<title>Sheet.7833</title>
 					<ellipse cx="11.2059" cy="85.172" rx="11.2059" ry="11.2059" class="st3"/>
 				</g>
-				<g id="shape7683-11" transform="translate(1.70079,-2.07893)">
-					<title>Sheet.7683</title>
+				<g id="shape7834-11" transform="translate(1.70079,-2.07893)">
+					<title>Sheet.7834</title>
 					<path d="M9.51 77.75 A9.50513 9.50513 0 1 1 -0 87.25 A9.50457 9.50457 0 0 1 9.51 77.75 ZM9.51 74.34 A12.9067
 								 12.9067 -180 1 0 22.41 87.25 A12.9209 12.9209 -180 0 0 9.51 74.34 Z" class="st4"/>
 				</g>
 			</g>
-			<g id="group7684-13" transform="translate(35.6984,-8.2165)">
-				<title>Sheet.7684</title>
-				<g id="shape7685-14" transform="translate(1.64868E-14,-3.87269)">
-					<title>Sheet.7685</title>
+			<g id="group7835-13" transform="translate(35.6984,-8.2165)">
+				<title>Sheet.7835</title>
+				<g id="shape7836-14" transform="translate(1.64868E-14,-3.87269)">
+					<title>Sheet.7836</title>
 					<rect x="0" y="94.8586" width="2.04491" height="1.51937" class="st5"/>
 				</g>
-				<g id="shape7686-16" transform="translate(14.3887,-3.87269)">
-					<title>Sheet.7686</title>
+				<g id="shape7837-16" transform="translate(14.3887,-3.87269)">
+					<title>Sheet.7837</title>
 					<rect x="0" y="94.8586" width="2.04491" height="1.51937" class="st5"/>
 				</g>
-				<g id="shape7687-18" transform="translate(2.0245,5.68434E-14)">
-					<title>Sheet.7687</title>
+				<g id="shape7838-18" transform="translate(2.0245,5.68434E-14)">
+					<title>Sheet.7838</title>
 					<path d="M6.71 96.33 L6.71 93.11 L3.4 93.11 L3.4 87.16 L1.52 87.18 A1.53071 1.53071 -180 0 0 0 88.72 L0.04 94.85
 								 A1.53468 1.53468 -180 0 0 1.57 96.38 L1.58 96.38 L6.71 96.33 Z" class="st6"/>
 					<path d="M6.71 96.33 L6.71 93.11 L3.4 93.11 L3.4 87.16 L1.52 87.18 A1.53071 1.53071 -180 0 0 0 88.72 L0.04 94.85
 								 A1.53468 1.53468 -180 0 0 1.57 96.38 L1.58 96.38" class="st7"/>
 				</g>
-				<g id="shape7688-21" transform="translate(7.79868,-0.0493228)">
-					<title>Sheet.7688</title>
+				<g id="shape7839-21" transform="translate(7.79868,-0.0493228)">
+					<title>Sheet.7839</title>
 					<path d="M0 87.21 L0 90.79 L3.31 90.79 L3.31 96.38 L5.09 96.37 A1.53071 1.53071 -180 0 0 6.61 94.82 L6.57 88.69
 								 A1.53524 1.53524 -180 0 0 5.04 87.17 L5.03 87.17 L0 87.21 Z" class="st6"/>
 					<path d="M0 87.21 L0 90.79 L3.31 90.79 L3.31 96.38 L5.09 96.37 A1.53071 1.53071 -180 0 0 6.61 94.82 L6.57 88.69

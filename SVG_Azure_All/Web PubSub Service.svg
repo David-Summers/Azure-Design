@@ -41,45 +41,45 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group128-1" transform="translate(36,-36)">
+		<g id="group101-1" transform="translate(36,-36)">
 			<title>Web PubSub Service</title>
-			<g id="group129-2">
+			<g id="group102-2">
 				<title>g24</title>
-				<g id="shape130-3">
+				<g id="shape103-3">
 					<title>path4</title>
 					<path d="M0 75.78 C0 73.69 1.69 72 3.78 72 L52.91 72 C55 72 56.69 73.69 56.69 75.78 L56.69 124.91 C56.69 127
 								 55 128.69 52.91 128.69 L3.78 128.69 C1.69 128.69 0 127 0 124.91 L0 75.78 Z" class="st1"/>
 				</g>
-				<g id="shape131-5">
+				<g id="shape104-5">
 					<title>path6</title>
 					<path d="M30.24 98.46 L30.24 72 L26.46 72 L26.46 98.46 L0 98.46 L0 102.24 L26.46 102.24 L26.46 128.69 L30.24
 								 128.69 L30.24 102.24 L56.69 102.24 L56.69 98.46 L30.24 98.46 Z" class="st2"/>
 				</g>
-				<g id="shape132-7" transform="translate(11.3386,-11.3386)">
+				<g id="shape105-7" transform="translate(11.3386,-11.3386)">
 					<title>path8</title>
 					<path d="M0 128.69 L0 94.68 L3.78 94.68 L3.78 128.69 L0 128.69 Z" class="st3"/>
 				</g>
-				<g id="shape133-9" transform="translate(12.8353,-12.8353)">
+				<g id="shape106-9" transform="translate(12.8353,-12.8353)">
 					<title>path10</title>
 					<path d="M0 100.35 L2.68 97.67 L31.02 126.02 L28.35 128.69 L0 100.35 L0 100.35 Z" class="st3"/>
 				</g>
-				<g id="shape134-11" transform="translate(15.1181,-41.5748)">
+				<g id="shape107-11" transform="translate(15.1181,-41.5748)">
 					<title>path12</title>
 					<path d="M30.24 128.69 L0 128.69 L0 124.91 L30.24 124.91 L30.24 128.69 Z" class="st3"/>
 				</g>
-				<g id="shape135-13" transform="translate(3.77953,-34.0157)">
+				<g id="shape108-13" transform="translate(3.77953,-34.0157)">
 					<title>circle14</title>
 					<ellipse cx="9.44882" cy="119.244" rx="9.44882" ry="9.44882" class="st4"/>
 				</g>
-				<g id="shape136-17" transform="translate(37.7953,-37.7953)">
+				<g id="shape109-17" transform="translate(37.7953,-37.7953)">
 					<title>circle16</title>
 					<ellipse cx="5.66929" cy="123.024" rx="5.66929" ry="5.66929" class="st5"/>
 				</g>
-				<g id="shape137-21" transform="translate(7.55906,-7.55906)">
+				<g id="shape110-21" transform="translate(7.55906,-7.55906)">
 					<title>circle18</title>
 					<ellipse cx="5.66929" cy="123.024" rx="5.66929" ry="5.66929" class="st6"/>
 				</g>
-				<g id="shape138-25" transform="translate(37.7953,-7.55906)">
+				<g id="shape111-25" transform="translate(37.7953,-7.55906)">
 					<title>circle20</title>
 					<ellipse cx="5.66929" cy="123.024" rx="5.66929" ry="5.66929" class="st6"/>
 				</g>

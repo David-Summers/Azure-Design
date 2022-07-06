@@ -28,29 +28,29 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group17439-1" transform="translate(12.24,-34.0157)">
-			<title>Application Gateway Health Probe.17439</title>
-			<g id="group17440-2">
+		<g id="group17823-1" transform="translate(12.24,-34.0157)">
+			<title>Application Gateway Health Probe.17823</title>
+			<g id="group17824-2">
 				<title>g10</title>
-				<g id="shape17441-3" transform="translate(19.5024,0)">
+				<g id="shape17825-3" transform="translate(19.5024,0)">
 					<title>path2</title>
 					<path d="M8.39 70.97 L3.63 70.97 L0 102.95 L12.02 102.95 L8.39 70.97 Z" class="st1"/>
 				</g>
-				<g id="shape17442-7" transform="translate(8.16378,-16.2142)">
+				<g id="shape17826-7" transform="translate(8.16378,-16.2142)">
 					<title>path4</title>
 					<path d="M34.7 87.98 C34.7 78.34 26.99 70.52 17.35 70.52 C7.71 70.52 0 78.34 0 87.98 C0 94.33 3.4 99.89 8.62
 								 102.95 C9.18 102.04 9.64 101.13 10.09 100.34 C5.9 97.85 3.06 93.31 3.06 87.98 C3.06 80.04 9.52 73.58
 								 17.46 73.58 C25.4 73.58 31.86 80.04 31.86 87.98 C31.86 93.2 29.03 97.85 24.83 100.34 C25.29 101.13
 								 25.85 102.04 26.31 102.95 C31.29 99.89 34.7 94.33 34.7 87.98 Z" class="st2"/>
 				</g>
-				<g id="shape17443-9" transform="translate(0,-9.07087)">
+				<g id="shape17827-9" transform="translate(0,-9.07087)">
 					<title>path6</title>
 					<path d="M12.7 102.84 C13.15 101.93 13.72 101.02 14.17 100.11 C7.48 96.26 3.06 89 3.06 80.73 C3.06 68.48 13.15
 								 58.39 25.51 58.39 C37.87 58.39 47.96 68.48 47.96 80.84 C47.96 89.12 43.43 96.26 36.85 100.23 C37.3
 								 101.13 37.87 102.04 38.32 102.95 C45.92 98.53 51.02 90.36 51.02 80.95 C51.02 66.78 39.57 55.33 25.51
 								 55.33 C11.45 55.33 0 66.78 0 80.84 C0 90.14 5.22 98.41 12.7 102.84 Z" class="st3"/>
 				</g>
-				<g id="shape17444-11" transform="translate(17.8016,-23.3575)">
+				<g id="shape17828-11" transform="translate(17.8016,-23.3575)">
 					<title>circle8</title>
 					<ellipse cx="7.71024" cy="95.2384" rx="7.71024" ry="7.71024" class="st4"/>
 				</g>

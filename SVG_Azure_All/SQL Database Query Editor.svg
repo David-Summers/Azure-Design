@@ -26,12 +26,12 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group1326-1" transform="translate(33.2324,-34.0157)">
+		<g id="group1314-1" transform="translate(33.2324,-34.0157)">
 			<title>SQL Database Query Editor</title>
-			<g id="group1327-2">
+			<g id="group1315-2">
 				<title>MsPortalFx.base.images-52</title>
-				<g id="shape1328-3" transform="translate(10.8751,-10.2879)">
-					<title>Sheet.1328</title>
+				<g id="shape1316-3" transform="translate(10.8751,-10.2879)">
+					<title>Sheet.1316</title>
 					<path d="M16.03 110.79 L29.78 110.79 L29.78 124.71 L16.03 124.71 L16.03 110.79 ZM0.01 92.23 L13.74 92.23 L13.74
 								 78.3 L1.91 78.3 A1.90853 1.93341 -180 0 0 0 80.24 L0.01 92.23 ZM1.92 124.71 L13.74 124.71 L13.74
 								 110.79 L0.01 110.79 L0.01 122.78 A1.90853 1.93341 -180 0 0 1.91 124.71 L1.92 124.71 ZM0.01 108.47
@@ -41,18 +41,18 @@
 								 ZM32.07 78.3 L32.07 92.23 L45.81 92.23 L45.81 80.24 A1.90853 1.93341 -180 0 0 43.9 78.3 L32.07 78.3
 								 ZM16.03 92.23 L29.78 92.23 L29.78 78.3 L16.03 78.3 L16.03 92.23 Z" class="st1"/>
 				</g>
-				<g id="shape1329-7" transform="translate(-85.3109,36.4447) rotate(-45)">
-					<title>Sheet.1329</title>
+				<g id="shape1317-7" transform="translate(-85.3109,36.4447) rotate(-45)">
+					<title>Sheet.1317</title>
 					<path d="M0 122.8 A1.88586 1.91043 -180 0 0 1.89 124.71 L15.83 124.71 A1.88586 1.91043 -180 0 0 17.71 122.8 L17.71
 								 122.53 A1.88586 1.91043 -180 0 0 15.83 120.62 L1.89 120.62 A1.88586 1.91043 -180 0 0 0 122.53 L0
 								 122.8 Z" class="st2"/>
 				</g>
-				<g id="shape1330-9" transform="translate(6.71075,-7.52585)">
-					<title>Sheet.1330</title>
+				<g id="shape1318-9" transform="translate(6.71075,-7.52585)">
+					<title>Sheet.1318</title>
 					<ellipse cx="12.1523" cy="112.398" rx="12.1523" ry="12.3107" class="st3"/>
 				</g>
-				<g id="shape1331-11" transform="translate(9.29766,-10.3898)">
-					<title>Sheet.1331</title>
+				<g id="shape1319-11" transform="translate(9.29766,-10.3898)">
+					<title>Sheet.1319</title>
 					<ellipse cx="9.54267" cy="115.042" rx="9.54267" ry="9.66704" class="st4"/>
 				</g>
 			</g>

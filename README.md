@@ -13,15 +13,15 @@ SVG's can easily be imported into Visio and due to the file format supporting ra
 
 With these limitations and the lack of standardized up to date stencils I set out on a personal mission to build my own functional, relevant and as up to date as possible Visio stencil for anyone to use. With permission (and the only caveat that I maintain an up to date collection) from the Microsoft Cloud and Enterprise team to build an icon collection based on the publicly available icons, I built a fully programmatic method to build a stencil collection using SVG's as the source icons. 
 
-## My process and methodology
+# My process and methodology
 
-### **Project ultimate goal**
+## **Project ultimate goal**
 
-***Function > Ease of use > Form***
+### ***Function > Ease of use > Form***
 
 This is my driving factor behind this project. I know that others prefer drawing tools such as Draw.io but Visio offers an amazing amount of capability from a programmatic perspective. Icons need to not just be pretty images, they need technical function with the ability to be used easily. Proper stencil objects with pre-defined mathematically perfect placed connection points make drawing by hand or script so much easier. The icon itself although important is third on my priority list and will always remain so. I want these stencils to be as useful as possible while maintaining the relevance and breath of Azure services.
 
-**First a bit of history for this project**
+### **First a bit of history for this project**
 
 I started with a collection process, gathering as many useful and up to date SVG icons as possible and collating them in a folder with a descriptive naming convention and classification. I initially started by dragging an icon onto the Visio drawing canvas and then adding in connection points for North, East, South and West of the icon and moving the text box to the bottom of the icon. After that I scaled the icon using a guide background box to be either 20mm wide or 20mm high before dropping it into my stencil and entering in it's service name. 
 
@@ -29,7 +29,7 @@ Now I am pretty good at performing mundane repetitive operations like this and w
 
 However things started getting messy when Microsoft updated a huge collection of Azure Service icons a short while after I was finished that made my version irrelevant.  So I looked for a better way to build this stencil, as I knew that that Microsoft would forever be adding new services to Azure and or refreshing current service icons (which is a good thing by the way!) and I just did not have the time or energy to perform a few thousand mouse clicks after each version update.  
 
-### **My method of building**
+## **My method of building**
 
 Enter PowerShell and the Visio COM application method. If you review my version history below you will see that this project has evolved significantly since I started and I have built a full import and conversion process that performs the following. 
 
@@ -49,87 +49,87 @@ Enter PowerShell and the Visio COM application method. If you review my version 
 
 With this process I can build and re-build over and over again in minutes and this allows me to keep this collection up to date and focus on adding more functionality. 
 
-#### SVG image of the current full stencil content
+### SVG image of the current full stencil content
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-4.1.svg)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-4.2.svg)
 
 Some example images to show stencil functionality: -
 
-#### **Source SVG files**
+### **Source SVG files**
 
 This is where I pick up the source SVG Files, using an _ as a delimiter this allows me to classify the type of icon for the grouping process.
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/SourceFiles.png)
 
-#### **Connection points**
+### **Connection points**
 
 Exact connection points relative to the center of the icon
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Connection-Points.png)
 
-#### **Connection point usage**
+### **Connection point usage**
 
 Easily connect to and from the icon in multiple directions
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Connection-Point-Example.png)
 
-#### **Shape Data**
+### **Shape Data**
 
 Coming soon, super awesome programmatic diagram creation. Enumerating resources from Azure and then populating the resources into Visio and adding the relevant metadata to the shape. This unlocks a massive initiative I am working on which is a reverse of this. Design in Visio, add Azure metadata and then push the deployment to Azure via PowerShell. 
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Shape-Data.png)
 
-# Sponsorship
+## Sponsorship
 
 If you would like to support my development or just say thank you! Then check out my Sponsorship page:-
 
 -  https://github.com/sponsors/David-Summers 
 
-# Stencil Usage
+## Stencil Usage
 
 Download only what you need or the entire collection using the links below. 
 
-## **Option 1 - Download the single stencil file that contains all of the icons and drawing tools**
+### **Option 1 - Download the single stencil file that contains all of the icons and drawing tools**
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-4.2.vssx
 
-## Option 2 - Download the latest full ZIP package containing all stencils, PNG and SVG versions.
+### Option 2 - Download the latest full ZIP package containing all stencils, PNG and SVG versions.
 
-- https://github.com/David-Summers/Azure-Design/raw/master/V-4.1.zip
+- https://github.com/David-Summers/Azure-Design/raw/master/V-4.2.zip
 
-## **Option 3 - Download just the category stencil files that you need** 
+### **Option 3 - Download just the category stencil files that you need** 
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/blob/master/Azure_Dynamics%20365_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-4.1.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-4.1.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/blob/master/Azure_Dynamics%20365_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-4.2.vssx
 
-## **Option 4 - Don't use Visio?**
+### **Option 4 - Don't use Visio?**
 
 You also have the PNG and SVG versions of the Icons, they have been scaled the same way as the stencil and can be used in other applications. 
 
-## 
 
-# Installation
+
+## Installation
 
 Download the stencil(s) and save to your "My Shapes" folder (normally under "C:\ Users \ %YourUserName% \Documents \My Shapes")
 
 ![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Assets/Collection-Example.png)
 
-## Special note on Search
+### Special note on Search
 
 A few versions ago I added search metadata to each icon, this was a massive feature add and really tricky to work out via the Visio COM. However after publishing this update I received heaps of feedback that search was not working. I posted a Twitter poll about this and surprisingly 50% responded that search was working! 
 
@@ -168,9 +168,59 @@ Twitter is my primary communication method and if you would like to discuss this
 - **Twitter - https://twitter.com/Xeeva_D3**
 - **LinkedIn - https://au.linkedin.com/in/djsummers**
 
-# Version History
+## Version History
 
-## Current
+### Current
+
+#### **Version** 4.2 - 06/07/2022
+
+Renamed the following icons
+
+| Category | Icon                     | Category   | Icon                        |
+| -------- | ------------------------ | ---------- | --------------------------- |
+| Compute  | WVD Host Pool            | Compute    | AVD Host Pool               |
+| Compute  | WVD RDP Property         | Compute    | AVD RDP Property            |
+| Compute  | WVD Task                 | Compute    | AVD Task                    |
+| Security | Security Center Coverage | Security   | Defender for Cloud Coverage |
+| Security | Security Center          | Security   | Defender for Cloud          |
+| Security | Network Security Group   | Networking | Network Security Group      |
+
+Added the following icons
+
+| Category    | Icon                               | Status  |
+| ----------- | ---------------------------------- | ------- |
+| AI          | Applied AI Service                 | New     |
+| AI          | Health Decision Support            | New     |
+| AI          | Virtual Visits Builder             | New     |
+| Application | Container App Environment          | New     |
+| Application | Event Grid Partner Configuration   | New     |
+| Application | Event Grid Partner Destination     | New     |
+| Application | Event Grid Partner Namespace       | New     |
+| Application | Event Grid Partner Registration    | New     |
+| Application | Event Grid System Topic            | Updated |
+| Compute     | Fluid Relay                        | Updated |
+| Compute     | Lab Plan                           | New     |
+| Compute     | Lab                                | New     |
+| Compute     | Quantum Workspace                  | New     |
+| Compute     | Virtual Instance for SAP           | New     |
+| Data        | Database Instance for SAP Solution | New     |
+| Deployment  | Fidalgo                            | New     |
+| Management  | Azure Arc SCVMM Management Server  | New     |
+| Management  | Azure Center for SAP               | New     |
+| Management  | Azure Managed Grafana              | New     |
+| Management  | Central Service Instance for SAP   | New     |
+| Management  | Dynatrace                          | New     |
+| Management  | Logz Metrics Data Source           | New     |
+| Networking  | Custom IP Prefix                   | New     |
+| Networking  | DNS Forwarding Ruleset             | New     |
+| Networking  | DNS Private Resolver               | New     |
+| Networking  | Email Communication Service        | New     |
+| Networking  | NGINX Deployment                   | New     |
+| Networking  | Private link Service               | New     |
+
+
+
+### Previous
 
 #### Version 4.1 - 21/03/2022
 
@@ -221,8 +271,6 @@ Twitter is my primary communication method and if you would like to discuss this
 | Networking  | Load Balancer Backend Outbound Rule             | New    |
 | Networking  | Load Balancer Health Probe                      | New    |
 | Networking  | Mobile Networks                                 | New    |
-
-## Previous
 
 #### Version 4.0 - 09/02/2022
 

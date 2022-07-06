@@ -27,12 +27,12 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group972-1" transform="translate(34,-34.0157)">
+		<g id="group960-1" transform="translate(34,-34.0157)">
 			<title>Storage Account File Share</title>
-			<g id="group973-2">
-				<title>Sheet.973</title>
-				<g id="shape974-3" transform="translate(10.2362,-7.33044)">
-					<title>Sheet.974</title>
+			<g id="group961-2">
+				<title>Sheet.961</title>
+				<g id="shape962-3" transform="translate(10.2362,-7.33044)">
+					<title>Sheet.962</title>
 					<path d="M44.19 87.65 L41.32 87.65 A13.1024 13.0878 -180 0 0 39.59 87.65 A2.14173 2.13936 0 0 1 37.73 84.5 L38.96
 								 82.3 A5.76378 5.75738 -180 0 0 37.35 81.39 L34.43 86.61 A2.20472 2.20228 0 0 1 32.54 87.71 L29.92
 								 87.71 A2.07874 2.07643 -180 0 0 28.91 87.96 L23.97 91.11 a0.787402 0.786528 0 0 1 -0.503937 9.9476E-14
@@ -41,30 +41,30 @@
 								 123.73 L38.96 120.02 L44.25 120.02 a0.913386 0.912372 -180 0 0 0.944882 -0.912372 L45.2 88.59 a0.944882
 								 0.943833 -180 0 0 -1.00787 -0.943833 Z" class="st1"/>
 				</g>
-				<g id="shape975-5" transform="translate(46.5827,-49.8344)">
-					<title>Sheet.975</title>
+				<g id="shape963-5" transform="translate(46.5827,-49.8344)">
+					<title>Sheet.963</title>
 					<ellipse cx="3.43307" cy="121.279" rx="3.43307" ry="3.42926" class="st2"/>
 				</g>
-				<g id="shape976-7" transform="translate(47.748,-5.68434E-14)">
-					<title>Sheet.976</title>
+				<g id="shape964-7" transform="translate(47.748,-5.68434E-14)">
+					<title>Sheet.964</title>
 					<ellipse cx="4.47244" cy="120.241" rx="4.47244" ry="4.46748" class="st2"/>
 				</g>
-				<g id="shape977-9" transform="translate(-1.1291E-13,-15.1013)">
-					<title>Sheet.977</title>
+				<g id="shape965-9" transform="translate(-1.1291E-13,-15.1013)">
+					<title>Sheet.965</title>
 					<ellipse cx="5.5748" cy="119.14" rx="5.5748" ry="5.56862" class="st2"/>
 				</g>
-				<g id="shape978-11" transform="translate(21.6063,-36.8095)">
-					<title>Sheet.978</title>
+				<g id="shape966-11" transform="translate(21.6063,-36.8095)">
+					<title>Sheet.966</title>
 					<path d="M26.17 119.8 L4.41 116.65 L3.97 116.65 A3.14961 3.14611 -180 0 0 0.82 119.39 L0 124.71 L28.79 124.71
 								 L28.79 123.42 A3.14961 3.14611 -180 0 0 26.17 119.8 Z" class="st3"/>
 				</g>
-				<g id="shape979-13" transform="translate(22.9921,-36.8095)">
-					<title>Sheet.979</title>
+				<g id="shape967-13" transform="translate(22.9921,-36.8095)">
+					<title>Sheet.967</title>
 					<path d="M24.57 121.15 L2.83 118.01 L2.55 118.01 A1.82677 1.82474 -180 0 0 0.76 119.58 L0 124.71 L25.89 124.71
 								 L26.11 123.23 A1.82677 1.82474 -180 0 0 24.57 121.15 Z" class="st4"/>
 				</g>
-				<g id="shape980-15" transform="translate(15.748,-12.0181)">
-					<title>Sheet.980</title>
+				<g id="shape968-15" transform="translate(15.748,-12.0181)">
+					<title>Sheet.968</title>
 					<path d="M0.82 95.8 L19.87 95.8 A1.03937 1.03822 0 0 1 20.54 96.08 L23.69 99.23 a0.913386 0.912372 -180 0 0 0.661417
 								 0.28315 L38.83 99.51 a0.944882 0.943833 0 0 1 0.944882 0.912372 L39.78 123.8 a0.944882 0.943833
 								 0 0 1 -0.944882 0.912372 L1.04 124.71 a0.913386 0.912372 0 0 1 -1.03937 -0.912372 L0 96.8 a0.944882

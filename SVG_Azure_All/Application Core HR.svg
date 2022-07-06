@@ -31,47 +31,47 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group9416-1" transform="translate(5.38583,-34.0157)">
+		<g id="group9623-1" transform="translate(5.38583,-34.0157)">
 			<title>Application Core HR</title>
-			<g id="group9417-2">
-				<title>Sheet.9417</title>
-				<g id="group9418-3">
-					<title>Sheet.9418</title>
-					<g id="shape9419-4" transform="translate(0,-1.31844)">
-						<title>Sheet.9419</title>
+			<g id="group9624-2">
+				<title>Sheet.9624</title>
+				<g id="group9625-3">
+					<title>Sheet.9625</title>
+					<g id="shape9626-4" transform="translate(0,-1.31844)">
+						<title>Sheet.9626</title>
 						<path d="M0 93.74 A2.56474 2.63694 -180 0 0 2.56 96.38 L51.29 96.38 A2.56474 2.63694 -180 0 0 53.86 93.74
 									 L53.86 43.64 A2.56474 2.63694 -180 0 0 51.29 41 L2.56 41 A2.56474 2.63694 -180 0 0 -0 43.64
 									 L0 93.74 Z" class="st1"/>
 					</g>
-					<g id="shape9420-8" transform="translate(2.75779E-13,-1.06794)">
-						<title>Sheet.9420</title>
+					<g id="shape9627-8" transform="translate(2.75779E-13,-1.06794)">
+						<title>Sheet.9627</title>
 						<path d="M0 56.82 L35.91 56.82 C37.32 56.82 38.47 58.01 38.47 59.46 L38.47 96.38 L0 96.38 L0 56.82 Z"
 								class="st2"/>
 					</g>
-					<g id="shape9421-10" transform="translate(2.75779E-13,-1.06794)">
-						<title>Sheet.9421</title>
+					<g id="shape9628-10" transform="translate(2.75779E-13,-1.06794)">
+						<title>Sheet.9628</title>
 						<path d="M0 56.82 L35.91 56.82 C37.32 56.82 38.47 58.01 38.47 59.46 L38.47 96.38 L0 96.38 L0 56.82 Z"
 								class="st3"/>
 					</g>
-					<g id="shape9422-12" transform="translate(2.75779E-13,-1.31844)">
-						<title>Sheet.9422</title>
+					<g id="shape9629-12" transform="translate(2.75779E-13,-1.31844)">
+						<title>Sheet.9629</title>
 						<path d="M0 56.82 L35.91 56.82 C37.32 56.82 38.47 58.01 38.47 59.46 L38.47 96.38 L0 96.38 L0 56.82 Z"
 								class="st4"/>
 					</g>
-					<g id="shape9423-16" transform="translate(-2.65787E-13,-1.06787)">
-						<title>Sheet.9423</title>
+					<g id="shape9630-16" transform="translate(-2.65787E-13,-1.06787)">
+						<title>Sheet.9630</title>
 						<path d="M11.54 68.69 C17.91 68.69 23.08 63.38 23.08 56.82 C23.08 50.27 17.91 44.96 11.54 44.96 C5.17 44.96
 									 0 50.27 0 56.82 C0 63.38 5.17 68.69 11.54 68.69 ZM20.52 72.65 L0 72.65 L0 96.38 L23.08 96.38
 									 L23.08 75.28 C23.08 73.83 21.93 72.65 20.52 72.65 Z" class="st2"/>
 					</g>
-					<g id="shape9424-18">
-						<title>Sheet.9424</title>
+					<g id="shape9631-18">
+						<title>Sheet.9631</title>
 						<path d="M11.54 68.69 C17.91 68.69 23.08 63.38 23.08 56.82 C23.08 50.27 17.91 44.96 11.54 44.96 C5.17 44.96
 									 0 50.27 0 56.82 C0 63.38 5.17 68.69 11.54 68.69 ZM20.52 72.65 L0 72.65 L0 96.38 L23.08 96.38
 									 L23.08 75.28 C23.08 73.83 21.93 72.65 20.52 72.65 Z" class="st3"/>
 					</g>
-					<g id="shape9425-20" transform="translate(-2.65787E-13,-1.31844)">
-						<title>Sheet.9425</title>
+					<g id="shape9632-20" transform="translate(-2.65787E-13,-1.31844)">
+						<title>Sheet.9632</title>
 						<path d="M11.54 68.69 C17.91 68.69 23.08 63.38 23.08 56.82 C23.08 50.27 17.91 44.96 11.54 44.96 C5.17 44.96
 									 0 50.27 0 56.82 C0 63.38 5.17 68.69 11.54 68.69 ZM20.52 72.65 L0 72.65 L0 96.38 L23.08 96.38
 									 L23.08 75.28 C23.08 73.83 21.93 72.65 20.52 72.65 Z" class="st5"/>

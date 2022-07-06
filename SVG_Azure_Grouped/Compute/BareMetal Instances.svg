@@ -28,58 +28,58 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group11225-1" transform="translate(34.3339,-34.0157)">
-			<title>BareMetal Instances.11225</title>
-			<g id="group11226-2">
-				<title>Sheet.11226</title>
-				<g id="shape11227-3" transform="translate(27.9896,-4.32904)">
-					<title>Sheet.11227</title>
+		<g id="group11433-1" transform="translate(34.3339,-34.0157)">
+			<title>BareMetal Instances.11433</title>
+			<g id="group11434-2">
+				<title>Sheet.11434</title>
+				<g id="shape11435-3" transform="translate(27.9896,-4.32904)">
+					<title>Sheet.11435</title>
 					<rect x="0" y="111.692" width="3.76508" height="10.1022" class="st1"/>
 				</g>
-				<g id="shape11228-5" transform="translate(121.46,68.0157) rotate(90)">
-					<title>Sheet.11228</title>
+				<g id="shape11436-5" transform="translate(121.46,68.0157) rotate(90)">
+					<title>Sheet.11436</title>
 					<path d="M0 119.88 A1.89092 1.91319 -180 0 0 1.89 121.79 L11.64 121.79 A1.89092 1.91319 -180 0 0 13.53 119.88
 								 L13.53 66.35 A1.89092 1.91319 -180 0 0 11.64 64.43 L1.89 64.43 A1.89092 1.91319 -180 0 0 0 66.35
 								 L0 119.88 Z" class="st2"/>
 				</g>
-				<g id="shape11229-7" transform="translate(121.46,81.4213) rotate(90)">
-					<title>Sheet.11229</title>
+				<g id="shape11437-7" transform="translate(121.46,81.4213) rotate(90)">
+					<title>Sheet.11437</title>
 					<path d="M0 119.88 A1.89092 1.91319 -180 0 0 1.89 121.79 L11.64 121.79 A1.89092 1.91319 -180 0 0 13.53 119.88
 								 L13.53 66.35 A1.89092 1.91319 -180 0 0 11.64 64.43 L1.89 64.43 A1.89092 1.91319 -180 0 0 0 66.35
 								 L0 119.88 Z" class="st3"/>
 				</g>
-				<g id="shape11230-9" transform="translate(121.46,95.0191) rotate(90)">
-					<title>Sheet.11230</title>
+				<g id="shape11438-9" transform="translate(121.46,95.0191) rotate(90)">
+					<title>Sheet.11438</title>
 					<path d="M0 119.88 A1.89092 1.91319 -180 0 0 1.89 121.79 L11.64 121.79 A1.89092 1.91319 -180 0 0 13.53 119.88
 								 L13.53 66.35 A1.89092 1.91319 -180 0 0 11.64 64.43 L1.89 64.43 A1.89092 1.91319 -180 0 0 0 66.35
 								 L0 119.88 Z" class="st4"/>
 				</g>
-				<g id="shape11231-11" transform="translate(5.94275,-44.2318)">
-					<title>Sheet.11231</title>
+				<g id="shape11439-11" transform="translate(5.94275,-44.2318)">
+					<title>Sheet.11439</title>
 					<ellipse cx="3.11144" cy="118.646" rx="3.11144" ry="3.14809" class="st5"/>
 				</g>
-				<g id="shape11232-13" transform="translate(15.5239,-44.2318)">
-					<title>Sheet.11232</title>
+				<g id="shape11440-13" transform="translate(15.5239,-44.2318)">
+					<title>Sheet.11440</title>
 					<ellipse cx="3.11144" cy="118.646" rx="3.11144" ry="3.14809" class="st5"/>
 				</g>
-				<g id="shape11233-15" transform="translate(5.94275,-31.1198)">
-					<title>Sheet.11233</title>
+				<g id="shape11441-15" transform="translate(5.94275,-31.1198)">
+					<title>Sheet.11441</title>
 					<ellipse cx="3.11144" cy="118.646" rx="3.11144" ry="3.14809" class="st6"/>
 				</g>
-				<g id="shape11234-17" transform="translate(15.5239,-31.1198)">
-					<title>Sheet.11234</title>
+				<g id="shape11442-17" transform="translate(15.5239,-31.1198)">
+					<title>Sheet.11442</title>
 					<ellipse cx="3.11144" cy="118.646" rx="3.11144" ry="3.14809" class="st6"/>
 				</g>
-				<g id="shape11235-19" transform="translate(5.94275,-18.1361)">
-					<title>Sheet.11235</title>
+				<g id="shape11443-19" transform="translate(5.94275,-18.1361)">
+					<title>Sheet.11443</title>
 					<ellipse cx="3.11144" cy="118.646" rx="3.11144" ry="3.14809" class="st6"/>
 				</g>
-				<g id="shape11236-21" transform="translate(15.5239,-18.1361)">
-					<title>Sheet.11236</title>
+				<g id="shape11444-21" transform="translate(15.5239,-18.1361)">
+					<title>Sheet.11444</title>
 					<ellipse cx="3.11144" cy="118.646" rx="3.11144" ry="3.14809" class="st6"/>
 				</g>
-				<g id="shape11237-23" transform="translate(21.2832,1.13687E-13)">
-					<title>Sheet.11237</title>
+				<g id="shape11445-23" transform="translate(21.2832,1.13687E-13)">
+					<title>Sheet.11445</title>
 					<path d="M0 116.93 A4.81234 4.86902 -180 0 0 4.81 121.79 L12.27 121.79 A4.81234 4.86902 -180 0 0 17.08 116.93
 								 L17.08 116.92 A4.81234 4.86902 -180 0 0 12.27 112.05 L4.81 112.05 A4.81234 4.86902 -180 0 0 0 116.92
 								 L0 116.93 Z" class="st7"/>

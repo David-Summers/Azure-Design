@@ -33,44 +33,44 @@
 	</defs>
 	<g>
 		<title>Page-1</title>
-		<g id="group568-1" transform="translate(35.0781,-34.0157)">
+		<g id="group550-1" transform="translate(35.0781,-34.0157)">
 			<title>Virtual Machine Auto-Shutdown</title>
-			<g id="group569-2">
+			<g id="group551-2">
 				<title>MsPortalFx.base.images-55</title>
-				<g id="shape570-3" transform="translate(3.49717,-4.71181)">
-					<title>Sheet.570</title>
+				<g id="shape552-3" transform="translate(3.49717,-4.71181)">
+					<title>Sheet.552</title>
 					<ellipse cx="26.5979" cy="98.7181" rx="26.5979" ry="25.9906" class="st1"/>
 				</g>
-				<g id="shape571-7" transform="translate(7.03947,-8.07244)">
-					<title>Sheet.571</title>
+				<g id="shape553-7" transform="translate(7.03947,-8.07244)">
+					<title>Sheet.553</title>
 					<ellipse cx="23.1587" cy="102.079" rx="23.1587" ry="22.6299" class="st2"/>
 				</g>
-				<g id="shape572-9" transform="translate(10.2885,-11.578)">
-					<title>Sheet.572</title>
+				<g id="shape554-9" transform="translate(10.2885,-11.578)">
+					<title>Sheet.554</title>
 					<path d="M30.67 94.16 L33.47 91.42 L34.38 92.3 L31.57 95.04 L30.67 94.16 ZM35.6 104.93 L39.57 104.93 L39.57 106.18
 								 L35.6 106.18 L35.6 104.93 ZM30.49 116.78 L31.39 115.9 L34.19 118.64 L33.29 119.52 L30.49 116.78
 								 ZM19.27 120.83 L20.55 120.83 L20.55 124.71 L19.27 124.71 L19.27 120.83 ZM5.31 92.18 L6.21 91.29
 								 L9.02 94.03 L8.11 94.92 L5.31 92.18 ZM5.5 118.75 L8.3 116.01 L9.21 116.89 L6.4 119.63 L5.5 118.75
 								 ZM0 104.93 L3.97 104.93 L3.97 106.18 L0 106.18 L0 104.93 Z" class="st3"/>
 				</g>
-				<g id="shape573-11" transform="translate(28.5705,-29.9276)">
-					<title>Sheet.573</title>
+				<g id="shape555-11" transform="translate(28.5705,-29.9276)">
+					<title>Sheet.555</title>
 					<path d="M0 123.12 A1.62776 1.59059 -180 0 0 1.63 124.71 L1.94 124.71 A1.62776 1.59059 -180 0 0 3.57 123.12 L3.57
 								 106.37 A1.62776 1.59059 -180 0 0 1.94 104.78 L1.63 104.78 A1.62776 1.59059 -180 0 0 -0 106.37 L0
 								 123.12 Z" class="st3"/>
 				</g>
-				<g id="shape574-13" transform="translate(120.165,181.401) rotate(135)">
-					<title>Sheet.574</title>
+				<g id="shape556-13" transform="translate(120.165,181.401) rotate(135)">
+					<title>Sheet.556</title>
 					<path d="M0 123.12 A1.62453 1.58744 -180 0 0 1.62 124.71 L1.94 124.71 A1.62453 1.58744 -180 0 0 3.56 123.12 L3.56
 								 113.82 A1.62453 1.58744 -180 0 0 1.94 112.23 L1.62 112.23 A1.62453 1.58744 -180 0 0 0 113.82 L0
 								 123.12 Z" class="st3"/>
 				</g>
-				<g id="shape575-15" transform="translate(26.4464,-27.0646)">
-					<title>Sheet.575</title>
+				<g id="shape557-15" transform="translate(26.4464,-27.0646)">
+					<title>Sheet.557</title>
 					<ellipse cx="3.76792" cy="121.027" rx="3.76792" ry="3.68189" class="st4"/>
 				</g>
-				<g id="shape576-19">
-					<title>Sheet.576</title>
+				<g id="shape558-19">
+					<title>Sheet.558</title>
 					<path d="M24.83 68.48 A26.7332 26.1228 -180 0 0 16.2 116.37 L17.09 114.09 a0.518936 0.507087 0 0 1 0.886381 -0.144882
 								 L24.91 122.16 a0.518936 0.507087 0 0 1 -0.32232 0.825197 L13.81 124.71 a0.522159 0.510236 0 0 1
 								 -0.570507 -0.680315 L14.53 120.65 A31.3263 30.611 0 0 1 0 102.51 A27.2747 26.652 0 0 1 24.83 68.48
