@@ -51,7 +51,7 @@ With this process I can build and re-build over and over again in minutes and th
 
 ### SVG image of the current full stencil content
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-4.2.svg)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-4.3.svg)
 
 Some example images to show stencil functionality: -
 
@@ -91,31 +91,31 @@ Download only what you need or the entire collection using the links below.
 
 ### **Option 1 - Download the single stencil file that contains all of the icons and drawing tools**
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-4.3.vssx
 
 ### Option 2 - Download the latest full ZIP package containing all stencils, PNG and SVG versions.
 
-- https://github.com/David-Summers/Azure-Design/raw/master/V-4.2.zip
+- https://github.com/David-Summers/Azure-Design/raw/master/V-4.3.zip
 
 ### **Option 3 - Download just the category stencil files that you need** 
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/blob/master/Azure_Dynamics%20365_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-4.2.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-4.2.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/blob/master/Azure_Dynamics%20365_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-4.3.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-4.3.vssx
 
 ### **Option 4 - Don't use Visio?**
 
@@ -172,6 +172,46 @@ Twitter is my primary communication method and if you would like to discuss this
 
 ### Current
 
+#### **Version** 4.3 - 08/11/2022
+
+Some minor tweaks with this release and new drawing tools. Expanding on my dark mode designs, I have included dark mode glow boxes that match the colour scheme of the glow lines. I also added connection points to all of the boxes. 
+
+One major update and this was a total PITA, was the removal of the invisible view box on the SVG icons. This caused some scaling issues when these icons were used in other products. Had to build a pretty funky script to scale the view box down to the the icon size but hours of processing later, these icons now scale perfectly with each other. 
+
+One major edition to this release is the new Microsoft 365 icon, really love this one. (Purview remains my favorite though)
+
+Added the following new icons
+
+| Category    | Icon                                         | Status |
+| ----------- | -------------------------------------------- | ------ |
+| Application | App Configuration                            | New    |
+| Application | App Service Access Restriction               | New    |
+| Application | App Service App Assigned Address             | New    |
+| Application | Application Server Instance for SAP Solution | New    |
+| Compute     | HPC Workbenche                               | New    |
+| Compute     | Kubernetes Fleet Manager                     | New    |
+| Compute     | Lab Account                                  | New    |
+| Compute     | Quantum Workspace                            | New    |
+| Data        | Access Connector for Azure Databricks        | New    |
+| Data        | Elastic SAN                                  | New    |
+| Data        | Video Indexer                                | New    |
+| Deployment  | Confluent Organization                       | New    |
+| Identity    | Contact Profile                              | New    |
+| Identity    | Verified ID                                  | New    |
+| Management  | Azure Monitor Workspace                      | New    |
+| Management  | Managed Prometheus                           | New    |
+| Networking  | Azure Orbital                                | New    |
+| Networking  | Azure Virtual Hub                            | New    |
+| Networking  | ExpressRoute Traffic Collector               | New    |
+| Networking  | Mesh VPN                                     | New    |
+| Networking  | Network Manager                              | New    |
+| Office365   | Microsoft 365                                | New    |
+| Office365   | O365 - Word                                  | New    |
+| Security    | Global Rulestack                             | New    |
+| Security    | Microsoft Defender EASM                      | New    |
+
+### Previous
+
 #### **Version** 4.2 - 06/07/2022
 
 Renamed the following icons
@@ -219,8 +259,6 @@ Added the following icons
 | Networking  | Private link Service               | New     |
 
 
-
-### Previous
 
 #### Version 4.1 - 21/03/2022
 
