@@ -192,6 +192,7 @@ Resolved an issue with SVG's being imported into Draw.IO. Prior to this release 
 | Application | API Management Product                           | Updated |
 | Application | API Management Scale Out (auto-scale)            | New     |
 | Application | API Management Schema                            | New     |
+| Application | App Service API                                  | New     |
 | Application | Wordpress and MySQL Flexible server              | New     |
 | Compute     | AKS Cluster Configuration                        | New     |
 | Compute     | AKS Configuration                                | New     |
