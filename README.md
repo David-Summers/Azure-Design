@@ -51,7 +51,7 @@ With this process I can build and re-build over and over again in minutes and th
 
 ### SVG image of the current full stencil content
 
-![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-4.4.svg)
+![Picture](https://github.com/David-Summers/Azure-Design/blob/master/Example_All-Icons_V-4.5.svg)
 
 Some example images to show stencil functionality: -
 
@@ -91,31 +91,31 @@ Download only what you need or the entire collection using the links below.
 
 ### **Option 1 - Download the single stencil file that contains all of the icons and drawing tools**
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-4.4.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_All-Icons_V-4.5.vssx
 
 ### Option 2 - Download the latest full ZIP package containing all stencils, PNG and SVG versions.
 
-- https://github.com/David-Summers/Azure-Design/raw/master/V-4.4.zip
+- https://github.com/David-Summers/Azure-Design/raw/master/V-4.5.zip
 
 ### **Option 3 - Download just the category stencil files that you need** 
 
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/blob/master/Azure_Dynamics%20365_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-4.4.vssx
-- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-4.4.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_AI_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Application_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Compute_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Data_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Deployment_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Drawing-Tools_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/blob/master/Azure_Dynamics%20365_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Endpoint_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Generic_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Identity_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_IoT_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Management_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Networking_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Office365_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Security_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Storage_V-4.5.vssx
+- https://github.com/David-Summers/Azure-Design/raw/master/Azure_Workload_V-4.5.vssx
 
 ### **Option 4 - Don't use Visio?**
 
@@ -171,6 +171,39 @@ Twitter is my primary communication method and if you would like to discuss this
 ## Version History
 
 ### Current
+
+#### **Version** 4.5 - 09/07/2023
+
+24 new icons including the new Fabric service. I think I need a faster computer now as this build total process is now clocking in at 4 hours.
+
+| Category    | Icon                                           | Status  |
+| ----------- | ---------------------------------------------- | ------- |
+| AI          | Computer Vision                                | Updated |
+| AI          | Content Safety                                 | New     |
+| AI          | Custom Vision                                  | Updated |
+| AI          | Microsoft Fabric                               | New     |
+| AI          | Speech Service                                 | Updated |
+| Application | App Spaces                                     | New     |
+| Application | Event Grid Namespace                           | New     |
+| Application | SignalR Replica                                | New     |
+| Application | Web PubSub Service Replica                     | New     |
+| Compute     | Cluster Manager (Operator Nexus)               | New     |
+| Compute     | Clusters (Operator Nexus)                      | New     |
+| Compute     | Hybrid AKS Cluster (Operator Nexus)            | New     |
+| Compute     | Kubernetes Cluster (Operator Nexus)            | New     |
+| Data        | Data LakeHouse                                 | New     |
+| Management  | Billing Subscription                           | New     |
+| Management  | Bulk Operation                                 | New     |
+| Management  | Cluster Metrics Configuration (Operator Nexus) | New     |
+| Management  | Data Connectors                                | New     |
+| Management  | Savings Plan                                   | New     |
+| Networking  | Application Gateways for Containers            | New     |
+| Security    | Azure Key Vault Managed HSM                    | New     |
+| Security    | BitLocker Key                                  | New     |
+| Security    | Cloud NGFW                                     | New     |
+| Security    | Local Rulestack for Cloud NGFW                 | New     |
+
+### Previous
 
 #### **Version** 4.4 - 21/03/2023
 
@@ -235,8 +268,6 @@ Resolved an issue with SVG's being imported into Draw.IO. Prior to this release 
 | Storage     | Azure Managed Lustre                             | New     |
 | Storage     | Qumulo Scalable File Service                     | New     |
 | Storage     | Storage Mover                                    | New     |
-
-### Previous
 
 #### **Version** 4.3 - 08/11/2022
 
