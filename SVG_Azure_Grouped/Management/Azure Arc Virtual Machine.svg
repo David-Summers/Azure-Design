@@ -103,19 +103,19 @@
 		<title
    id="title15">Page-1</title>
 		<g
-   id="group13963-1"
+   id="group15301-1"
    transform="translate(34,-34.0157)">
 			<title
-   id="title17">Azure Arc Virtual Machine.13963</title>
+   id="title17">Azure Arc Virtual Machine.15301</title>
 			<g
-   id="group13964-2">
+   id="group15302-2">
 				<title
-   id="title19">Sheet.13964</title>
+   id="title19">Sheet.15302</title>
 				<g
-   id="shape13965-3"
+   id="shape15303-3"
    transform="translate(0.403504)">
 					<title
-   id="title21">Sheet.13965</title>
+   id="title21">Sheet.15303</title>
 					<path
    d="m 47.56,116.86 c -0.44,1.96 -2.87,3.89 -7.26,5.4 A 59.9312,60.3445 0 0 1 6.63,122.3 c -4.03,-1.43 -6.22,-3.26 -6.57,-5.15 -0.06,-0.33 0,-5.5 0,-5.5 l 47.57,-0.44 c 0,0 -0.03,5.42 -0.07,5.65 z"
    class="st1"
@@ -124,10 +124,10 @@
    style="fill:#699bd2;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13966-5"
+   id="shape15304-5"
    transform="translate(0,-4.58433)">
 					<title
-   id="title26">Sheet.13966</title>
+   id="title26">Sheet.15304</title>
 					<ellipse
    cx="23.8067"
    cy="116.422"
@@ -138,10 +138,10 @@
    style="fill:#75ceea;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13967-7"
+   id="shape15305-7"
    transform="translate(0.281514,-24.5333)">
 					<title
-   id="title31">Sheet.13967</title>
+   id="title31">Sheet.15305</title>
 					<path
    d="m 0,123.1 a 1.59841,1.60943 -180 0 0 1.6,1.61 h 44.71 a 1.59841,1.60943 -180 0 0 1.6,-1.61 V 94.16 a 1.59841,1.60943 -180 0 0 -1.6,-1.61 H 1.6 A 1.59841,1.60943 -180 0 0 0,94.16 Z"
    class="st3"
@@ -150,10 +150,10 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13968-11"
+   id="shape15306-11"
    transform="translate(12.2709,-12.1274)">
 					<title
-   id="title36">Sheet.13968</title>
+   id="title36">Sheet.15306</title>
 					<path
    d="m 21.57,122.03 c -4.74,-0.75 -4.92,-4.18 -4.92,-9.73 H 7.27 c 0,5.55 -0.16,8.98 -4.9,9.73 A 2.65875,2.67708 -180 0 0 0,124.71 h 23.95 a 2.65875,2.67708 -180 0 0 -2.38,-2.68 z"
    class="st4"
@@ -162,15 +162,15 @@
    style="fill:url(#grad0-14);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="group13969-15"
+   id="group15307-15"
    transform="translate(16.2465,-31.2071)">
 					<title
-   id="title41">Sheet.13969</title>
+   id="title41">Sheet.15307</title>
 					<g
-   id="shape13970-16"
+   id="shape15308-16"
    transform="translate(0.00625587,-9.35718)">
 						<title
-   id="title43">Sheet.13970</title>
+   id="title43">Sheet.15308</title>
 						<path
    d="m 15.97,120.01 -7.98,4.7 -7.99,-4.7 7.99,-4.7 z"
    class="st5"
@@ -179,10 +179,10 @@
    style="fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:34;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape13971-18"
+   id="shape15309-18"
    transform="translate(0.00625587,-4.70221)">
 						<title
-   id="title48">Sheet.13971</title>
+   id="title48">Sheet.15309</title>
 						<path
    d="m 0,115.35 v 9.36 l 7.97,-4.66 z"
    class="st6"
@@ -191,10 +191,10 @@
    style="fill:#ffffff;fill-opacity:0.63999999;stroke:none;stroke-width:34;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape13972-20"
+   id="shape15310-20"
    transform="translate(0,-0.00314951)">
 						<title
-   id="title53">Sheet.13972</title>
+   id="title53">Sheet.15310</title>
 						<path
    d="m 0,120.01 7.99,4.7 v -9.36 H 7.98 Z"
    class="st5"
@@ -203,10 +203,10 @@
    style="fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:34;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape13973-22"
+   id="shape15311-22"
    transform="translate(7.99188,-4.70221)">
 						<title
-   id="title58">Sheet.13973</title>
+   id="title58">Sheet.15311</title>
 						<path
    d="m 0,120.04 7.99,4.67 v -9.36 z"
    class="st7"
@@ -215,10 +215,10 @@
    style="fill:#ffffff;fill-opacity:0.47999998;stroke:none;stroke-width:34;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape13974-24"
+   id="shape15312-24"
    transform="translate(7.99188)">
 						<title
-   id="title63">Sheet.13974</title>
+   id="title63">Sheet.15312</title>
 						<path
    d="M 0,124.71 7.99,120.01 0,115.34 Z"
    class="st6"

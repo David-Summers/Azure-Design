@@ -9,20 +9,20 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692902"
-   height="56.690868"
-   viewBox="0 0 56.692903 56.69087"
+   width="0.78739738in"
+   height="0.78748196in"
+   viewBox="0 0 56.692679 56.698989"
    xml:space="preserve"
-   class="st6"
+   class="st8"
    version="1.1"
-   id="svg54"
+   id="svg74"
    sodipodi:docname="Policy Initiative.svg"
    style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
-   id="metadata60"><rdf:RDF><cc:Work
+   id="metadata80"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs58" /><sodipodi:namedview
+   id="defs78" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -33,135 +33,186 @@
    inkscape:pageshadow="2"
    inkscape:window-width="640"
    inkscape:window-height="480"
-   id="namedview56"
+   id="namedview76"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="28.346449"
-   inkscape:cy="17.459801"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="37.795072"
+   inkscape:cy="23.279613"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="svg54" />
+   inkscape:current-layer="svg74" />
 	<style
    type="text/css"
    id="style2">
 	<![CDATA[
-		.st1 {fill:#804998;stroke:none;stroke-linecap:butt;stroke-width:12.24}
-		.st2 {fill:#59b4d9;stroke:none;stroke-linecap:butt;stroke-width:12.24}
-		.st3 {fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-linecap:butt;stroke-width:12.24}
-		.st4 {fill:#3999c6;fill-opacity:0.8;stroke:none;stroke-linecap:butt;stroke-width:12.24}
-		.st5 {fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-linecap:butt;stroke-width:12.24}
-		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st1 {fill:#0072c6;stroke:none;stroke-linecap:butt;stroke-width:12.24}
+		.st2 {fill:#57a300;fill-opacity:0.4;stroke:none;stroke-linecap:butt;stroke-width:12.24}
+		.st3 {fill:#a0a1a2;stroke:none;stroke-linecap:butt;stroke-width:12.24}
+		.st4 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:12.24}
+		.st5 {fill:#fee087;fill-opacity:0.3;stroke:none;stroke-linecap:butt;stroke-width:12.24}
+		.st6 {fill:#7a7a7a;fill-opacity:0.7;stroke:none;stroke-linecap:butt;stroke-width:12.24}
+		.st7 {fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-linecap:butt;stroke-width:12.24}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
 	<g
-   id="g52"
-   transform="translate(-12.24,-12.24343)">
+   id="g72"
+   transform="translate(-12.24016,-12.23531)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2339-1"
+   id="group2475-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Policy Initiative</title>
 			<g
-   id="group2340-2">
+   id="group2476-2">
 				<title
-   id="title8">Sheet.2340</title>
+   id="title8">Sheet.2476</title>
 				<g
-   id="shape2341-3"
-   transform="translate(0,-19.2756)">
+   id="shape2477-3"
+   transform="translate(0,-19.669)">
 					<title
-   id="title10">Sheet.2341</title>
+   id="title10">Sheet.2477</title>
 					<path
-   d="m 6.8,96.15 -6.8,6.8 h 56.69 l -6.8,-6.8 z"
+   d="M 6.8,96.01 0,102.95 h 56.69 l -6.8,-6.94 z"
    class="st1"
    id="path12"
    inkscape:connector-curvature="0"
-   style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
+   style="fill:#0072c6;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2342-5"
-   transform="translate(6.80315,-3.40157)">
+   id="shape2478-5"
+   transform="translate(0,-19.669)">
 					<title
-   id="title15">Sheet.2342</title>
+   id="title15">Sheet.2478</title>
 					<path
-   d="M 35.17,63.04 29.78,57.59 27.53,55.33 H 0 v 47.62 H 37.42 V 65.3 Z"
+   d="M 6.8,96.01 0,102.95 h 56.69 l -6.8,-6.94 z"
    class="st2"
    id="path17"
    inkscape:connector-curvature="0"
-   style="fill:#59b4d9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
+   style="fill:#57a300;fill-opacity:0.4;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2343-7"
-   transform="translate(9.05046,-5.66929)">
+   id="shape2479-7"
+   transform="translate(6.80315,-2.314)">
 					<title
-   id="title20">Sheet.2343</title>
+   id="title20">Sheet.2479</title>
 					<path
-   d="M 25.06,59.86 H 0 v 43.09 H 32.92 V 67.8 h -7.86 z"
+   d="M 35.17,62.22 29.78,56.67 27.53,54.35 H 0 v 48.6 H 37.42 V 64.54 Z"
    class="st3"
    id="path22"
    inkscape:connector-curvature="0"
-   style="fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
+   style="fill:#a0a1a2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2344-9"
-   transform="translate(11.3386,-9.07087)">
+   id="shape2480-9"
+   transform="translate(9.05046,-4.62799)">
 					<title
-   id="title25">Sheet.2344</title>
+   id="title25">Sheet.2480</title>
 					<path
-   d="M 36.3,63.04 30.91,57.59 28.66,55.33 H 0 v 47.62 H 38.55 V 65.3 Z"
-   class="st2"
+   d="M 25.06,58.98 H 0 v 43.97 H 32.92 V 67.08 h -7.86 z"
+   class="st4"
    id="path27"
    inkscape:connector-curvature="0"
-   style="fill:#59b4d9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
+   style="fill:#ffffff;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2345-11"
-   transform="translate(13.5859,-11.3386)">
+   id="shape2481-11"
+   transform="translate(9.05046,-4.62799)">
 					<title
-   id="title30">Sheet.2345</title>
+   id="title30">Sheet.2481</title>
 					<path
-   d="M 26.19,59.86 H 0 v 43.09 H 34.06 V 67.8 h -7.87 z"
-   class="st3"
+   d="M 25.06,58.98 H 0 v 43.97 H 32.92 V 67.08 h -7.86 z"
+   class="st5"
    id="path32"
    inkscape:connector-curvature="0"
-   style="fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
+   style="fill:#fee087;fill-opacity:0.3;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2346-13"
-   transform="translate(20.4094,-18.2835)">
+   id="shape2482-13"
+   transform="translate(11.3386,-8.09899)">
 					<title
-   id="title35">Sheet.2346</title>
+   id="title35">Sheet.2482</title>
 					<path
-   d="m 0,85.45 v 11.49 c 0,0.09 0.05,0.17 0.13,0.22 l 9.95,5.74 c 0.08,0.05 0.17,0.05 0.25,0 l 9.95,-5.74 a 0.25285,0.25285 -180 0 0 0.126992,-0.221102 L 20.41,85.45 A 0.256252,0.256252 -180 0 0 20.283008,85.228898 L 10.33,79.48 a 0.256252,0.256252 -180 0 0 -0.255118,0 L 0.13,85.23 a 0.255118,0.255118 -180 0 0 -0.128126,0.221102 z"
-   class="st4"
+   d="M 36.3,62.22 30.91,56.67 28.66,54.35 H 0 v 48.6 H 38.55 V 64.54 Z"
+   class="st3"
    id="path37"
    inkscape:connector-curvature="0"
-   style="fill:#3999c6;fill-opacity:0.8;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
+   style="fill:#a0a1a2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2347-15">
+   id="shape2483-15"
+   transform="translate(13.5859,-10.413)">
 					<title
-   id="title40">Sheet.2347</title>
-					<rect
-   x="0"
-   y="83.673103"
-   width="56.692902"
-   height="19.2756"
-   class="st1"
-   id="rect42"
-   style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
-				</g>
-				<g
-   id="shape2348-17">
-					<title
-   id="title45">Sheet.2348</title>
+   id="title40">Sheet.2483</title>
 					<path
-   d="m 0,83.67 v 19.28 H 20.41 L 35.15,83.67 Z"
+   d="M 26.19,58.98 H 0 v 43.97 H 34.06 V 67.08 h -7.87 z"
+   class="st4"
+   id="path42"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
+				</g>
+				<g
+   id="shape2484-17"
+   transform="translate(13.5859,-10.413)">
+					<title
+   id="title45">Sheet.2484</title>
+					<path
+   d="M 26.19,58.98 H 0 v 43.97 H 34.06 V 67.08 h -7.87 z"
    class="st5"
    id="path47"
+   inkscape:connector-curvature="0"
+   style="fill:#fee087;fill-opacity:0.3;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
+				</g>
+				<g
+   id="shape2485-19"
+   transform="translate(20.4094,-18.0994)">
+					<title
+   id="title50">Sheet.2485</title>
+					<path
+   d="m 10.2,81.61 7.94,4.68 v 9.35 l -7.94,4.68 -7.93,-4.68 v -9.35 z m 0,-2.63 a 0.250583,0.255697 -180 0 0 -0.126992,0.03471 L 0.13,84.88 A 0.257386,0.262639 -180 0 0 0.001874,85.106772 L 0,96.83 c 0,0.09 0.05,0.18 0.13,0.22 l 9.95,5.86 a 0.257386,0.262639 -180 0 0 0.253984,0 L 20.28,97.05 a 0.25285,0.258011 -180 0 0 0.126992,-0.225615 L 20.41,85.1 A 0.256252,0.261482 -180 0 0 20.283008,84.874385 L 10.33,79.02 a 0.244913,0.249912 -180 0 0 -0.125858,-0.03587 z"
+   class="st6"
+   id="path52"
+   inkscape:connector-curvature="0"
+   style="fill:#7a7a7a;fill-opacity:0.7;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
+				</g>
+				<g
+   id="shape2486-21">
+					<title
+   id="title55">Sheet.2486</title>
+					<rect
+   x="0"
+   y="83.279701"
+   width="56.692902"
+   height="19.669001"
+   class="st1"
+   id="rect57"
+   style="fill:#0072c6;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
+				</g>
+				<g
+   id="shape2487-23">
+					<title
+   id="title60">Sheet.2487</title>
+					<rect
+   x="0"
+   y="83.279701"
+   width="56.692902"
+   height="19.669001"
+   class="st2"
+   id="rect62"
+   style="fill:#57a300;fill-opacity:0.4;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
+				</g>
+				<g
+   id="shape2488-25">
+					<title
+   id="title65">Sheet.2488</title>
+					<path
+   d="m 0,83.28 v 19.67 H 19.28 L 34.02,83.28 Z"
+   class="st7"
+   id="path67"
    inkscape:connector-curvature="0"
    style="fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>

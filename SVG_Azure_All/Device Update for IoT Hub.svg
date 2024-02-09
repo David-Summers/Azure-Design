@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="50.722828"
-   height="56.800945"
-   viewBox="0 0 50.72283 56.800945"
+   width="0.70447916in"
+   height="0.78889692in"
+   viewBox="0 0 50.722448 56.800945"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview45"
    showgrid="false"
-   inkscape:zoom="1.908613"
-   inkscape:cx="25.361772"
-   inkscape:cy="27.866408"
+   inkscape:zoom="1.431469"
+   inkscape:cx="33.815479"
+   inkscape:cy="37.154971"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -77,20 +77,20 @@
 	</defs>
 	<g
    id="g41"
-   transform="translate(-32.884726,-32.890464)">
+   transform="translate(-32.885162,-32.890464)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group5826-1"
+   id="group6334-1"
    transform="translate(34.1519,-34.0157)">
 			<title
    id="title12">Device Update for IoT Hub</title>
 			<g
-   id="group5827-2">
+   id="group6335-2">
 				<title
    id="title14">g12</title>
 				<g
-   id="shape5828-3"
+   id="shape6336-3"
    transform="translate(4.91206,-9.40832)">
 					<title
    id="title16">path2</title>
@@ -102,12 +102,12 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:32.88560104;stroke-linecap:butt" />
 				</g>
 				<g
-   id="group5829-7"
+   id="group6337-7"
    transform="translate(9.98497,-16.9791)">
 					<title
    id="title21">g8</title>
 					<g
-   id="shape5830-8"
+   id="shape6338-8"
    transform="translate(2.24539,-1.76807)">
 						<title
    id="title23">path4</title>
@@ -119,7 +119,7 @@
    style="fill:#ffffff;fill-opacity:0.47999998;stroke:none;stroke-width:32.88560104;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape5831-10">
+   id="shape6339-10">
 						<title
    id="title28">path6</title>
 						<path
@@ -131,7 +131,7 @@
 					</g>
 				</g>
 				<g
-   id="shape5832-12">
+   id="shape6340-12">
 					<title
    id="title34">path10</title>
 					<path

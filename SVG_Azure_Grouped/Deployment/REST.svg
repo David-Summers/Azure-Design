@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="40.090267"
-   height="40.091145"
-   viewBox="0 0 40.090266 40.091145"
+   width="0.55680788in"
+   height="0.55682003in"
+   viewBox="0 0 40.090166 40.091142"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview31"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="20.043924"
-   inkscape:cy="5.8707415"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="26.725163"
+   inkscape:cy="7.8276326"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -55,20 +55,20 @@
 
 	<g
    id="g27"
-   transform="translate(-13.971827,-13.968596)">
+   transform="translate(-13.971914,-13.968596)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group18303-1"
+   id="group19423-1"
    transform="translate(5.66929,-34.0157)">
 			<title
-   id="title6">REST.18303</title>
+   id="title6">REST.19423</title>
 			<g
-   id="group18304-2">
+   id="group19424-2">
 				<title
    id="title8">layer1</title>
 				<g
-   id="shape18305-3"
+   id="shape19425-3"
    transform="rotate(-45,14.173193,62.160671)">
 					<title
    id="title10">circle2</title>
@@ -81,7 +81,7 @@
    style="fill:#004b1c;stroke:none;stroke-width:8.97581005;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18306-5"
+   id="shape19426-5"
    transform="translate(14.1703,-14.1732)">
 					<title
    id="title15">path4</title>
@@ -93,7 +93,7 @@
    style="fill:#006020;stroke:none;stroke-width:8.97581005;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18307-7"
+   id="shape19427-7"
    transform="translate(13.0582,-22.9795)">
 					<title
    id="title20">path6</title>

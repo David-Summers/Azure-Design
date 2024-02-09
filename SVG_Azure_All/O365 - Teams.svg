@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.694603"
-   height="56.692902"
-   viewBox="0 0 56.694602 56.692901"
+   width="0.78742397in"
+   height="0.78740036in"
+   viewBox="0 0 56.694599 56.692577"
    xml:space="preserve"
    class="st8"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview86"
    showgrid="false"
-   inkscape:zoom="2.1637877"
-   inkscape:cx="28.3465"
-   inkscape:cy="20.518602"
+   inkscape:zoom="1.6228336"
+   inkscape:cx="37.795284"
+   inkscape:cy="27.358099"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -59,20 +59,20 @@
 
 	<g
    id="g82"
-   transform="translate(-18.3596,-18.359701)">
+   transform="translate(-18.3596,-18.36001)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2538-1"
+   id="group2740-1"
    transform="translate(18.3596,-34.0157)">
 			<title
    id="title6">O365 - Teams</title>
 			<g
-   id="group2539-2">
+   id="group2741-2">
 				<title
    id="title8">g30</title>
 				<g
-   id="shape2540-3"
+   id="shape2742-3"
    transform="translate(21.8498,-37.7947)">
 					<title
    id="title10">circle2</title>
@@ -85,7 +85,7 @@
    style="fill:#7b83eb;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2541-5"
+   id="shape2743-5"
    transform="translate(22.0394,-37.986)">
 					<title
    id="title15">path4</title>
@@ -97,7 +97,7 @@
    style="fill:#000000;fill-opacity:0.09800002;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2542-7"
+   id="shape2744-7"
    transform="translate(22.647,-37.7947)">
 					<title
    id="title20">path6</title>
@@ -109,7 +109,7 @@
    style="fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2543-9"
+   id="shape2745-9"
    transform="translate(42.5197,-37.2047)">
 					<title
    id="title25">circle8</title>
@@ -122,7 +122,7 @@
    style="fill:#5059c9;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2544-11"
+   id="shape2746-11"
    transform="translate(38.9746,-10.924)">
 					<title
    id="title30">path10</title>
@@ -134,7 +134,7 @@
    style="fill:#5059c9;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2545-13"
+   id="shape2747-13"
    transform="translate(15.9449,-2.25576)">
 					<title
    id="title35">path12</title>
@@ -146,7 +146,7 @@
    style="fill:#7b83eb;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2546-15"
+   id="shape2748-15"
    transform="translate(22.647,-37.7947)">
 					<title
    id="title40">path14</title>
@@ -158,7 +158,7 @@
    style="fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2547-17"
+   id="shape2749-17"
    transform="translate(15.9449,-10.6299)">
 					<title
    id="title45">path16</title>
@@ -170,7 +170,7 @@
    style="fill:#000000;fill-opacity:0.09800002;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2548-19"
+   id="shape2750-19"
    transform="translate(15.9449,-8.85827)">
 					<title
    id="title50">path18</title>
@@ -182,7 +182,7 @@
    style="fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2549-21"
+   id="shape2751-21"
    transform="translate(15.9449,-12.4016)">
 					<title
    id="title55">path20</title>
@@ -194,7 +194,7 @@
    style="fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2550-23"
+   id="shape2752-23"
    transform="translate(15.9449,-12.4016)">
 					<title
    id="title60">path22</title>
@@ -206,7 +206,7 @@
    style="fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2551-25"
+   id="shape2753-25"
    transform="translate(0,-14.1732)">
 					<title
    id="title65">path24</title>
@@ -218,7 +218,7 @@
    style="fill:#4b53bc;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2552-27"
+   id="shape2754-27"
    transform="translate(7.12205,-19.497)">
 					<title
    id="title70">path26</title>
@@ -230,7 +230,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:18.35960007;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2553-29">
+   id="shape2755-29">
 					<title
    id="title75">path28</title>
 					<rect

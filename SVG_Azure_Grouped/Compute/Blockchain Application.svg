@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="39.689999"
-   height="56.697899"
-   viewBox="0 0 39.689998 56.697896"
+   width="0.55124921in"
+   height="0.78746974in"
+   viewBox="0 0 39.689957 56.697902"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview66"
    showgrid="false"
-   inkscape:zoom="1.6426647"
-   inkscape:cx="19.842402"
-   inkscape:cy="28.347397"
+   inkscape:zoom="1.2320003"
+   inkscape:cx="26.456498"
+   inkscape:cy="37.79648"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -93,20 +93,20 @@
 	</defs>
 	<g
    id="g62"
-   transform="translate(-43.4881,-43.484)">
+   transform="translate(-43.488166,-43.484)">
 		<title
    id="title16">Page-1</title>
 		<g
-   id="group12544-1"
+   id="group13251-1"
    transform="translate(43.4881,-43.4881)">
 			<title
-   id="title18">Blockchain Application.12544</title>
+   id="title18">Blockchain Application.13251</title>
 			<g
-   id="group12545-2">
+   id="group13252-2">
 				<title
    id="title20">layer1</title>
 				<g
-   id="shape12546-3"
+   id="shape13253-3"
    transform="translate(19.8425,-9.44882)">
 					<title
    id="title22">polygon17</title>
@@ -118,7 +118,7 @@
    style="fill:#773adc;stroke:none;stroke-width:43.48809814;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12547-5"
+   id="shape13254-5"
    transform="translate(0,-33.0079)">
 					<title
    id="title27">polygon19</title>
@@ -130,7 +130,7 @@
    style="fill:#b796f9;stroke:none;stroke-width:43.48809814;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12548-7"
+   id="shape13255-7"
    transform="translate(0,-9.44882)">
 					<title
    id="title32">polygon21</title>
@@ -142,7 +142,7 @@
    style="fill:#a67af4;stroke:none;stroke-width:43.48809814;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12549-9"
+   id="shape13256-9"
    transform="translate(10.4921,-18.4249)">
 					<title
    id="title37">path23</title>
@@ -154,12 +154,12 @@
    style="fill:#ffffff;stroke:none;stroke-width:43.48809814;stroke-linecap:butt" />
 				</g>
 				<g
-   id="group12550-11"
+   id="group13257-11"
    transform="translate(8.76404)">
 					<title
    id="title42">g31</title>
 					<g
-   id="shape12551-12">
+   id="shape13258-12">
 						<title
    id="title44">rect25</title>
 						<path
@@ -170,7 +170,7 @@
    style="fill:url(#grad0-15);stroke:none;stroke-width:43.48809814;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape12552-16"
+   id="shape13259-16"
    transform="translate(2.06919,-4.13044)">
 						<title
    id="title49">path27</title>
@@ -182,7 +182,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:43.48809814;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape12553-18"
+   id="shape13260-18"
    transform="translate(14.0762,-4.13044)">
 						<title
    id="title54">path29</title>

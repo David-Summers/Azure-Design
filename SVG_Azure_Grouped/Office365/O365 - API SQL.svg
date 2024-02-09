@@ -61,28 +61,28 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group22302-1"
+   id="group23574-1"
    transform="translate(5.66929,-34.0157)">
 			<title
-   id="title6">O365 - API SQL.22302</title>
+   id="title6">O365 - API SQL.23574</title>
 			<desc
    id="desc8">This package will provide stencils to visually represent Power Platform: Power Bi, Power Apps, Power Virtual Agents and/or Power Automate devices, architectures or solutions diagrams. It will provide stencils to visually represent features, systems, processes and architectures that use these technologies.</desc>
 			<g
-   id="group22303-2">
+   id="group23575-2">
 				<title
    id="title10">Page-1</title>
 				<g
-   id="group22304-3">
+   id="group23576-3">
 					<title
-   id="title12">Sheet.22304</title>
+   id="title12">Sheet.23576</title>
 					<g
-   id="group22305-4">
+   id="group23577-4">
 						<title
    id="title14">rect5904</title>
 						<g
-   id="shape22306-5">
+   id="shape23578-5">
 							<title
-   id="title16">Sheet.22306</title>
+   id="title16">Sheet.23578</title>
 							<rect
    x="0"
    y="39.685001"
@@ -94,14 +94,14 @@
 						</g>
 					</g>
 					<g
-   id="group22307-7"
+   id="group23579-7"
    transform="translate(11.121,-13.4193)">
 						<title
    id="title22">path5906</title>
 						<g
-   id="shape22308-8">
+   id="shape23580-8">
 							<title
-   id="title24">Sheet.22308</title>
+   id="title24">Sheet.23580</title>
 							<path
    d="M 34.33,91.79 H 18.38 v 2.29 h 4.59 v 2.3 H 11.48 v -2.3 h 4.59 V 91.79 H 0 V 71.24 H 34.33 V 91.91 Z M 2.29,73.41 V 89.49 H 32.04 V 73.41 Z"
    class="st2"
@@ -111,17 +111,17 @@
 						</g>
 					</g>
 					<g
-   id="group22309-10"
+   id="group23581-10"
    transform="translate(10.5852,-19.3548)">
 						<title
-   id="title30">Sheet.22309</title>
+   id="title30">Sheet.23581</title>
 						<desc
    id="desc32">SQL</desc>
 						<g
-   id="shape22310-11"
+   id="shape23582-11"
    transform="translate(0,-3.83747)">
 							<title
-   id="title34">Sheet.22310</title>
+   id="title34">Sheet.23582</title>
 							<rect
    x="0"
    y="88.155998"
@@ -132,10 +132,10 @@
    style="fill:none;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round" />
 						</g>
 						<g
-   id="shape22311-13"
+   id="shape23583-13"
    transform="translate(5.49373)">
 							<title
-   id="title39">Sheet.22311</title>
+   id="title39">Sheet.23583</title>
 							<desc
    id="desc41">SQL</desc>
 							<rect

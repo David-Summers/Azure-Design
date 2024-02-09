@@ -59,18 +59,18 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group21838-1"
+   id="group23102-1"
    transform="translate(14.6075,-34.0157)">
 			<title
-   id="title6">IoT Hub Security Alert.21838</title>
+   id="title6">IoT Hub Security Alert.23102</title>
 			<g
-   id="group21839-2">
+   id="group23103-2">
 				<title
-   id="title8">Sheet.21839</title>
+   id="title8">Sheet.23103</title>
 				<g
-   id="shape21840-3">
+   id="shape23104-3">
 					<title
-   id="title10">Sheet.21840</title>
+   id="title10">Sheet.23104</title>
 					<path
    d="m 41.12,89.73 c 0,0 -4.84,9.73 -18.13,15.07 l -1.56,0.48 -1.52,-0.47 A 38.0417,36.8099 0 0 1 1.3,89.73 11.3274,10.9606 0 0 1 0,85.03 V 60.09 a 1.395,1.34983 0 0 1 1.67,-1.62 17.856,17.2778 -180 0 0 18.53,-9.52 1.9809,1.91676 0 0 1 1.2,-0.36 2.05065,1.98425 0 0 1 1.24,0.34 17.1725,16.6164 -180 0 0 18.14,9.45 1.395,1.34983 0 0 1 1.74,1.7 v 24.95 a 11.3274,10.9606 0 0 1 -1.4,4.7 z"
    class="st1"
@@ -79,10 +79,10 @@
    style="fill:#7ac3e1;stroke:none;stroke-width:14.57139969;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape21841-5"
+   id="shape23105-5"
    transform="translate(6.77971)">
 					<title
-   id="title15">Sheet.21841</title>
+   id="title15">Sheet.23105</title>
 					<path
    d="m 16.21,104.8 -1.56,0.48 -1.52,-0.47 A 40.748,39.4286 0 0 1 0,96.43 L 29.34,58.47 a 20.6879,20.018 -180 0 0 4.66,0 1.395,1.34983 0 0 1 1.74,1.61 v 24.95 a 11.3274,10.9606 0 0 1 -1.4,4.69 c 0,0 -4.84,9.74 -18.13,15.08 z"
    class="st2"
@@ -91,10 +91,10 @@
    style="fill:#54a5cb;stroke:none;stroke-width:14.57139969;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape21842-7"
+   id="shape23106-7"
    transform="translate(17.6189,-13.7926)">
 					<title
-   id="title20">Sheet.21842</title>
+   id="title20">Sheet.23106</title>
 					<path
    d="M 3.65,99.27 A 3.64096,3.52306 0 1 1 0.03,102.8 3.62701,3.50956 0 0 1 3.65,99.27 Z M 0,78.04 H 7.25 L 5.23,94.97 H 1.9 Z"
    class="st3"

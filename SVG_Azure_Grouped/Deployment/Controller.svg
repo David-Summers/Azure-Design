@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.696602"
-   height="51.029202"
-   viewBox="0 0 56.696604 51.0292"
+   width="0.78745151in"
+   height="0.70873773in"
+   viewBox="0 0 56.696576 51.029223"
    xml:space="preserve"
    class="st10"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview83"
    showgrid="false"
-   inkscape:zoom="2.4260017"
-   inkscape:cx="28.346449"
-   inkscape:cy="14.624598"
+   inkscape:zoom="1.8195051"
+   inkscape:cx="37.795228"
+   inkscape:cy="19.499465"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -65,12 +65,12 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group18527-1"
+   id="group19647-1"
    transform="translate(12.24,-34.0157)">
 			<title
-   id="title6">Controller.18527</title>
+   id="title6">Controller.19647</title>
 			<g
-   id="shape18528-2"
+   id="shape19648-2"
    transform="translate(14.4,-29.1892)">
 				<title
    id="title8">polygon4</title>
@@ -82,7 +82,7 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18529-4"
+   id="shape19649-4"
    transform="translate(28.1197,-23.5582)">
 				<title
    id="title13">polygon6</title>
@@ -94,7 +94,7 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18530-6"
+   id="shape19650-6"
    transform="translate(14.5134,-23.5582)">
 				<title
    id="title18">polygon8</title>
@@ -106,7 +106,7 @@
    style="fill:#3e3e3e;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18531-8"
+   id="shape19651-8"
    transform="translate(0,-5.63099)">
 				<title
    id="title23">polygon10</title>
@@ -118,7 +118,7 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18532-10"
+   id="shape19652-10"
    transform="translate(13.6063)">
 				<title
    id="title28">polygon12</title>
@@ -130,7 +130,7 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18533-12">
+   id="shape19653-12">
 				<title
    id="title33">polygon14</title>
 				<path
@@ -141,7 +141,7 @@
    style="fill:#3e3e3e;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18534-14"
+   id="shape19654-14"
    transform="translate(29.4803,-5.63099)">
 				<title
    id="title38">polygon16</title>
@@ -153,7 +153,7 @@
    style="fill:#e5e5e5;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18535-16"
+   id="shape19655-16"
    transform="translate(43.0866)">
 				<title
    id="title43">polygon18</title>
@@ -165,7 +165,7 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18536-18"
+   id="shape19656-18"
    transform="translate(29.4803)">
 				<title
    id="title48">polygon20</title>
@@ -177,7 +177,7 @@
    style="fill:#0070c9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18537-20"
+   id="shape19657-20"
    transform="translate(34.0157,-7.69951)">
 				<title
    id="title53">path22</title>
@@ -189,7 +189,7 @@
    style="fill:#000e92;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18538-22"
+   id="shape19658-22"
    transform="translate(35.4898,-8.84869)">
 				<title
    id="title58">polygon24</title>
@@ -201,7 +201,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18539-24"
+   id="shape19659-24"
    transform="translate(44.4472,-8.84869)">
 				<title
    id="title63">polygon26</title>
@@ -213,7 +213,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18540-26"
+   id="shape19660-26"
    transform="translate(34.1291,-7.69951)">
 				<title
    id="title68">path28</title>
@@ -225,7 +225,7 @@
    style="fill:#ffffff;fill-opacity:0.25;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape18541-28"
+   id="shape19661-28"
    transform="translate(35.263,-20.5703)">
 				<title
    id="title73">polygon30</title>

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.696499"
-   height="56.690025"
-   viewBox="0 0 56.696501 56.690028"
+   width="0.78745162in"
+   height="0.78736168in"
+   viewBox="0 0 56.6965 56.690024"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview51"
    showgrid="false"
-   inkscape:zoom="1.4871482"
-   inkscape:cx="28.346497"
-   inkscape:cy="28.343516"
+   inkscape:zoom="1.1153608"
+   inkscape:cx="37.795344"
+   inkscape:cy="37.791362"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -60,18 +60,18 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group20003-1"
+   id="group21158-1"
    transform="translate(51,-51)">
 			<title
-   id="title6">Cognitive Services Bot Test in Web Chat.20003</title>
+   id="title6">Cognitive Services Bot Test in Web Chat.21158</title>
 			<g
-   id="group20004-2">
+   id="group21159-2">
 				<title
    id="title8"> abs_web_chat_01</title>
 				<g
-   id="shape20005-3">
+   id="shape21160-3">
 					<title
-   id="title10">Sheet.20005</title>
+   id="title10">Sheet.21160</title>
 					<path
    d="m 0,156.33 a 2.36226,2.36226 -180 0 0 2.36,2.36 h 51.97 a 2.36226,2.36226 -180 0 0 2.36,-2.36 V 104.36 A 2.36226,2.36226 -180 0 0 54.33,102 H 2.36 A 2.36226,2.36226 -180 0 0 0,104.36 Z"
    class="st1"
@@ -80,10 +80,10 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:51;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20006-5"
+   id="shape21161-5"
    transform="translate(0,-42.5197)">
 					<title
-   id="title15">Sheet.20006</title>
+   id="title15">Sheet.21161</title>
 					<path
    d="m 2.36,144.52 h 51.97 a 2.3622,2.3622 0 0 1 2.36,2.36 v 11.81 H 0 v -11.81 a 2.3622,2.3622 0 0 1 2.36,-2.36 z"
    class="st2"
@@ -92,10 +92,10 @@
    style="fill:#59b4d9;stroke:none;stroke-width:51;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20007-7"
+   id="shape21162-7"
    transform="translate(10.6299,-20.0787)">
 					<title
-   id="title20">Sheet.20007</title>
+   id="title20">Sheet.21162</title>
 					<circle
    cx="3.5433099"
    cy="155.14999"
@@ -105,10 +105,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:51;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20008-9"
+   id="shape21163-9"
    transform="translate(24.8031,-20.0787)">
 					<title
-   id="title25">Sheet.20008</title>
+   id="title25">Sheet.21163</title>
 					<circle
    cx="3.5433099"
    cy="155.14999"
@@ -118,10 +118,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:51;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20009-11"
+   id="shape21164-11"
    transform="translate(38.9764,-20.0787)">
 					<title
-   id="title30">Sheet.20009</title>
+   id="title30">Sheet.21164</title>
 					<circle
    cx="3.5433099"
    cy="155.14999"
@@ -131,10 +131,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:51;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20010-13"
+   id="shape21165-13"
    transform="translate(28.3465)">
 					<title
-   id="title35">Sheet.20010</title>
+   id="title35">Sheet.21165</title>
 					<path
    d="m 0,102 h 25.98 a 2.3622,2.3622 0 0 1 2.37,2.36 v 51.97 a 2.3622,2.3622 0 0 1 -2.37,2.36 H 0 Z"
    class="st4"
@@ -143,10 +143,10 @@
    style="fill:#ffffff;fill-opacity:0.47999998;stroke:none;stroke-width:51;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20011-15"
+   id="shape21166-15"
    transform="translate(33.0709,-47.2441)">
 					<title
-   id="title40">Sheet.20011</title>
+   id="title40">Sheet.21166</title>
 					<path
    d="m 0,153.97 h 9.45 v 4.72 H 0 Z m 14.17,0 h 4.73 v 4.72 h -4.73 z"
    class="st3"

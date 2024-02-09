@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.695904"
-   height="51.024799"
-   viewBox="0 0 56.695902 51.024798"
+   width="0.78744191in"
+   height="0.7086767in"
+   viewBox="0 0 56.695913 51.024794"
    xml:space="preserve"
    class="st7"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview67"
    showgrid="false"
-   inkscape:zoom="2.0375038"
-   inkscape:cx="28.346703"
-   inkscape:cy="23.900299"
+   inkscape:zoom="1.5281301"
+   inkscape:cx="37.795532"
+   inkscape:cy="31.867007"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -121,16 +121,16 @@
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group4211-1"
+   id="group4468-1"
    transform="translate(30.7888,-34.0157)">
 			<title
    id="title22">Intune App Protection</title>
 			<g
-   id="group4212-2">
+   id="group4469-2">
 				<title
    id="title24">layer1</title>
 				<g
-   id="shape4213-3"
+   id="shape4470-3"
    transform="translate(0,-17.8648)">
 					<title
    id="title26">rect21</title>
@@ -142,7 +142,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:30.78879929;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4214-7"
+   id="shape4471-7"
    transform="translate(2.80289,-20.6004)">
 					<title
    id="title31">rect23</title>
@@ -154,7 +154,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:30.78879929;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4215-9"
+   id="shape4472-9"
    transform="translate(12.4798,-5.04289)">
 					<title
    id="title36">path25</title>
@@ -166,7 +166,7 @@
    style="fill:url(#grad0-12);stroke:none;stroke-width:30.78879929;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4216-13"
+   id="shape4473-13"
    transform="translate(17.4059)">
 					<title
    id="title41">path27</title>
@@ -178,7 +178,7 @@
    style="fill:#32bedd;stroke:none;stroke-width:30.78879929;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4217-15"
+   id="shape4474-15"
    transform="translate(37.1059,-4.02115)">
 					<title
    id="title46">rect29</title>
@@ -190,7 +190,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:30.78879929;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4218-17"
+   id="shape4475-17"
    transform="translate(20.3215,-29.2363)">
 					<title
    id="title51">circle31</title>
@@ -204,7 +204,7 @@
    style="fill:url(#grad0-20);stroke:none;stroke-width:30.78879929;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4219-21"
+   id="shape4476-21"
    transform="translate(35.0374,-15.3046)">
 					<title
    id="title56">path33</title>

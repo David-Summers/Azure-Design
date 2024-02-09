@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.696899"
-   height="51.020023"
-   viewBox="0 0 56.696898 51.020024"
+   width="0.78745431in"
+   height="0.70860904in"
+   viewBox="0 0 56.696708 51.02002"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview47"
    showgrid="false"
-   inkscape:zoom="2.6050204"
-   inkscape:cx="28.346461"
-   inkscape:cy="11.27715"
+   inkscape:zoom="1.9537718"
+   inkscape:cx="37.795154"
+   inkscape:cy="15.03615"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -114,20 +114,20 @@
 	</defs>
 	<g
    id="g43"
-   transform="translate(-5.66929,-5.5542783)">
+   transform="translate(-5.6694045,-5.5542783)">
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group2634-1"
+   id="group2836-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title22">O365 - Power App</title>
 			<g
-   id="group2635-2">
+   id="group2837-2">
 				<title
    id="title24">layer1</title>
 				<g
-   id="shape2636-3">
+   id="shape2838-3">
 					<title
    id="title26">path5</title>
 					<path
@@ -138,7 +138,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:5.55496979;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2637-7"
+   id="shape2839-7"
    transform="translate(21.5891,-2.16972e-5)">
 					<title
    id="title31">path15</title>
@@ -150,7 +150,7 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:5.55496979;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2638-11"
+   id="shape2840-11"
    transform="translate(33.9369,-13.7761)">
 					<title
    id="title36">path17</title>

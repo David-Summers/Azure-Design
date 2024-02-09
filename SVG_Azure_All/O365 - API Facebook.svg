@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692902"
-   height="56.692902"
-   viewBox="0 0 56.6929 56.692903"
+   width="0.78739941in"
+   height="0.78739941in"
+   viewBox="0 0 56.692756 56.692898"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview43"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="28.346461"
-   inkscape:cy="14.173204"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="37.795184"
+   inkscape:cy="18.897555"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -55,30 +55,30 @@
 
 	<g
    id="g39"
-   transform="translate(-5.66929,-5.6693014)">
+   transform="translate(-5.6693772,-5.6693014)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2834-1"
+   id="group3036-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title6">O365 - API Facebook</title>
 			<g
-   id="group2835-2">
+   id="group3037-2">
 				<title
    id="title8">Page-1</title>
 				<g
-   id="group2836-3">
+   id="group3038-3">
 					<title
    id="title10">Power Automate API: Facebook</title>
 					<g
-   id="group2837-4">
+   id="group3039-4">
 						<title
    id="title12">rect5918</title>
 						<g
-   id="shape2838-5">
+   id="shape3040-5">
 							<title
-   id="title14">Sheet.2838</title>
+   id="title14">Sheet.3040</title>
 							<rect
    x="0"
    y="39.685001"
@@ -90,14 +90,14 @@
 						</g>
 					</g>
 					<g
-   id="group2839-7"
+   id="group3041-7"
    transform="translate(9.79135,-9.43024)">
 						<title
    id="title20">path5920</title>
 						<g
-   id="shape2840-8">
+   id="shape3042-8">
 							<title
-   id="title22">Sheet.2840</title>
+   id="title22">Sheet.3042</title>
 							<path
    d="M 34.45,59.75 H 2.05 A 2.05497,2.05497 -180 0 0 0,61.8 v 32.53 a 2.05497,2.05497 -180 0 0 2.05,2.05 H 19.58 V 82.11 h -4.71 v -5.56 h 4.71 v -3.99 c 0,-4.71 2.9,-7.25 7.14,-7.25 l 4.22,0.25 v 4.95 h -2.9 c -2.29,0 -2.78,1.09 -2.78,2.66 v 3.51 h 5.44 l -0.73,5.56 h -4.71 v 14.14 h 9.31 a 2.05497,2.05497 -180 0 0 2.05,-2.05 V 61.68 a 2.05497,2.05497 -180 0 0 -2.17,-1.93 z"
    class="st2"
@@ -107,14 +107,14 @@
 						</g>
 					</g>
 					<g
-   id="group2841-10"
+   id="group3043-10"
    transform="translate(5.19791,-5.01643)">
 						<title
    id="title28">rect5922</title>
 						<g
-   id="shape2842-11">
+   id="shape3044-11">
 							<title
-   id="title30">Sheet.2842</title>
+   id="title30">Sheet.3044</title>
 							<rect
    x="0"
    y="50.745499"

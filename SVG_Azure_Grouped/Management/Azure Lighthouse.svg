@@ -95,18 +95,18 @@
 		<title
    id="title16">Page-1</title>
 		<g
-   id="group13744-1"
+   id="group15082-1"
    transform="translate(34.1619,-34.0157)">
 			<title
-   id="title18">Azure Lighthouse.13744</title>
+   id="title18">Azure Lighthouse.15082</title>
 			<g
-   id="group13745-2">
+   id="group15083-2">
 				<title
    id="title20">Icon471-AzureLighthouse</title>
 				<g
-   id="shape13746-3">
+   id="shape15084-3">
 					<title
-   id="title22">Sheet.13746</title>
+   id="title22">Sheet.15084</title>
 					<path
    d="M 48.19,122.21 36.88,92.38 A 0.88189,0.89634 -180 0 0 36.061102,91.803782 L 28,91.8 v -7.11 a 4.09449,4.16158 -180 1 0 -8.16,0 v 7.11 h -7.27 a 0.913386,0.928352 -180 0 0 -0.850394,0.576218 L 0,122.21 a 1.73228,1.76067 -180 0 0 1.42,2.5 h 45.35 a 1.73228,1.76067 -180 0 0 1.42,-2.5 z"
    class="st1"
@@ -115,10 +115,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13747-7"
+   id="shape15085-7"
    transform="translate(1.41732)">
 					<title
-   id="title27">Sheet.13747</title>
+   id="title27">Sheet.15085</title>
 					<path
    d="M 4.94,105.95 32.13,91.8 h 2.36 a 0.88189,0.89634 0 0 1 0.850394,0.60823 L 37.95,99.29 0,118.75 Z m 19.44,18.69 18.9,-11.52 3.43,9.09 a 1.76378,1.79268 0 0 1 -1.45,2.5 z"
    class="st2"
@@ -127,10 +127,10 @@
    style="fill:#83b9f9;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13748-9"
+   id="shape15086-9"
    transform="translate(10.4567,-32.9085)">
 					<title
-   id="title32">Sheet.13748</title>
+   id="title32">Sheet.15086</title>
 					<path
    d="m 13.23,100.96 -12.98,7.65 a 0.503937,0.512194 -180 0 0 -0.251969,0.44817 L 0,110.24 a 0.503937,0.512194 -180 0 0 0.503937,0.51219 L 2.46,110.75 v 13.96 h 2.45 v -13.96 h 17.14 v 13.96 h 2.42 v -13.96 h 1.99 a 0.503937,0.512194 -180 0 0 0.503937,-0.51219 L 26.96,109.05 a 0.503937,0.512194 -180 0 0 -0.251969,-0.44817 L 13.64,100.96 a 0.692913,0.704267 -180 0 0 -0.409449,0 z"
    class="st3"

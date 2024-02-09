@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.691601"
-   height="56.697201"
-   viewBox="0 0 56.6916 56.697201"
+   width="0.78737903in"
+   height="0.78745681in"
+   viewBox="0 0 56.691198 56.697201"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview53"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="28.3465"
-   inkscape:cy="28.3398"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="37.795128"
+   inkscape:cy="37.786193"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -111,23 +111,23 @@
 	</defs>
 	<g
    id="g49"
-   transform="translate(-34,-33.997098)">
+   transform="translate(-34.000441,-33.997098)">
 		<title
    id="title21">Page-1</title>
 		<g
-   id="group3497-1"
+   id="group3730-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title23">Log Analytics Query Pack</title>
 			<g
-   id="group3498-2">
+   id="group3731-2">
 				<title
-   id="title25">Sheet.3498</title>
+   id="title25">Sheet.3731</title>
 				<g
-   id="shape3499-3"
+   id="shape3732-3"
    transform="translate(16.2016,-16.1372)">
 					<title
-   id="title27">Sheet.3499</title>
+   id="title27">Sheet.3732</title>
 					<path
    d="M 39.2,85.44 A 4.40945,4.41337 -180 0 0 36.08,84.15 H 4.41 A 4.4315,4.43544 -180 0 0 0,88.57 v 31.73 a 4.4315,4.43544 -180 0 0 4.41,4.41 h 31.67 a 4.40945,4.41337 -180 0 0 4.41,-4.41 V 88.56 A 4.40945,4.41337 -180 0 0 39.2,85.44 Z"
    class="st1"
@@ -136,10 +136,10 @@
    style="fill:#773adc;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3500-5"
+   id="shape3733-5"
    transform="translate(7.68189,-7.60991)">
 					<title
-   id="title32">Sheet.3500</title>
+   id="title32">Sheet.3733</title>
 					<path
    d="M 39.2,85.44 A 4.40945,4.41337 -180 0 0 36.09,84.15 H 4.41 A 4.4315,4.43544 -180 0 0 0,88.57 v 31.73 a 4.4315,4.43544 -180 0 0 4.41,4.41 H 36.1 a 4.40945,4.41337 -180 0 0 4.41,-4.41 V 88.56 A 4.41575,4.41968 -180 0 0 39.2,85.44 Z"
    class="st2"
@@ -148,9 +148,9 @@
    style="fill:url(#grad0-8);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3501-9">
+   id="shape3734-9">
 					<title
-   id="title37">Sheet.3501</title>
+   id="title37">Sheet.3734</title>
 					<path
    d="M 36.08,124.7 H 4.41 A 4.4315,4.43544 0 0 1 0,120.29 V 88.56 a 4.4315,4.43544 0 0 1 4.41,-4.41 h 31.67 a 4.40945,4.41337 0 0 1 4.41,4.41 v 31.74 a 4.40945,4.41337 0 0 1 -4.41,4.41 z"
    class="st3"
@@ -159,10 +159,10 @@
    style="fill:url(#grad0-12);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3502-13"
+   id="shape3735-13"
    transform="translate(5.94646,-9.43516)">
 					<title
-   id="title42">Sheet.3502</title>
+   id="title42">Sheet.3735</title>
 					<path
    d="m 8.16,120.41 a 1.04882,1.04975 -180 0 0 -1.02,1.07 v 2.15 a 1.04882,1.04975 -180 0 0 1.02,1.08 h 19.41 a 1.05197,1.0529 -180 0 0 0.95,-0.67 1.04252,1.04345 -180 0 0 0.07,-0.4 v -2.15 a 1.04567,1.0466 -180 0 0 -1.02,-1.07 z M 0,121.46 a 1.03937,1.04029 0 0 1 1.04,-1.05 h 2.21 a 1.03937,1.04029 0 0 1 1.04,1.05 v 2.2 a 1.04252,1.04345 0 0 1 -1.05,1.05 H 1.04 A 1.04252,1.04345 0 0 1 0,123.67 Z m 8.16,-9.74 a 1.05197,1.0529 -180 0 0 -1.02,1.07 v 2.14 A 1.04882,1.04975 -180 0 0 8.16,116 h 19.41 a 1.05197,1.0529 -180 0 0 0.95,-0.66 1.03937,1.04029 -180 0 0 0.07,-0.41 v -2.14 a 1.04882,1.04975 -180 0 0 -1.02,-1.07 H 8.17 Z M 0,112.76 a 1.03937,1.04029 0 0 1 1.04,-1.04 h 2.21 a 1.03937,1.04029 0 0 1 1.04,1.04 v 2.21 a 1.04252,1.04345 0 0 1 -1.04,1.04 H 1.04 A 1.03937,1.04029 0 0 1 0,114.97 Z m 8.16,-9.73 a 1.04882,1.04975 -180 0 0 -1.02,1.07 v 2.14 a 1.05197,1.0529 -180 0 0 1.02,1.07 h 19.41 a 1.04882,1.04975 -180 0 0 1.02,-1.07 v -2.14 a 1.04567,1.0466 -180 0 0 -1.02,-1.07 H 8.17 Z M 0,104.07 a 1.03937,1.04029 0 0 1 1.04,-1.04 h 2.21 a 1.04252,1.04345 0 0 1 1.04,1.04 v 2.2 a 1.04252,1.04345 0 0 1 -1.04,1.05 H 1.04 A 1.04252,1.04345 0 0 1 0,106.27 Z"
    class="st4"

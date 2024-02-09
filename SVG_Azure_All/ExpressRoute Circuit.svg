@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692902"
-   height="51.02364"
-   viewBox="0 0 56.692901 51.023639"
+   width="0.78740168in"
+   height="0.70866191in"
+   viewBox="0 0 56.692829 51.023642"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview75"
    showgrid="false"
-   inkscape:zoom="1.9825435"
-   inkscape:cx="28.3465"
-   inkscape:cy="25.504322"
+   inkscape:zoom="1.4869072"
+   inkscape:cx="37.795348"
+   inkscape:cy="34.005777"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -161,23 +161,23 @@
 	</defs>
 	<g
    id="g71"
-   transform="translate(-34,-34.000184)">
+   transform="translate(-34.000079,-34.000184)">
 		<title
    id="title38">Page-1</title>
 		<g
-   id="group4844-1"
+   id="group5145-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title40">ExpressRoute Circuit</title>
 			<g
-   id="group4845-2">
+   id="group5146-2">
 				<title
    id="title42">Icon-networking-79</title>
 				<g
-   id="shape4846-3"
+   id="shape5147-3"
    transform="translate(7.87402,-10.9297)">
 					<title
-   id="title44">Sheet.4846</title>
+   id="title44">Sheet.5147</title>
 					<path
    d="m 14.96,90.13 5.4,3.06 L 5.4,118.56 0,115.51 Z m 5.43,3.53 5.4,-3.05 14.96,25.38 -5.4,3.05 z"
    class="st1"
@@ -186,10 +186,10 @@
    style="fill:#a67af4;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4847-5"
+   id="shape5148-5"
    transform="translate(13.0394,-4.84323)">
 					<title
-   id="title49">Sheet.4847</title>
+   id="title49">Sheet.5148</title>
 					<rect
    x="0"
    y="112.931"
@@ -200,10 +200,10 @@
    style="fill:#773adc;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4848-7"
+   id="shape5149-7"
    transform="translate(20.9764,-36.1546)">
 					<title
-   id="title54">Sheet.4848</title>
+   id="title54">Sheet.5149</title>
 					<ellipse
    cx="7.5905499"
    cy="111.605"
@@ -214,10 +214,10 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4849-11"
+   id="shape5150-11"
    transform="translate(41.5118)">
 					<title
-   id="title59">Sheet.4849</title>
+   id="title59">Sheet.5150</title>
 					<ellipse
    cx="7.5905499"
    cy="111.605"
@@ -228,9 +228,9 @@
    style="fill:url(#grad0-14);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4850-15">
+   id="shape5151-15">
 					<title
-   id="title64">Sheet.4850</title>
+   id="title64">Sheet.5151</title>
 					<ellipse
    cx="7.5905499"
    cy="111.605"

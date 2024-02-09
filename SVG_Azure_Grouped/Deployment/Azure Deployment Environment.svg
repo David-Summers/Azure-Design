@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="53.861275"
-   viewBox="0 0 56.689997 53.861275"
+   width="0.78735858in"
+   height="0.74807084in"
+   viewBox="0 0 56.68986 53.861272"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview48"
    showgrid="false"
-   inkscape:zoom="2.3346919"
-   inkscape:cx="28.346451"
-   inkscape:cy="16.522305"
+   inkscape:zoom="1.7510245"
+   inkscape:cx="37.795144"
+   inkscape:cy="22.029665"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -92,20 +92,20 @@
 	</defs>
 	<g
    id="g44"
-   transform="translate(-13.2019,-13.203031)">
+   transform="translate(-13.202004,-13.203031)">
 		<title
    id="title16">Page-1</title>
 		<g
-   id="group18640-1"
+   id="group19760-1"
    transform="translate(13.2019,-34.0157)">
 			<title
-   id="title18">Azure Deployment Environment.18640</title>
+   id="title18">Azure Deployment Environment.19760</title>
 			<g
-   id="group18641-2">
+   id="group19761-2">
 				<title
    id="title20">layer1</title>
 				<g
-   id="shape18642-3"
+   id="shape19762-3"
    transform="translate(0,-3.1054)">
 					<title
    id="title22">path8751</title>
@@ -117,7 +117,7 @@
    style="fill:#4fc2b1;stroke:none;stroke-width:13.20189953;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18643-5">
+   id="shape19763-5">
 					<title
    id="title27">path8753</title>
 					<path
@@ -128,7 +128,7 @@
    style="fill:#5fe8c9;stroke:none;stroke-width:13.20189953;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18644-7"
+   id="shape19764-7"
    transform="translate(1.70079,-16.4437)">
 					<title
    id="title32">path8755</title>
@@ -140,7 +140,7 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:13.20189953;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18645-11"
+   id="shape19765-11"
    transform="translate(19.9111,-16.4063)">
 					<title
    id="title37">path8757</title>

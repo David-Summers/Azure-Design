@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.705276"
-   height="56.919209"
-   viewBox="0 0 56.705278 56.919208"
+   width="0.78757221in"
+   height="0.7905435in"
+   viewBox="0 0 56.705274 56.918821"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview55"
    showgrid="false"
-   inkscape:zoom="1.9041011"
-   inkscape:cx="28.351199"
-   inkscape:cy="28.182007"
+   inkscape:zoom="1.428068"
+   inkscape:cx="37.801551"
+   inkscape:cy="37.575961"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -98,20 +98,20 @@
 	</defs>
 	<g
    id="g51"
-   transform="translate(-33.2348,-33.2343)">
+   transform="translate(-33.2348,-33.234724)">
 		<title
    id="title18">Page-1</title>
 		<g
-   id="group3933-1"
+   id="group4182-1"
    transform="translate(33.2348,-34.0157)">
 			<title
    id="title20">IoT Windows 10 Core</title>
 			<g
-   id="group3934-2">
+   id="group4183-2">
 				<title
    id="title22">layer1</title>
 				<g
-   id="shape3935-3">
+   id="shape4184-3">
 					<title
    id="title24">path17</title>
 					<path
@@ -122,7 +122,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:33.23479843;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3936-7"
+   id="shape4185-7"
    transform="translate(18.0775,-15.8181)">
 					<title
    id="title29">path19</title>
@@ -134,7 +134,7 @@
    style="fill:#32bedd;stroke:none;stroke-width:33.23479843;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3937-9"
+   id="shape4186-9"
    transform="translate(18.8979,-16.8163)">
 					<title
    id="title34">path21</title>
@@ -146,7 +146,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:33.23479843;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3938-11"
+   id="shape4187-11"
    transform="translate(23.4889,-23.4752)">
 					<title
    id="title39">path23</title>
@@ -158,7 +158,7 @@
    style="fill:#f2f2f2;stroke:none;stroke-width:33.23479843;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3939-13"
+   id="shape4188-13"
    transform="translate(15.7761,-1.08317)">
 					<title
    id="title44">path25</title>

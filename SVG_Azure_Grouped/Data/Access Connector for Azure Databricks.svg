@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="61.393757"
-   height="68.075996"
-   viewBox="0 0 61.393758 68.075996"
+   width="0.8526873in"
+   height="0.94549584in"
+   viewBox="0 0 61.393337 68.075996"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview38"
    showgrid="false"
-   inkscape:zoom="2.3115725"
-   inkscape:cx="30.696676"
-   inkscape:cy="22.719799"
+   inkscape:zoom="1.7336869"
+   inkscape:cx="40.928724"
+   inkscape:cy="30.292929"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -56,26 +56,26 @@
 
 	<g
    id="g34"
-   transform="translate(-5.7222734,-5.6913002)">
+   transform="translate(-5.7225204,-5.6913002)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group21151-1"
+   id="group22390-1"
    transform="translate(10.9072,-34.0157)">
 			<title
-   id="title6">Access Connector for Azure Databricks.21151</title>
+   id="title6">Access Connector for Azure Databricks.22390</title>
 			<g
-   id="group21152-2">
+   id="group22391-2">
 				<title
    id="title8"> </title>
 				<g
-   id="group21153-3">
+   id="group22392-3">
 					<title
-   id="title10">Sheet.21153</title>
+   id="title10">Sheet.22392</title>
 					<g
-   id="shape21154-4">
+   id="shape22393-4">
 						<title
-   id="title12">Sheet.21154</title>
+   id="title12">Sheet.22393</title>
 						<path
    d="m 28.44,50.45 a 3.33291,3.32863 -180 0 0 0.45,-1.68 c 0,-1.86 -1.51,-3.37 -3.38,-3.37 -1.86,0 -3.37,1.51 -3.37,3.37 0,1.86 1.51,3.37 3.37,3.37 v 4.53 z m -2.93,44.9 c 1.87,0 3.38,1.51 3.38,3.37 0,1.87 -1.51,3.37 -3.38,3.37 -1.86,0 -3.37,-1.5 -3.37,-3.37 0,-0.61 0.16,-1.18 0.45,-1.68 z M 6.77,62.94 C 5.84,64.56 3.78,65.11 2.17,64.18 0.55,63.24 0,61.19 0.93,59.57 c 0.93,-1.61 3,-2.16 4.61,-1.23 a 3.33871,3.33443 0 0 1 1.24,1.23 z m 37.48,21.61 c 0.93,-1.61 2.99,-2.16 4.61,-1.23 1.61,0.93 2.16,2.99 1.23,4.6 -0.93,1.61 -2.99,2.16 -4.61,1.23 a 3.33444,3.33016 0 0 1 -1.23,-1.23 z m -37.48,0 c 0.94,1.61 0.39,3.67 -1.23,4.6 C 3.93,90.08 1.86,89.53 0.93,87.92 0,86.31 0.55,84.25 2.17,83.32 2.7,83.01 3.28,82.86 3.85,82.87 Z M 44.25,62.94 c -0.93,-1.61 -0.38,-3.67 1.23,-4.6 1.62,-0.93 3.68,-0.38 4.61,1.23 0.93,1.62 0.38,3.67 -1.23,4.61 -0.54,0.3 -1.11,0.45 -1.69,0.45 z"
    class="st1"
@@ -90,10 +90,10 @@
    style="stroke:#ff5f46;stroke-width:11.38599968" />
 					</g>
 					<g
-   id="shape21155-7"
+   id="shape22394-7"
    transform="translate(13.5109,-15.4081)">
 						<title
-   id="title19">Sheet.21155</title>
+   id="title19">Sheet.22394</title>
 						<path
    d="M 22.72,86.89 12,92.92 0.54,86.48 0,86.78 v 4.68 l 12,6.74 10.72,-6.02 v 2.48 L 12,100.69 0.55,94.25 0,94.56 v 0.79 l 12,6.74 12,-6.74 V 90.67 L 23.46,90.37 12,96.8 1.28,90.78 V 88.3 L 12,94.32 24,87.58 V 82.96 L 23.4,82.63 12,89.03 1.85,83.33 12,77.62 l 8.37,4.7 0.74,-0.42 V 81.34 L 12,76.22 0,82.96 v 0.73 l 12,6.74 10.72,-6.02 z"
    class="st3"
@@ -102,10 +102,10 @@
    style="fill:#ff5f46;stroke:none;stroke-width:2.84650993;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape21156-9"
+   id="shape22395-9"
    transform="translate(3.85567,-5.05715)">
 						<title
-   id="title24">Sheet.21156</title>
+   id="title24">Sheet.22395</title>
 						<path
    d="M 16.39,56.87 2.92,64.63 Z m 24,7.76 -15.81,-9.12 z m 2.93,23.28 V 69.69 Z M 26.93,100.74 40.39,92.98 Z M 2.92,92.98 18.74,102.09 Z M 0,69.7 v 18.22 z m 21.66,26.19 v 4.52 z M 36.47,70.26 40.39,68 Z M 2.92,89.61 6.85,87.35 Z M 6.85,70.26 2.92,68 Z m 33.54,19.35 -3.92,-2.26 z"
    class="st4"

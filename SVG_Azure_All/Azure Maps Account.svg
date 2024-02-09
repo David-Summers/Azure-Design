@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="50.240917"
-   height="50.171505"
-   viewBox="0 0 50.240916 50.171506"
+   width="0.69778877in"
+   height="0.69682467in"
+   viewBox="0 0 50.24079 50.171501"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview44"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="25.110186"
-   inkscape:cy="10.942458"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="33.480162"
+   inkscape:cy="14.589904"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -82,22 +82,22 @@
 	</defs>
 	<g
    id="g40"
-   transform="translate(-8.9055651,-8.9599534)">
+   transform="translate(-8.9056523,-8.9599534)">
 		<title
    id="title12">Page-1</title>
 		<g
-   id="group8299-1"
+   id="group8913-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title14">Azure Maps Account</title>
 			<g
-   id="group8300-2">
+   id="group8914-2">
 				<title
    id="title16"> atlasicon</title>
 				<g
-   id="shape8301-3">
+   id="shape8915-3">
 					<title
-   id="title18">Sheet.8301</title>
+   id="title18">Sheet.8915</title>
 					<path
    d="M 43.74,87.87 C 32.78,96.38 17.04,94.38 8.52,83.44 0,72.5 2,56.77 12.96,48.26 c 0.07,-0.07 0.14,-0.14 0.28,-0.21 11.03,-8.36 26.77,-6.15 35.15,4.86 8.3,11.01 6.23,26.52 -4.65,34.96 z"
    class="st1"
@@ -106,10 +106,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:5.32174015;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8302-7"
+   id="shape8916-7"
    transform="translate(13.6722,-17.0145)">
 					<title
-   id="title23">Sheet.8302</title>
+   id="title23">Sheet.8916</title>
 					<path
    d="M 18.68,66.71 0,96.38 23.41,87.3 Z"
    class="st2"
@@ -118,10 +118,10 @@
    style="fill:#9cebff;stroke:none;stroke-width:5.32174015;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8303-9"
+   id="shape8917-9"
    transform="translate(28.5612,-12.582)">
 					<title
-   id="title28">Sheet.8303</title>
+   id="title28">Sheet.8917</title>
 					<path
    d="M 0,68.28 11.6,96.38 3.79,62.28 Z"
    class="st3"
@@ -130,10 +130,10 @@
    style="fill:#ffffff;fill-opacity:0.7;stroke:none;stroke-width:5.32174015;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8304-11"
+   id="shape8918-11"
    transform="translate(27.9168,-12.5109)">
 					<title
-   id="title33">Sheet.8304</title>
+   id="title33">Sheet.8918</title>
 					<path
    d="m 0,86.37 7.02,-2.72 5.22,12.73 z"
    class="st4"

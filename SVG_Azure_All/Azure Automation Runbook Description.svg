@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="39.689999"
-   viewBox="0 0 56.690002 39.689999"
+   width="0.78735989in"
+   height="0.55124915in"
+   viewBox="0 0 56.689997 39.689952"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview21"
    showgrid="false"
-   inkscape:zoom="2.0312433"
-   inkscape:cx="28.346497"
-   inkscape:cy="19.847501"
+   inkscape:zoom="1.523433"
+   inkscape:cx="37.795279"
+   inkscape:cy="26.463294"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -53,22 +53,22 @@
 
 	<g
    id="g17"
-   transform="translate(-38.25,-38.25)">
+   transform="translate(-38.25,-38.250071)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group8979-1"
+   id="group9598-1"
    transform="translate(38.25,-38.25)">
 			<title
    id="title6">Azure Automation Runbook Description</title>
 			<g
-   id="group8980-2">
+   id="group9599-2">
 				<title
-   id="title8">Sheet.8980</title>
+   id="title8">Sheet.9599</title>
 				<g
-   id="shape8981-3">
+   id="shape9600-3">
 					<title
-   id="title10">Sheet.8981</title>
+   id="title10">Sheet.9600</title>
 					<path
    d="m 0,76.5 h 56.69 v 3.97 H 0 Z m 0,23.81 h 56.69 v 3.97 H 0 Z m 0,-11.9 h 40.49 v 3.96 H 0 Z m 0,23.81 h 40.49 v 3.97 H 0 Z"
    class="st1"

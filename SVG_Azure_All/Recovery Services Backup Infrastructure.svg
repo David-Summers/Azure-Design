@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692902"
-   height="56.694298"
-   viewBox="0 0 56.692903 56.694299"
+   width="0.78739738in"
+   height="0.78741676in"
+   viewBox="0 0 56.692679 56.694294"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview36"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="28.346449"
-   inkscape:cy="17.458498"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="37.795072"
+   inkscape:cy="23.277875"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -55,23 +55,23 @@
 
 	<g
    id="g32"
-   transform="translate(-12.24,-12.2387)">
+   transform="translate(-12.24016,-12.2387)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2154-1"
+   id="group2281-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Recovery Services Backup Infrastructure</title>
 			<g
-   id="group2155-2">
+   id="group2282-2">
 				<title
-   id="title8">Sheet.2155</title>
+   id="title8">Sheet.2282</title>
 				<g
-   id="shape2156-3"
+   id="shape2283-3"
    transform="translate(0,-21.0356)">
 					<title
-   id="title10">Sheet.2156</title>
+   id="title10">Sheet.2283</title>
 					<path
    d="M 0,67.29 H 15.08 V 82.16 H 0 Z m 20.75,0 H 35.89 V 82.16 H 20.75 Z m 20.86,0 H 56.69 V 82.16 H 41.61 Z M 0,88.08 h 35.89 v 14.87 H 0 Z m 41.61,0 h 15.08 v 14.87 H 41.61 Z"
    class="st1"
@@ -80,10 +80,10 @@
    style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2157-5"
+   id="shape2284-5"
    transform="translate(0,-21.0356)">
 					<title
-   id="title15">Sheet.2157</title>
+   id="title15">Sheet.2284</title>
 					<path
    d="m 0,88.08 h 35.89 v 14.87 H 0 Z m 41.61,0 h 15.08 v 14.87 H 41.61 Z"
    class="st2"
@@ -92,9 +92,9 @@
    style="fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2158-7">
+   id="shape2285-7">
 					<title
-   id="title20">Sheet.2158</title>
+   id="title20">Sheet.2285</title>
 					<rect
    x="0"
    y="87.829697"
@@ -105,9 +105,9 @@
    style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2159-9">
+   id="shape2286-9">
 					<title
-   id="title25">Sheet.2159</title>
+   id="title25">Sheet.2286</title>
 					<rect
    x="0"
    y="87.829697"

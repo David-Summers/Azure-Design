@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="42.520733"
-   height="56.690506"
-   viewBox="0 0 42.520732 56.690507"
+   width="0.59056425in"
+   height="0.78736621in"
+   viewBox="0 0 42.520632 56.690508"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview35"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="21.260196"
-   inkscape:cy="14.175555"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="28.346857"
+   inkscape:cy="18.900689"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -90,18 +90,18 @@
 	</defs>
 	<g
    id="g31"
-   transform="translate(-4.2516044,-5.6740461)">
+   transform="translate(-4.2516645,-5.6740461)">
 		<title
    id="title16">Page-1</title>
 		<g
-   id="group4151-1"
+   id="group4408-1"
    transform="translate(4.25197,-34.0157)">
 			<title
    id="title18">Intune Exchange On-Premises Access</title>
 			<g
-   id="shape4152-2">
+   id="shape4409-2">
 				<title
-   id="title20">Sheet.4152</title>
+   id="title20">Sheet.4409</title>
 				<path
    d="m 42.52,41.59 v 52.89 a 2.3811,1.86753 0 0 1 -2.38,1.9 H 2.42 A 2.3811,1.86753 0 0 1 0,94.48 V 41.59 a 2.3811,1.86753 0 0 1 2.42,-1.9 H 40.1 a 2.3811,1.86753 0 0 1 2.42,1.9 z"
    class="st1"
@@ -110,7 +110,7 @@
    style="fill:url(#grad0-5);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape4153-6"
+   id="shape4410-6"
    transform="translate(5.01732,-1.20056)">
 				<title
    id="title25">a1bc77ea-5288-41a0-8f9a-2d282cf</title>

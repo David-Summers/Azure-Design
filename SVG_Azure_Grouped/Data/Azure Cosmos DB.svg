@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="54.648869"
-   height="53.860294"
-   viewBox="0 0 54.648868 53.860294"
+   width="0.75900877in"
+   height="0.74805641in"
+   viewBox="0 0 54.648867 53.860185"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview55"
    showgrid="false"
-   inkscape:zoom="1.9522041"
-   inkscape:cx="27.324322"
-   inkscape:cy="26.4298"
+   inkscape:zoom="1.4641564"
+   inkscape:cx="36.432274"
+   inkscape:cy="35.239582"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -77,20 +77,20 @@
 	</defs>
 	<g
    id="g51"
-   transform="translate(-33.015178,-33.014004)">
+   transform="translate(-33.015178,-33.01413)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group21001-1"
+   id="group22233-1"
    transform="translate(31.9894,-34.0157)">
 			<title
-   id="title12">Azure Cosmos DB.21001</title>
+   id="title12">Azure Cosmos DB.22233</title>
 			<g
-   id="group21002-2">
+   id="group22234-2">
 				<title
    id="title14">layer1</title>
 				<g
-   id="shape21003-3"
+   id="shape22235-3"
    transform="translate(1.32222,-38.8194)">
 					<title
    id="title16">path14</title>
@@ -102,7 +102,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:33.01480103;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape21004-5"
+   id="shape22236-5"
    transform="translate(43.5231)">
 					<title
    id="title21">path16</title>
@@ -114,12 +114,12 @@
    style="fill:#50e6ff;stroke:none;stroke-width:33.01480103;stroke-linecap:butt" />
 				</g>
 				<g
-   id="group21005-7"
+   id="group22237-7"
    transform="translate(7.65415,-7.43718)">
 					<title
    id="title26">g26</title>
 					<g
-   id="shape21006-8"
+   id="shape22238-8"
    transform="translate(0.88498)">
 						<title
    id="title28">path1554</title>
@@ -133,7 +133,7 @@
    style="fill:url(#grad7-11);stroke:none;stroke-width:0.79913199;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape21007-12"
+   id="shape22239-12"
    transform="translate(0,-6.25559)">
 						<title
    id="title33">path20-2-1-1</title>
@@ -145,7 +145,7 @@
    style="fill:#f2f2f2;stroke:none;stroke-width:33.01480103;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape21008-14"
+   id="shape22240-14"
    transform="translate(21.0893,-16.4572)">
 						<title
    id="title38">path22-2-2-2</title>
@@ -158,7 +158,7 @@
 					</g>
 				</g>
 				<g
-   id="shape21009-16"
+   id="shape22241-16"
    transform="translate(0,-8.26195)">
 					<title
    id="title44">path28</title>

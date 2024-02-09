@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.19001"
-   height="56.693695"
-   viewBox="0 0 48.190008 56.693693"
+   width="0.66930473in"
+   height="0.78741127in"
+   viewBox="0 0 48.190001 56.693709"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview55"
    showgrid="false"
-   inkscape:zoom="1.7216726"
-   inkscape:cx="24.094408"
-   inkscape:cy="28.344095"
+   inkscape:zoom="1.2912567"
+   inkscape:cx="32.125845"
+   inkscape:cy="37.792096"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -102,16 +102,16 @@
 		<title
    id="title18">Page-1</title>
 		<g
-   id="group4154-1"
+   id="group4411-1"
    transform="translate(40.1916,-40.1916)">
 			<title
    id="title20">Intune Exchange Access</title>
 			<g
-   id="group4155-2">
+   id="group4412-2">
 				<title
    id="title22">layer1</title>
 				<g
-   id="shape4156-3">
+   id="shape4413-3">
 					<title
    id="title24">path19</title>
 					<path
@@ -122,7 +122,7 @@
    style="fill:#0078d4;stroke:none;stroke-width:40.1916008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4157-5"
+   id="shape4414-5"
    transform="translate(1.97384,-2.39052)">
 					<title
    id="title29">path21</title>
@@ -134,7 +134,7 @@
    style="fill:url(#grad0-8);stroke:none;stroke-width:40.1916008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4158-9"
+   id="shape4415-9"
    transform="translate(13.2724,-18.356)">
 					<title
    id="title34">path23</title>
@@ -146,7 +146,7 @@
    style="fill:#ffbd02;stroke:none;stroke-width:40.1916008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4159-11"
+   id="shape4416-11"
    transform="translate(13.2723,-18.6899)">
 					<title
    id="title39">path25</title>
@@ -158,7 +158,7 @@
    style="fill:#ffe452;stroke:none;stroke-width:40.1916008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4160-13"
+   id="shape4417-13"
    transform="translate(13.6808,-18.6897)">
 					<title
    id="title44">path27</title>

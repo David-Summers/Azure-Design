@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692963"
-   height="56.693348"
-   viewBox="0 0 56.692962 56.69335"
+   width="0.78740257in"
+   height="0.78740799in"
+   viewBox="0 0 56.692929 56.693375"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview70"
    showgrid="false"
-   inkscape:zoom="1.9056848"
-   inkscape:cx="28.346401"
-   inkscape:cy="27.904302"
+   inkscape:zoom="1.4292635"
+   inkscape:cx="37.795261"
+   inkscape:cy="37.205787"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -162,16 +162,16 @@
 		<title
    id="title26">Page-1</title>
 		<g
-   id="group1614-1"
+   id="group1723-1"
    transform="translate(33.1311,-34.0157)">
 			<title
    id="title28">Service Fabric Managed Cluster</title>
 			<g
-   id="group1615-2">
+   id="group1724-2">
 				<title
    id="title30">g14</title>
 				<g
-   id="shape1616-3"
+   id="shape1725-3"
    transform="translate(5.05134,-6.68849)">
 					<title
    id="title32">path2</title>
@@ -183,7 +183,7 @@
    style="fill:#e27908;stroke:none;stroke-width:33.1310997;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1617-5"
+   id="shape1726-5"
    transform="translate(7.0129,-0.180593)">
 					<title
    id="title37">circle4</title>
@@ -197,7 +197,7 @@
    style="fill:url(#grad0-8);stroke:none;stroke-width:33.1310997;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1618-9"
+   id="shape1727-9"
    transform="translate(40.5133,-25.0039)">
 					<title
    id="title42">circle6</title>
@@ -211,7 +211,7 @@
    style="fill:url(#linearGradient4582);stroke:none;stroke-width:33.1310997;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1619-13"
+   id="shape1728-13"
    transform="translate(0,-25.0039)">
 					<title
    id="title47">circle8</title>
@@ -225,7 +225,7 @@
    style="fill:url(#linearGradient4584);stroke:none;stroke-width:33.1310997;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1620-16"
+   id="shape1729-16"
    transform="translate(19.8816,-40.1178)">
 					<title
    id="title52">circle10</title>
@@ -239,7 +239,7 @@
    style="fill:url(#linearGradient4586);stroke:none;stroke-width:33.1310997;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1621-19"
+   id="shape1730-19"
    transform="translate(27.2791)">
 					<title
    id="title57">path12</title>

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.660198"
-   height="56.670265"
-   viewBox="0 0 56.660199 56.670264"
+   width="0.78694648in"
+   height="0.78708625in"
+   viewBox="0 0 56.660203 56.670121"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview36"
    showgrid="false"
-   inkscape:zoom="2.2929094"
-   inkscape:cx="28.332399"
-   inkscape:cy="17.451299"
+   inkscape:zoom="1.7196794"
+   inkscape:cx="37.776495"
+   inkscape:cy="23.268376"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,20 +54,20 @@
 
 	<g
    id="g32"
-   transform="translate(-12.24,-12.244034)">
+   transform="translate(-12.24,-12.244163)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group6261-1"
+   id="group6800-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Cost Alert</title>
 			<g
-   id="group6262-2">
+   id="group6801-2">
 				<title
    id="title8">g12</title>
 				<g
-   id="shape6263-3">
+   id="shape6802-3">
 					<title
    id="title10">path4</title>
 					<path
@@ -78,7 +78,7 @@
    style="fill:#57a300;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6264-5"
+   id="shape6803-5"
    transform="translate(25.541,-48.2116)">
 					<title
    id="title15">circle6</title>
@@ -92,7 +92,7 @@
    style="fill:#ffffff;fill-opacity:0.9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6265-7"
+   id="shape6804-7"
    transform="translate(25.541,-14.2095)">
 					<title
    id="title20">circle8</title>
@@ -106,7 +106,7 @@
    style="fill:#ffffff;fill-opacity:0.9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6266-9"
+   id="shape6805-9"
    transform="translate(18.8194,-21.52)">
 					<title
    id="title25">path10</title>

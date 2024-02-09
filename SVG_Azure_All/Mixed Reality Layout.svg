@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="51.0219"
-   height="56.696499"
-   viewBox="0 0 51.021902 56.6965"
+   width="0.70863575in"
+   height="0.78744942in"
+   viewBox="0 0 51.021717 56.696499"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview60"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="25.511789"
-   inkscape:cy="14.175301"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="34.015635"
+   inkscape:cy="18.900351"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -134,24 +134,24 @@
 	</defs>
 	<g
    id="g56"
-   transform="translate(-5.10236,-5.6678)">
+   transform="translate(-5.1024712,-5.6678)">
 		<title
    id="title25">Page-1</title>
 		<g
-   id="group3160-1"
+   id="group3375-1"
    transform="translate(5.10236,-34.0157)">
 			<title
    id="title27">Mixed Reality Layout</title>
 			<g
-   id="group3161-2">
+   id="group3376-2">
 				<title
    id="title29">g17</title>
 				<g
-   id="group3162-3">
+   id="group3377-3">
 					<title
    id="title31">g15</title>
 					<g
-   id="shape3163-4"
+   id="shape3378-4"
    transform="translate(25.5119,-14.1732)">
 						<title
    id="title33">path5</title>
@@ -163,7 +163,7 @@
    style="fill:url(#grad0-7);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape3164-8"
+   id="shape3379-8"
    transform="translate(25.5119,-14.1732)">
 						<title
    id="title38">path7</title>
@@ -175,7 +175,7 @@
    style="fill:url(#grad0-11);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape3165-12">
+   id="shape3380-12">
 						<title
    id="title43">path9</title>
 						<path
@@ -186,7 +186,7 @@
    style="fill:url(#grad0-15);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape3166-16"
+   id="shape3381-16"
    transform="translate(0,-28.3465)">
 						<title
    id="title48">path13</title>

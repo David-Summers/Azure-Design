@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="42.523323"
-   height="56.661701"
-   viewBox="0 0 42.523324 56.661699"
+   width="0.59060395in"
+   height="0.78697109in"
+   viewBox="0 0 42.523324 56.661696"
    xml:space="preserve"
    class="st7"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview58"
    showgrid="false"
-   inkscape:zoom="1.7870799"
-   inkscape:cx="21.259799"
-   inkscape:cy="28.330797"
+   inkscape:zoom="1.3403048"
+   inkscape:cx="28.346503"
+   inkscape:cy="37.774538"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -108,12 +108,12 @@
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group877-1"
+   id="group951-1"
    transform="translate(37.6997,-37.6997)">
 			<title
    id="title22">StorSimple Data Manager</title>
 			<g
-   id="shape878-2">
+   id="shape952-2">
 				<title
    id="title24">path21</title>
 				<path
@@ -124,7 +124,7 @@
    style="fill:url(#grad0-5);stroke:none;stroke-width:37.6996994;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape879-6"
+   id="shape953-6"
    transform="translate(0.0333225,-41.1615)">
 				<title
    id="title29">path23</title>
@@ -142,7 +142,7 @@
    style="stroke:none;stroke-width:37.6996994;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape880-9"
+   id="shape954-9"
    transform="translate(4.9984,-44.5944)">
 				<title
    id="title36">path25</title>
@@ -160,7 +160,7 @@
    style="stroke:none;stroke-width:37.6996994;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape881-12"
+   id="shape955-12"
    transform="translate(8.29734,-44.6278)">
 				<title
    id="title43">path27</title>
@@ -172,7 +172,7 @@
    style="fill:#198ab3;stroke:none;stroke-width:37.6996994;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape882-14"
+   id="shape956-14"
    transform="translate(9.29702,-11.032)">
 				<title
    id="title48">path29</title>

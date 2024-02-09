@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.200035"
-   height="56.691269"
-   viewBox="0 0 48.200036 56.691267"
+   width="0.66944492in"
+   height="0.78737867in"
+   viewBox="0 0 48.200039 56.691149"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview52"
    showgrid="false"
-   inkscape:zoom="2.4123528"
-   inkscape:cx="24.09491"
-   inkscape:cy="14.899398"
+   inkscape:zoom="1.809261"
+   inkscape:cx="32.126543"
+   inkscape:cy="19.865867"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -101,24 +101,24 @@
 	</defs>
 	<g
    id="g48"
-   transform="translate(-7.12109,-7.12303)">
+   transform="translate(-7.12109,-7.1231345)">
 		<title
    id="title17">Page-1</title>
 		<g
-   id="group6197-1"
+   id="group6736-1"
    transform="translate(7.12109,-34.0157)">
 			<title
    id="title19">Custom Location</title>
 			<g
-   id="group6198-2">
+   id="group6737-2">
 				<title
    id="title21">g10</title>
 				<g
-   id="group6199-3">
+   id="group6738-3">
 					<title
    id="title23">g14-9</title>
 					<g
-   id="shape6200-4"
+   id="shape6739-4"
    transform="translate(0.00327181,-5.79848)">
 						<title
    id="title25">path4</title>
@@ -130,7 +130,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:7.12108994" />
 					</g>
 					<g
-   id="shape6201-6"
+   id="shape6740-6"
    transform="translate(7.96032,-9.17127)">
 						<title
    id="title30">path6</title>
@@ -142,7 +142,7 @@
    style="fill:url(#grad0-9);stroke:none;stroke-width:7.12108994" />
 					</g>
 					<g
-   id="shape6202-10">
+   id="shape6741-10">
 						<title
    id="title35">path8</title>
 						<path
@@ -153,7 +153,7 @@
    style="fill:#32bedd;stroke:none;stroke-width:7.12108994" />
 					</g>
 					<g
-   id="shape6203-12"
+   id="shape6742-12"
    transform="translate(23.4622,-3.80584)">
 						<title
    id="title40">path10</title>

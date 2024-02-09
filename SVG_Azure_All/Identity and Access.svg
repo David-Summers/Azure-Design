@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="51.044777"
-   height="56.690998"
-   viewBox="0 0 51.044777 56.690999"
+   width="0.70895213in"
+   height="0.78737152in"
+   viewBox="0 0 51.044776 56.690639"
    xml:space="preserve"
    class="st7"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview60"
    showgrid="false"
-   inkscape:zoom="1.9378891"
-   inkscape:cx="23.427278"
-   inkscape:cy="26.873301"
+   inkscape:zoom="1.4534139"
+   inkscape:cx="31.236237"
+   inkscape:cy="35.830906"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -98,21 +98,21 @@
 	</defs>
 	<g
    id="g56"
-   transform="translate(-31.073722,-31.073302)">
+   transform="translate(-31.073722,-31.073688)">
 		<title
    id="title15">Page-1</title>
 		<g
-   id="group4334-1"
+   id="group4599-1"
    transform="translate(31.0976,-34.0157)">
 			<title
    id="title17">Identity and Access</title>
 			<g
-   id="group4335-2"
+   id="group4600-2"
    transform="translate(0,-3.6599)">
 				<title
    id="title19">Icon-identity-230</title>
 				<g
-   id="shape4336-3">
+   id="shape4601-3">
 					<title
    id="title21">path4</title>
 					<path
@@ -123,7 +123,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:31.0734005;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4337-7"
+   id="shape4602-7"
    transform="translate(16.2999,-9.25131)">
 					<title
    id="title26">path6-1</title>
@@ -135,7 +135,7 @@
    style="fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:31.0734005;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4338-9"
+   id="shape4603-9"
    transform="translate(10.3127,-26.0451)">
 					<title
    id="title31">circle8</title>
@@ -150,12 +150,12 @@
 				</g>
 			</g>
 			<g
-   id="group4339-13"
+   id="group4604-13"
    transform="translate(30.7409)">
 				<title
    id="title37"> Dashboard_Identityaccess-pathf</title>
 				<g
-   id="shape4340-14">
+   id="shape4605-14">
 					<title
    id="title39">path8</title>
 					<path
@@ -166,7 +166,7 @@
    style="fill:#fbd118;stroke:none;stroke-width:19.91049957;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4341-16"
+   id="shape4606-16"
    transform="translate(8.29849,-2.74871)">
 					<title
    id="title44">path10</title>
@@ -178,7 +178,7 @@
    style="fill:#f78c1e;fill-opacity:0.4;stroke:none;stroke-width:19.91049957;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4342-18"
+   id="shape4607-18"
    transform="translate(3.84913,-19.7544)">
 					<title
    id="title49">path12</title>

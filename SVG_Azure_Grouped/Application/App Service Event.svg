@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="36.855198"
-   height="55.615257"
-   viewBox="0 0 36.855198 55.615258"
+   width="0.51187921in"
+   height="0.77243638in"
+   viewBox="0 0 36.855051 55.615257"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview31"
    showgrid="false"
-   inkscape:zoom="1.8923449"
-   inkscape:cx="18.427597"
-   inkscape:cy="27.258379"
+   inkscape:zoom="1.4192545"
+   inkscape:cx="24.570198"
+   inkscape:cy="36.34461"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -85,22 +85,22 @@
 	</defs>
 	<g
    id="g27"
-   transform="translate(-33.997402,-33.999619)">
+   transform="translate(-33.997611,-33.999619)">
 		<title
    id="title14">Page-1</title>
 		<g
-   id="group15817-1"
+   id="group17263-1"
    transform="translate(34,-34.0157)">
 			<title
-   id="title16">App Service Event.15817</title>
+   id="title16">App Service Event.17263</title>
 			<g
-   id="group15818-2">
+   id="group17264-2">
 				<title
    id="title18">MsPortalFx.base.images-37</title>
 				<g
-   id="shape15819-3">
+   id="shape17265-3">
 					<title
-   id="title20">Sheet.15819</title>
+   id="title20">Sheet.17265</title>
 					<path
    d="M 15.53,98.95 H 0.83 a 0.759507,0.738398 0 0 1 -0.832598,-0.617906 0.556124,0.540668 0 0 1 0.0730906,-0.26261 L 17.71,68.39 a 0.870732,0.846532 0 0 1 0.759507,-0.370744 L 35.85,68.02 a 0.756329,0.735309 0 0 1 0.832598,0.617906 0.56248,0.546847 0 0 1 -0.146181,0.367654 L 15.84,92.22 h 20.18 a 0.759507,0.738398 0 0 1 0.832598,0.617906 0.587903,0.571563 0 0 1 -0.212916,0.423266 L 3.09,122.98 c -0.32,0.15 -2.54,1.73 -1.45,-0.66 z"
    class="st1"

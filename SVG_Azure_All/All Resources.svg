@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.690014"
-   height="56.689999"
-   viewBox="0 0 56.690014 56.689999"
+   width="0.78735703in"
+   height="0.78735679in"
+   viewBox="0 0 56.689614 56.69"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview30"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="28.346508"
-   inkscape:cy="28.3398"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="37.795138"
+   inkscape:cy="37.786193"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -88,18 +88,18 @@
 	</defs>
 	<g
    id="g26"
-   transform="translate(-33.999992,-34.0043)">
+   transform="translate(-34.000434,-34.0043)">
 		<title
    id="title16">Page-1</title>
 		<g
-   id="group10935-1"
+   id="group11525-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title18">All Resources</title>
 			<g
-   id="shape10936-2">
+   id="shape11526-2">
 				<title
-   id="title20">Sheet.10936</title>
+   id="title20">Sheet.11526</title>
 				<path
    d="m 19.84,107.7 h 17.01 v 17.01 H 19.84 Z M 0,85.02 h 17.01 v -17 H 2.37 A 2.37402,2.37402 -180 0 0 0,70.39 Z m 2.37,39.69 H 17.01 V 107.7 H 0 v 14.63 a 2.37402,2.37402 -180 0 0 2.37,2.38 z M 0,104.87 H 17.01 V 87.86 H 0 Z m 39.69,19.84 h 14.66 a 2.37402,2.37402 -180 0 0 2.34,-2.38 V 107.7 h -17 z M 19.84,104.87 H 36.85 V 87.86 H 19.84 Z m 19.85,0 h 17 V 87.86 h -17 z m 0,-36.85 v 17 h 17 V 70.39 a 2.37402,2.37402 -180 0 0 -2.34,-2.37 z m -19.85,17 h 17.01 v -17 H 19.84 Z"
    class="st1"

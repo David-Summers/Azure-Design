@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="54.475491"
-   height="47.418877"
-   viewBox="0 0 54.475489 47.418877"
+   width="0.75660342in"
+   height="0.65859497in"
+   viewBox="0 0 54.475368 47.418877"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview31"
    showgrid="false"
-   inkscape:zoom="1.2866785"
-   inkscape:cx="27.238644"
-   inkscape:cy="23.711"
+   inkscape:zoom="0.96500969"
+   inkscape:cx="36.318153"
+   inkscape:cy="31.61464"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,22 +54,22 @@
 
 	<g
    id="g27"
-   transform="translate(-67.99886,-68.001124)">
+   transform="translate(-67.99908,-68.001124)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group142-1"
+   id="group194-1"
    transform="translate(66.8895,-68)">
 			<title
    id="title6">Warning</title>
 			<g
-   id="group143-2">
+   id="group195-2">
 				<title
-   id="title8">Sheet.143</title>
+   id="title8">Sheet.195</title>
 				<g
-   id="shape144-3">
+   id="shape196-3">
 					<title
-   id="title10">Sheet.144</title>
+   id="title10">Sheet.196</title>
 					<path
    d="M 51.15,183.42 H 5.54 c -3.63,0 -5.54,-3.69 -3.75,-6.69 L 13.3,156.92 24.69,138.28 c 1.83,-3.01 5.47,-3.05 7.25,-0.05 l 11.55,19.4 11.39,19.14 c 1.81,2.99 -0.02,6.65 -3.73,6.65 z"
    class="st1"
@@ -78,10 +78,10 @@
    style="fill:#db7500;stroke:none;stroke-width:68;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape145-5"
+   id="shape197-5"
    transform="translate(24.6238,-7.15426)">
 					<title
-   id="title15">Sheet.145</title>
+   id="title15">Sheet.197</title>
 					<ellipse
    cx="3.72263"
    cy="179.77299"
@@ -92,10 +92,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:68;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape146-7"
+   id="shape198-7"
    transform="translate(25.1989,-16.1341)">
 					<title
-   id="title20">Sheet.146</title>
+   id="title20">Sheet.198</title>
 					<path
    d="M 3.89,166.52 H 0 l 0.99,16.9 h 4.69 l 1,-16.9 z"
    class="st2"

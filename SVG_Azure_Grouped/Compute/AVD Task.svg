@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.694199"
-   height="56.690109"
-   viewBox="0 0 56.694198 56.690109"
+   width="0.78741515in"
+   height="0.78735834in"
+   viewBox="0 0 56.693799 56.690111"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview54"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="28.3465"
-   inkscape:cy="28.339809"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="37.795128"
+   inkscape:cy="37.786205"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -109,23 +109,23 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g50"
-   transform="translate(-34,-34.004199)">
+   transform="translate(-34.000441,-34.004199)">
 		<title
    id="title12">Page-1</title>
 		<g
-   id="group12740-1"
+   id="group13465-1"
    transform="translate(34,-34.0157)">
 			<title
-   id="title14">AVD Task.12740</title>
+   id="title14">AVD Task.13465</title>
 			<g
-   id="group12741-2">
+   id="group13466-2">
 				<title
    id="title16">MsPortalFx.base.images-46</title>
 				<g
-   id="shape12742-3"
+   id="shape13467-3"
    transform="translate(5.39025,-14.8661)">
 					<title
-   id="title18">Sheet.12742</title>
+   id="title18">Sheet.13467</title>
 					<path
    d="M 43.98,107.66 H 26.35 a 0.946281,0.922835 0 0 1 -0.946281,-0.92284 L 25.41,100.18 h -4.74 v 6.56 a 0.949511,0.925984 0 0 1 -0.946281,0.92284 L 1.9,107.66 A 1.89579,1.84882 -180 0 0 0,109.51 v 8.51 h 4.73 v -4.73 a 0.949511,0.925984 0 0 1 0.949511,-0.92284 L 20.67,112.37 v 12.34 h 4.74 v -12.32 h 14.78 a 0.946281,0.922835 0 0 1 0.946281,0.92284 L 41.14,118.13 h 4.75 v -8.62 a 1.89579,1.84882 -180 0 0 -1.91,-1.85 z"
    class="st1"
@@ -134,10 +134,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12743-5"
+   id="shape13468-5"
    transform="translate(18.7512,-38.1701)">
 					<title
-   id="title23">Sheet.12743</title>
+   id="title23">Sheet.13468</title>
 					<path
    d="m 0,123.03 a 1.7182,1.67563 -180 0 0 1.72,1.68 h 15.56 a 1.7182,1.67563 -180 0 0 1.71,-1.68 v -15.17 a 1.7182,1.67563 -180 0 0 -1.71,-1.67 H 1.72 A 1.7182,1.67563 -180 0 0 0,107.86 Z"
    class="st2"
@@ -146,10 +146,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12744-7"
+   id="shape13469-7"
    transform="translate(22.3975,-41.726)">
 					<title
-   id="title28">Sheet.12744</title>
+   id="title28">Sheet.13469</title>
 					<path
    d="m 0,123.68 a 1.05934,1.03309 -180 0 0 1.06,1.03 h 9.58 a 1.05934,1.03309 -180 0 0 1.06,-1.03 v -9.35 A 1.05934,1.03309 -180 0 0 10.64,113.3 H 1.06 A 1.05934,1.03309 -180 0 0 0,114.33 Z"
    class="st3"
@@ -158,10 +158,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12745-9"
+   id="shape13470-9"
    transform="translate(0,-6.39685)">
 					<title
-   id="title33">Sheet.12745</title>
+   id="title33">Sheet.13470</title>
 					<path
    d="m 0,123.34 a 1.40492,1.37011 -180 0 0 1.4,1.37 h 12.7 a 1.40492,1.37011 -180 0 0 1.41,-1.37 V 110.95 A 1.40492,1.37011 -180 0 0 14.1,109.58 H 1.4 A 1.40492,1.37011 -180 0 0 0,110.95 Z"
    class="st4"
@@ -170,10 +170,10 @@
    style="fill:url(#linearGradient4566);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12746-13"
+   id="shape13471-13"
    transform="translate(20.6729)">
 					<title
-   id="title38">Sheet.12746</title>
+   id="title38">Sheet.13471</title>
 					<path
    d="m 0,123.34 a 1.40492,1.37011 -180 0 0 1.4,1.37 h 12.7 a 1.40492,1.37011 -180 0 0 1.41,-1.37 V 110.95 A 1.40492,1.37011 -180 0 0 14.1,109.58 H 1.4 A 1.40492,1.37011 -180 0 0 0,110.95 Z"
    class="st4"
@@ -182,10 +182,10 @@
    style="fill:url(#linearGradient4568);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12747-16"
+   id="shape13472-16"
    transform="translate(41.1842,-6.29606)">
 					<title
-   id="title43">Sheet.12747</title>
+   id="title43">Sheet.13472</title>
 					<path
    d="m 0,123.34 a 1.40492,1.37011 -180 0 0 1.4,1.37 h 12.7 a 1.40492,1.37011 -180 0 0 1.41,-1.37 V 110.95 A 1.40492,1.37011 -180 0 0 14.1,109.58 H 1.4 A 1.40492,1.37011 -180 0 0 0,110.95 Z"
    class="st4"

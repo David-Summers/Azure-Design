@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.693001"
-   height="56.693001"
-   viewBox="0 0 56.693002 56.693"
+   width="0.78740078in"
+   height="0.78740078in"
+   viewBox="0 0 56.692764 56.693002"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview47"
    showgrid="false"
-   inkscape:zoom="1.8996715"
-   inkscape:cx="28.346399"
-   inkscape:cy="28.100099"
+   inkscape:zoom="1.4247573"
+   inkscape:cx="37.795107"
+   inkscape:cy="37.466704"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -101,20 +101,20 @@
 	</defs>
 	<g
    id="g43"
-   transform="translate(-33.5231,-33.523099)">
+   transform="translate(-33.523357,-33.523099)">
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group35-1"
+   id="group73-1"
    transform="translate(33.5231,-34.0157)">
 			<title
    id="title22">Windows Virtual Desktop</title>
 			<g
-   id="group36-2">
+   id="group74-2">
 				<title
    id="title24">layer1</title>
 				<g
-   id="shape37-3">
+   id="shape75-3">
 					<title
    id="title26">circle19</title>
 					<circle
@@ -126,7 +126,7 @@
    style="fill:url(#grad4-6);stroke:none;stroke-width:33.52310181;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape38-7"
+   id="shape76-7"
    transform="translate(3.93182,-3.93182)">
 					<title
    id="title31">circle21</title>
@@ -139,7 +139,7 @@
    style="fill:#005ba1;stroke:none;stroke-width:33.52310181;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape39-9"
+   id="shape77-9"
    transform="translate(15.0396,-12.9509)">
 					<title
    id="title36">path23</title>

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="45.350002"
-   height="56.686092"
-   viewBox="0 0 45.350004 56.686093"
+   width="0.62985772in"
+   height="0.78730255in"
+   viewBox="0 0 45.349499 56.686094"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview47"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="22.676999"
-   inkscape:cy="28.335893"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="30.235834"
+   inkscape:cy="37.780984"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -78,22 +78,22 @@
 	</defs>
 	<g
    id="g43"
-   transform="translate(-33.999999,-34.0043)">
+   transform="translate(-34.000632,-34.0043)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group8571-1"
+   id="group9190-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title12">Azure Firewall Threat Intelligence</title>
 			<g
-   id="group8572-2">
+   id="group9191-2">
 				<title
-   id="title14">Sheet.8572</title>
+   id="title14">Sheet.9191</title>
 				<g
-   id="shape8573-3">
+   id="shape9192-3">
 					<title
-   id="title16">Sheet.8573</title>
+   id="title16">Sheet.9192</title>
 					<path
    d="m 45.35,94.48 c 0,15.25 -18.01,27.52 -21.93,30.01 a 1.41954,1.45238 0 0 1 -1.49,0 C 18.01,122 0,109.73 0,94.48 V 76.15 a 1.42569,1.45868 0 0 1 1.39,-1.46 c 14.01,-0.37 10.79,-6.67 21.29,-6.67 10.51,0 7.27,6.3 21.28,6.67 a 1.42569,1.45868 0 0 1 1.39,1.46 z"
    class="st1"
@@ -102,10 +102,10 @@
    style="fill:#3cd4c2;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8574-5"
+   id="shape9193-5"
    transform="translate(1.88142,-2.33501)">
 					<title
-   id="title21">Sheet.8574</title>
+   id="title21">Sheet.9193</title>
 					<path
    d="m 41.59,96.99 c 0,13.98 -16.52,25.23 -20.11,27.52 a 1.29329,1.32321 0 0 1 -1.37,0 C 16.52,122.22 0,110.96 0,96.99 V 80.16 a 1.3056,1.33581 0 0 1 1.27,-1.33 c 12.85,-0.36 9.9,-6.13 19.53,-6.13 9.64,0 6.68,5.77 19.52,6.13 a 1.3056,1.33581 0 0 1 1.28,1.33 z"
    class="st2"
@@ -114,10 +114,10 @@
    style="fill:url(#grad0-8);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8575-9"
+   id="shape9194-9"
    transform="translate(0.344876,-24.3121)">
 					<title
-   id="title26">Sheet.8575</title>
+   id="title26">Sheet.9194</title>
 					<path
    d="m 28.41,113.92 a 4.779,4.88956 -180 0 0 -4.66,3.83 H 6.81 A 3.07925,3.15049 -180 0 0 4.9,118.44 L 0,122.48 a 21.2469,21.7384 -180 0 0 0.54,2.23 l 5.65,-4.66 a 1.01615,1.03966 0 0 1 0.63,-0.22 h 16.94 a 4.76976,4.88011 -180 1 0 4.66,-5.93 z m 0,7.67 a 2.73438,2.79764 0 1 1 2.73,-2.79 2.73746,2.80079 0 0 1 -2.73,2.79 z"
    class="st3"
@@ -126,10 +126,10 @@
    style="fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8576-11"
+   id="shape9195-11"
    transform="translate(10.8871,-15.2293)">
 					<title
-   id="title31">Sheet.8576</title>
+   id="title31">Sheet.9195</title>
 					<path
    d="m 28.28,121.47 a 3.07925,3.15049 -180 0 0 -1.91,-0.68 H 9.44 a 4.77284,4.88326 -180 1 0 0,2.08 h 16.93 a 1.01923,1.04281 0 0 1 0.64,0.23 l 1.96,1.61 c 0.4,-0.56 0.79,-1.14 1.16,-1.72 z m -23.49,3.15 a 2.73438,2.79764 0 1 1 2.73,-2.79 2.73746,2.80079 0 0 1 -2.73,2.8 z"
    class="st4"
@@ -138,10 +138,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8577-13"
+   id="shape9196-13"
    transform="translate(9.39987,-32.5097)">
 					<title
-   id="title36">Sheet.8577</title>
+   id="title36">Sheet.9196</title>
 					<path
    d="m 35.95,122.04 -7.67,-6.3 a 3.0577,3.12844 -180 0 0 -1.91,-0.69 H 9.44 a 4.77284,4.88326 -180 1 0 0,2.08 h 16.93 a 1.03463,1.05857 0 0 1 0.64,0.23 l 8.94,7.35 z M 4.79,118.89 a 2.73438,2.79764 0 1 1 2.74,-2.8 2.73746,2.80079 0 0 1 -2.74,2.8 z"
    class="st5"

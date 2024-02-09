@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="50.7075"
-   height="55.814896"
-   viewBox="0 0 50.707499 55.814897"
+   width="0.70426905in"
+   height="0.7752049in"
+   viewBox="0 0 50.707403 55.814891"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview47"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="25.355301"
-   inkscape:cy="13.737034"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="33.806982"
+   inkscape:cy="18.315997"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -121,22 +121,22 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g43"
-   transform="translate(-6,-6.1111386)">
+   transform="translate(-6.0000596,-6.1111386)">
 		<title
    id="title15">Page-1</title>
 		<g
-   id="group642-1"
+   id="group694-1"
    transform="translate(6,-34.0157)">
 			<title
    id="title17">Video Indexer</title>
 			<g
-   id="group643-2">
+   id="group695-2">
 				<title
-   id="title19">Sheet.643</title>
+   id="title19">Sheet.695</title>
 				<g
-   id="shape644-3">
+   id="shape696-3">
 					<title
-   id="title21">Sheet.644</title>
+   id="title21">Sheet.696</title>
 					<path
    d="m 0,41.94 c 0,-1.4 1.57,-2.25 2.82,-1.58 l 46.95,26.09 c 1.25,0.73 1.25,2.5 0,3.17 L 2.82,95.71 C 1.57,96.38 0,95.52 0,94.12 Z M 9.39,54.5 v 27 L 33.68,68.03 Z"
    class="st1"
@@ -145,10 +145,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:6;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape645-7"
+   id="shape697-7"
    transform="translate(0,-21.9456)">
 					<title
-   id="title26">Sheet.645</title>
+   id="title26">Sheet.697</title>
 					<path
    d="m 0,96.38 v -12.8 h 9.39 v 12.8 z"
    class="st2"
@@ -157,10 +157,10 @@
    style="fill:url(#linearGradient4559);stroke:none;stroke-width:6;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape646-11"
+   id="shape698-11"
    transform="translate(15.7766,-10.4242)">
 					<title
-   id="title31">Sheet.646</title>
+   id="title31">Sheet.698</title>
 					<path
    d="M 16.03,90.04 4.63,96.38 0,88.45 11.39,82.11 Z"
    class="st2"
@@ -169,10 +169,10 @@
    style="fill:url(#linearGradient4561);stroke:none;stroke-width:6;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape647-14"
+   id="shape699-14"
    transform="translate(15.714,-32.0041)">
 					<title
-   id="title36">Sheet.647</title>
+   id="title36">Sheet.699</title>
 					<path
    d="M 4.7,82.11 16.09,88.45 11.46,96.38 0,90.04 Z"
    class="st2"

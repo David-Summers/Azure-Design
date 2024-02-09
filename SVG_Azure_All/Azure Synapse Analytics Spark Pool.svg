@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692699"
-   height="56.69043"
-   viewBox="0 0 56.692698 56.690431"
+   width="0.78739661in"
+   height="0.78736508in"
+   viewBox="0 0 56.692554 56.690426"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview96"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="28.346461"
-   inkscape:cy="14.175301"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="37.795184"
+   inkscape:cy="18.900351"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -147,35 +147,35 @@
 	</defs>
 	<g
    id="g92"
-   transform="translate(-5.66929,-5.67387)">
+   transform="translate(-5.6693772,-5.67387)">
 		<title
    id="title35">Page-1</title>
 		<g
-   id="group7908-1"
+   id="group8522-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title37">Azure Synapse Analytics Spark Pool</title>
 			<g
-   id="group7909-2">
+   id="group8523-2">
 				<title
    id="title39">Page-1</title>
 				<g
-   id="group7910-3">
+   id="group8524-3">
 					<title
-   id="title41">Sheet.7910</title>
+   id="title41">Sheet.8524</title>
 					<g
-   id="group7911-4"
+   id="group8525-4"
    transform="translate(0,-9.48043)">
 						<title
-   id="title43">Sheet.7911</title>
+   id="title43">Sheet.8525</title>
 						<g
-   id="group7912-5">
+   id="group8526-5">
 							<title
-   id="title45">Sheet.7912</title>
+   id="title45">Sheet.8526</title>
 							<g
-   id="shape7913-6">
+   id="shape8527-6">
 								<title
-   id="title47">Sheet.7913</title>
+   id="title47">Sheet.8527</title>
 								<path
    d="M 21.2,49.17 0,60.94 V 84.47 L 21.2,96.38 42.39,84.6 V 60.99 Z M 38.47,82.13 21.2,91.84 3.91,82.23 V 63.27 l 17.29,-9.7 17.27,9.73 z"
    class="st1"
@@ -185,14 +185,14 @@
 							</g>
 						</g>
 						<g
-   id="group7914-8"
+   id="group8528-8"
    transform="translate(0,-33.0995)">
 							<title
-   id="title53">Sheet.7914</title>
+   id="title53">Sheet.8528</title>
 							<g
-   id="shape7915-9">
+   id="shape8529-9">
 								<title
-   id="title55">Sheet.7915</title>
+   id="title55">Sheet.8529</title>
 								<path
    d="M 21.2,82.27 0,94.04 l 3.91,2.34 17.29,-9.71 17.27,9.71 3.92,-2.34 z"
    class="st2"
@@ -202,14 +202,14 @@
 							</g>
 						</g>
 						<g
-   id="group7916-13"
+   id="group8530-13"
    transform="translate(6.64957,-5.89864)">
 							<title
-   id="title61">Sheet.7916</title>
+   id="title61">Sheet.8530</title>
 							<g
-   id="shape7917-14">
+   id="shape8531-14">
 								<title
-   id="title63">Sheet.7917</title>
+   id="title63">Sheet.8531</title>
 								<path
    d="M 24.64,82.54 A 1.97085,1.91463 -180 0 0 23.77,81.79 15.7532,15.3039 -180 0 0 11.68,73.01 L 29.17,63.19 25.1,60.92 5.18,72.11 a 2.02484,1.96709 -180 0 0 1.02,3.68 1.84665,1.79399 -180 0 0 0.24,-0.07 l 0.34,1.38 a 11.6604,11.3278 0 0 1 13.07,5.86 L 0,94.11 4.05,96.38 23.91,85.23 a 1.96815,1.91201 -180 0 0 0.64,-0.63 l 0.21,-0.04 c -0.03,-0.08 -0.05,-0.15 -0.07,-0.22 a 1.98434,1.92774 -180 0 0 -0.05,-1.8 z"
    class="st3"
@@ -219,14 +219,14 @@
 							</g>
 						</g>
 						<g
-   id="group7918-16"
+   id="group8532-16"
    transform="translate(9.32238,-15.2857)">
 							<title
-   id="title69">Sheet.7918</title>
+   id="title69">Sheet.8532</title>
 							<g
-   id="shape7919-17">
+   id="shape8533-17">
 								<title
-   id="title71">Sheet.7919</title>
+   id="title71">Sheet.8533</title>
 								<path
    d="m 20.21,88.09 a 4.99459,4.85214 -180 1 0 5.01,4.85 4.99459,4.85214 -180 0 0 -5.01,-4.85 z M 3.52,78.26 a 4.99459,4.85214 -180 1 0 5,4.85 4.99459,4.85214 -180 0 0 -5,-4.85 z"
    class="st4"
@@ -237,18 +237,18 @@
 						</g>
 					</g>
 					<g
-   id="group7920-21"
+   id="group8534-21"
    transform="translate(34.4427)">
 						<title
-   id="title78">Sheet.7920</title>
+   id="title78">Sheet.8534</title>
 						<g
-   id="group7921-22">
+   id="group8535-22">
 							<title
-   id="title80">Sheet.7921</title>
+   id="title80">Sheet.8535</title>
 							<g
-   id="shape7922-23">
+   id="shape8536-23">
 								<title
-   id="title82">Sheet.7922</title>
+   id="title82">Sheet.8536</title>
 								<path
    d="m 22.25,89.81 -3.23,1.78 3.23,1.77 -0.7,1.24 -3.25,-1.78 v 3.56 h -1.4 v -3.56 l -3.23,1.78 -0.71,-1.24 3.23,-1.77 -3.23,-1.78 0.71,-1.23 3.23,1.77 v -3.56 h 1.4 v 3.56 l 3.25,-1.77 z M 8.45,78.59 v 4.1 h 2.82 L 7.04,88.17 V 84.06 H 4.23 Z m 2.26,13.68 c 0.06,0.08 0.13,0.17 0.2,0.29 0.06,0.12 0.12,0.23 0.17,0.35 0.06,0.12 0.09,0.25 0.14,0.37 0.03,0.13 0.05,0.26 0.05,0.35 H 9.85 V 95 H 8.45 V 93.63 H 7.04 V 95 H 5.64 V 93.63 H 4.23 V 95 H 2.81 V 93.63 H 1.41 V 92.27 H 0 V 90.9 H 1.41 V 89.54 H 0 V 88.17 H 1.41 V 86.79 H 0 V 85.43 H 1.41 V 84.06 H 0 V 82.69 H 1.41 V 81.33 H 0 V 79.95 H 1.41 V 78.59 H 0 v -1.37 h 1.41 v -1.37 h 1.4 v -1.36 h 1.42 v 1.36 h 1.41 v -1.36 h 1.4 v 1.36 h 1.41 v -1.36 h 1.4 v 1.36 h 1.42 v -1.36 h 1.41 v 1.36 h 1.4 v -1.36 h 1.41 v 1.36 h 1.41 v -1.36 h 1.4 v 1.36 h 1.42 v 1.37 h 1.41 v 1.37 h -1.41 v 1.36 h 1.41 v 1.38 h -1.41 v 1.36 h 1.41 v 1.37 h -1.41 v 1.37 H 18.3 V 77.22 H 2.81 v 15.05 z"
    class="st5"

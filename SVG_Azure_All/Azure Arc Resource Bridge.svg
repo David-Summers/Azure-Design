@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="45.29501"
-   height="56.688789"
-   viewBox="0 0 45.29501 56.68879"
+   width="0.62909836in"
+   height="0.78734559in"
+   viewBox="0 0 45.294842 56.688791"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview47"
    showgrid="false"
-   inkscape:zoom="1.8923752"
-   inkscape:cx="22.647938"
-   inkscape:cy="28.338133"
+   inkscape:zoom="1.4192791"
+   inkscape:cx="30.197304"
+   inkscape:cy="37.784238"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -95,23 +95,23 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g43"
-   transform="translate(-33.999561,-34.004842)">
+   transform="translate(-33.999767,-34.004842)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group9068-1"
+   id="group9687-1"
    transform="translate(33.9597,-34.0157)">
 			<title
    id="title12">Azure Arc Resource Bridge</title>
 			<g
-   id="group9069-2">
+   id="group9688-2">
 				<title
-   id="title14">Sheet.9069</title>
+   id="title14">Sheet.9688</title>
 				<g
-   id="shape9070-3"
+   id="shape9689-3"
    transform="translate(0.0248721)">
 					<title
-   id="title16">Sheet.9070</title>
+   id="title16">Sheet.9689</title>
 					<path
    d="m 25.53,109.01 v 0.72 a 5.71126,5.79634 0 1 1 -5.75,0 v -0.67 l -19.72,0.19 c 0,0 -0.06,7.91 0,8.22 0.31,1.8 2.4,3.56 6.25,4.93 a 56.9883,57.8372 -180 0 0 32.02,-0.04 c 4.17,-1.44 6.48,-3.29 6.91,-5.17 0.05,-0.23 0.07,-8.37 0.07,-8.37 z"
    class="st1"
@@ -120,10 +120,10 @@
    style="fill:#5ea0ef;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9071-5"
+   id="shape9690-5"
    transform="translate(0,-7.80737)">
 					<title
-   id="title21">Sheet.9071</title>
+   id="title21">Sheet.9690</title>
 					<path
    d="m 16.97,122.47 a 5.66774,5.75217 0 0 1 2.84,-4.94 V 109.1 C 8.62,109.69 0,113.12 0.04,117.18 c 0.04,3.74 7.44,6.79 17.37,7.53 a 5.66463,5.74901 0 0 1 -0.44,-2.24 z m 8.58,-13.42 v 8.49 a 5.59623,5.6796 0 0 1 2.42,7.08 c 9.98,-0.93 17.38,-4.15 17.35,-7.89 -0.04,-4.04 -8.65,-7.28 -19.77,-7.68 z"
    class="st2"
@@ -132,10 +132,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9072-7"
+   id="shape9691-7"
    transform="translate(19.8075,-2.14122)">
 					<title
-   id="title26">Sheet.9072</title>
+   id="title26">Sheet.9691</title>
 					<path
    d="m 5.75,109.68 v 2.19 a 5.71126,5.79634 0 1 1 -5.75,0 v -2.19 a 7.68238,7.79682 -180 1 0 5.75,0 z"
    class="st3"
@@ -144,10 +144,10 @@
    style="fill:#005ba1;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9073-9"
+   id="shape9692-9"
    transform="translate(18.8437,-6.14451)">
 					<title
-   id="title31">Sheet.9073</title>
+   id="title31">Sheet.9692</title>
 					<path
    d="m 3.84,124.71 a 3.83031,3.88737 -180 0 0 3.83,-3.89 3.78678,3.84319 -180 0 0 -2.83,-3.69 V 97.46 a 3.78367,3.84004 -180 0 0 2.84,-3.69 3.83031,3.88737 -180 0 0 -3.84,-3.91 3.83031,3.88737 -180 0 0 -3.83,3.89 3.78678,3.84319 -180 0 0 2.83,3.71 v 19.68 a 3.78367,3.84004 -180 0 0 -2.84,3.69 3.83342,3.89052 -180 0 0 3.84,3.88 z"
    class="st4"
@@ -156,10 +156,10 @@
    style="fill:url(#linearGradient4559);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9074-13"
+   id="shape9693-13"
    transform="translate(2.59603,-27.1369)">
 					<title
-   id="title36">Sheet.9074</title>
+   id="title36">Sheet.9693</title>
 					<path
    d="M 32.34,106.46 A 11.4847,11.6558 -180 0 0 20.62,95.16 11.7614,11.9366 -180 0 0 9.41,103.04 10.8816,11.0437 -180 0 0 0,113.81 a 11.0401,11.2046 -180 0 0 11.31,10.9 h 5.91 v -5 a 5.67706,5.76163 0 0 1 2.86,-10.76 5.67395,5.75848 0 0 1 2.88,10.76 v 5 h 7.88 a 9.57888,9.72157 -180 0 0 9.33,-9.26 9.15916,9.2956 -180 0 0 -7.83,-8.99 z"
    class="st4"

@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="55.228409"
-   height="55.568966"
-   viewBox="0 0 55.22841 55.568966"
+   width="0.76705706in"
+   height="0.77178699in"
+   viewBox="0 0 55.228236 55.568968"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview53"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="27.614409"
-   inkscape:cy="27.214571"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="36.819009"
+   inkscape:cy="36.285896"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -110,23 +110,23 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g49"
-   transform="translate(-34.000089,-34.000104)">
+   transform="translate(-34.000287,-34.000104)">
 		<title
    id="title16">Page-1</title>
 		<g
-   id="group1816-1"
+   id="group1925-1"
    transform="translate(32.5357,-34.0157)">
 			<title
    id="title18">Security Detonation Chamber</title>
 			<g
-   id="group1817-2">
+   id="group1926-2">
 				<title
-   id="title20">Sheet.1817</title>
+   id="title20">Sheet.1926</title>
 				<g
-   id="shape1818-3"
+   id="shape1927-3"
    transform="translate(17.2438,-18.6282)">
 					<title
-   id="title22">Sheet.1818</title>
+   id="title22">Sheet.1927</title>
 					<ellipse
    cx="17.334299"
    cy="107.796"
@@ -137,10 +137,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1819-5"
+   id="shape1928-5"
    transform="rotate(-45,2.8927094,118.669)">
 					<title
-   id="title27">Sheet.1819</title>
+   id="title27">Sheet.1928</title>
 					<path
    d="m 0,121.37 a 3.42533,3.34207 -180 0 0 3.43,3.34 h 25.32 a 3.42533,3.34207 -180 0 0 3.42,-3.34 v -0.47 a 3.42533,3.34207 -180 0 0 -3.42,-3.34 H 3.43 A 3.42533,3.34207 -180 0 0 0,120.9 Z"
    class="st2"
@@ -149,10 +149,10 @@
    style="fill:#767676;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1820-7"
+   id="shape1929-7"
    transform="translate(12.5504,-13.6234)">
 					<title
-   id="title32">Sheet.1820</title>
+   id="title32">Sheet.1929</title>
 					<ellipse
    cx="22.071199"
    cy="103.174"
@@ -163,10 +163,10 @@
    style="fill:url(#linearGradient4565);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1821-11"
+   id="shape1930-11"
    transform="translate(17.2438,-18.6282)">
 					<title
-   id="title37">Sheet.1821</title>
+   id="title37">Sheet.1930</title>
 					<ellipse
    cx="17.334299"
    cy="107.796"
@@ -177,10 +177,10 @@
    style="fill:url(#linearGradient4567);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1822-14"
+   id="shape1931-14"
    transform="translate(21.501,-32.3137)">
 					<title
-   id="title42">Sheet.1822</title>
+   id="title42">Sheet.1931</title>
 					<path
    d="m 26.17,118.08 a 5.28429,5.15585 0 0 1 -9.9,3.6 z M 9.9,121.68 A 5.28429,5.15585 0 0 1 0,118.08 Z"
    class="st4"

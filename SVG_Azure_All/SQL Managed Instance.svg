@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.696747"
-   height="56.701645"
-   viewBox="0 0 56.696746 56.701645"
+   width="0.78745508in"
+   height="0.78752309in"
+   viewBox="0 0 56.696674 56.701645"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview65"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="28.346409"
-   inkscape:cy="28.348439"
+   inkscape:zoom="1.4193037"
+   inkscape:cx="37.795225"
+   inkscape:cy="37.79793"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -117,23 +117,23 @@
 	</defs>
 	<g
    id="g61"
-   transform="translate(-34.000092,-34.001294)">
+   transform="translate(-34.000172,-34.001294)">
 		<title
    id="title23">Page-1</title>
 		<g
-   id="group1281-1"
+   id="group1380-1"
    transform="translate(34.0003,-34.0157)">
 			<title
    id="title25">SQL Managed Instance</title>
 			<g
-   id="group1282-2">
+   id="group1381-2">
 				<title
    id="title27">Icon-databases-136</title>
 				<g
-   id="shape1283-3"
+   id="shape1382-3"
    transform="translate(0,-0.202716)">
 					<title
-   id="title29">Sheet.1283</title>
+   id="title29">Sheet.1382</title>
 					<path
    d="m 32.75,122.78 a 1.93423,1.95959 0 0 1 -1.9,1.93 H 1.9 A 1.90088,1.9258 0 0 1 0,122.78 V 70.14 a 1.86753,1.89202 0 0 1 1.9,-1.92 h 28.95 a 1.90088,1.9258 0 0 1 1.9,1.92 z"
    class="st1"
@@ -142,10 +142,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1284-7"
+   id="shape1383-7"
    transform="translate(4.80222,-33.2792)">
 					<title
-   id="title34">Sheet.1284</title>
+   id="title34">Sheet.1383</title>
 					<path
    d="m 0,121.09 a 3.56832,3.6151 0 0 1 3.53,-3.58 h 16.35 a 3.56832,3.6151 0 0 1 3.66,3.58 3.56832,3.6151 0 0 1 -3.66,3.62 H 3.53 A 3.56832,3.6151 0 0 1 0,121.09 Z m 0,-10.67 a 3.56832,3.6151 0 0 1 3.53,-3.62 h 16.35 a 3.56832,3.6151 0 0 1 3.66,3.62 3.56832,3.6151 0 0 1 -3.66,3.58 H 3.53 A 3.56832,3.6151 0 0 1 0,110.42 Z"
    class="st2"
@@ -154,10 +154,10 @@
    style="fill:#003067;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1285-9"
+   id="shape1384-9"
    transform="translate(6.13617,-45.1381)">
 					<title
-   id="title39">Sheet.1285</title>
+   id="title39">Sheet.1384</title>
 					<ellipse
    cx="2.4011099"
    cy="122.276"
@@ -168,10 +168,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1286-11"
+   id="shape1385-11"
    transform="translate(6.13617,-34.4617)">
 					<title
-   id="title44">Sheet.1286</title>
+   id="title44">Sheet.1385</title>
 					<ellipse
    cx="2.4011099"
    cy="122.276"
@@ -182,10 +182,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1287-13"
+   id="shape1386-13"
    transform="translate(6.93654)">
 					<title
-   id="title49">Sheet.1287</title>
+   id="title49">Sheet.1386</title>
 					<path
    d="M 49.76,113.53 A 11.2052,11.3521 -180 0 0 40.05,102.65 14.0732,14.2577 -180 0 0 25.55,89.13 14.4067,14.5956 -180 0 0 11.74,98.52 13.3395,13.5144 -180 0 0 0,111.53 13.5396,13.7171 -180 0 0 14.01,124.71 h 24.64 a 11.3052,11.4535 -180 0 0 11.11,-11.18 z"
    class="st4"
@@ -194,10 +194,10 @@
    style="fill:url(#grad0-16);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1288-17"
+   id="shape1387-17"
    transform="translate(14.8402,-3.75025)">
 					<title
-   id="title54">Sheet.1288</title>
+   id="title54">Sheet.1387</title>
 					<path
    d="m 28.88,118.53 v -11.36 h -3.1 v 13.92 h 8.17 v -2.56 z M 5.2,112.95 a 7.43678,7.53428 0 0 1 -1.7,-1.05 1.46735,1.48658 0 0 1 -0.4,-1.08 1.13386,1.14872 0 0 1 0.5,-1.01 2.20102,2.22988 0 0 1 1.4,-0.41 5.5359,5.60848 0 0 1 3.34,0.98 v -2.9 A 9.6378,9.76415 -180 0 0 5,106.97 a 5.63594,5.70983 -180 0 0 -3.63,1.12 3.66836,3.71646 -180 0 0 -1.37,3 4.46874,4.52732 -180 0 0 3.13,4.06 8.37054,8.48029 0 0 1 2.04,1.21 1.40065,1.41901 0 0 1 0.5,1.08 1.13386,1.14872 0 0 1 -0.5,1.02 2.50116,2.53395 0 0 1 -1.5,0.4 5.43585,5.50712 0 0 1 -3.6,-1.42 v 3.11 a 7.50347,7.60185 -180 0 0 3.43,0.78 6.36962,6.45313 -180 0 0 3.84,-0.95 3.56832,3.6151 -180 0 0 1.43,-3.07 3.33488,3.3786 -180 0 0 -0.83,-2.37 7.87031,7.9735 -180 0 0 -2.74,-1.99 z m 17.21,5.34 a 7.90366,8.00728 -180 0 0 1.1,-4.26 7.60352,7.70321 -180 0 0 -0.83,-3.78 5.90273,5.98012 -180 0 0 -2.3,-2.5 6.46966,6.55448 -180 0 0 -3.54,-0.88 7.37008,7.46671 -180 0 0 -3.33,0.98 6.23622,6.31798 -180 0 0 -2.44,2.6 8.40389,8.51407 -180 0 0 -0.9,3.85 7.53682,7.63564 -180 0 0 0.8,3.55 6.23622,6.31798 -180 0 0 2.27,2.5 6.66975,6.7572 -180 0 0 3.33,0.98 l 2.84,3.38 h 4 l -3.97,-3.72 a 6.06948,6.14905 -180 0 0 2.97,-2.7 z m -3.1,-0.85 a 3.06809,3.10831 0 0 1 -2.54,1.19 3.03474,3.07453 0 0 1 -2.5,-1.22 5.00232,5.0679 0 0 1 -0.93,-3.38 4.86892,4.93276 0 0 1 0.97,-3.38 3.06809,3.10831 0 0 1 2.56,-1.25 2.86799,2.9056 0 0 1 2.47,1.25 5.13571,5.20304 0 0 1 0.94,3.38 4.90227,4.96654 0 0 1 -0.97,3.41 z"
    class="st5"

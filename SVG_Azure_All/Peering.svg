@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.696762"
-   height="48.574074"
-   viewBox="0 0 56.696762 48.574075"
+   width="0.78745443in"
+   height="0.67463946in"
+   viewBox="0 0 56.696627 48.574075"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview42"
    showgrid="false"
-   inkscape:zoom="2.0244305"
-   inkscape:cx="28.351261"
-   inkscape:cy="24.284334"
+   inkscape:zoom="1.5183239"
+   inkscape:cx="37.801656"
+   inkscape:cy="32.379084"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -77,23 +77,23 @@
 	</defs>
 	<g
    id="g38"
-   transform="translate(-33.995239,-33.998257)">
+   transform="translate(-33.995384,-33.998257)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group2437-1"
+   id="group2584-1"
    transform="translate(34,-34.3816)">
 			<title
    id="title12">Peering</title>
 			<g
-   id="group2438-2">
+   id="group2585-2">
 				<title
-   id="title14">Sheet.2438</title>
+   id="title14">Sheet.2585</title>
 				<g
-   id="shape2439-3"
+   id="shape2586-3"
    transform="translate(12.632,-16.5148)">
 					<title
-   id="title16">Sheet.2439</title>
+   id="title16">Sheet.2586</title>
 					<path
    d="M 44.06,106.56 A 9.91165,9.96904 -180 0 0 35.47,96.88 12.4683,12.5405 -180 0 0 22.65,84.9 12.8272,12.9015 -180 0 0 10.39,93.38 11.7976,11.8659 -180 0 0 0,104.83 11.9928,12.0623 -180 0 0 12.3,116.58 h 21.82 a 10.0376,10.0957 -180 0 0 9.94,-10.02 z"
    class="st1"
@@ -102,10 +102,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2440-7"
+   id="shape2587-7"
    transform="translate(22.6066,-20.7678)">
 					<title
-   id="title21">Sheet.2440</title>
+   id="title21">Sheet.2587</title>
 					<path
    d="m 22.51,102.18 -5.87,-5.74 c -0.63,-0.63 -1.18,-0.42 -1.18,0.58 v 2.58 a 0.705277,0.70936 0 0 1 -0.705277,0.71253 L 14.72,100.31 c -3.78,0 -14.34,1.01 -14.72,15.52 a 0.736762,0.741028 -180 0 0 0.736762,0.7442 L 4.49,116.58 a 0.739911,0.744195 -180 0 0 0.743059,-0.74103 L 5.23,115.77 a 8.85689,8.90817 0 0 1 9.62,-10.75 0.739911,0.744195 0 0 1 0.736762,0.7442 L 15.58,108.15 c 0,1.19 0.39,1.39 1.19,0.58 l 5.74,-5.32 a 0.736762,0.741028 -180 0 0 0.19521,-1.02921 0.821773,0.826531 -180 0 0 -0.19521,-0.19634 z"
    class="st2"
@@ -114,10 +114,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2441-9"
+   id="shape2588-9"
    transform="translate(0.406178)">
 					<title
-   id="title26">Sheet.2441</title>
+   id="title26">Sheet.2588</title>
 					<ellipse
    cx="16.9361"
    cy="99.541603"
@@ -128,10 +128,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2442-11"
+   id="shape2589-11"
    transform="translate(0,-0.918368)">
 					<title
-   id="title31">Sheet.2442</title>
+   id="title31">Sheet.2589</title>
 					<path
    d="m 34.65,99.88 h -0.03 a 17.3171,17.4173 -180 1 0 0,1.15 h 0.03 z m -7.18,0 a 19.9304,20.0458 -180 0 0 -1.39,-7.25 h 5.35 a 15.9663,16.0588 0 0 1 2.03,7.25 z m -26.26,1.15 h 6.23 a 19.8674,19.9824 -180 0 0 1.43,7.26 H 3.25 A 15.9537,16.0461 0 0 1 1.22,101.03 Z M 24.3,91.49 h -6.39 v -6.52 a 18.2144,18.3199 0 0 1 6.39,6.52 z m -7.53,0 h -5.98 a 19.3038,19.4156 0 0 1 5.98,-6.06 z m 0,1.14 v 7.25 H 8.58 a 17.3171,17.4173 0 0 1 1.64,-7.25 z M 7.43,99.88 H 1.22 a 15.9632,16.0556 0 0 1 2.02,-7.25 h 5.72 a 18.6489,18.7569 -180 0 0 -1.53,7.25 z m 1.15,1.15 h 8.18 v 7.26 h -6.61 a 18.3876,18.494 0 0 1 -1.57,-7.26 z m 8.18,8.41 v 6.43 a 18.6993,18.8075 0 0 1 -6.06,-6.43 z m 1.15,0 h 6.29 a 18.8693,18.9785 0 0 1 -6.29,6.59 z m 0,-1.15 v -7.26 h 8.43 a 18.3876,18.494 0 0 1 -1.58,7.26 z m 0,-8.41 v -7.25 h 6.92 a 18.5072,18.6144 0 0 1 1.5,7.25 z m 12.9,-8.39 h -5.27 a 18.7717,18.8804 -180 0 0 -6.5,-7.13 16.1332,16.2266 0 0 1 11.78,7.13 z M 16.44,84.27 A 20.2924,20.4099 -180 0 0 9.53,91.49 H 3.86 A 16.1426,16.2361 0 0 1 16.44,84.27 Z M 3.87,109.44 h 5.55 a 19.329,19.4409 -180 0 0 6.34,7.14 16.1395,16.2329 0 0 1 -11.89,-7.14 z m 15.31,7.11 a 19.2723,19.3839 -180 0 0 6.31,-7.11 h 5.33 a 16.1489,16.2424 0 0 1 -11.64,7.11 z m 12.26,-8.26 h -5.39 a 19.8013,19.9159 -180 0 0 1.43,-7.26 h 5.98 a 15.9947,16.0873 0 0 1 -2.02,7.26 z"
    class="st4"

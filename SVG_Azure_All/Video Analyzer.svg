@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="39.69709"
-   viewBox="0 0 56.690001 39.69709"
+   width="0.78736132in"
+   height="0.55134863in"
+   viewBox="0 0 56.689998 39.696976"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview42"
    showgrid="false"
-   inkscape:zoom="1.8453935"
-   inkscape:cx="28.346497"
-   inkscape:cy="19.850015"
+   inkscape:zoom="1.3840408"
+   inkscape:cx="37.795345"
+   inkscape:cy="26.466692"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -77,20 +77,20 @@
 	</defs>
 	<g
    id="g38"
-   transform="translate(-44.097,-44.095925)">
+   transform="translate(-44.097,-44.096105)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group659-1"
+   id="group711-1"
    transform="translate(44.097,-44.1014)">
 			<title
    id="title12">Video Analyzer</title>
 			<g
-   id="group660-2">
+   id="group712-2">
 				<title
    id="title14">g12</title>
 				<g
-   id="shape661-3">
+   id="shape713-3">
 					<title
    id="title16">path10</title>
 					<path
@@ -101,7 +101,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:44.09700012;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape662-7"
+   id="shape714-7"
    transform="translate(12.3602,-6.87784)">
 					<title
    id="title21">path6</title>
@@ -113,7 +113,7 @@
    style="fill:#83b9f9;stroke:none;stroke-width:10.98820019;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape663-9"
+   id="shape715-9"
    transform="translate(10.6046,-5.19416)">
 					<title
    id="title26">path8</title>
@@ -125,7 +125,7 @@
    style="fill:#9cebff;stroke:none;stroke-width:10.98820019;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape664-11"
+   id="shape716-11"
    transform="translate(23.0243,-12.5549)">
 					<title
    id="title31">path10-4</title>

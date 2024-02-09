@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="54.316601"
-   height="54.080257"
-   viewBox="0 0 54.3166 54.080256"
+   width="0.75439596in"
+   height="0.75111341in"
+   viewBox="0 0 54.316592 54.080264"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview31"
    showgrid="false"
-   inkscape:zoom="1.8073488"
-   inkscape:cx="27.158451"
-   inkscape:cy="27.041299"
+   inkscape:zoom="1.3555141"
+   inkscape:cx="36.21122"
+   inkscape:cy="36.055017"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -58,19 +58,19 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2334-1"
+   id="group2470-1"
    transform="translate(35.8737,-35.6347)">
 			<title
    id="title6">Policy Remediation</title>
 			<g
-   id="group2335-2">
+   id="group2471-2">
 				<title
-   id="title8">Sheet.2335</title>
+   id="title8">Sheet.2471</title>
 				<g
-   id="shape2336-3"
+   id="shape2472-3"
    transform="translate(2.37635,-2.69966)">
 					<title
-   id="title10">Sheet.2336</title>
+   id="title10">Sheet.2472</title>
 					<ellipse
    cx="27.1583"
    cy="103.581"
@@ -81,9 +81,9 @@
    style="fill:#68217a;fill-opacity:0.15;stroke:none;stroke-width:38.25;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2337-5">
+   id="shape2473-5">
 					<title
-   id="title15">Sheet.2337</title>
+   id="title15">Sheet.2473</title>
 					<path
    d="m 48.88,120.12 c -10.52,10.46 -27.83,10.46 -38.36,0 C 0,109.66 0,92.44 10.52,81.98 Z"
    class="st1"
@@ -92,10 +92,10 @@
    style="fill:#68217a;fill-opacity:0.15;stroke:none;stroke-width:38.25;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2338-7"
+   id="shape2474-7"
    transform="translate(8.82644,-16.8729)">
 					<title
-   id="title20">Sheet.2338</title>
+   id="title20">Sheet.2474</title>
 					<path
    d="m 28.86,105.27 3.39,3.71 -9.5,9.45 -7.13,-7.09 -15.62,15.19 4.07,4.05 11.55,-11.48 7.13,7.09 13.23,-13.5 3.74,3.71 1.02,-12.14 z"
    class="st2"

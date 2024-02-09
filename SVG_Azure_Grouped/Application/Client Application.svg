@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="56.700001"
-   viewBox="0 0 56.689997 56.700003"
+   width="0.78735971in"
+   height="0.78749859in"
+   viewBox="0 0 56.689999 56.699919"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview21"
    showgrid="false"
-   inkscape:zoom="2.2886625"
-   inkscape:cx="28.346451"
-   inkscape:cy="17.545802"
+   inkscape:zoom="1.7164974"
+   inkscape:cx="37.795201"
+   inkscape:cy="23.39436"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -53,22 +53,22 @@
 
 	<g
    id="g17"
-   transform="translate(-12.4085,-12.4043)">
+   transform="translate(-12.4085,-12.404375)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group15398-1"
+   id="group16844-1"
    transform="translate(12.4085,-34.0157)">
 			<title
-   id="title6">Client Application.15398</title>
+   id="title6">Client Application.16844</title>
 			<g
-   id="group15399-2">
+   id="group16845-2">
 				<title
    id="title8"> Applications</title>
 				<g
-   id="shape15400-3">
+   id="shape16846-3">
 					<title
-   id="title10">Sheet.15400</title>
+   id="title10">Sheet.16846</title>
 					<path
    d="M 0,46.42 H 16.41 V 62.83 H 0 Z m 19.41,0 H 37.32 V 62.83 H 19.41 Z m 20.88,0 h 16.4 V 62.83 H 40.29 Z M 0,65.83 H 16.41 V 82.24 H 0 Z m 19.41,0 H 37.32 V 82.24 H 19.41 Z m 20.88,0 h 16.4 V 82.24 H 40.29 Z M 0,85.21 h 16.41 v 17.91 H 0 Z m 19.41,0 h 17.91 v 17.91 H 19.41 Z m 20.88,0 h 16.4 v 17.91 h -16.4 z"
    class="st1"

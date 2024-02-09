@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="55.244274"
-   height="56.189007"
-   viewBox="0 0 55.244276 56.189005"
+   width="0.76728171in"
+   height="0.78040296in"
+   viewBox="0 0 55.244276 56.188865"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview36"
    showgrid="false"
-   inkscape:zoom="2.4122123"
-   inkscape:cx="27.624021"
-   inkscape:cy="15.135833"
+   inkscape:zoom="1.8091545"
+   inkscape:cx="36.832035"
+   inkscape:cy="20.181115"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -53,20 +53,20 @@
 
 	<g
    id="g32"
-   transform="translate(-7.8616774,-7.8645773)">
+   transform="translate(-7.8616774,-7.864699)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group3233-1"
+   id="group3455-1"
    transform="translate(7.13926,-34.0157)">
 			<title
    id="title6">Message Routing</title>
 			<g
-   id="group3234-2">
+   id="group3456-2">
 				<title
    id="title8">g12</title>
 				<g
-   id="shape3235-3"
+   id="shape3457-3"
    transform="translate(15.2597,-14.5492)">
 					<title
    id="title10">path4</title>
@@ -78,7 +78,7 @@
    style="fill:#3999c6;stroke:none;stroke-width:7.86433983;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3236-5"
+   id="shape3458-5"
    transform="translate(5.76766,-15.3125)">
 					<title
    id="title15">path6</title>
@@ -90,7 +90,7 @@
    style="fill:#3999c6;stroke:none;stroke-width:7.86433983;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3237-7"
+   id="shape3459-7"
    transform="translate(0,-4.89693)">
 					<title
    id="title20">path8</title>
@@ -102,7 +102,7 @@
    style="fill:#3999c6;stroke:none;stroke-width:7.86433983;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3238-9"
+   id="shape3460-9"
    transform="translate(6.64498)">
 					<title
    id="title25">path10</title>

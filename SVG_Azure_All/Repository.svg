@@ -7,20 +7,19 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692902"
-   height="45.354416"
-   viewBox="0 0 56.6929 45.354415"
+   width="0.78736115in"
+   height="0.59067947in"
+   viewBox="0 0 56.690001 42.528815"
    xml:space="preserve"
-   class="st5"
+   class="st4"
    version="1.1"
-   id="svg72"
+   id="svg41"
    sodipodi:docname="Repository.svg"
    style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
-   id="metadata76"><rdf:RDF><cc:Work
+   id="metadata45"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
@@ -33,243 +32,113 @@
    inkscape:pageshadow="2"
    inkscape:window-width="640"
    inkscape:window-height="480"
-   id="namedview74"
+   id="namedview43"
    showgrid="false"
-   inkscape:zoom="2.812688"
-   inkscape:cx="28.346461"
-   inkscape:cy="7.9370617"
+   inkscape:zoom="2.1909302"
+   inkscape:cx="37.795281"
+   inkscape:cy="8.5039995"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="svg72" />
+   inkscape:current-layer="svg41" />
 	<style
    type="text/css"
    id="style2">
 	<![CDATA[
-		.st1 {fill:#773adc;stroke:none;stroke-linecap:butt;stroke-width:0.75}
-		.st2 {fill:url(#grad0-12);stroke:none;stroke-linecap:butt;stroke-width:0.75}
-		.st3 {fill:url(#grad0-22);stroke:none;stroke-linecap:butt;stroke-width:0.75}
-		.st4 {fill:url(#grad0-26);stroke:none;stroke-linecap:butt;stroke-width:0.75}
-		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st1 {fill:url(#grad0-6)}
+		.st2 {stroke:none;stroke-width:2.63657}
+		.st3 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
 	<defs
    id="Patterns_And_Gradients">
 		<linearGradient
-   id="grad0-12"
+   id="grad0-6"
    x1="0"
-   y1="0"
-   x2="1"
-   y2="0"
-   gradientTransform="rotate(-90,0.5,0.5)">
+   y1="46.447244"
+   x2="48.329562"
+   y2="46.447244"
+   gradientTransform="scale(1.1729881,0.85252359)"
+   gradientUnits="userSpaceOnUse">
 			<stop
    offset="0"
-   stop-color="#a67af4"
+   stop-color="#0078d4"
    stop-opacity="1"
    id="stop4" />
 			<stop
-   offset="0.775"
-   stop-color="#b796f9"
+   offset="0.16"
+   stop-color="#1380da"
    stop-opacity="1"
    id="stop6" />
+			<stop
+   offset="0.53"
+   stop-color="#3c91e5"
+   stop-opacity="1"
+   id="stop8" />
+			<stop
+   offset="0.82"
+   stop-color="#559cec"
+   stop-opacity="1"
+   id="stop10" />
+			<stop
+   offset="1"
+   stop-color="#5ea0ef"
+   stop-opacity="1"
+   id="stop12" />
 		</linearGradient>
-		<linearGradient
-   id="grad0-22"
-   x1="0"
-   y1="66.296649"
-   x2="27.454728"
-   y2="66.296649"
-   gradientTransform="scale(1.1173449,0.89497882)"
-   gradientUnits="userSpaceOnUse">
-			<stop
-   offset="0"
-   stop-color="#a67af4"
-   stop-opacity="1"
-   id="stop9" />
-			<stop
-   offset="0.485"
-   stop-color="#ae87f6"
-   stop-opacity="1"
-   id="stop11" />
-			<stop
-   offset="0.9"
-   stop-color="#b796f9"
-   stop-opacity="1"
-   id="stop13" />
-		</linearGradient>
-		<linearGradient
-   id="grad0-26"
-   x1="0"
-   y1="74.911548"
-   x2="18.839685"
-   y2="74.911548"
-   gradientTransform="scale(1.1173435,0.8949799)"
-   gradientUnits="userSpaceOnUse">
-			<stop
-   offset="0"
-   stop-color="#e6e6e6"
-   stop-opacity="1"
-   id="stop16" />
-			<stop
-   offset="0.9"
-   stop-color="#f2f2f2"
-   stop-opacity="1"
-   id="stop18" />
-		</linearGradient>
-	<linearGradient
-   inkscape:collect="always"
-   xlink:href="#grad0-12"
-   id="linearGradient4586"
-   gradientTransform="scale(1.1173442,0.8949794)"
-   x1="0"
-   y1="81.958638"
-   x2="11.792696"
-   y2="81.958638"
-   gradientUnits="userSpaceOnUse" /><linearGradient
-   inkscape:collect="always"
-   xlink:href="#grad0-12"
-   id="linearGradient4588"
-   gradientTransform="scale(1.1173442,0.8949794)"
-   x1="0"
-   y1="81.958638"
-   x2="11.792696"
-   y2="81.958638"
-   gradientUnits="userSpaceOnUse" /><linearGradient
-   inkscape:collect="always"
-   xlink:href="#grad0-12"
-   id="linearGradient4590"
-   gradientTransform="scale(1.1173442,0.8949794)"
-   x1="0"
-   y1="81.958638"
-   x2="11.792696"
-   y2="81.958638"
-   gradientUnits="userSpaceOnUse" /></defs>
+	</defs>
 	<g
-   id="g70"
-   transform="translate(-5.66929,-4.5353969)">
+   id="g39"
+   transform="translate(-5.66929,-4.2428802)">
 		<title
-   id="title22">Page-1</title>
+   id="title16">Page-1</title>
 		<g
-   id="group2066-1"
+   id="group2188-1"
    transform="translate(5.66929,-34.0157)">
 			<title
-   id="title24">Repository</title>
+   id="title18">Repository</title>
 			<g
-   id="group2067-2">
+   id="group2189-2">
 				<title
-   id="title26">Sheet.2067</title>
+   id="title20">g5</title>
 				<g
-   id="shape2068-3"
-   transform="translate(12.9167,-7.65955)">
+   id="shape2190-3"
+   transform="translate(0,-1.33889)">
 					<title
-   id="title28">Sheet.2068</title>
-					<rect
-   x="0"
-   y="67.6633"
-   width="4.8462601"
-   height="16.242201"
+   id="title22">path1</title>
+					<path
+   d="M 52.94,59.07 A 13.6772,14.0187 -180 0 0 45.69,55.32 16.0264,16.4266 -180 0 0 29.05,39.61 16.5472,16.9604 -180 0 0 13.25,50.61 15.0803,15.4569 -180 0 0 0,65.6 15.4382,15.8237 -180 0 0 15.96,80.79 H 43.9 a 13.0571,13.3831 -180 0 0 12.79,-12.75 11.9764,12.2754 -180 0 0 -3.72,-8.8 z"
    class="st1"
-   id="rect30"
-   style="fill:#773adc;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
+   id="path24"
+   inkscape:connector-curvature="0"
+   style="fill:url(#grad0-6)" />
+					<path
+   d="M 52.94,59.07 A 13.6772,14.0187 -180 0 0 45.69,55.32 16.0264,16.4266 -180 0 0 29.05,39.61 16.5472,16.9604 -180 0 0 13.25,50.61 15.0803,15.4569 -180 0 0 0,65.6 15.4382,15.8237 -180 0 0 15.96,80.79 H 43.9 a 13.0571,13.3831 -180 0 0 12.79,-12.75 11.9764,12.2754 -180 0 0 -3.72,-8.8"
+   class="st2"
+   id="path26"
+   inkscape:connector-curvature="0"
+   style="stroke:none;stroke-width:2.63656998" />
 				</g>
 				<g
-   id="shape2069-5"
-   transform="rotate(-90,9.77215,48.77165)">
+   id="group2191-8"
+   transform="translate(12.7905)">
 					<title
-   id="title33">Sheet.2069</title>
-					<rect
+   id="title29">e98d5c7f-4a30-44e8-a9d7-95f723e</title>
+					<g
+   id="shape2192-9">
+						<title
+   id="title31">path13-4</title>
+						<rect
    x="0"
-   y="67.6633"
-   width="4.8462601"
-   height="16.242201"
-   class="st1"
-   id="rect35"
-   style="fill:#773adc;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
-				</g>
-				<g
-   id="shape2070-7"
-   transform="rotate(-45,3.6783525,38.340977)">
-					<title
-   id="title38">Sheet.2070</title>
-					<rect
-   x="0"
-   y="67.6633"
-   width="4.8462601"
-   height="16.242201"
-   class="st1"
-   id="rect40"
-   style="fill:#773adc;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
-				</g>
-				<g
-   id="shape2071-9"
-   transform="translate(9.22288)">
-					<title
-   id="title43">Sheet.2071</title>
-					<ellipse
-   cx="6.5882502"
-   cy="78.628403"
-   rx="6.5882502"
-   ry="5.2771101"
-   class="st2"
-   id="ellipse45"
-   style="fill:url(#linearGradient4586);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
-				</g>
-				<g
-   id="shape2072-13"
-   transform="translate(43.5164,-22.5091)">
-					<title
-   id="title48">Sheet.2072</title>
-					<ellipse
-   cx="6.5882502"
-   cy="78.628403"
-   rx="6.5882502"
-   ry="5.2771101"
-   class="st2"
-   id="ellipse50"
-   style="fill:url(#linearGradient4588);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
-				</g>
-				<g
-   id="shape2073-16"
-   transform="translate(32.6148,-5.22642)">
-					<title
-   id="title53">Sheet.2073</title>
-					<ellipse
-   cx="6.5882502"
-   cy="78.628403"
-   rx="6.5882502"
-   ry="5.2771101"
-   class="st2"
-   id="ellipse55"
-   style="fill:url(#linearGradient4590);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
-				</g>
-				<g
-   id="shape2074-19"
-   transform="translate(0,-20.783)">
-					<title
-   id="title58">Sheet.2074</title>
-					<ellipse
-   cx="15.3382"
-   cy="71.619797"
-   rx="15.3382"
-   ry="12.2857"
+   y="46.0821"
+   width="33.859798"
+   height="34.705299"
    class="st3"
-   id="ellipse60"
-   style="fill:url(#grad0-22);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
-				</g>
-				<g
-   id="shape2075-23"
-   transform="translate(4.81295,-24.6381)">
-					<title
-   id="title63">Sheet.2075</title>
-					<ellipse
-   cx="10.5252"
-   cy="75.474899"
-   rx="10.5252"
-   ry="8.4305696"
-   class="st4"
-   id="ellipse65"
-   style="fill:url(#grad0-26);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
+   id="rect33"
+   style="fill:#000000;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
+					</g>
 				</g>
 			</g>
 		</g>

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="56.689999"
-   viewBox="0 0 56.689999 56.689997"
+   width="0.78735721in"
+   height="0.78735721in"
+   viewBox="0 0 56.689786 56.689998"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview36"
    showgrid="false"
-   inkscape:zoom="2.226226"
-   inkscape:cx="28.34645"
-   inkscape:cy="18.989799"
+   inkscape:zoom="1.6696778"
+   inkscape:cx="37.79508"
+   inkscape:cy="25.319606"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -55,22 +55,22 @@
 
 	<g
    id="g32"
-   transform="translate(-15.3,-15.3043)">
+   transform="translate(-15.300164,-15.3043)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group4022-1"
+   id="group4271-1"
    transform="translate(15.3,-34.0157)">
 			<title
    id="title6">IoT Hub Device</title>
 			<g
-   id="group4023-2">
+   id="group4272-2">
 				<title
-   id="title8">Sheet.4023</title>
+   id="title8">Sheet.4272</title>
 				<g
-   id="shape4024-3">
+   id="shape4273-3">
 					<title
-   id="title10">Sheet.4024</title>
+   id="title10">Sheet.4273</title>
 					<path
    d="M 6.85,66.68 H 0.43 v -3.87 h 6.42 v -7.04 h 7.72 v -6.45 h 3.85 v 6.45 h 3.86 v -6.45 h 3.14 v 6.45 h 5.14 v -6.45 h 3.14 v 6.45 h 5.14 v -6.45 h 3.14 v 6.45 h 7.72 v 7.04 h 6.99 v 3.87 H 49.7 v 5.17 h 6.99 v 3.87 H 49.7 v 3.88 h 6.99 v 3.88 H 49.7 v 5.16 h 6.85 v 4.45 h -6.71 v 6.46 h -7.71 v 6.46 h -3.14 v -6.46 h -4.43 v 6.46 H 30.7 v -6.46 h -5.14 v 6.46 h -3.14 v -6.46 h -4.43 v 6.46 H 14.14 V 99.55 H 6.43 V 92.52 H 0.29 v -4.6 H 6.43 V 82.76 H 0.71 V 78.88 H 6.43 V 74.43 H 0 V 71.28 H 7 C 6.85,71.13 6.85,68.55 6.85,66.68 Z M 47.41,96.97 V 58.93 H 10.14 v 38.04 z"
    class="st1"
@@ -79,10 +79,10 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:15.30000019;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4025-5"
+   id="shape4274-5"
    transform="translate(9.42502,-9.04216)">
 					<title
-   id="title15">Sheet.4025</title>
+   id="title15">Sheet.4274</title>
 					<rect
    x="0"
    y="67.974197"
@@ -93,10 +93,10 @@
    style="fill:#00188f;stroke:none;stroke-width:15.30000019;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4026-7"
+   id="shape4275-7"
    transform="translate(13.9947,-13.635)">
 					<title
-   id="title20">Sheet.4026</title>
+   id="title20">Sheet.4275</title>
 					<rect
    x="0"
    y="77.016296"
@@ -107,10 +107,10 @@
    style="fill:#e5e5e5;stroke:none;stroke-width:15.30000019;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4027-9"
+   id="shape4276-9"
    transform="translate(17.422,-16.6491)">
 					<title
-   id="title25">Sheet.4027</title>
+   id="title25">Sheet.4276</title>
 					<rect
    x="0"
    y="83.044403"

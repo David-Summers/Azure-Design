@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="34.02"
-   height="56.689999"
-   viewBox="0 0 34.020001 56.690002"
+   width="0.47249866in"
+   height="0.78735888in"
+   viewBox="0 0 34.020002 56.689924"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview21"
    showgrid="false"
-   inkscape:zoom="1.771865"
-   inkscape:cx="17.007999"
-   inkscape:cy="28.343503"
+   inkscape:zoom="1.3289007"
+   inkscape:cx="22.677265"
+   inkscape:cy="37.791222"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -53,22 +53,22 @@
 
 	<g
    id="g17"
-   transform="translate(-38.25,-38.25)">
+   transform="translate(-38.25,-38.250087)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group20414-1"
+   id="group21609-1"
    transform="translate(38.25,-38.25)">
 			<title
-   id="title6">SQL Database Export.20414</title>
+   id="title6">SQL Database Export.21609</title>
 			<g
-   id="group20415-2">
+   id="group21610-2">
 				<title
-   id="title8">Sheet.20415</title>
+   id="title8">Sheet.21610</title>
 				<g
-   id="shape20416-3">
+   id="shape21611-3">
 					<title
-   id="title10">Sheet.20416</title>
+   id="title10">Sheet.21611</title>
 					<path
    d="m 34.02,103.43 -2.78,2.83 -12.5,-13.11 v 40.04 H 15.27 V 93.15 L 2.78,106.26 0,103.43 17.01,86.42 Z M 32.63,76.5 v 3.54 H 1.39 V 76.5 Z"
    class="st1"

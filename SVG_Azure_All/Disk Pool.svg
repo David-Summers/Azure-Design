@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.698311"
-   height="53.870174"
-   viewBox="0 0 56.698312 53.870174"
+   width="0.78747386in"
+   height="0.74819434in"
+   viewBox="0 0 56.69787 53.870172"
    xml:space="preserve"
    class="st8"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview108"
    showgrid="false"
-   inkscape:zoom="1.9742015"
-   inkscape:cx="28.34781"
-   inkscape:cy="25.759581"
+   inkscape:zoom="1.4806561"
+   inkscape:cx="37.796955"
+   inkscape:cy="34.345988"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -139,20 +139,20 @@
 	</defs>
 	<g
    id="g104"
-   transform="translate(-31.660689,-31.660408)">
+   transform="translate(-31.661153,-31.660408)">
 		<title
    id="title31">Page-1</title>
 		<g
-   id="group5754-1"
+   id="group6262-1"
    transform="translate(31.6621,-34.0157)">
 			<title
    id="title33">Disk Pool</title>
 			<g
-   id="group5755-2">
+   id="group6263-2">
 				<title
    id="title35">layer1</title>
 				<g
-   id="shape5756-3"
+   id="shape6264-3"
    transform="translate(9.80499,-20.3699)">
 					<title
    id="title37">path2</title>
@@ -164,7 +164,7 @@
    style="fill:#0078d4;stroke:none;stroke-width:31.66209984;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape5757-5"
+   id="shape6265-5"
    transform="translate(9.86772,-34.0722)">
 					<title
    id="title42">path4</title>
@@ -176,7 +176,7 @@
    style="fill:url(#grad0-8);stroke:none;stroke-width:31.66209984;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape5758-9"
+   id="shape6266-9"
    transform="translate(19.4362,-38.4853)">
 					<title
    id="title47">ellipse6</title>
@@ -190,7 +190,7 @@
    style="fill:#005ba1;stroke:none;stroke-width:31.66209984;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape5759-11"
+   id="shape6267-11"
    transform="translate(9.88713,-31.4168)">
 					<title
    id="title52">path8</title>
@@ -202,7 +202,7 @@
    style="fill:#5ea0ef;stroke:none;stroke-width:31.66209984;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape5760-13"
+   id="shape6268-13"
    transform="translate(19.1024,-8.41311)">
 					<title
    id="title57">path10</title>
@@ -214,7 +214,7 @@
    style="fill:#0078d4;stroke:none;stroke-width:31.66209984;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape5761-15"
+   id="shape6269-15"
    transform="translate(28.6678,-15.8728)">
 					<title
    id="title62">ellipse12</title>
@@ -228,7 +228,7 @@
    style="fill:#005ba1;stroke:none;stroke-width:31.66209984;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape5762-17"
+   id="shape6270-17"
    transform="translate(19.1653,-22.4663)">
 					<title
    id="title67">ellipse14</title>
@@ -242,7 +242,7 @@
    style="fill:url(#grad0-20);stroke:none;stroke-width:31.66209984;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape5763-21"
+   id="shape6271-21"
    transform="translate(28.7339,-26.8919)">
 					<title
    id="title72">ellipse16</title>
@@ -256,7 +256,7 @@
    style="fill:#005ba1;stroke:none;stroke-width:31.66209984;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape5764-23"
+   id="shape6272-23"
    transform="translate(19.0907,-19.3109)">
 					<title
    id="title77">path18</title>
@@ -268,7 +268,7 @@
    style="fill:#5ea0ef;stroke:none;stroke-width:31.66209984;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape5765-25"
+   id="shape6273-25"
    transform="translate(0,-0.0248295)">
 					<title
    id="title82">path20</title>
@@ -280,7 +280,7 @@
    style="fill:#949494;stroke:none;stroke-width:31.66209984;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape5766-27"
+   id="shape6274-27"
    transform="translate(3.547e-4)">
 					<title
    id="title87">path22</title>
@@ -292,7 +292,7 @@
    style="fill:#a3a3a3;stroke:none;stroke-width:31.66209984;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape5767-29"
+   id="shape6275-29"
    transform="translate(43.0469,-0.0155476)">
 					<title
    id="title92">path24</title>
@@ -304,7 +304,7 @@
    style="fill:#949494;stroke:none;stroke-width:31.66209984;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape5768-31"
+   id="shape6276-31"
    transform="translate(43.0464,-0.0031725)">
 					<title
    id="title97">path26</title>

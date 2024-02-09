@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="39.707447"
-   viewBox="0 0 56.689998 39.707447"
+   width="0.7873587in"
+   height="0.55149066in"
+   viewBox="0 0 56.689735 39.707447"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview47"
    showgrid="false"
-   inkscape:zoom="2.1911093"
-   inkscape:cx="28.3465"
-   inkscape:cy="19.850611"
+   inkscape:zoom="1.6433369"
+   inkscape:cx="37.79522"
+   inkscape:cy="26.467398"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -114,22 +114,22 @@
 	</defs>
 	<g
    id="g43"
-   transform="translate(-34,-33.997163)">
+   transform="translate(-34.000289,-33.997163)">
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group2173-1"
+   id="group2300-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title22">Quota</title>
 			<g
-   id="group2174-2">
+   id="group2301-2">
 				<title
-   id="title24">Sheet.2174</title>
+   id="title24">Sheet.2301</title>
 				<g
-   id="shape2175-3">
+   id="shape2302-3">
 					<title
-   id="title26">Sheet.2175</title>
+   id="title26">Sheet.2302</title>
 					<path
    d="m 56.69,95.28 a 12.8913,12.7337 0 0 1 -11.55,12.2 12.3433,12.1924 0 0 1 -1.24,0.07 2.59843,2.56665 0 0 1 -0.68,0.1 H 17.37 a 15.8394,15.6457 0 0 1 -1.35,0.06 H 15.97 A 15.4142,15.2257 0 0 1 0,93.08 15.1937,15.0079 0 0 1 13.37,78.62 16.4661,16.2648 0 0 1 29.11,68.02 16.063,15.8665 0 0 1 45.64,83.2 12.7307,12.575 0 0 1 56.69,95.28 Z"
    class="st1"
@@ -138,10 +138,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2176-7"
+   id="shape2303-7"
    transform="translate(20.2333,-0.0591107)">
 					<title
-   id="title31">Sheet.2176</title>
+   id="title31">Sheet.2303</title>
 					<path
    d="m 15.8,88.79 h -4.08 a 0.472441,0.466663 -180 0 0 -0.472441,0.466663 L 11.25,107.71 H 4.96 V 89.26 A 0.472441,0.466663 -180 0 0 4.487559,88.793337 L 0.43,88.79 A 0.472441,0.466663 0 0 1 0.074094,88.01845 L 7.75,79.21 a 0.475591,0.469774 0 0 1 0.71811,0 l 7.69189,8.8 a 0.472441,0.466663 0 0 1 -0.359055,0.783994 z"
    class="st2"
@@ -150,10 +150,10 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2177-11"
+   id="shape2304-11"
    transform="translate(8.18038,-0.00311109)">
 					<title
-   id="title36">Sheet.2177</title>
+   id="title36">Sheet.2304</title>
 					<path
    d="m 34.37,90.02 -5.17,5.92 a 0.472441,0.466663 -180 0 0 0.359055,0.77155 L 32.02,96.71 a 0.475591,0.469774 0 0 1 0.472441,0.469774 L 32.5,107.65 h 2.54 a 2.59843,2.56665 -180 0 0 0.68,-0.1 12.3433,12.1924 -180 0 0 1.24,-0.07 v -10.3 a 0.475591,0.469774 0 0 1 0.472441,-0.469774 L 39.9,96.71 a 0.472441,0.466663 -180 0 0 0.359055,-0.77155 L 35.09,90.03 a 0.472441,0.466663 -180 0 0 -0.71811,-0.0031 z m -29.13,0 -5.17,5.92 a 0.472441,0.466663 -180 0 0 0.359055,0.77155 L 2.9,96.71 a 0.475591,0.469774 0 0 1 0.472441,0.469774 L 3.37,107.23 a 15.4331,15.2443 -180 0 0 4.41,0.48 H 7.83 V 97.18 A 0.475591,0.469774 0 0 1 8.302441,96.710226 L 10.76,96.71 a 0.472441,0.466663 -180 0 0 0.359055,-0.77155 L 5.96,90.02 a 0.472441,0.466663 -180 0 0 -0.71811,0 z"
    class="st3"

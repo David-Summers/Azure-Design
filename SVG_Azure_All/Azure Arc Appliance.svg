@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="45.294987"
-   height="56.693817"
-   viewBox="0 0 45.294988 56.693816"
+   width="0.62909567in"
+   height="0.78741241in"
+   viewBox="0 0 45.294985 56.693403"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview47"
    showgrid="false"
-   inkscape:zoom="1.898388"
-   inkscape:cx="22.648237"
-   inkscape:cy="28.140657"
+   inkscape:zoom="1.4237837"
+   inkscape:cx="30.197588"
+   inkscape:cy="37.5208"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -95,20 +95,20 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g43"
-   transform="translate(-33.604761,-33.604842)">
+   transform="translate(-33.604761,-33.605298)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group9132-1"
+   id="group9762-1"
    transform="translate(33.5649,-34.0157)">
 			<title
    id="title12">Azure Arc Appliance</title>
 			<g
-   id="group9133-2">
+   id="group9763-2">
 				<title
    id="title14">g10</title>
 				<g
-   id="shape9134-3"
+   id="shape9764-3"
    transform="translate(0.0248497)">
 					<title
    id="title16">path2</title>
@@ -120,7 +120,7 @@
    style="fill:#5ea0ef;stroke:none;stroke-width:33.60520172;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9135-5"
+   id="shape9765-5"
    transform="translate(0,-7.8074)">
 					<title
    id="title21">path4-7-9</title>
@@ -132,7 +132,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:33.60520172;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9136-7"
+   id="shape9766-7"
    transform="translate(19.8075,-2.14125)">
 					<title
    id="title26">path6</title>
@@ -144,7 +144,7 @@
    style="fill:#005ba1;stroke:none;stroke-width:33.60520172;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9137-9"
+   id="shape9767-9"
    transform="translate(18.8437,-6.14454)">
 					<title
    id="title31">path8</title>
@@ -156,7 +156,7 @@
    style="fill:url(#linearGradient4559);stroke:none;stroke-width:33.60520172;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9138-13"
+   id="shape9768-13"
    transform="translate(2.59603,-27.1369)">
 					<title
    id="title36">path10</title>

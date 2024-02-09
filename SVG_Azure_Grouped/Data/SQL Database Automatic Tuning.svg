@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="45.349998"
-   height="56.689999"
-   viewBox="0 0 45.349997 56.69"
+   width="0.62985951in"
+   height="0.78735912in"
+   viewBox="0 0 45.349859 56.689997"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview21"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="22.677171"
-   inkscape:cy="14.175301"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="30.236153"
+   inkscape:cy="18.900351"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -53,22 +53,22 @@
 
 	<g
    id="g17"
-   transform="translate(-4.53543,-5.6743)">
+   transform="translate(-4.5355124,-5.6743)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group20468-1"
+   id="group21663-1"
    transform="translate(4.53543,-34.0157)">
 			<title
-   id="title6">SQL Database Automatic Tuning.20468</title>
+   id="title6">SQL Database Automatic Tuning.21663</title>
 			<g
-   id="group20469-2">
+   id="group21664-2">
 				<title
-   id="title8">Sheet.20469</title>
+   id="title8">Sheet.21664</title>
 				<g
-   id="shape20470-3">
+   id="shape21665-3">
 					<title
-   id="title10">Sheet.20470</title>
+   id="title10">Sheet.21665</title>
 					<path
    d="M 45.35,71.57 6.48,96.38 20.93,73.35 0,64.49 38.38,39.69 24.42,62.72 Z"
    class="st1"

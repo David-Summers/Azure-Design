@@ -83,19 +83,19 @@
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group19281-1"
+   id="group20427-1"
    transform="translate(34,-34.0157)">
 			<title
-   id="title12">DNS Forwarding Ruleset.19281</title>
+   id="title12">DNS Forwarding Ruleset.20427</title>
 			<g
-   id="group19282-2">
+   id="group20428-2">
 				<title
-   id="title14">Sheet.19282</title>
+   id="title14">Sheet.20428</title>
 				<g
-   id="shape19283-3"
+   id="shape20429-3"
    transform="translate(0.314447,-0.406299)">
 					<title
-   id="title16">Sheet.19283</title>
+   id="title16">Sheet.20429</title>
 					<path
    d="M 25.65,68.83 H 1.88 A 1.88668,1.92756 -180 0 0 0,70.75 v 52.03 a 1.88668,1.92756 -180 0 0 1.88,1.93 h 40.94 a 1.88668,1.92756 -180 0 0 1.89,-1.93 V 88.36 A 1.8836,1.92441 -180 0 0 42.82,86.43 H 29.23 A 1.84969,1.88976 0 0 1 27.38,84.54 V 70.75 a 1.84969,1.88976 -180 0 0 -1.73,-1.92 z"
    class="st1"
@@ -104,9 +104,9 @@
    style="fill:#5ea0ef;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape19284-5">
+   id="shape20430-5">
 					<title
-   id="title21">Sheet.19284</title>
+   id="title21">Sheet.20430</title>
 					<path
    d="m 24.95,70.85 v 13.07 a 4.69512,4.79685 -180 0 0 4.71,4.81 h 12.87 v 33.14 H 2.84 V 70.85 h 22.14 z m 1.01,-2.83 H 1.92 A 1.8836,1.92441 -180 0 0 0,69.91 v 52.87 a 1.8836,1.92441 -180 0 0 1.88,1.93 h 41.56 a 1.8836,1.92441 -180 0 0 1.91,-1.89 V 87.81 A 1.8836,1.92441 -180 0 0 43.47,85.89 H 29.66 A 1.88668,1.92756 0 0 1 27.78,83.96 V 69.94 a 1.8836,1.92441 -180 0 0 -1.82,-1.92 z"
    class="st2"
@@ -121,10 +121,10 @@
    style="stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape19285-10"
+   id="shape20431-10"
    transform="translate(27.101,-38.4819)">
 					<title
-   id="title28">Sheet.19285</title>
+   id="title28">Sheet.20431</title>
 					<path
    d="M 17.53,124.71 0,106.9 v 14.43 a 3.30477,3.37638 -180 0 0 3.31,3.38 z"
    class="st4"
@@ -133,10 +133,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape19286-12"
+   id="shape20432-12"
    transform="translate(7.40183,-23.4646)">
 					<title
-   id="title33">Sheet.19286</title>
+   id="title33">Sheet.20432</title>
 					<path
    d="m 1.34,124.68 v -4.46 a 2.06857,2.11339 0 0 1 -0.61,0.24 L 0,120.66 v -1.39 a 7.22919,7.38583 -180 0 0 1.02,-0.4 4.22037,4.31181 -180 0 0 1.02,-0.46 H 3.1 v 6.3 z"
    class="st5"
@@ -145,10 +145,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape19287-14"
+   id="shape20433-14"
    transform="translate(14.9609,-25.4551)">
 					<title
-   id="title38">Sheet.19287</title>
+   id="title38">Sheet.20433</title>
 					<path
    d="M 21.77,124.71 H 1.16 a 1.15605,1.1811 0 0 1 0,-2.36 h 20.61 a 1.15605,1.1811 0 0 1 0,2.36 z"
    class="st6"
@@ -157,10 +157,10 @@
    style="fill:#c3f1ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape19288-16"
+   id="shape20434-16"
    transform="translate(7.43884,-8.97638)">
 					<title
-   id="title43">Sheet.19288</title>
+   id="title43">Sheet.20434</title>
 					<path
    d="m 0.03,124.71 v -0.51 a 3.34793,3.42047 0 0 1 0,-0.88 6.96099,7.11181 0 0 1 0.36,-0.74 6.26736,6.40315 0 0 1 0.93,-0.88 2.91634,2.97953 -180 0 0 0.69,-0.57 0.308281,0.314961 0 0 1 0.231211,-0.31496 0.465505,0.475591 -180 0 0 0,-0.37166 C 2.24,120 2.01,119.81 1.52,119.81 a 2.23196,2.28031 -180 0 0 -1.43,0.58 v -1.52 a 3.63155,3.71024 0 0 1 0.93,-0.38 4.21729,4.30866 0 0 1 0.92,0 2.30903,2.35906 0 0 1 1.53,0.51 1.69246,1.72913 0 0 1 0.57,1.3 2.46625,2.51969 0 0 1 -0.31,1.15 3.75178,3.83307 0 0 1 -1.06,0.94 l -0.66,0.41 a 0.594983,0.607874 -180 0 0 -0.200383,0.33701 L 4.22,123.14 v 1.42 z"
    class="st5"
@@ -169,10 +169,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape19289-18"
+   id="shape20435-18"
    transform="translate(14.9609,-10.9228)">
 					<title
-   id="title48">Sheet.19289</title>
+   id="title48">Sheet.20435</title>
 					<path
    d="M 21.77,124.71 H 1.16 a 1.15605,1.1811 0 0 1 0,-2.36 h 20.61 a 1.15605,1.1811 0 0 1 0,2.36 z"
    class="st6"

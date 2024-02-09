@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.693779"
-   height="39.697124"
-   viewBox="0 0 56.693782 39.697123"
+   width="0.78741395in"
+   height="0.55134916in"
+   viewBox="0 0 56.693779 39.697062"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview48"
    showgrid="false"
-   inkscape:zoom="2.9305702"
-   inkscape:cx="28.350058"
-   inkscape:cy="6.2492195"
+   inkscape:zoom="2.1979234"
+   inkscape:cx="37.800097"
+   inkscape:cy="8.3322984"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -77,28 +77,28 @@
 	</defs>
 	<g
    id="g44"
-   transform="translate(-6.8185403,-6.8172968)">
+   transform="translate(-6.8185403,-6.817358)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group6125-1"
+   id="group6651-1"
    transform="translate(6.82232,-34.0157)">
 			<title
    id="title12">Data Box Gateway</title>
 			<g
-   id="group6126-2">
+   id="group6652-2">
 				<title
    id="title14">g10</title>
 				<g
-   id="group6127-3">
+   id="group6653-3">
 					<title
    id="title16">g14-9</title>
 					<g
-   id="group6128-4">
+   id="group6654-4">
 						<title
    id="title18">Icon691_DataBox_Gateway</title>
 						<g
-   id="shape6129-5"
+   id="shape6655-5"
    transform="translate(0,-0.00938402)">
 							<title
    id="title20">path4</title>
@@ -110,7 +110,7 @@
    style="fill:url(#grad0-8);stroke:none;stroke-width:6.82200003" />
 						</g>
 						<g
-   id="shape6130-9"
+   id="shape6656-9"
    transform="translate(4.26586)">
 							<title
    id="title25">path6</title>
@@ -122,7 +122,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:6.82200003" />
 						</g>
 						<g
-   id="shape6131-11"
+   id="shape6657-11"
    transform="translate(3.86856,-6.57507)">
 							<title
    id="title30">path8</title>
@@ -134,7 +134,7 @@
    style="fill:#ffffff;fill-opacity:0.75;stroke:none;stroke-width:6.82200003" />
 						</g>
 						<g
-   id="shape6132-13"
+   id="shape6658-13"
    transform="translate(6.20029,-14.9863)">
 							<title
    id="title35">path10</title>

@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.695881"
-   height="51.028294"
-   viewBox="0 0 56.695882 51.028293"
+   width="0.78744251in"
+   height="0.70872605in"
+   viewBox="0 0 56.695879 51.028152"
    xml:space="preserve"
    class="st7"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview75"
    showgrid="false"
-   inkscape:zoom="2.0340093"
-   inkscape:cx="28.346499"
-   inkscape:cy="24.001093"
+   inkscape:zoom="1.5255033"
+   inkscape:cx="37.795321"
+   inkscape:cy="32.001443"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -136,20 +136,20 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g71"
-   transform="translate(-30.988,-30.9863)">
+   transform="translate(-30.988,-30.986457)">
 		<title
    id="title23">Page-1</title>
 		<g
-   id="group4201-1"
+   id="group4458-1"
    transform="translate(30.988,-34.0157)">
 			<title
    id="title25">Intune Device</title>
 			<g
-   id="group4202-2">
+   id="group4459-2">
 				<title
    id="title27">layer1</title>
 				<g
-   id="shape4203-3"
+   id="shape4460-3"
    transform="translate(0,-13.028)">
 					<title
    id="title29">rect25</title>
@@ -161,7 +161,7 @@
    style="fill:#0078d4;stroke:none;stroke-width:30.98800087;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4204-5"
+   id="shape4461-5"
    transform="translate(3.0552,-16.0369)">
 					<title
    id="title34">rect27</title>
@@ -173,7 +173,7 @@
    style="fill:url(#linearGradient4587);stroke:none;stroke-width:30.98800087;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4205-9"
+   id="shape4462-9"
    transform="translate(32.441)">
 					<title
    id="title39">rect29</title>
@@ -185,7 +185,7 @@
    style="fill:url(#grad0-12);stroke:none;stroke-width:30.98800087;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4206-13"
+   id="shape4463-13"
    transform="translate(41.7955,-38.9879)">
 					<title
    id="title44">rect31</title>
@@ -197,7 +197,7 @@
    style="fill:#f2f2f2;stroke:none;stroke-width:30.98800087;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4207-15"
+   id="shape4464-15"
    transform="translate(34.7406,-4.60939)">
 					<title
    id="title49">rect33</title>
@@ -209,7 +209,7 @@
    style="fill:none;stroke:none;stroke-width:30.98800087;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4208-17"
+   id="shape4465-17"
    transform="translate(23.5595,-49.071)">
 					<title
    id="title54">rect35</title>
@@ -221,7 +221,7 @@
    style="fill:#f2f2f2;stroke:none;stroke-width:30.98800087;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4209-19"
+   id="shape4466-19"
    transform="translate(43.213,-0.896356)">
 					<title
    id="title59">rect37</title>
@@ -233,7 +233,7 @@
    style="fill:#f2f2f2;stroke:none;stroke-width:30.98800087;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4210-21"
+   id="shape4467-21"
    transform="translate(34.7406,-4.60939)">
 					<title
    id="title64">rect30</title>

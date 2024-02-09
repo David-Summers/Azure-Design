@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="51.026489"
-   viewBox="0 0 56.689997 51.02649"
+   width="0.78735876in"
+   height="0.70869911in"
+   viewBox="0 0 56.690032 51.026465"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview36"
    showgrid="false"
-   inkscape:zoom="2.4696319"
-   inkscape:cx="28.346501"
-   inkscape:cy="13.763901"
+   inkscape:zoom="1.8522286"
+   inkscape:cx="37.795192"
+   inkscape:cy="18.35178"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -60,16 +60,16 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group3785-1"
+   id="group4018-1"
    transform="translate(10.5214,-34.0157)">
 			<title
    id="title6">Key Vault HSM</title>
 			<g
-   id="group3786-2">
+   id="group4019-2">
 				<title
    id="title8">layer1</title>
 				<g
-   id="shape3787-3">
+   id="shape4020-3">
 					<title
    id="title10">path2</title>
 					<path
@@ -80,7 +80,7 @@
    style="fill:#3e3e3e;stroke:none;stroke-width:10.52140045;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3788-5">
+   id="shape4021-5">
 					<title
    id="title15">path4</title>
 					<path
@@ -91,7 +91,7 @@
    style="fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:10.52140045;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3789-7"
+   id="shape4022-7"
    transform="translate(35.1496,-13.3395)">
 					<title
    id="title20">path6</title>
@@ -103,7 +103,7 @@
    style="fill:#b8d432;stroke:none;stroke-width:10.52140045;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3790-9"
+   id="shape4023-9"
    transform="translate(15.9874,-4.44649)">
 					<title
    id="title25">path8</title>

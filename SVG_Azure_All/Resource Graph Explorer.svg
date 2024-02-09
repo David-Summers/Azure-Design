@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692902"
-   height="56.692802"
-   viewBox="0 0 56.692903 56.692804"
+   width="0.78739738in"
+   height="0.78739601in"
+   viewBox="0 0 56.692679 56.692801"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview51"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="28.346449"
-   inkscape:cy="17.458403"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="37.795072"
+   inkscape:cy="23.277748"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -56,23 +56,23 @@
 
 	<g
    id="g47"
-   transform="translate(-12.24,-12.240098)">
+   transform="translate(-12.24016,-12.240098)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2018-1"
+   id="group2140-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Resource Graph Explorer</title>
 			<g
-   id="group2019-2">
+   id="group2141-2">
 				<title
-   id="title8">Sheet.2019</title>
+   id="title8">Sheet.2141</title>
 				<g
-   id="shape2020-3"
+   id="shape2142-3"
    transform="translate(6.21531,-12.6183)">
 					<title
-   id="title10">Sheet.2020</title>
+   id="title10">Sheet.2142</title>
 					<path
    d="m 0,70.93 3.6,-3 25.56,32.02 -3.6,3 z"
    class="st1"
@@ -81,10 +81,10 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2021-5"
+   id="shape2143-5"
    transform="translate(8.01601,-43.765)">
 					<title
-   id="title15">Sheet.2021</title>
+   id="title15">Sheet.2143</title>
 					<rect
    x="0"
    y="98.204498"
@@ -95,10 +95,10 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2022-7"
+   id="shape2144-7"
    transform="translate(0,-37.9534)">
 					<title
-   id="title20">Sheet.2022</title>
+   id="title20">Sheet.2144</title>
 					<ellipse
    cx="8.0160103"
    cy="94.764999"
@@ -109,10 +109,10 @@
    style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2023-9"
+   id="shape2145-9"
    transform="translate(0,-37.9534)">
 					<title
-   id="title25">Sheet.2023</title>
+   id="title25">Sheet.2145</title>
 					<ellipse
    cx="8.0160103"
    cy="94.764999"
@@ -123,10 +123,10 @@
    style="fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2024-11"
+   id="shape2146-11"
    transform="translate(36.0139,-35.5813)">
 					<title
-   id="title30">Sheet.2024</title>
+   id="title30">Sheet.2146</title>
 					<ellipse
    cx="10.3395"
    cy="92.392899"
@@ -137,10 +137,10 @@
    style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2025-13"
+   id="shape2147-13"
    transform="translate(36.0139,-35.5813)">
 					<title
-   id="title35">Sheet.2025</title>
+   id="title35">Sheet.2147</title>
 					<ellipse
    cx="10.3395"
    cy="92.392899"
@@ -151,10 +151,10 @@
    style="fill:#ffffff;fill-opacity:0.09800002;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2026-15"
+   id="shape2148-15"
    transform="translate(19.7496)">
 					<title
-   id="title40">Sheet.2026</title>
+   id="title40">Sheet.2148</title>
 					<ellipse
    cx="13.8247"
    cy="88.834702"

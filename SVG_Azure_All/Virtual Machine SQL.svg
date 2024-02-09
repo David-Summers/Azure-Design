@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="53.852303"
-   viewBox="0 0 56.689998 53.852302"
+   width="0.78735906in"
+   height="0.74794668in"
+   viewBox="0 0 56.68976 53.852302"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview49"
    showgrid="false"
-   inkscape:zoom="1.9364261"
-   inkscape:cx="28.3465"
-   inkscape:cy="26.9173"
+   inkscape:zoom="1.4523234"
+   inkscape:cx="37.795237"
+   inkscape:cy="35.889642"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -120,20 +120,20 @@
 	</defs>
 	<g
    id="g45"
-   transform="translate(-34,-34.001998)">
+   transform="translate(-34.000261,-34.001998)">
 		<title
    id="title22">Page-1</title>
 		<g
-   id="group367-1"
+   id="group419-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title24">Virtual Machine SQL</title>
 			<g
-   id="group368-2">
+   id="group420-2">
 				<title
    id="title26">Sql virtual machine</title>
 				<g
-   id="shape369-3"
+   id="shape421-3"
    transform="translate(0,-15.1723)">
 					<title
    id="title28">rect4</title>
@@ -145,7 +145,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape370-7"
+   id="shape422-7"
    transform="translate(14.1816)">
 					<title
    id="title33">path6</title>
@@ -157,7 +157,7 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape371-11"
+   id="shape423-11"
    transform="translate(11.9018,-24.4748)">
 					<title
    id="title38">path8</title>

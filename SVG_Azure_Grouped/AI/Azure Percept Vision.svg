@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.696899"
-   height="56.696899"
-   viewBox="0 0 56.696898 56.6969"
+   width="0.78745496in"
+   height="0.78745496in"
+   viewBox="0 0 56.696755 56.696898"
    xml:space="preserve"
    class="st7"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview57"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="28.346461"
-   inkscape:cy="14.175301"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="37.795184"
+   inkscape:cy="18.900351"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -78,23 +78,23 @@
 	</defs>
 	<g
    id="g53"
-   transform="translate(-5.66929,-5.6674)">
+   transform="translate(-5.6693772,-5.6674)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group20058-1"
+   id="group21213-1"
    transform="translate(5.66929,-34.0157)">
 			<title
-   id="title12">Azure Percept Vision.20058</title>
+   id="title12">Azure Percept Vision.21213</title>
 			<g
-   id="group20059-2">
+   id="group21214-2">
 				<title
    id="title14">aecfdb5d-21ee-4a1d-bdd3-f59c1b4</title>
 				<g
-   id="shape20060-3"
+   id="shape21215-3"
    transform="translate(3.07717,-3.14961)">
 					<title
-   id="title16">Sheet.20060</title>
+   id="title16">Sheet.21215</title>
 					<circle
    cx="25.196899"
    cy="71.181099"
@@ -104,10 +104,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20061-5"
+   id="shape21216-5"
    transform="translate(25.1969)">
 					<title
-   id="title21">Sheet.20061</title>
+   id="title21">Sheet.21216</title>
 					<path
    d="m 3.15,96.38 a 3.15,3.15 0 1 1 0,-6.3 22.0724,22.0724 -180 0 0 22.05,-22.05 3.15,3.15 0 0 1 6.3,0 28.378,28.378 0 0 1 -28.35,28.35 z"
    class="st2"
@@ -116,10 +116,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20062-7"
+   id="shape21217-7"
    transform="translate(0,-25.1969)">
 					<title
-   id="title26">Sheet.20062</title>
+   id="title26">Sheet.21217</title>
 					<path
    d="M 3.15,96.38 A 3.14961,3.14961 0 0 1 0,93.23 28.378,28.378 0 0 1 28.35,64.88 a 3.15,3.15 0 1 1 0,6.3 A 22.0724,22.0724 -180 0 0 6.3,93.23 3.14961,3.14961 0 0 1 3.15,96.38 Z"
    class="st2"
@@ -128,10 +128,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20063-9"
+   id="shape21218-9"
    transform="translate(6.50079,-6.09134)">
 					<title
-   id="title31">Sheet.20063</title>
+   id="title31">Sheet.21218</title>
 					<circle
    cx="21.773199"
    cy="74.604698"
@@ -141,10 +141,10 @@
    style="fill:url(#grad0-12);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20064-13"
+   id="shape21219-13"
    transform="translate(10.4976,-10.4504)">
 					<title
-   id="title36">Sheet.20064</title>
+   id="title36">Sheet.21219</title>
 					<circle
    cx="17.7764"
    cy="78.601601"
@@ -154,10 +154,10 @@
    style="fill:#5ea0ef;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20065-15"
+   id="shape21220-15"
    transform="translate(18.5575,-18.4378)">
 					<title
-   id="title41">Sheet.20065</title>
+   id="title41">Sheet.21220</title>
 					<circle
    cx="9.7889795"
    cy="86.588997"
@@ -167,10 +167,10 @@
    style="fill:#005ba1;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20066-17"
+   id="shape21221-17"
    transform="translate(29.1307,-22.778)">
 					<title
-   id="title46">Sheet.20066</title>
+   id="title46">Sheet.21221</title>
 					<circle
    cx="2.5669301"
    cy="93.810997"

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.189999"
-   height="56.689999"
-   viewBox="0 0 48.189998 56.69"
+   width="0.66930515in"
+   height="0.78736067in"
+   viewBox="0 0 48.189999 56.689588"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview18"
    showgrid="false"
-   inkscape:zoom="2.3426411"
-   inkscape:cx="24.0945"
-   inkscape:cy="16.353801"
+   inkscape:zoom="1.756969"
+   inkscape:cx="32.12598"
+   inkscape:cy="21.805054"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -53,18 +53,18 @@
 
 	<g
    id="g14"
-   transform="translate(-10.0328,-10.0343)">
+   transform="translate(-10.0328,-10.034667)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group6674-1"
+   id="group7248-1"
    transform="translate(10.0328,-34.0157)">
 			<title
    id="title6">Cognitive Services Video Indexer</title>
 			<g
-   id="shape6675-2">
+   id="shape7249-2">
 				<title
-   id="title8">Sheet.6675</title>
+   id="title8">Sheet.7249</title>
 				<path
    d="M 3.94,50.98 V 68.8 H 0 V 44.05 l 21.32,12.54 -1.98,3.45 z M 25.45,81.16 40.35,72.4 25.45,63.63 27.42,60.18 48.19,72.4 27.42,84.61 Z M 3.93,93.81 19.34,84.75 21.32,88.2 0,100.74 V 75.99 h 3.93 z"
    class="st1"

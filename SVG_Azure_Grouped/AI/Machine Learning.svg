@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="53.8606"
-   height="56.694996"
-   viewBox="0 0 53.860601 56.694997"
+   width="0.74806201in"
+   height="0.78742856in"
+   viewBox="0 0 53.860434 56.694997"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview39"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="26.929119"
-   inkscape:cy="14.175301"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="35.905404"
+   inkscape:cy="18.900351"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -55,27 +55,27 @@
 
 	<g
    id="g35"
-   transform="translate(-5.38583,-5.669303)">
+   transform="translate(-5.3859292,-5.669303)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group19614-1"
+   id="group20769-1"
    transform="translate(5.38583,-34.0157)">
 			<title
-   id="title6">Machine Learning.19614</title>
+   id="title6">Machine Learning.20769</title>
 			<g
-   id="group19615-2">
+   id="group20770-2">
 				<title
-   id="title8">Sheet.19615</title>
+   id="title8">Sheet.20770</title>
 				<g
-   id="group19616-3">
+   id="group20771-3">
 					<title
-   id="title10">Sheet.19616</title>
+   id="title10">Sheet.20771</title>
 					<g
-   id="shape19617-4"
+   id="shape20772-4"
    transform="translate(19.679,-35.4331)">
 						<title
-   id="title12">Sheet.19617</title>
+   id="title12">Sheet.20772</title>
 						<rect
    x="0"
    y="75.118103"
@@ -86,9 +86,9 @@
    style="fill:#046eab;stroke:none;stroke-width:0.64353299;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape19618-6">
+   id="shape20773-6">
 						<title
-   id="title17">Sheet.19618</title>
+   id="title17">Sheet.20773</title>
 						<path
    d="M 50.23,96.38 H 3.63 L 0,82.71 h 53.86 z"
    class="st2"
@@ -97,9 +97,9 @@
    style="fill:#19457a;stroke:none;stroke-width:0.64353299;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape19619-8">
+   id="shape20774-8">
 						<title
-   id="title22">Sheet.19619</title>
+   id="title22">Sheet.20774</title>
 						<path
    d="M 3.63,96.38 0,82.71 19.68,60.94 h 14.5 z"
    class="st3"
@@ -108,10 +108,10 @@
    style="fill:#1590cf;stroke:none;stroke-width:0.64353299;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape19620-10"
+   id="shape20775-10"
    transform="translate(29.0006)">
 						<title
-   id="title27">Sheet.19620</title>
+   id="title27">Sheet.20775</title>
 						<path
    d="M 21.23,96.38 0,75.12 8.8,64.99 24.86,82.71 Z"
    class="st1"

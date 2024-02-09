@@ -117,18 +117,18 @@
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group21821-1"
+   id="group23085-1"
    transform="translate(34,-34.0157)">
 			<title
-   id="title22">IoT Hub Workbook.21821</title>
+   id="title22">IoT Hub Workbook.23085</title>
 			<g
-   id="group21822-2">
+   id="group23086-2">
 				<title
-   id="title24">Sheet.21822</title>
+   id="title24">Sheet.23086</title>
 				<g
-   id="shape21823-3">
+   id="shape23087-3">
 					<title
-   id="title26">Sheet.21823</title>
+   id="title26">Sheet.23087</title>
 					<path
    d="M 24.48,79.61 0,104.09 v 15.47 a 5.15591,5.15591 -180 0 0 5.15,5.15 h 46.39 a 5.15591,5.15591 -180 0 0 5.15,-5.15 V 73.17 A 5.15591,5.15591 -180 0 0 51.54,68.02 H 48.96 L 30.92,86.05 Z"
    class="st1"
@@ -137,10 +137,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape21824-7"
+   id="shape23088-7"
    transform="translate(0.523132)">
 					<title
-   id="title31">Sheet.21824</title>
+   id="title31">Sheet.23088</title>
 					<path
    d="M 23.96,95.07 1.32,117.71 a 3.76063,3.76063 -180 0 0 -1.2,4.34 5.14961,5.14961 -180 0 0 4.51,2.66 h 46.39 a 5.15591,5.15591 -180 0 0 5.15,-5.15 V 75.75 L 30.4,101.51 Z"
    class="st2"
@@ -149,10 +149,10 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape21825-11"
+   id="shape23089-11"
    transform="translate(0,-20.6142)">
 					<title
-   id="title36">Sheet.21825</title>
+   id="title36">Sheet.23089</title>
 					<path
    d="M 30.92,106.67 48.96,88.63 H 5.15 A 5.15591,5.15591 -180 0 0 0,93.78 v 30.93 l 24.48,-24.48 z"
    class="st3"

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="48.181499"
-   viewBox="0 0 56.69 48.181498"
+   width="0.78736007in"
+   height="0.66918665in"
+   viewBox="0 0 56.689993 48.181509"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview79"
    showgrid="false"
-   inkscape:zoom="2.4988167"
-   inkscape:cx="28.346449"
-   inkscape:cy="13.201949"
+   inkscape:zoom="1.8741153"
+   inkscape:cx="37.795223"
+   inkscape:cy="17.602588"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -61,22 +61,22 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group1069-1"
+   id="group1168-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Storage Account Blob Hot</title>
 			<g
-   id="group1070-2">
+   id="group1169-2">
 				<title
    id="title8">Page-1</title>
 				<g
-   id="group1071-3">
+   id="group1170-3">
 					<title
    id="title10">Azure Storage (Blog) Hot Tier</title>
 					<g
-   id="shape1072-4">
+   id="shape1171-4">
 						<title
-   id="title12">Sheet.1072</title>
+   id="title12">Sheet.1171</title>
 						<path
    d="m 0,92.3 c 0,1.13 0.8,2.14 2.15,2.14 h 52.39 c 1.13,0 2.15,-0.79 2.15,-2.14 V 54.85 H 0 Z"
    class="st1"
@@ -85,10 +85,10 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:12.23999977" />
 					</g>
 					<g
-   id="shape1073-6"
+   id="shape1172-6"
    transform="translate(0,-39.5915)">
 						<title
-   id="title17">Sheet.1073</title>
+   id="title17">Sheet.1172</title>
 						<path
    d="M 54.54,85.85 H 2.15 C 0.8,85.85 0,86.87 0,88 v 6.44 H 56.69 V 88 c 0,-1.13 -0.79,-2.15 -2.15,-2.15 z"
    class="st2"
@@ -97,10 +97,10 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:12.23999977" />
 					</g>
 					<g
-   id="shape1074-8"
+   id="shape1173-8"
    transform="translate(21.3171,-27.2613)">
 						<title
-   id="title22">Sheet.1074</title>
+   id="title22">Sheet.1173</title>
 						<rect
    x="0"
    y="85.847702"
@@ -111,10 +111,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977" />
 					</g>
 					<g
-   id="shape1075-10"
+   id="shape1174-10"
    transform="translate(21.3171,-15.6101)">
 						<title
-   id="title27">Sheet.1075</title>
+   id="title27">Sheet.1174</title>
 						<rect
    x="0"
    y="85.847702"
@@ -125,10 +125,10 @@
    style="fill:#e71e27;stroke:none;stroke-width:0.85930598" />
 					</g>
 					<g
-   id="shape1076-12"
+   id="shape1175-12"
    transform="translate(38.3255,-15.6101)">
 						<title
-   id="title32">Sheet.1076</title>
+   id="title32">Sheet.1175</title>
 						<rect
    x="0"
    y="85.847702"
@@ -139,10 +139,10 @@
    style="fill:#e71e27;stroke:none;stroke-width:0.85930598" />
 					</g>
 					<g
-   id="shape1077-14"
+   id="shape1176-14"
    transform="translate(38.3255,-27.2613)">
 						<title
-   id="title37">Sheet.1077</title>
+   id="title37">Sheet.1176</title>
 						<rect
    x="0"
    y="85.847702"
@@ -153,10 +153,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977" />
 					</g>
 					<g
-   id="shape1078-16"
+   id="shape1177-16"
    transform="translate(4.30878,-27.2613)">
 						<title
-   id="title42">Sheet.1078</title>
+   id="title42">Sheet.1177</title>
 						<rect
    x="0"
    y="85.847702"
@@ -167,10 +167,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977" />
 					</g>
 					<g
-   id="shape1079-18"
+   id="shape1178-18"
    transform="translate(4.30878,-15.6101)">
 						<title
-   id="title47">Sheet.1079</title>
+   id="title47">Sheet.1178</title>
 						<rect
    x="0"
    y="85.847702"
@@ -181,10 +181,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977" />
 					</g>
 					<g
-   id="shape1080-20"
+   id="shape1179-20"
    transform="translate(4.30878,-4.07196)">
 						<title
-   id="title52">Sheet.1080</title>
+   id="title52">Sheet.1179</title>
 						<rect
    x="0"
    y="85.847702"
@@ -195,10 +195,10 @@
    style="fill:#e71e27;stroke:none;stroke-width:0.85930598" />
 					</g>
 					<g
-   id="shape1081-22"
+   id="shape1180-22"
    transform="translate(21.3171,-4.07196)">
 						<title
-   id="title57">Sheet.1081</title>
+   id="title57">Sheet.1180</title>
 						<rect
    x="0"
    y="85.847702"
@@ -209,10 +209,10 @@
    style="fill:#e71e27;stroke:none;stroke-width:0.85930598" />
 					</g>
 					<g
-   id="shape1082-24"
+   id="shape1181-24"
    transform="translate(38.3255,-4.07196)">
 						<title
-   id="title62">Sheet.1082</title>
+   id="title62">Sheet.1181</title>
 						<rect
    x="0"
    y="85.847702"
@@ -223,9 +223,9 @@
    style="fill:#e71e27;stroke:none;stroke-width:0.85930598" />
 					</g>
 					<g
-   id="shape1083-26">
+   id="shape1182-26">
 						<title
-   id="title67">Sheet.1083</title>
+   id="title67">Sheet.1182</title>
 						<path
    d="M 2.15,46.26 C 1.13,46.26 0,47.27 0,48.4 v 8.37 3.74 31.79 c 0,1.13 1.13,2.14 2.15,2.14 H 4.53 L 49.44,46.26 Z"
    class="st5"

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.693592"
-   height="56.693932"
-   viewBox="0 0 56.693591 56.693933"
+   width="0.78740901in"
+   height="0.78741372in"
+   viewBox="0 0 56.693447 56.693928"
    xml:space="preserve"
    class="st33"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview176"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="28.346461"
-   inkscape:cy="14.175301"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="37.795184"
+   inkscape:cy="18.900351"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -84,20 +84,20 @@
 
 	<g
    id="g172"
-   transform="translate(-5.66929,-5.6703695)">
+   transform="translate(-5.6693772,-5.6703695)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group8385-1"
+   id="group8999-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title6">Azure Lighthouse Protection</title>
 			<g
-   id="group8386-2">
+   id="group9000-2">
 				<title
    id="title8">g1590</title>
 				<g
-   id="shape8387-3"
+   id="shape9001-3"
    transform="translate(0.00359082,-0.00393053)">
 					<title
    id="title10">path1654</title>
@@ -109,7 +109,7 @@
    style="fill:#edf4fb;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8388-5"
+   id="shape9002-5"
    transform="translate(0.00359082)">
 					<title
    id="title15">path1652</title>
@@ -121,7 +121,7 @@
    style="fill:#d6e8f7;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8389-7"
+   id="shape9003-7"
    transform="translate(0,-0.00393053)">
 					<title
    id="title20">path1650</title>
@@ -133,7 +133,7 @@
    style="fill:#cce3f6;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8390-9"
+   id="shape9004-9"
    transform="translate(0.00359082,-0.00393053)">
 					<title
    id="title25">path1648</title>
@@ -145,7 +145,7 @@
    style="fill:#bddbf4;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8391-11"
+   id="shape9005-11"
    transform="translate(0.00359082,-0.00393053)">
 					<title
    id="title30">path1646</title>
@@ -157,7 +157,7 @@
    style="fill:#add2f1;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8392-13"
+   id="shape9006-13"
    transform="translate(0.00359082,-0.00393053)">
 					<title
    id="title35">path1644</title>
@@ -169,7 +169,7 @@
    style="fill:#9dcaef;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8393-15"
+   id="shape9007-15"
    transform="translate(0.00359082,-0.00393053)">
 					<title
    id="title40">path1642</title>
@@ -181,7 +181,7 @@
    style="fill:#8ec1ec;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8394-17"
+   id="shape9008-17"
    transform="translate(0.00359082,-0.00393053)">
 					<title
    id="title45">path1640</title>
@@ -193,7 +193,7 @@
    style="fill:#59b4d9;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8395-19"
+   id="shape9009-19"
    transform="translate(0.00359082,-0.00393053)">
 					<title
    id="title50">path1638</title>
@@ -205,7 +205,7 @@
    style="fill:#80bbea;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8396-21"
+   id="shape9010-21"
    transform="translate(0.00359082,-0.253644)">
 					<title
    id="title55">path1636</title>
@@ -217,7 +217,7 @@
    style="fill:#49defb;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8397-23"
+   id="shape9011-23"
    transform="translate(0.00359082,-0.253644)">
 					<title
    id="title60">path1634</title>
@@ -229,7 +229,7 @@
    style="fill:#7cb9e9;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8398-25"
+   id="shape9012-25"
    transform="translate(0.00359082,-0.253644)">
 					<title
    id="title65">path1632</title>
@@ -241,7 +241,7 @@
    style="fill:#6eb1e8;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8399-27"
+   id="shape9013-27"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title70">path1630</title>
@@ -253,7 +253,7 @@
    style="fill:#40d0f6;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8400-29"
+   id="shape9014-29"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title75">path1628</title>
@@ -265,7 +265,7 @@
    style="fill:#38c5f2;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8401-31"
+   id="shape9015-31"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title80">path1626</title>
@@ -277,7 +277,7 @@
    style="fill:#60aae5;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8402-33"
+   id="shape9016-33"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title85">path1624</title>
@@ -289,7 +289,7 @@
    style="fill:#57a6e4;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8403-35"
+   id="shape9017-35"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title90">path1622</title>
@@ -301,7 +301,7 @@
    style="fill:#31bbee;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8404-37"
+   id="shape9018-37"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title95">path1620</title>
@@ -313,7 +313,7 @@
    style="fill:#4ea1e3;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8405-39"
+   id="shape9019-39"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title100">path1618</title>
@@ -325,7 +325,7 @@
    style="fill:#2cb4eb;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8406-41"
+   id="shape9020-41"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title105">path1616</title>
@@ -337,7 +337,7 @@
    style="fill:#4099e0;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8407-43"
+   id="shape9021-43"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title110">path1614</title>
@@ -349,7 +349,7 @@
    style="fill:#3f99e0;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8408-45"
+   id="shape9022-45"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title115">path1612</title>
@@ -361,7 +361,7 @@
    style="fill:#22a7e8;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8409-47"
+   id="shape9023-47"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title120">path1610</title>
@@ -373,7 +373,7 @@
    style="fill:#3493de;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8410-49"
+   id="shape9024-49"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title125">path1608</title>
@@ -385,7 +385,7 @@
    style="fill:#1da0e5;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8411-51"
+   id="shape9025-51"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title130">path1606</title>
@@ -397,7 +397,7 @@
    style="fill:#2f90de;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8412-53"
+   id="shape9026-53"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title135">path1604</title>
@@ -409,7 +409,7 @@
    style="fill:#1393e0;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8413-55"
+   id="shape9027-55"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title140">path1602</title>
@@ -421,7 +421,7 @@
    style="fill:#2088db;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8414-57"
+   id="shape9028-57"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title145">path1600</title>
@@ -433,7 +433,7 @@
    style="fill:#1683d9;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8415-59"
+   id="shape9029-59"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title150">path1598</title>
@@ -445,7 +445,7 @@
    style="fill:#0c89dc;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8416-61"
+   id="shape9030-61"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title155">path1596</title>
@@ -457,7 +457,7 @@
    style="fill:#047dd9;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8417-63"
+   id="shape9031-63"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title160">path1594</title>
@@ -469,7 +469,7 @@
    style="fill:#0078d5;stroke:none;stroke-width:0.200146;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8418-65"
+   id="shape9032-65"
    transform="translate(0.253324,-0.253644)">
 					<title
    id="title165">path1592</title>

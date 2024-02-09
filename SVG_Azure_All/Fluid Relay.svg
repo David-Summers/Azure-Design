@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.690002"
-   height="56.690002"
-   viewBox="0 0 56.690004 56.690003"
+   width="0.78735769in"
+   height="0.78735769in"
+   viewBox="0 0 56.689849 56.689998"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview26"
    showgrid="false"
-   inkscape:zoom="1.9454451"
-   inkscape:cx="28.346499"
-   inkscape:cy="26.639801"
+   inkscape:zoom="1.4590901"
+   inkscape:cx="37.795171"
+   inkscape:cy="35.519575"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,22 +54,22 @@
 
 	<g
    id="g22"
-   transform="translate(-30.6,-30.6043)">
+   transform="translate(-30.600156,-30.6043)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group4685-1"
+   id="group4984-1"
    transform="translate(30.6,-34.0157)">
 			<title
    id="title6">Fluid Relay</title>
 			<g
-   id="group4686-2">
+   id="group4985-2">
 				<title
-   id="title8">Sheet.4686</title>
+   id="title8">Sheet.4985</title>
 				<g
-   id="shape4687-3">
+   id="shape4986-3">
 					<title
-   id="title10">Sheet.4687</title>
+   id="title10">Sheet.4986</title>
 					<path
    d="m 0,70.99 a 6.37795,6.37795 0 0 1 6.38,-6.37 h 9.92 a 6.37795,6.37795 0 0 1 6.38,6.37 v 9.92 A 6.37795,6.37795 0 0 1 16.3,87.29 H 6.38 A 6.37795,6.37795 0 0 1 0,80.91 Z m 28.35,28.35 a 6.37795,6.37795 0 0 1 6.37,-6.38 h 15.59 a 6.37795,6.37795 0 0 1 6.38,6.38 v 15.59 a 6.37795,6.37795 0 0 1 -6.38,6.38 H 34.72 a 6.37795,6.37795 0 0 1 -6.37,-6.38 z"
    class="st1"
@@ -78,10 +78,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:30.60000038;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4688-5"
+   id="shape4987-5"
    transform="translate(8.50394,-8.50394)">
 					<title
-   id="title15">Sheet.4688</title>
+   id="title15">Sheet.4987</title>
 					<path
    d="M 33.42,81.62 H 17.01 v 9.05 a 7.96535,7.96535 0 0 1 -8,7.96 H 0 v 16.41 a 6.20787,6.20787 -180 0 0 6.24,6.27 h 10.82 v -15 a 7.6252,7.6252 0 0 1 7.63,-7.68 H 39.66 V 87.86 a 6.20787,6.20787 -180 0 0 -6.24,-6.24 z"
    class="st2"

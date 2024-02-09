@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.665001"
-   height="56.7118"
-   viewBox="0 0 56.665 56.711799"
+   width="0.78701115in"
+   height="0.78766114in"
+   viewBox="0 0 56.665 56.711412"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview52"
    showgrid="false"
-   inkscape:zoom="1.9631003"
-   inkscape:cx="28.335202"
-   inkscape:cy="26.1175"
+   inkscape:zoom="1.4723204"
+   inkscape:cx="37.780137"
+   inkscape:cy="34.82321"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -115,20 +115,20 @@
 	</defs>
 	<g
    id="g48"
-   transform="translate(-29.509799,-29.5147)">
+   transform="translate(-29.509799,-29.51511)">
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group14924-1"
+   id="group16359-1"
    transform="translate(29.5098,-34.0157)">
 			<title
-   id="title22">Logic App.14924</title>
+   id="title22">Logic App.16359</title>
 			<g
-   id="group14925-2">
+   id="group16360-2">
 				<title
    id="title24">layer1</title>
 				<g
-   id="shape14926-3"
+   id="shape16361-3"
    transform="translate(9.28775,-17.0802)">
 					<title
    id="title26">path2</title>
@@ -140,7 +140,7 @@
    style="fill:#0078d4;stroke:none;stroke-width:29.50979996;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape14927-5"
+   id="shape16362-5"
    transform="translate(17.7189,-35.4896)">
 					<title
    id="title31">rect4</title>
@@ -152,7 +152,7 @@
    style="fill:url(#grad0-8);stroke:none;stroke-width:29.50979996;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape14928-9">
+   id="shape16363-9">
 					<title
    id="title36">rect6</title>
 					<path
@@ -163,7 +163,7 @@
    style="fill:url(#grad0-12);stroke:none;stroke-width:29.50979996;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape14929-13"
+   id="shape16364-13"
    transform="rotate(90,28.3464,127.3386)">
 					<title
    id="title41">rect8</title>

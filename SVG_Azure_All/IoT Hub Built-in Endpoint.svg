@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.775604"
-   height="36.850399"
-   viewBox="0 0 56.775607 36.8504"
+   width="0.78854889in"
+   height="0.5118103in"
+   viewBox="0 0 56.775605 36.850239"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview31"
    showgrid="false"
-   inkscape:zoom="2.0820468"
-   inkscape:cx="28.434102"
-   inkscape:cy="18.425201"
+   inkscape:zoom="1.5615307"
+   inkscape:cx="37.912086"
+   inkscape:cy="24.566897"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,23 +54,23 @@
 
 	<g
    id="g27"
-   transform="translate(-38.162395,-38.2498)">
+   transform="translate(-38.162395,-38.250047)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group4036-1"
+   id="group4285-1"
    transform="translate(38.25,-38.25)">
 			<title
    id="title6">IoT Hub Built-in Endpoint</title>
 			<g
-   id="group4037-2">
+   id="group4286-2">
 				<title
-   id="title8">Sheet.4037</title>
+   id="title8">Sheet.4286</title>
 				<g
-   id="shape4038-3"
+   id="shape4287-3"
    transform="translate(16.198,-16.378)">
 					<title
-   id="title10">Sheet.4038</title>
+   id="title10">Sheet.4287</title>
 					<path
    d="m 0,109.26 h 40.49 v 4.09 H 0 Z"
    class="st1"
@@ -79,10 +79,10 @@
    style="fill:#ff8c00;stroke:none;stroke-width:38.25;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4039-5"
+   id="shape4288-5"
    transform="translate(10.2293,-10.5269)">
 					<title
-   id="title15">Sheet.4039</title>
+   id="title15">Sheet.4288</title>
 					<path
    d="m 7.99,113.35 a 7.81552,7.90236 0 1 1 0,-15.8 7.81552,7.90236 0 0 1 0,15.8 z"
    class="st1"
@@ -91,9 +91,9 @@
    style="fill:#ff8c00;stroke:none;stroke-width:38.25;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4040-7">
+   id="shape4289-7">
 					<title
-   id="title20">Sheet.4040</title>
+   id="title20">Sheet.4289</title>
 					<path
    d="m 21.9,76.87 c 7.21,2.18 10.34,5.12 13.16,11.91 H 30.75 C 28.84,83.32 23.48,81.13 18.22,80.59 a 14.177453,14.335 -180 1 0 0,28.67 c 5.45,-0.2 10.38,-3.03 12.53,-8.19 h 4.31 c -2.42,7.91 -9.12,11.49 -16.84,12.28 a 18.2227,18.4252 0 1 1 0,-36.85 z"
    class="st2"

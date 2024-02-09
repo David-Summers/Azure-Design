@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.660679"
-   height="56.692535"
-   viewBox="0 0 56.660678 56.692536"
+   width="0.78694981in"
+   height="0.78739226in"
+   viewBox="0 0 56.660661 56.692553"
    xml:space="preserve"
    class="st7"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview57"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="28.331379"
-   inkscape:cy="28.336034"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="37.775004"
+   inkscape:cy="37.781209"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -83,16 +83,16 @@
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group9059-1"
+   id="group9678-1"
    transform="translate(33.9718,-34.0157)">
 			<title
    id="title12">Azure Arc SCVMM Management Server</title>
 			<g
-   id="group9060-2">
+   id="group9679-2">
 				<title
    id="title14">g18</title>
 				<g
-   id="shape9061-3">
+   id="shape9680-3">
 					<title
    id="title16">path2</title>
 					<path
@@ -103,7 +103,7 @@
    style="fill:#5ea0ef;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9062-5"
+   id="shape9681-5"
    transform="translate(0.0094441,-5.46642)">
 					<title
    id="title21">path4</title>
@@ -115,7 +115,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9063-7"
+   id="shape9682-7"
    transform="translate(4.26873,-12.7863)">
 					<title
    id="title26">rect6</title>
@@ -127,7 +127,7 @@
    style="fill:#005ba1;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9064-9"
+   id="shape9683-9"
    transform="translate(4.26873,-27.4197)">
 					<title
    id="title31">rect8</title>
@@ -139,7 +139,7 @@
    style="fill:#0078d4;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9065-11"
+   id="shape9684-11"
    transform="translate(4.26873,-42.0563)">
 					<title
    id="title36">rect10</title>
@@ -151,7 +151,7 @@
    style="fill:#5ea0ef;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9066-13"
+   id="shape9685-13"
    transform="translate(7.81656,-17.9529)">
 					<title
    id="title41">path12</title>
@@ -163,7 +163,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9067-15"
+   id="shape9686-15"
    transform="translate(24.4602,-12.7895)">
 					<title
    id="title46">path16</title>

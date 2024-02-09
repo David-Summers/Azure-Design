@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692959"
-   height="51.018757"
-   viewBox="0 0 56.692958 51.018756"
+   width="0.78740251in"
+   height="0.70859408in"
+   viewBox="0 0 56.692889 51.018758"
    xml:space="preserve"
    class="st8"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview67"
    showgrid="false"
-   inkscape:zoom="1.9825435"
-   inkscape:cx="28.3465"
-   inkscape:cy="25.503957"
+   inkscape:zoom="1.4869072"
+   inkscape:cx="37.795348"
+   inkscape:cy="34.00529"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -98,23 +98,23 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g63"
-   transform="translate(-34,-34.0047)">
+   transform="translate(-34.000079,-34.0047)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group12816-1"
+   id="group13564-1"
    transform="translate(34,-34.0157)">
 			<title
-   id="title12">AKS Hybrid Cluster.12816</title>
+   id="title12">AKS Hybrid Cluster.13564</title>
 			<g
-   id="group12817-2">
+   id="group13565-2">
 				<title
-   id="title14">Sheet.12817</title>
+   id="title14">Sheet.13565</title>
 				<g
-   id="shape12818-3"
+   id="shape13566-3"
    transform="translate(11.532,-36.9905)">
 					<title
-   id="title16">Sheet.12818</title>
+   id="title16">Sheet.13566</title>
 					<path
    d="m 8.14,119.01 7.34,-2.98 a 0.563594,0.565072 -180 0 0 0.333488,-0.39455 L 15.81,108.21 a 0.596943,0.598508 -180 0 0 -0.333488,-0.50823 L 8.04,105.17 H 7.71 l -7.29,1.34 a 0.563594,0.565072 -180 0 0 -0.420195,0.50823 L 0,116.96 a 0.530245,0.531635 -180 0 0 0.420195,0.53498 L 7.81,119.04 a 0.960445,0.962962 -180 0 0 0.333488,-0.0301 z"
    class="st1"
@@ -123,10 +123,10 @@
    style="fill:#000000;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12819-5"
+   id="shape13567-5"
    transform="translate(11.3586,-36.7096)">
 					<title
-   id="title21">Sheet.12819</title>
+   id="title21">Sheet.13567</title>
 					<path
    d="m 16.07,107.48 v 8.18 L 8.02,118.9 0,117.18 v -10.96 l 8.02,-1.49 z m 9.31,-2.61 -8.02,1.49 v 10.96 l 8.02,1.72 8.02,-3.26 v -8.16 z"
    class="st2"
@@ -135,10 +135,10 @@
    style="fill:#835ef7;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12820-7"
+   id="shape13568-7"
    transform="translate(3.14479,-21.6967)">
 					<title
-   id="title26">Sheet.12820</title>
+   id="title26">Sheet.13568</title>
 					<path
    d="M 8.02,104.84 0,106.33 v 10.97 l 8.02,1.71 8.05,-3.23 v -8.18 z m 17.3,-0.11 -8.02,1.49 v 10.96 l 8.02,1.75 8.02,-3.26 v -8.19 z m 17.3,0.14 -8.02,1.49 v 10.96 l 8.02,1.72 8.05,-3.23 v -8.19 z"
    class="st3"
@@ -147,10 +147,10 @@
    style="fill:#7841e5;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12821-9"
+   id="shape13569-9"
    transform="translate(11.1618,-10.0476)">
 					<title
-   id="title31">Sheet.12821</title>
+   id="title31">Sheet.13569</title>
 					<path
    d="m 33.4,119.04 v -7.68 l -8.05,-2.76 -8.02,1.49 v 8.95 z m -33.01,0 h 15.68 v -7.79 L 8.02,108.49 0,109.95 v 8.36 a 7.74692,7.76723 0 0 1 0.39,0.73 z"
    class="st4"
@@ -159,10 +159,10 @@
    style="fill:#773adc;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12822-11"
+   id="shape13570-11"
    transform="translate(3.11478,-21.8071)">
 					<title
-   id="title36">Sheet.12822</title>
+   id="title36">Sheet.13570</title>
 					<path
    d="m 8.24,91.31 v 10.97 L 16.35,104 V 89.95 Z m 3.43,10.13 -2.28,-0.45 v -8.44 l 2.28,-0.37 z m 3.53,0.65 -2.61,-0.43 V 92.02 L 15.2,91.56 Z M 25.61,91.45 v 10.97 l 8.04,1.72 V 90.09 Z M 29,101.58 26.73,101.13 V 92.69 L 29,92.32 Z m 3.53,0.64 -2.61,-0.42 v -9.64 l 2.61,-0.48 z M 0,106.43 v 10.89 l 8.1,1.72 V 105 Z m 3.39,10.16 -2.27,-0.46 v -8.45 l 2.27,-0.39 z m 3.57,0.73 -2.61,-0.42 v -9.76 l 2.61,-0.45 z m 10.37,-10.99 v 10.99 l 8.08,1.72 V 105 Z m 3.39,10.15 -2.27,-0.48 v -8.43 l 2.27,-0.4 z m 3.54,0.62 -2.61,-0.42 v -9.65 l 2.61,-0.45 z m 10.37,-10.63 v 10.85 l 8.11,1.72 V 105 Z m 3.42,10.15 -2.27,-0.49 v -8.42 l 2.27,-0.4 z m 3.54,0.62 -2.61,-0.44 v -9.63 l 2.61,-0.45 z"
    class="st5"
@@ -171,10 +171,10 @@
    style="fill:#341a6e;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12823-13"
+   id="shape13571-13"
    transform="translate(12.0889,-4.2163)">
 					<title
-   id="title41">Sheet.12823</title>
+   id="title41">Sheet.13571</title>
 					<path
    d="m 32.18,117.03 a 6.35628,6.37294 0 0 1 0.13,-1.27 1.23057,1.2338 0 0 1 -0.41,0.12 H 0.22 a 6.41964,6.43647 0 0 1 0.11,1.15 6.1195,6.13554 0 0 1 -0.33,1.88 1.26392,1.26723 0 0 1 0.25,-0.07 H 31.9 a 1.27392,1.27726 0 0 1 0.64,0.2 6.16952,6.18569 0 0 1 -0.36,-2.01 z"
    class="st6"
@@ -183,10 +183,10 @@
    style="fill:#5ea0ef;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12824-15"
+   id="shape13572-15"
    transform="translate(11.1652,-10.0476)">
 					<title
-   id="title46">Sheet.12824</title>
+   id="title46">Sheet.13572</title>
 					<path
    d="m 18.45,119.04 v -7.71 l 2.27,-0.4 v 8.11 h 0.93 v -8.25 l 2.6,-0.44 v 8.69 h 1.16 V 108.6 l -8.11,1.49 v 8.95 z m -17.33,0 v -7.85 l 2.27,-0.4 v 8.25 h 0.96 v -8.39 l 2.6,-0.45 v 8.84 H 8.1 V 108.49 L 0,109.95 v 9.09 z"
    class="st5"
@@ -195,10 +195,10 @@
    style="fill:#341a6e;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12825-17"
+   id="shape13573-17"
    transform="translate(44.2672)">
 					<title
-   id="title51">Sheet.12825</title>
+   id="title51">Sheet.13573</title>
 					<ellipse
    cx="6.2128801"
    cy="112.81"
@@ -209,9 +209,9 @@
    style="fill:url(#linearGradient4579);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12826-21">
+   id="shape13574-21">
 					<title
-   id="title56">Sheet.12826</title>
+   id="title56">Sheet.13574</title>
 					<ellipse
    cx="6.2128801"
    cy="112.81"

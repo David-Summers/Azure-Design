@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689209"
-   height="53.8563"
-   viewBox="0 0 56.689209 53.8563"
+   width="0.78734642in"
+   height="0.74800062in"
+   viewBox="0 0 56.689206 53.855812"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview82"
    showgrid="false"
-   inkscape:zoom="1.9726009"
-   inkscape:cx="28.3466"
-   inkscape:cy="25.8048"
+   inkscape:zoom="1.4794443"
+   inkscape:cx="37.795293"
+   inkscape:cy="34.406234"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -95,20 +95,20 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g78"
-   transform="translate(-31.7654,-31.768)">
+   transform="translate(-31.7654,-31.768537)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group8225-1"
+   id="group8839-1"
    transform="translate(31.7654,-34.0157)">
 			<title
    id="title12">Azure Monitor Data sources</title>
 			<g
-   id="group8226-2">
+   id="group8840-2">
 				<title
    id="title14">g26</title>
 				<g
-   id="shape8227-3"
+   id="shape8841-3"
    transform="translate(7.38898,-5.1712)">
 					<title
    id="title16">path2</title>
@@ -120,7 +120,7 @@
    style="fill:#5ea0ef;stroke:none;stroke-width:31.76539993;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8228-5"
+   id="shape8842-5"
    transform="translate(0,-16.5693)">
 					<title
    id="title21">path4</title>
@@ -132,7 +132,7 @@
    style="fill:#83b9f9;stroke:none;stroke-width:31.76539993;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8229-7"
+   id="shape8843-7"
    transform="translate(26.6992)">
 					<title
    id="title26">path6</title>
@@ -144,7 +144,7 @@
    style="fill:url(#linearGradient4594);stroke:none;stroke-width:31.76539993;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8230-11"
+   id="shape8844-11"
    transform="translate(26.6992,-37.2763)">
 					<title
    id="title31">path8</title>
@@ -156,7 +156,7 @@
    style="fill:url(#linearGradient4596);stroke:none;stroke-width:31.76539993;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8231-14"
+   id="shape8845-14"
    transform="translate(32.1701,-4.25139)">
 					<title
    id="title36">rect10</title>
@@ -168,7 +168,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:31.76539993;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8232-16"
+   id="shape8846-16"
    transform="translate(39.1748,-4.25139)">
 					<title
    id="title41">rect12</title>
@@ -180,7 +180,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:31.76539993;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8233-18"
+   id="shape8847-18"
    transform="translate(46.1795,-4.25139)">
 					<title
    id="title46">rect14</title>
@@ -192,7 +192,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:31.76539993;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8234-20"
+   id="shape8848-20"
    transform="translate(36.7402,-44.8055)">
 					<title
    id="title51">circle16</title>
@@ -206,7 +206,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:31.76539993;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8235-22"
+   id="shape8849-22"
    transform="translate(42.9354,-40.9145)">
 					<title
    id="title56">circle18</title>
@@ -220,7 +220,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:31.76539993;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8236-24"
+   id="shape8850-24"
    transform="translate(47.8583,-47.6693)">
 					<title
    id="title61">circle20</title>
@@ -234,7 +234,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:31.76539993;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8237-26"
+   id="shape8851-26"
    transform="translate(31.5874,-40.3645)">
 					<title
    id="title66">circle22</title>
@@ -248,7 +248,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:31.76539993;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8238-28"
+   id="shape8852-28"
    transform="translate(32.5134,-41.2432)">
 					<title
    id="title71">path24</title>

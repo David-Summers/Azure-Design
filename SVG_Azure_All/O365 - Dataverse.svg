@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="52.346802"
-   height="39.27195"
-   viewBox="0 0 52.3468 39.271951"
+   width="0.72703898in"
+   height="0.54544377in"
+   viewBox="0 0 52.346805 39.27195"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview70"
    showgrid="false"
-   inkscape:zoom="2.9185094"
-   inkscape:cx="26.169133"
-   inkscape:cy="4.7923201"
+   inkscape:zoom="2.1888819"
+   inkscape:cx="34.892177"
+   inkscape:cy="6.389759"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -119,31 +119,31 @@
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group2762-1"
+   id="group2964-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title22">O365 - Dataverse</title>
 			<g
-   id="group2763-2">
+   id="group2965-2">
 				<title
    id="title24">Page-1</title>
 				<g
-   id="group2764-3">
+   id="group2966-3">
 					<title
    id="title26">g65.57</title>
 					<g
-   id="group2765-4">
+   id="group2967-4">
 						<title
    id="title28">g63</title>
 						<g
-   id="group2766-5"
+   id="group2968-5"
    transform="translate(0,-0.95167)">
 							<title
    id="title30">path45</title>
 							<g
-   id="shape2767-6">
+   id="shape2969-6">
 								<title
-   id="title32">Sheet.2767</title>
+   id="title32">Sheet.2969</title>
 								<path
    d="m 23.75,68.35 c 7.1,4.01 13.48,2.47 17.09,-3.65 C 44.45,58.59 43.09,50.25 36.53,45.04 29.34,39.32 18.09,39.3 9.79,46.59 2.33,53.15 0,64.7 4.38,74.71 v 0 c 0.71,1.57 1.91,2.94 3.54,3.86 4.05,2.29 9.25,0.93 11.59,-3.04 h 0.01 z"
    class="st1"
@@ -153,14 +153,14 @@
 							</g>
 						</g>
 						<g
-   id="group2768-10"
+   id="group2970-10"
    transform="translate(12.2547)">
 							<title
    id="title38">path47</title>
 							<g
-   id="shape2769-11">
+   id="shape2971-11">
 								<title
-   id="title40">Sheet.2769</title>
+   id="title40">Sheet.2971</title>
 								<path
    d="m 40.08,45.49 h 0.01 c 4.35,10 2.01,21.53 -5.43,28.07 -8.3,7.3 -19.55,7.28 -26.75,1.56 C 1.36,69.91 0,61.57 3.61,55.46 c 3.6,-6.12 9.98,-7.67 17.08,-3.65 l 4.24,-7.18 v 0 c 2.35,-3.97 7.54,-5.34 11.6,-3.04 1.65,0.93 2.85,2.32 3.55,3.9 z"
    class="st2"
@@ -170,14 +170,14 @@
 							</g>
 						</g>
 						<g
-   id="group2770-15"
+   id="group2972-15"
    transform="translate(12.379,-6.28615)">
 							<title
    id="title46">path49</title>
 							<g
-   id="shape2771-16">
+   id="shape2973-16">
 								<title
-   id="title48">Sheet.2771</title>
+   id="title48">Sheet.2973</title>
 								<path
    d="M 20.57,58.09 C 13.47,54.08 7.09,55.63 3.49,61.74 0,67.65 1.15,75.63 7.14,80.86 l 4.23,-7.17 c 7.1,4.01 13.48,2.46 17.09,-3.65 3.49,-5.91 2.34,-13.89 -3.65,-19.12 z"
    class="st3"
@@ -187,14 +187,14 @@
 							</g>
 						</g>
 						<g
-   id="group2772-18"
+   id="group2974-18"
    transform="translate(17.8429,-10.9756)">
 							<title
    id="title54">path61</title>
 							<g
-   id="shape2773-19">
+   id="shape2975-19">
 								<title
-   id="title56">Sheet.2773</title>
+   id="title56">Sheet.2975</title>
 								<path
    d="m 18.48,75.08 c -2.54,4.31 -8.17,5.78 -12.57,3.3 -4.4,-2.49 -5.91,-8 -3.37,-12.3 2.54,-4.31 8.17,-5.78 12.57,-3.3 4.4,2.49 5.91,7.99 3.37,12.3 z"
    class="st4"

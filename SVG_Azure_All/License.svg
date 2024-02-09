@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.216923"
-   height="56.692547"
-   viewBox="0 0 48.216923 56.692548"
+   width="0.66967773in"
+   height="0.78739446in"
+   viewBox="0 0 48.216591 56.69255"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview57"
    showgrid="false"
-   inkscape:zoom="1.9244883"
-   inkscape:cx="24.10634"
-   inkscape:cy="27.299301"
+   inkscape:zoom="1.44337"
+   inkscape:cx="32.141706"
+   inkscape:cy="36.398974"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -97,21 +97,21 @@
 	</defs>
 	<g
    id="g53"
-   transform="translate(-31.92166,-31.921753)">
+   transform="translate(-31.922043,-31.921753)">
 		<title
    id="title15">Page-1</title>
 		<g
-   id="group3610-1"
+   id="group3843-1"
    transform="translate(31.9462,-34.0157)">
 			<title
    id="title17">License</title>
 			<g
-   id="group3611-2"
+   id="group3844-2"
    transform="translate(0,-3.21035)">
 				<title
    id="title19">Icon-identity-230</title>
 				<g
-   id="shape3612-3">
+   id="shape3845-3">
 					<title
    id="title21">path4</title>
 					<path
@@ -122,7 +122,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:31.92130089;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3613-7"
+   id="shape3846-7"
    transform="translate(16.7727,-9.32974)">
 					<title
    id="title26">path6</title>
@@ -134,7 +134,7 @@
    style="fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:31.92130089;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3614-9"
+   id="shape3847-9"
    transform="translate(10.6119,-26.2659)">
 					<title
    id="title31">circle8</title>
@@ -149,7 +149,7 @@
 				</g>
 			</g>
 			<g
-   id="shape3615-13"
+   id="shape3848-13"
    transform="translate(28.3362,-11.7182)">
 				<title
    id="title37">circle8-7</title>
@@ -163,7 +163,7 @@
    style="fill:#dd5900;stroke:none;stroke-width:14.90919971;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape3616-15"
+   id="shape3849-15"
    transform="translate(29.9966,-13.3919)">
 				<title
    id="title42">circle10</title>
@@ -177,7 +177,7 @@
    style="fill:#fcd116;fill-opacity:0.9;stroke:none;stroke-width:14.90919971;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape3617-17"
+   id="shape3850-17"
    transform="translate(29.1719)">
 				<title
    id="title47">path12</title>

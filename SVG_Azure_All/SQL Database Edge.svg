@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="52.003918"
-   height="50.508698"
-   viewBox="0 0 52.003915 50.508697"
+   width="0.72227693in"
+   height="0.70150995in"
+   viewBox="0 0 52.003937 50.508676"
    xml:space="preserve"
    class="st12"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview116"
    showgrid="false"
-   inkscape:zoom="2.4585997"
-   inkscape:cx="26.003816"
-   inkscape:cy="13.466297"
+   inkscape:zoom="1.8439483"
+   inkscape:cx="34.671748"
+   inkscape:cy="17.955045"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -194,16 +194,16 @@
 		<title
    id="title40">Page-1</title>
 		<g
-   id="group1413-1"
+   id="group1512-1"
    transform="translate(9.45301,-34.0157)">
 			<title
    id="title42">SQL Database Edge</title>
 			<g
-   id="group1414-2">
+   id="group1513-2">
 				<title
    id="title44">layer1</title>
 				<g
-   id="shape1415-3"
+   id="shape1514-3"
    transform="translate(33.6837,-36.843)">
 					<title
    id="title46">path40</title>
@@ -215,7 +215,7 @@
    style="fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:10.95020008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1416-5"
+   id="shape1515-5"
    transform="translate(33.7284,-36.3056)">
 					<title
    id="title51">path42</title>
@@ -227,7 +227,7 @@
    style="fill:url(#linearGradient4628);stroke:none;stroke-width:10.95020008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1417-9"
+   id="shape1516-9"
    transform="translate(33.7284,-47.0019)">
 					<title
    id="title56">path44</title>
@@ -245,7 +245,7 @@
    style="stroke:none;stroke-width:10.95020008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1418-12"
+   id="shape1517-12"
    transform="translate(35.063,-47.8969)">
 					<title
    id="title63">path46</title>
@@ -263,7 +263,7 @@
    style="stroke:none;stroke-width:10.95020008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1419-15"
+   id="shape1518-15"
    transform="translate(35.9784,-47.8919)">
 					<title
    id="title70">path48</title>
@@ -275,7 +275,7 @@
    style="fill:#198ab3;stroke:none;stroke-width:10.95020008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1420-17"
+   id="shape1519-17"
    transform="translate(6.66665,-12.9794)">
 					<title
    id="title75">path50</title>
@@ -287,7 +287,7 @@
    style="fill:url(#grad0-20);stroke:none;stroke-width:10.95020008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1421-21">
+   id="shape1520-21">
 					<title
    id="title80">path52</title>
 					<path
@@ -298,7 +298,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:10.95020008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1422-23"
+   id="shape1521-23"
    transform="translate(16.0981,-0.513202)">
 					<title
    id="title85">path54</title>
@@ -310,7 +310,7 @@
    style="fill:url(#linearGradient4630);stroke:none;stroke-width:10.95020008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1423-26"
+   id="shape1522-26"
    transform="translate(16.0981,-18.863)">
 					<title
    id="title90">path56</title>
@@ -322,7 +322,7 @@
    style="fill:#e8e8e8;stroke:none;stroke-width:10.95020008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1424-28"
+   id="shape1523-28"
    transform="translate(18.3876,-20.3986)">
 					<title
    id="title95">path58</title>
@@ -334,7 +334,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:10.95020008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1425-30"
+   id="shape1524-30"
    transform="translate(19.95,-20.3986)">
 					<title
    id="title100">path60</title>
@@ -346,7 +346,7 @@
    style="fill:#198ab3;stroke:none;stroke-width:10.95020008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1426-32"
+   id="shape1525-32"
    transform="translate(18.48,-6.91703)">
 					<title
    id="title105">path62</title>

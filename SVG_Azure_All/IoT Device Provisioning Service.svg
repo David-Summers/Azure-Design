@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="53.860001"
-   height="56.692066"
-   viewBox="0 0 53.860002 56.692067"
+   width="0.74805367in"
+   height="0.78738785in"
+   viewBox="0 0 53.859833 56.692066"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview81"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="26.929119"
-   inkscape:cy="14.173297"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="35.905404"
+   inkscape:cy="18.897679"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -53,20 +53,20 @@
 
 	<g
    id="g77"
-   transform="translate(-5.38583,-5.67023)">
+   transform="translate(-5.3859292,-5.67023)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group4071-1"
+   id="group4320-1"
    transform="translate(5.38583,-34.0157)">
 			<title
    id="title6">IoT Device Provisioning Service</title>
 			<g
-   id="group4072-2">
+   id="group4321-2">
 				<title
    id="title8">g30</title>
 				<g
-   id="shape4073-3"
+   id="shape4322-3"
    transform="translate(17.1156,-41.2724)">
 					<title
    id="title10">circle4</title>
@@ -80,7 +80,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:0.14035399;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4074-5"
+   id="shape4323-5"
    transform="translate(25.8147,-26.9438)">
 					<title
    id="title15">circle6</title>
@@ -94,7 +94,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:0.14035399;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4075-7"
+   id="shape4324-7"
    transform="translate(35.1958,-13.1528)">
 					<title
    id="title20">circle8</title>
@@ -108,7 +108,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:0.14035399;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4076-9"
+   id="shape4325-9"
    transform="translate(20.3424,-16.3948)">
 					<title
    id="title25">circle10</title>
@@ -122,7 +122,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:0.14035399;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4077-11"
+   id="shape4326-11"
    transform="translate(6.80297,-26.6751)">
 					<title
    id="title30">circle12</title>
@@ -136,7 +136,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:0.14035399;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4078-13"
+   id="shape4327-13"
    transform="translate(19.6411,-30.8223)">
 					<title
    id="title35">path14</title>
@@ -148,7 +148,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:0.14035399;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4079-15"
+   id="shape4328-15"
    transform="translate(29.1646,-16.2022)">
 					<title
    id="title40">path16</title>
@@ -160,7 +160,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:0.14035399;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4080-17"
+   id="shape4329-17"
    transform="translate(9.57623,-28.7604)">
 					<title
    id="title45">path18</title>
@@ -172,7 +172,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:0.14035399;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4081-19"
+   id="shape4330-19"
    transform="translate(21.9352,-18.7916)">
 					<title
    id="title50">path20</title>
@@ -184,7 +184,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:0.14035399;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4082-21"
+   id="shape4331-21"
    transform="translate(1.59679,-38.2992)">
 					<title
    id="title55">circle22</title>
@@ -198,7 +198,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:0.14035399;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4083-23"
+   id="shape4332-23"
    transform="translate(44.1778,-38.2992)">
 					<title
    id="title60">circle24</title>
@@ -212,7 +212,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:0.14035399;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4084-25"
+   id="shape4333-25"
    transform="translate(23.9518)">
 					<title
    id="title65">circle26</title>
@@ -226,7 +226,7 @@
    style="fill:#0072c6;stroke:none;stroke-width:0.14035399;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4085-27"
+   id="shape4334-27"
    transform="translate(0,-2.65407)">
 					<title
    id="title70">path28</title>

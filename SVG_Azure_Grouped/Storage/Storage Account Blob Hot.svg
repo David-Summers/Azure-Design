@@ -61,22 +61,22 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group21509-1"
+   id="group22773-1"
    transform="translate(12.24,-34.0157)">
 			<title
-   id="title6">Storage Account Blob Hot.21509</title>
+   id="title6">Storage Account Blob Hot.22773</title>
 			<g
-   id="group21510-2">
+   id="group22774-2">
 				<title
    id="title8">Page-1</title>
 				<g
-   id="group21511-3">
+   id="group22775-3">
 					<title
    id="title10">Azure Storage (Blog) Hot Tier</title>
 					<g
-   id="shape21512-4">
+   id="shape22776-4">
 						<title
-   id="title12">Sheet.21512</title>
+   id="title12">Sheet.22776</title>
 						<path
    d="m 0,92.3 c 0,1.13 0.8,2.14 2.15,2.14 h 52.39 c 1.13,0 2.15,-0.79 2.15,-2.14 V 54.85 H 0 Z"
    class="st1"
@@ -85,10 +85,10 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:12.23999977" />
 					</g>
 					<g
-   id="shape21513-6"
+   id="shape22777-6"
    transform="translate(0,-39.5915)">
 						<title
-   id="title17">Sheet.21513</title>
+   id="title17">Sheet.22777</title>
 						<path
    d="M 54.54,85.85 H 2.15 C 0.8,85.85 0,86.87 0,88 v 6.44 H 56.69 V 88 c 0,-1.13 -0.79,-2.15 -2.15,-2.15 z"
    class="st2"
@@ -97,10 +97,10 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:12.23999977" />
 					</g>
 					<g
-   id="shape21514-8"
+   id="shape22778-8"
    transform="translate(21.3171,-27.2613)">
 						<title
-   id="title22">Sheet.21514</title>
+   id="title22">Sheet.22778</title>
 						<rect
    x="0"
    y="85.847702"
@@ -111,10 +111,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977" />
 					</g>
 					<g
-   id="shape21515-10"
+   id="shape22779-10"
    transform="translate(21.3171,-15.6101)">
 						<title
-   id="title27">Sheet.21515</title>
+   id="title27">Sheet.22779</title>
 						<rect
    x="0"
    y="85.847702"
@@ -125,10 +125,10 @@
    style="fill:#e71e27;stroke:none;stroke-width:0.85930598" />
 					</g>
 					<g
-   id="shape21516-12"
+   id="shape22780-12"
    transform="translate(38.3255,-15.6101)">
 						<title
-   id="title32">Sheet.21516</title>
+   id="title32">Sheet.22780</title>
 						<rect
    x="0"
    y="85.847702"
@@ -139,10 +139,10 @@
    style="fill:#e71e27;stroke:none;stroke-width:0.85930598" />
 					</g>
 					<g
-   id="shape21517-14"
+   id="shape22781-14"
    transform="translate(38.3255,-27.2613)">
 						<title
-   id="title37">Sheet.21517</title>
+   id="title37">Sheet.22781</title>
 						<rect
    x="0"
    y="85.847702"
@@ -153,10 +153,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977" />
 					</g>
 					<g
-   id="shape21518-16"
+   id="shape22782-16"
    transform="translate(4.30878,-27.2613)">
 						<title
-   id="title42">Sheet.21518</title>
+   id="title42">Sheet.22782</title>
 						<rect
    x="0"
    y="85.847702"
@@ -167,10 +167,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977" />
 					</g>
 					<g
-   id="shape21519-18"
+   id="shape22783-18"
    transform="translate(4.30878,-15.6101)">
 						<title
-   id="title47">Sheet.21519</title>
+   id="title47">Sheet.22783</title>
 						<rect
    x="0"
    y="85.847702"
@@ -181,10 +181,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977" />
 					</g>
 					<g
-   id="shape21520-20"
+   id="shape22784-20"
    transform="translate(4.30878,-4.07196)">
 						<title
-   id="title52">Sheet.21520</title>
+   id="title52">Sheet.22784</title>
 						<rect
    x="0"
    y="85.847702"
@@ -195,10 +195,10 @@
    style="fill:#e71e27;stroke:none;stroke-width:0.85930598" />
 					</g>
 					<g
-   id="shape21521-22"
+   id="shape22785-22"
    transform="translate(21.3171,-4.07196)">
 						<title
-   id="title57">Sheet.21521</title>
+   id="title57">Sheet.22785</title>
 						<rect
    x="0"
    y="85.847702"
@@ -209,10 +209,10 @@
    style="fill:#e71e27;stroke:none;stroke-width:0.85930598" />
 					</g>
 					<g
-   id="shape21522-24"
+   id="shape22786-24"
    transform="translate(38.3255,-4.07196)">
 						<title
-   id="title62">Sheet.21522</title>
+   id="title62">Sheet.22786</title>
 						<rect
    x="0"
    y="85.847702"
@@ -223,9 +223,9 @@
    style="fill:#e71e27;stroke:none;stroke-width:0.85930598" />
 					</g>
 					<g
-   id="shape21523-26">
+   id="shape22787-26">
 						<title
-   id="title67">Sheet.21523</title>
+   id="title67">Sheet.22787</title>
 						<path
    d="M 2.15,46.26 C 1.13,46.26 0,47.27 0,48.4 v 8.37 3.74 31.79 c 0,1.13 1.13,2.14 2.15,2.14 H 4.53 L 49.44,46.26 Z"
    class="st5"

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="56.689999"
-   viewBox="0 0 56.690001 56.690001"
+   width="0.78736132in"
+   height="0.78736132in"
+   viewBox="0 0 56.689999 56.689999"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview21"
    showgrid="false"
-   inkscape:zoom="1.4871482"
-   inkscape:cx="28.346497"
-   inkscape:cy="28.343503"
+   inkscape:zoom="1.1153608"
+   inkscape:cx="37.795344"
+   inkscape:cy="37.791344"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -57,18 +57,18 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group319-1"
+   id="group371-1"
    transform="translate(51,-51)">
 			<title
    id="title6">Virtual Machine Stop</title>
 			<g
-   id="group320-2">
+   id="group372-2">
 				<title
-   id="title8">Sheet.320</title>
+   id="title8">Sheet.372</title>
 				<g
-   id="shape321-3">
+   id="shape373-3">
 					<title
-   id="title10">Sheet.321</title>
+   id="title10">Sheet.373</title>
 					<path
    d="m 51.97,106.72 v 47.25 H 4.72 V 106.72 Z M 56.69,102 H 0 v 56.69 h 56.69 z"
    class="st1"

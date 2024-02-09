@@ -100,19 +100,19 @@
 		<title
    id="title15">Page-1</title>
 		<g
-   id="group12895-1"
+   id="group14136-1"
    transform="translate(34,-34.0157)">
 			<title
-   id="title17">Virtual Machine Best Practices.12895</title>
+   id="title17">Virtual Machine Best Practices.14136</title>
 			<g
-   id="group12896-2">
+   id="group14137-2">
 				<title
-   id="title19">Sheet.12896</title>
+   id="title19">Sheet.14137</title>
 				<g
-   id="shape12897-3"
+   id="shape14138-3"
    transform="translate(0,-14.2056)">
 					<title
-   id="title21">Sheet.12897</title>
+   id="title21">Sheet.14138</title>
 					<path
    d="m 0,117.2 a 1.88981,1.84094 -180 0 0 1.89,1.84 H 54.8 a 1.88981,1.84094 -180 0 0 1.89,-1.84 V 84.06 A 1.88981,1.84094 -180 0 0 54.8,82.22 H 1.89 A 1.88981,1.84094 -180 0 0 0,84.06 Z"
    class="st1"
@@ -121,10 +121,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12898-7"
+   id="shape14139-7"
    transform="translate(14.1732)">
 					<title
-   id="title26">Sheet.12898</title>
+   id="title26">Sheet.14139</title>
 					<path
    d="m 25.54,115.97 c -5.6,-0.86 -5.82,-4.79 -5.82,-11.14 H 8.6 c 0,6.35 -0.19,10.28 -5.8,11.14 A 3.14961,3.06817 -180 0 0 0,119.04 h 28.35 a 3.14961,3.06817 -180 0 0 -2.81,-3.07 z"
    class="st2"
@@ -133,10 +133,10 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12899-11"
+   id="shape14140-11"
    transform="translate(13.1213,-19.3968)">
 					<title
-   id="title31">Sheet.12899</title>
+   id="title31">Sheet.14140</title>
 					<path
    d="M 18.72,92 A 0.873511,0.850924 -180 1 0 18.294803,93.65067 12.9354,12.601 0 1 1 4.16,99.28 l 0.35,0.24 2.46,1.67 a 0.151181,0.147272 -180 0 0 0.15748,-0.17182 L 6.55,94.5 A 0.151181,0.147272 -180 0 0 6.376772,94.380341 L 0.11,96.36 A 0.151181,0.147272 -180 0 0 0.002913,96.565567 L 2.59,98.22 l 0.14,0.1 a 14.6362,14.2578 -180 1 0 16,-6.32 z"
    class="st3"
@@ -145,10 +145,10 @@
    style="fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12900-13"
+   id="shape14141-13"
    transform="translate(18.4504,-23.5114)">
 					<title
-   id="title36">Sheet.12900</title>
+   id="title36">Sheet.14141</title>
 					<path
    d="m 16.77,107.22 -1.05,-1.78 0.57,-3.24 -2.67,-1.5 -2.6,2.1 h -2.1 l -2.6,-2.1 -2.67,1.5 0.58,3.26 -1.06,1.76 -3.17,1.14 v 3.01 l 3.17,1.14 1.05,1.77 -0.57,3.26 2.67,1.5 2.6,-2.1 h 2.1 l 2.6,2.1 2.67,-1.5 -0.57,-3.25 1.05,-1.77 3.17,-1.14 v -3.01 z m -6.8,7.2 a 4.66457,4.54396 0 1 1 4.65,-4.55 4.66457,4.54396 0 0 1 -4.65,4.55 z"
    class="st4"

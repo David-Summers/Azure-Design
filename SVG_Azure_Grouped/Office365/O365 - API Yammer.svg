@@ -60,28 +60,28 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group22287-1"
+   id="group23559-1"
    transform="translate(5.66929,-34.0157)">
 			<title
-   id="title6">O365 - API Yammer.22287</title>
+   id="title6">O365 - API Yammer.23559</title>
 			<desc
    id="desc8">This package will provide stencils to visually represent Power Platform: Power Bi, Power Apps, Power Virtual Agents and/or Power Automate devices, architectures or solutions diagrams. It will provide stencils to visually represent features, systems, processes and architectures that use these technologies.</desc>
 			<g
-   id="group22288-2">
+   id="group23560-2">
 				<title
    id="title10">Page-1</title>
 				<g
-   id="group22289-3">
+   id="group23561-3">
 					<title
    id="title12">Power Automate API: Yammer</title>
 					<g
-   id="group22290-4">
+   id="group23562-4">
 						<title
    id="title14">rect5099.2962</title>
 						<g
-   id="shape22291-5">
+   id="shape23563-5">
 							<title
-   id="title16">Sheet.22291</title>
+   id="title16">Sheet.23563</title>
 							<rect
    x="0"
    y="39.685001"
@@ -93,14 +93,14 @@
 						</g>
 					</g>
 					<g
-   id="group22292-7"
+   id="group23564-7"
    transform="translate(12.4277,-13.7371)">
 						<title
    id="title22">path5115.2963</title>
 						<g
-   id="shape22293-8">
+   id="shape23565-8">
 							<title
-   id="title24">Sheet.22293</title>
+   id="title24">Sheet.23565</title>
 							<path
    d="m 33.37,80.53 h -0.28 c -1.4,0 -10.89,1.12 -10.46,2.08 0.41,0.98 6.42,1.39 10.6,1.39 a 1.81529,1.80728 -180 0 0 0.14,-3.47 z m -3.21,10.14 c -3.77,-2.07 -9.08,-4.44 -10.05,-3.89 -0.98,0.56 6.98,6.13 8.23,6.82 h 0.15 a 1.81529,1.80728 -180 0 0 1.53,-3.06 z M 30.02,73.85 A 1.81529,1.80728 -180 0 0 28.49,70.8 h -0.15 c -1.11,0.7 -9.07,6.12 -8.23,6.81 0.84,0.7 6.28,-1.52 9.91,-3.61 z M 7.82,88.6 C 6.7,91.65 5.73,93.19 3.35,93.19 H 2.23 A 1.67566,1.66826 -180 0 0 1.68,96.38 H 3.5 c 4.32,0 5.71,-2.5 7.11,-6.12 L 19,69.41 A 1.81529,1.80728 -180 0 0 15.63,68.29 L 9.92,84 H 9.77 L 3.5,68.29 A 1.95493,1.9463 -180 0 0 0,69.68 Z"
    class="st2"
@@ -109,9 +109,9 @@
    style="fill:#ffffff;stroke:none;stroke-width:1" />
 						</g>
 						<g
-   id="shape22294-10">
+   id="shape23566-10">
 							<title
-   id="title29">Sheet.22294</title>
+   id="title29">Sheet.23566</title>
 							<path
    d="m 33.37,80.53 h -0.28 c -1.4,0 -10.89,1.12 -10.46,2.08 0.41,0.98 6.42,1.39 10.6,1.39 a 1.81529,1.80728 -180 0 0 0.14,-3.47 z m -3.21,10.14 c -3.77,-2.07 -9.08,-4.44 -10.05,-3.89 -0.98,0.56 6.98,6.13 8.23,6.82 h 0.15 a 1.81529,1.80728 -180 0 0 1.53,-3.06 z M 30.02,73.85 A 1.81529,1.80728 -180 0 0 28.49,70.8 h -0.15 c -1.11,0.7 -9.07,6.12 -8.23,6.81 0.84,0.7 6.28,-1.52 9.91,-3.61 z M 7.82,88.6 C 6.7,91.65 5.73,93.19 3.35,93.19 H 2.23 A 1.67566,1.66826 -180 0 0 1.68,96.38 H 3.5 c 4.32,0 5.71,-2.5 7.11,-6.12 L 19,69.41 A 1.81529,1.80728 -180 0 0 15.63,68.29 L 9.92,84 H 9.77 L 3.5,68.29 A 1.95493,1.9463 -180 0 0 0,69.68 Z"
    class="st3"

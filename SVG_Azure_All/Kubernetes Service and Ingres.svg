@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.696301"
-   height="53.85371"
-   viewBox="0 0 56.6963 53.85371"
+   width="0.78744656in"
+   height="0.74796623in"
+   viewBox="0 0 56.69606 53.853709"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview42"
    showgrid="false"
-   inkscape:zoom="1.9364261"
-   inkscape:cx="28.3465"
-   inkscape:cy="26.917308"
+   inkscape:zoom="1.4523234"
+   inkscape:cx="37.795237"
+   inkscape:cy="35.889654"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -94,23 +94,23 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g38"
-   transform="translate(-34,-34.0006)">
+   transform="translate(-34.000261,-34.0006)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group3662-1"
+   id="group3895-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title12">Kubernetes Service and Ingres</title>
 			<g
-   id="group3663-2">
+   id="group3896-2">
 				<title
-   id="title14">Sheet.3663</title>
+   id="title14">Sheet.3896</title>
 				<g
-   id="shape3664-3"
+   id="shape3897-3"
    transform="translate(5.44567,-15.3433)">
 					<title
-   id="title16">Sheet.3664</title>
+   id="title16">Sheet.3897</title>
 					<path
    d="m 25.37,110.29 v -6.67 h -4.73 v 6.67 a 0.944882,0.939388 0 0 1 -0.944882,0.93939 L 1.89,111.23 A 1.88976,1.87878 -180 0 0 0,113.11 v 8.66 h 4.72 v -4.79 a 0.944882,0.939388 0 0 1 0.944882,-0.93939 L 40.12,116.04 a 0.944882,0.939388 0 0 1 0.944882,0.93939 L 41.07,121.87 h 4.72 v -8.76 A 1.88976,1.87878 -180 0 0 43.9,111.23 H 26.31 a 0.944882,0.939388 0 0 1 -0.944882,-0.93939 z"
    class="st1"
@@ -119,10 +119,10 @@
    style="fill:#a3a3a3;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3665-5"
+   id="shape3898-5"
    transform="translate(17.4425,-32.3337)">
 					<title
-   id="title21">Sheet.3665</title>
+   id="title21">Sheet.3898</title>
 					<path
    d="M 19.69,100.35 H 1.96 A 1.95906,1.94767 -180 0 0 0,102.3 v 17.61 a 1.95906,1.94767 -180 0 0 1.94,1.96 h 17.75 a 1.95906,1.94767 -180 0 0 1.96,-1.93 v -17.65 a 1.95591,1.94453 -180 0 0 -1.95,-1.94 z m -1.7,16.6 a 1.29764,1.29009 0 0 1 -1.3,1.29 H 4.94 a 1.30079,1.29322 0 0 1 -1.3,-1.29 v -11.7 a 1.29764,1.29009 0 0 1 1.3,-1.29 h 11.77 a 1.29449,1.28696 0 0 1 1.29,1.29 z"
    class="st2"
@@ -131,9 +131,9 @@
    style="fill:#773adc;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3666-7">
+   id="shape3899-7">
 					<title
-   id="title26">Sheet.3666</title>
+   id="title26">Sheet.3899</title>
 					<path
    d="m 15.48,120.31 v -12.26 a 1.5748,1.56565 -180 0 0 -1.57,-1.56 H 1.57 A 1.5748,1.56565 -180 0 0 0,108.05 v 12.26 a 1.5748,1.56565 -180 0 0 1.57,1.56 h 12.34 a 1.5748,1.56565 -180 0 0 1.57,-1.56 z"
    class="st3"
@@ -142,10 +142,10 @@
    style="fill:url(#linearGradient4554);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3667-11"
+   id="shape3900-11"
    transform="translate(41.2063)">
 					<title
-   id="title31">Sheet.3667</title>
+   id="title31">Sheet.3900</title>
 					<path
    d="m 15.49,120.31 v -12.26 a 1.5748,1.56565 -180 0 0 -1.58,-1.56 H 1.57 A 1.5748,1.56565 -180 0 0 0,108.05 v 12.26 a 1.5748,1.56565 -180 0 0 1.57,1.56 h 12.34 a 1.5748,1.56565 -180 0 0 1.58,-1.56 z"
    class="st3"

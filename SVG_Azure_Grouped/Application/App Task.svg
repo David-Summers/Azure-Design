@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.694199"
-   height="56.690109"
-   viewBox="0 0 56.694198 56.690109"
+   width="0.78741843in"
+   height="0.78736162in"
+   viewBox="0 0 56.6942 56.690036"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview54"
    showgrid="false"
-   inkscape:zoom="1.9298073"
-   inkscape:cx="28.3467"
-   inkscape:cy="27.128309"
+   inkscape:zoom="1.4473555"
+   inkscape:cx="37.795551"
+   inkscape:cy="36.17103"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -109,20 +109,20 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g50"
-   transform="translate(-31.5833,-31.584199)">
+   transform="translate(-31.5833,-31.584278)">
 		<title
    id="title12">Page-1</title>
 		<g
-   id="group15649-1"
+   id="group17095-1"
    transform="translate(31.5833,-34.0157)">
 			<title
-   id="title14">App Task.15649</title>
+   id="title14">App Task.17095</title>
 			<g
-   id="group15650-2">
+   id="group17096-2">
 				<title
    id="title16">MsPortalFx.base.images-46</title>
 				<g
-   id="shape15651-3"
+   id="shape17097-3"
    transform="translate(5.39025,-14.8661)">
 					<title
    id="title18">path4</title>
@@ -134,7 +134,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:31.58329964;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape15652-5"
+   id="shape17098-5"
    transform="translate(18.7512,-38.1701)">
 					<title
    id="title23">rect6</title>
@@ -146,7 +146,7 @@
    style="fill:#0078d4;stroke:none;stroke-width:31.58329964;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape15653-7"
+   id="shape17099-7"
    transform="translate(22.3975,-41.726)">
 					<title
    id="title28">rect8</title>
@@ -158,7 +158,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:31.58329964;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape15654-9"
+   id="shape17100-9"
    transform="translate(0,-6.39685)">
 					<title
    id="title33">rect10</title>
@@ -170,7 +170,7 @@
    style="fill:url(#linearGradient4566);stroke:none;stroke-width:31.58329964;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape15655-13"
+   id="shape17101-13"
    transform="translate(20.6729)">
 					<title
    id="title38">rect12</title>
@@ -182,7 +182,7 @@
    style="fill:url(#linearGradient4568);stroke:none;stroke-width:31.58329964;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape15656-16"
+   id="shape17102-16"
    transform="translate(41.1842,-6.29606)">
 					<title
    id="title43">rect14</title>

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="34.0158"
-   height="56.864567"
-   viewBox="0 0 34.015801 56.864566"
+   width="0.47244093in"
+   height="0.78978443in"
+   viewBox="0 0 34.01572 56.864568"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview42"
    showgrid="false"
-   inkscape:zoom="1.8901321"
-   inkscape:cx="17.007999"
-   inkscape:cy="28.434663"
+   inkscape:zoom="1.4176013"
+   inkscape:cx="22.6773"
+   inkscape:cy="37.912828"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -95,23 +95,23 @@
 	</defs>
 	<g
    id="g38"
-   transform="translate(-34,-33.999597)">
+   transform="translate(-34.000118,-33.999597)">
 		<title
    id="title15">Page-1</title>
 		<g
-   id="group15909-1"
+   id="group17355-1"
    transform="translate(34,-34.1659)">
 			<title
-   id="title17">App Service Advisor.15909</title>
+   id="title17">App Service Advisor.17355</title>
 			<g
-   id="group15910-2">
+   id="group17356-2">
 				<title
-   id="title19">Sheet.15910</title>
+   id="title19">Sheet.17356</title>
 				<g
-   id="shape15911-3"
+   id="shape17357-3"
    transform="translate(6.05898)">
 					<title
-   id="title21">Sheet.15911</title>
+   id="title21">Sheet.17357</title>
 					<path
    d="m 20.27,98.45 a 14.4042,14.9073 0 0 1 -19.1,0 L 0,122.93 a 1.89248,1.95858 -180 0 0 3.26,1.49 l 7.3,-7.76 7.43,7.55 a 1.88942,1.95542 -180 0 0 3.19,-1.48 z"
    class="st1"
@@ -120,10 +120,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape15912-7"
+   id="shape17358-7"
    transform="translate(0,-21.35)">
 					<title
-   id="title26">Sheet.15912</title>
+   id="title26">Sheet.17358</title>
 					<ellipse
    cx="17.0079"
    cy="107.187"
@@ -134,10 +134,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape15913-9"
+   id="shape17359-9"
    transform="translate(4.10545,-25.5988)">
 					<title
-   id="title31">Sheet.15913</title>
+   id="title31">Sheet.17359</title>
 					<ellipse
    cx="12.9024"
    cy="111.436"

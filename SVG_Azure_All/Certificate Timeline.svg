@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="55.928585"
-   height="55.829693"
-   viewBox="0 0 55.928584 55.829693"
+   width="0.77678168in"
+   height="0.77540815in"
+   viewBox="0 0 55.9283 55.829693"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview50"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="27.963587"
-   inkscape:cy="27.471593"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="37.284577"
+   inkscape:cy="36.628589"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -97,23 +97,23 @@
 	</defs>
 	<g
    id="g46"
-   transform="translate(-33.998914,-33.996399)">
+   transform="translate(-33.999232,-33.996399)">
 		<title
    id="title18">Page-1</title>
 		<g
-   id="group7498-1"
+   id="group8072-1"
    transform="translate(33.2324,-34.0157)">
 			<title
    id="title20">Certificate Timeline</title>
 			<g
-   id="group7499-2">
+   id="group8073-2">
 				<title
    id="title22">MsPortalFx.base.images-52</title>
 				<g
-   id="shape7500-3"
+   id="shape8074-3"
    transform="translate(10.8751,-10.2879)">
 					<title
-   id="title24">Sheet.7500</title>
+   id="title24">Sheet.8074</title>
 					<path
    d="m 16.03,110.79 h 13.75 v 13.92 H 16.03 Z M 0.01,92.23 H 13.74 V 78.3 H 1.91 A 1.90853,1.93341 -180 0 0 0,80.24 Z m 1.91,32.48 H 13.74 V 110.79 H 0.01 v 11.99 a 1.90853,1.93341 -180 0 0 1.9,1.93 z M 0.01,108.47 H 13.74 V 94.55 H 0.01 Z m 32.07,16.24 h 11.83 a 1.90853,1.93341 -180 0 0 1.91,-1.93 V 110.79 H 32.07 Z M 16.03,108.47 H 29.78 V 94.55 H 16.03 Z m 16.04,0 H 45.81 V 94.55 H 32.07 Z m 0,-30.17 V 92.23 H 45.81 V 80.24 A 1.90853,1.93341 -180 0 0 43.9,78.3 Z M 16.03,92.23 H 29.78 V 78.3 H 16.03 Z"
    class="st1"
@@ -122,10 +122,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7501-7"
+   id="shape8075-7"
    transform="rotate(-45,1.3371945,121.20172)">
 					<title
-   id="title29">Sheet.7501</title>
+   id="title29">Sheet.8075</title>
 					<path
    d="m 0,122.8 a 1.88586,1.91043 -180 0 0 1.89,1.91 h 13.94 a 1.88586,1.91043 -180 0 0 1.88,-1.91 v -0.27 a 1.88586,1.91043 -180 0 0 -1.88,-1.91 H 1.89 A 1.88586,1.91043 -180 0 0 0,122.53 Z"
    class="st2"
@@ -134,10 +134,10 @@
    style="fill:#198ab3;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7502-9"
+   id="shape8076-9"
    transform="translate(6.71075,-7.52585)">
 					<title
-   id="title34">Sheet.7502</title>
+   id="title34">Sheet.8076</title>
 					<ellipse
    cx="12.1523"
    cy="112.398"
@@ -148,10 +148,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7503-11"
+   id="shape8077-11"
    transform="translate(9.29766,-10.3898)">
 					<title
-   id="title39">Sheet.7503</title>
+   id="title39">Sheet.8077</title>
 					<ellipse
    cx="9.5426702"
    cy="115.042"

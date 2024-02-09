@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.220509"
-   height="51.020027"
-   viewBox="0 0 56.220509 51.020025"
+   width="0.78083879in"
+   height="0.70861in"
+   viewBox="0 0 56.220295 51.020026"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview31"
    showgrid="false"
-   inkscape:zoom="2.4260017"
-   inkscape:cx="28.110456"
-   inkscape:cy="14.624624"
+   inkscape:zoom="1.8195051"
+   inkscape:cx="37.480532"
+   inkscape:cy="19.49946"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -55,20 +55,20 @@
 
 	<g
    id="g27"
-   transform="translate(-12.240794,-12.2443)">
+   transform="translate(-12.240946,-12.2443)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2308-1"
+   id="group2444-1"
    transform="translate(12.0088,-34.0157)">
 			<title
    id="title6">Private Endpoint</title>
 			<g
-   id="group2309-2">
+   id="group2445-2">
 				<title
    id="title8">g10</title>
 				<g
-   id="shape2310-3"
+   id="shape2446-3"
    transform="translate(26.6143,-14.8866)">
 					<title
    id="title10">path4</title>
@@ -82,7 +82,7 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2311-5"
+   id="shape2447-5"
    transform="translate(22.1212,-9.20471)">
 					<title
    id="title15">path6</title>
@@ -94,7 +94,7 @@
    style="fill:#57a300;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2312-7">
+   id="shape2448-7">
 					<title
    id="title20">path8</title>
 					<path

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="45.353901"
-   viewBox="0 0 56.689998 45.3539"
+   width="0.78735936in"
+   height="0.62991387in"
+   viewBox="0 0 56.689782 45.353896"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview51"
    showgrid="false"
-   inkscape:zoom="2.0816794"
-   inkscape:cx="28.3465"
-   inkscape:cy="22.669299"
+   inkscape:zoom="1.5612629"
+   inkscape:cx="37.795252"
+   inkscape:cy="30.225663"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -88,22 +88,22 @@
 	</defs>
 	<g
    id="g47"
-   transform="translate(-34,-34.0004)">
+   transform="translate(-34.000237,-34.0004)">
 		<title
    id="title14">Page-1</title>
 		<g
-   id="group8172-1"
+   id="group8786-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title16">Azure NetApp Files</title>
 			<g
-   id="group8173-2">
+   id="group8787-2">
 				<title
-   id="title18">Sheet.8173</title>
+   id="title18">Sheet.8787</title>
 				<g
-   id="shape8174-3">
+   id="shape8788-3">
 					<title
-   id="title20">Sheet.8174</title>
+   id="title20">Sheet.8788</title>
 					<path
    d="m 0,80.03 h 56.69 v 31.45 a 1.90088,1.89115 0 0 1 -1.9,1.89 H 1.9 A 1.90088,1.89115 0 0 1 0,111.48 Z"
    class="st1"
@@ -112,10 +112,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8175-7"
+   id="shape8789-7"
    transform="translate(0,-33.3439)">
 					<title
-   id="title25">Sheet.8175</title>
+   id="title25">Sheet.8789</title>
 					<path
    d="m 1.9,101.36 h 52.89 a 1.90088,1.89115 0 0 1 1.9,1.89 v 10.12 H 0 v -10.15 a 1.90088,1.89115 0 0 1 1.9,-1.86 z"
    class="st2"
@@ -124,10 +124,10 @@
    style="fill:#198ab3;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8176-9"
+   id="shape8790-9"
    transform="translate(6.8365,-23.2578)">
 					<title
-   id="title30">Sheet.8176</title>
+   id="title30">Sheet.8790</title>
 					<path
    d="m 0.87,106.93 h 41.22 a 0.900417,0.895806 0 0 1 0.900417,0.89581 L 42.99,112.47 a 0.900417,0.895806 0 0 1 -0.900417,0.89581 L 0.87,113.37 A 0.900417,0.895806 0 0 1 0.002932,112.47419 L 0,107.83 a 0.900417,0.895806 0 0 1 0.867068,-0.89581 z"
    class="st3"
@@ -136,10 +136,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8177-11"
+   id="shape8791-11"
    transform="translate(6.86985,-4.61174)">
 					<title
-   id="title35">Sheet.8177</title>
+   id="title35">Sheet.8791</title>
 					<path
    d="m 0.87,97.54 h 41.22 a 0.900417,0.895806 0 0 1 0.900417,0.895806 L 42.99,103.12 a 0.900417,0.895806 0 0 1 -0.900417,0.89581 L 0.87,104.01 A 0.867068,0.862628 0 0 1 0.002932,103.11419 L 0,98.61 a 0.867068,0.862628 0 0 1 0.867068,-1.0617 z m 0,9.36 h 41.22 a 0.900417,0.895806 0 0 1 0.900417,0.89581 L 42.99,112.47 a 0.900417,0.895806 0 0 1 -0.900417,0.89581 L 0.87,113.37 A 0.867068,0.862628 0 0 1 0.002932,112.47419 L 0,107.8 a 0.867068,0.862628 0 0 1 0.867068,-0.89581 z"
    class="st4"
@@ -148,10 +148,10 @@
    style="fill:#9cebff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8178-13"
+   id="shape8792-13"
    transform="translate(15.3738,-7.00056)">
 					<title
-   id="title40">Sheet.8178</title>
+   id="title40">Sheet.8792</title>
 					<path
    d="m 0,93.89 v 18.55 a 0.933766,0.928984 -180 0 0 0.933766,0.92898 L 8.77,113.37 a 0.933766,0.928984 -180 0 0 0.867068,-0.92898 L 9.64,101.43 a 0.900417,0.895806 0 0 1 0.933766,-0.92898 L 15.27,100.5 a 0.900417,0.895806 0 0 1 0.933766,0.92898 L 16.21,112.44 a 0.933766,0.928984 -180 0 0 0.967114,0.92898 L 25.01,113.37 a 0.933766,0.928984 -180 0 0 0.933766,-0.92898 L 25.95,93.89 A 0.933766,0.928984 -180 0 0 25.016234,92.961016 L 0.93,92.97 a 0.933766,0.928984 -180 0 0 -0.933766,0.928984 z"
    class="st5"

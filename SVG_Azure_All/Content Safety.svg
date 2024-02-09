@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="56.695179"
-   viewBox="0 0 56.689998 56.69518"
+   width="0.78736061in"
+   height="0.78743255in"
+   viewBox="0 0 56.689872 56.695179"
    xml:space="preserve"
    class="st7"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview77"
    showgrid="false"
-   inkscape:zoom="1.89236"
-   inkscape:cx="28.3465"
-   inkscape:cy="28.338391"
+   inkscape:zoom="1.4192709"
+   inkscape:cx="37.795312"
+   inkscape:cy="37.784496"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -172,23 +172,23 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g73"
-   transform="translate(-34,-33.99921)">
+   transform="translate(-34.000139,-33.99921)">
 		<title
    id="title30">Page-1</title>
 		<g
-   id="group6302-1"
+   id="group6841-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title32">Content Safety</title>
 			<g
-   id="group6303-2">
+   id="group6842-2">
 				<title
-   id="title34">Sheet.6303</title>
+   id="title34">Sheet.6842</title>
 				<g
-   id="shape6304-3"
+   id="shape6843-3"
    transform="translate(23.326,-36.0704)">
 					<title
-   id="title36">Sheet.6304</title>
+   id="title36">Sheet.6843</title>
 					<path
    d="m 29.02,118.39 -8.71,-5.03 a 0.611024,0.61099 -180 0 0 -0.916535,0.5291 L 19.4,116.48 H 0 v 4.88 h 19.4 v 2.59 c 0,0.47 0.5,0.76 0.91,0.53 l 8.71,-5.03 a 0.611024,0.61099 -180 0 0 0,-1.05821 z"
    class="st1"
@@ -197,10 +197,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6305-7"
+   id="shape6844-7"
    transform="translate(9.14331,-26.408)">
 					<title
-   id="title41">Sheet.6305</title>
+   id="title41">Sheet.6844</title>
 					<path
    d="M 5.01,124.71 H 0 v -14.59 a 3.37008,3.36989 0 0 1 3.36,-3.38 h 17.28 v 5.01 H 5.02 v 12.96 z"
    class="st2"
@@ -209,10 +209,10 @@
    style="fill:url(#linearGradient4589);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6306-11"
+   id="shape6845-11"
    transform="translate(21.5685,-33.9855)">
 					<title
-   id="title46">Sheet.6306</title>
+   id="title46">Sheet.6845</title>
 					<ellipse
    cx="8.2110205"
    cy="116.501"
@@ -223,10 +223,10 @@
    style="fill:url(#grad0-14);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6307-15"
+   id="shape6846-15"
    transform="translate(9.14016,-11.3411)">
 					<title
-   id="title51">Sheet.6307</title>
+   id="title51">Sheet.6846</title>
 					<path
    d="M 20.64,124.71 H 3.37 A 3.37008,3.36989 0 0 1 0,121.34 v -14.61 h 5.01 v 12.96 h 15.63 z"
    class="st2"
@@ -235,10 +235,10 @@
    style="fill:url(#linearGradient4591);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6308-18"
+   id="shape6847-18"
    transform="translate(21.5685,-6.28941)">
 					<title
-   id="title56">Sheet.6308</title>
+   id="title56">Sheet.6847</title>
 					<ellipse
    cx="8.2110205"
    cy="116.501"
@@ -249,10 +249,10 @@
    style="fill:url(#grad0-21);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6309-22"
+   id="shape6848-22"
    transform="translate(3.91496,-18.5942)">
 					<title
-   id="title61">Sheet.6309</title>
+   id="title61">Sheet.6848</title>
 					<path
    d="M 11.86,124.71 H 1.43 c -0.86,0 -1.43,-0.95 -1.28,-2.12 l 1.84,-14.28 c 0.15,-1.17 0.97,-2.12 1.82,-2.12 h 10.43 c 0.86,0 1.43,0.95 1.28,2.12 l -1.84,14.28 c -0.15,1.17 -0.97,2.12 -1.82,2.12 z"
    class="st5"
@@ -261,9 +261,9 @@
    style="fill:url(#grad0-25);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6310-26">
+   id="shape6849-26">
 					<title
-   id="title66">Sheet.6310</title>
+   id="title66">Sheet.6849</title>
 					<path
    d="M 1.14,77.9 A 1.14016,1.14009 0 0 1 0,76.76 v -7.6 c 0,-0.63 0.51,-1.14 1.14,-1.14 h 7.14 a 1.14016,1.14009 0 1 1 0,2.27 h -6 v 6.47 A 1.14016,1.14009 0 0 1 1.14,77.9 Z m 55.55,-1.14 v -7.6 a 1.14016,1.14009 -180 0 0 -1.14,-1.14 h -7.13 a 1.14016,1.14009 -180 1 0 0,2.27 h 5.99 v 6.47 a 1.14016,1.14009 -180 0 0 2.28,0 z M 9.42,123.57 a 1.14016,1.14009 -180 0 0 -1.14,-1.14 h -6 v -6.46 a 1.14016,1.14009 -180 0 0 -2.28,0 v 7.6 c 0,0.63 0.51,1.14 1.14,1.14 h 7.14 c 0.63,0 1.14,-0.51 1.14,-1.14 z m 47.27,0 v -7.6 a 1.14016,1.14009 -180 0 0 -2.28,0 v 6.46 h -5.99 a 1.14016,1.14009 -180 1 0 0,2.28 h 7.13 a 1.14016,1.14009 -180 0 0 1.14,-1.13 z"
    class="st6"

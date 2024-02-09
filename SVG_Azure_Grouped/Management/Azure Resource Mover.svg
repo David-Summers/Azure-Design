@@ -60,19 +60,19 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group13620-1"
+   id="group14958-1"
    transform="translate(33.8908,-34.0425)">
 			<title
-   id="title6">Azure Resource Mover.13620</title>
+   id="title6">Azure Resource Mover.14958</title>
 			<g
-   id="group13621-2">
+   id="group14959-2">
 				<title
-   id="title8">Sheet.13621</title>
+   id="title8">Sheet.14959</title>
 				<g
-   id="shape13622-3"
+   id="shape14960-3"
    transform="translate(24.3363,-6.34464)">
 					<title
-   id="title10">Sheet.13622</title>
+   id="title10">Sheet.14960</title>
 					<path
    d="m 21.02,87.01 v 25.11 L 0,124.74 V 99.59 Z"
    class="st1"
@@ -81,10 +81,10 @@
    style="fill:#32bedd;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13623-5"
+   id="shape14961-5"
    transform="translate(3.31831,-31.4589)">
 					<title
-   id="title15">Sheet.13623</title>
+   id="title15">Sheet.14961</title>
 					<path
    d="M 42.04,112.12 21.02,124.74 0,112.12 21.02,99.5 Z"
    class="st2"
@@ -93,10 +93,10 @@
    style="fill:#9cebff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13624-7"
+   id="shape14962-7"
    transform="translate(3.31831,-6.34464)">
 					<title
-   id="title20">Sheet.13624</title>
+   id="title20">Sheet.14962</title>
 					<path
    d="m 21.02,99.62 v 25.12 L 0,112.12 V 87 Z"
    class="st3"
@@ -105,10 +105,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13625-9"
+   id="shape14963-9"
    transform="translate(3.31831,-6.34464)">
 					<title
-   id="title25">Sheet.13625</title>
+   id="title25">Sheet.14963</title>
 					<path
    d="M 0,112.12 21.02,99.59 v 25.15 z"
    class="st2"
@@ -117,10 +117,10 @@
    style="fill:#9cebff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13626-11"
+   id="shape14964-11"
    transform="translate(24.3363,-6.34464)">
 					<title
-   id="title30">Sheet.13626</title>
+   id="title30">Sheet.14964</title>
 					<path
    d="M 21.02,112.12 0,99.59 v 25.15 z"
    class="st3"
@@ -129,9 +129,9 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13627-13">
+   id="shape14965-13">
 					<title
-   id="title35">Sheet.13627</title>
+   id="title35">Sheet.14965</title>
 					<path
    d="m 35.21,114.31 -10.18,10.32 a 0.512858,0.529517 0 0 1 -0.873079,-0.38453 L 24.21,118.5 v -0.34 C 12.08,118.04 0,111.22 0.11,99.17 c 1.71,2.7 10.31,9.94 24.18,10.09 v -0.1 l 0.05,-5.74 a 0.512858,0.529517 0 0 1 0.879185,-0.36877 L 35.21,113.57 a 0.509805,0.526365 0 0 1 0,0.74385 z"
    class="st4"

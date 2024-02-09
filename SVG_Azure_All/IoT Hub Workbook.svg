@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.69313"
-   height="56.694199"
-   viewBox="0 0 56.69313 56.694199"
+   width="0.78740031in"
+   height="0.78741515in"
+   viewBox="0 0 56.69273 56.694201"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview47"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="28.3465"
-   inkscape:cy="28.339801"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="37.795128"
+   inkscape:cy="37.786194"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -113,22 +113,22 @@
 	</defs>
 	<g
    id="g43"
-   transform="translate(-34,-34.0001)">
+   transform="translate(-34.000441,-34.0001)">
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group3972-1"
+   id="group4221-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title22">IoT Hub Workbook</title>
 			<g
-   id="group3973-2">
+   id="group4222-2">
 				<title
-   id="title24">Sheet.3973</title>
+   id="title24">Sheet.4222</title>
 				<g
-   id="shape3974-3">
+   id="shape4223-3">
 					<title
-   id="title26">Sheet.3974</title>
+   id="title26">Sheet.4223</title>
 					<path
    d="M 24.48,79.61 0,104.09 v 15.47 a 5.15591,5.15591 -180 0 0 5.15,5.15 h 46.39 a 5.15591,5.15591 -180 0 0 5.15,-5.15 V 73.17 A 5.15591,5.15591 -180 0 0 51.54,68.02 H 48.96 L 30.92,86.05 Z"
    class="st1"
@@ -137,10 +137,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3975-7"
+   id="shape4224-7"
    transform="translate(0.523132)">
 					<title
-   id="title31">Sheet.3975</title>
+   id="title31">Sheet.4224</title>
 					<path
    d="M 23.96,95.07 1.32,117.71 a 3.76063,3.76063 -180 0 0 -1.2,4.34 5.14961,5.14961 -180 0 0 4.51,2.66 h 46.39 a 5.15591,5.15591 -180 0 0 5.15,-5.15 V 75.75 L 30.4,101.51 Z"
    class="st2"
@@ -149,10 +149,10 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3976-11"
+   id="shape4225-11"
    transform="translate(0,-20.6142)">
 					<title
-   id="title36">Sheet.3976</title>
+   id="title36">Sheet.4225</title>
 					<path
    d="M 30.92,106.67 48.96,88.63 H 5.15 A 5.15591,5.15591 -180 0 0 0,93.78 v 30.93 l 24.48,-24.48 z"
    class="st3"

@@ -61,19 +61,19 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group19181-1"
+   id="group20327-1"
    transform="translate(12.24,-34.0157)">
 			<title
-   id="title6">Hybrid Connection.19181</title>
+   id="title6">Hybrid Connection.20327</title>
 			<g
-   id="group19182-2">
+   id="group20328-2">
 				<title
-   id="title8">Sheet.19182</title>
+   id="title8">Sheet.20328</title>
 				<g
-   id="shape19183-3"
+   id="shape20329-3"
    transform="translate(21.5433,-39.5717)">
 					<title
-   id="title10">Sheet.19183</title>
+   id="title10">Sheet.20329</title>
 					<ellipse
    cx="4.5836802"
    cy="98.4132"
@@ -84,10 +84,10 @@
    style="fill:#57a300;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape19184-5"
+   id="shape20330-5"
    transform="translate(21.8871,-8.05039)">
 					<title
-   id="title15">Sheet.19184</title>
+   id="title15">Sheet.20330</title>
 					<ellipse
    cx="4.5836802"
    cy="98.4132"
@@ -98,10 +98,10 @@
    style="fill:#57a300;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape19185-7"
+   id="shape20331-7"
    transform="translate(0,-10.3181)">
 					<title
-   id="title20">Sheet.19185</title>
+   id="title20">Sheet.20331</title>
 					<path
    d="M 14.9,102.95 H 12.72 C 5.73,102.95 0,97.28 0,90.36 v -11 C 0.11,72.79 5.73,67.12 12.61,66.78 h 3.43 c 1.15,0 2.07,0.91 2.07,2.04 0,1.13 -0.92,2.04 -2.07,2.04 h -3.32 c -4.58,0.23 -8.48,3.97 -8.48,8.39 v 11 c 0,4.65 3.78,8.39 8.48,8.39 h 2.18 c 1.14,0 2.06,0.91 2.06,2.04 0,1.36 -0.92,2.27 -2.06,2.27 z"
    class="st2"
@@ -110,10 +110,10 @@
    style="fill:#59b4d9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape19186-9"
+   id="shape20332-9"
    transform="translate(34.6068,-10.3181)">
 					<title
-   id="title25">Sheet.19186</title>
+   id="title25">Sheet.20332</title>
 					<path
    d="M 6.53,102.95 H 2.06 C 0.92,102.95 0,102.04 0,100.91 0,99.77 0.92,98.87 2.06,98.87 h 4.47 c 4.7,0 8.48,-3.74 8.48,-8.39 v -11 c 0,-4.65 -3.78,-8.39 -8.48,-8.39 H 3.21 c -1.15,0 -2.06,-0.91 -2.06,-2.04 0,-1.14 0.91,-2.04 2.06,-2.04 h 3.32 c 6.99,0 12.72,5.66 12.72,12.58 v 11 c 0,6.8 -5.73,12.36 -12.72,12.36 z"
    class="st3"
@@ -122,10 +122,10 @@
    style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape19187-11"
+   id="shape20333-11"
    transform="translate(16.1575,-31.5213)">
 					<title
-   id="title30">Sheet.19187</title>
+   id="title30">Sheet.20333</title>
 					<path
    d="M 9.74,102.95 C 6.53,102.95 3.21,101.7 0.8,99.32 0,98.53 0,97.17 0.8,96.37 c 0.8,-0.79 2.18,-0.79 2.98,0 3.32,3.29 8.71,3.29 11.92,0 3.32,-3.29 3.32,-8.62 0,-11.79 -1.61,-1.59 -3.78,-2.49 -5.96,-2.49 -2.29,0 -4.35,0.9 -5.96,2.49 -0.8,0.79 -2.18,0.79 -2.98,0 -0.8,-0.79 -0.8,-2.15 0,-2.95 2.41,-2.49 5.62,-3.85 8.94,-3.85 3.44,0 6.53,1.36 8.94,3.63 4.93,4.87 4.93,12.92 0,17.8 -2.41,2.49 -5.62,3.74 -8.94,3.74 z"
    class="st4"
@@ -134,10 +134,10 @@
    style="fill:#68217a;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape19188-13"
+   id="shape20334-13"
    transform="translate(12.4905)">
 					<title
-   id="title35">Sheet.19188</title>
+   id="title35">Sheet.20334</title>
 					<path
    d="m 13.87,102.95 c -3.44,0 -6.54,-1.36 -8.94,-3.63 C 0,94.44 0,86.39 4.93,81.52 c 2.4,-2.38 5.61,-3.63 8.94,-3.63 3.43,0 6.53,1.36 8.93,3.63 0.81,0.79 0.81,2.15 0,2.95 -0.8,0.79 -2.17,0.79 -2.98,0 -1.6,-1.59 -3.78,-2.5 -5.95,-2.5 -2.3,0 -4.36,0.91 -5.96,2.5 -3.33,3.28 -3.33,8.61 0,11.79 1.6,1.59 3.66,2.49 5.96,2.49 2.29,0 4.35,-0.9 5.95,-2.49 0.81,-0.79 2.18,-0.79 2.98,0 0.81,0.79 0.81,2.15 0,2.95 -2.29,2.38 -5.5,3.74 -8.93,3.74 z"
    class="st5"

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="45.349998"
-   viewBox="0 0 56.689998 45.349998"
+   width="0.7873624in"
+   height="0.62986213in"
+   viewBox="0 0 56.689997 45.349924"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview34"
    showgrid="false"
-   inkscape:zoom="2.561873"
-   inkscape:cx="28.346451"
-   inkscape:cy="12.044249"
+   inkscape:zoom="1.9213984"
+   inkscape:cx="37.795331"
+   inkscape:cy="16.059028"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,28 +54,28 @@
 
 	<g
    id="g30"
-   transform="translate(-12.75,-12.7543)">
+   transform="translate(-12.75,-12.754378)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group3580-1"
+   id="group3813-1"
    transform="translate(12.75,-34.0157)">
 			<title
    id="title6">LiveData Plane</title>
 			<g
-   id="group3581-2">
+   id="group3814-2">
 				<title
-   id="title8">Sheet.3581</title>
+   id="title8">Sheet.3814</title>
 				<g
-   id="group3582-3"
+   id="group3815-3"
    transform="translate(5.7424,-11.7019)">
 					<title
-   id="title10">Sheet.3582</title>
+   id="title10">Sheet.3815</title>
 					<g
-   id="shape3583-4"
+   id="shape3816-4"
    transform="translate(30.1246)">
 						<title
-   id="title12">Sheet.3583</title>
+   id="title12">Sheet.3816</title>
 						<path
    d="M 3.59,70.44 0,74.16 5.27,79.58 7.02,81.28 5.27,82.98 0,88.4 3.59,92.12 14.28,81.28 Z"
    class="st1"
@@ -84,10 +84,10 @@
    style="fill:#ea7600;stroke:none;stroke-width:12.75;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape3584-6"
+   id="shape3817-6"
    transform="translate(0,-0.0815872)">
 						<title
-   id="title17">Sheet.3584</title>
+   id="title17">Sheet.3817</title>
 						<path
    d="M 33.23,81.39 22.35,70.65 16.61,76.32 10.88,70.66 0,81.39 l 10.88,10.73 5.74,-5.66 5.74,5.66 z"
    class="st1"
@@ -97,9 +97,9 @@
 					</g>
 				</g>
 				<g
-   id="shape3585-8">
+   id="shape3818-8">
 					<title
-   id="title23">Sheet.3585</title>
+   id="title23">Sheet.3818</title>
 					<path
    d="M 8.01,46.77 0,54.74 v 29.41 l 8.01,7.97 3.2,-4.07 -6.98,-6.96 V 57.4 l 6.98,-6.96 z m 40.68,0 8,7.97 v 29.41 l -8,7.97 -3.21,-4.07 6.99,-6.96 V 57.4 l -6.99,-6.96 z"
    class="st2"

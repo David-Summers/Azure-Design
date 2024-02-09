@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.1861"
-   height="56.703396"
-   viewBox="0 0 48.186099 56.703395"
+   width="0.66924983in"
+   height="0.78754538in"
+   viewBox="0 0 48.186096 56.70313"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview42"
    showgrid="false"
-   inkscape:zoom="1.7879059"
-   inkscape:cx="24.094501"
-   inkscape:cy="28.355004"
+   inkscape:zoom="1.3409262"
+   inkscape:cx="32.125929"
+   inkscape:cy="37.806585"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -76,20 +76,20 @@
 	</defs>
 	<g
    id="g38"
-   transform="translate(-37.646,-37.650609)">
+   transform="translate(-37.646,-37.650917)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group10508-1"
+   id="group11018-1"
    transform="translate(37.646,-37.646)">
 			<title
    id="title12">App Service Log</title>
 			<g
-   id="group10509-2">
+   id="group11019-2">
 				<title
    id="title14">g10</title>
 				<g
-   id="shape10510-3"
+   id="shape11020-3"
    transform="translate(0,-0.280315)">
 					<title
    id="title16">path2</title>
@@ -101,7 +101,7 @@
    style="fill:#a33a85;stroke:none;stroke-width:37.64599991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10511-5"
+   id="shape11021-5"
    transform="translate(3.39661,-2.3622)">
 					<title
    id="title21">path4</title>
@@ -113,7 +113,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:37.64599991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10512-7"
+   id="shape11022-7"
    transform="translate(0.0900617)">
 					<title
    id="title26">path6</title>
@@ -125,7 +125,7 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:37.64599991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10513-11"
+   id="shape11023-11"
    transform="translate(6.24945,-13.2346)">
 					<title
    id="title31">path8</title>

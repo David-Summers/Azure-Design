@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.691292"
-   height="56.689999"
-   viewBox="0 0 56.691291 56.689998"
+   width="0.78738123in"
+   height="0.78736329in"
+   viewBox="0 0 56.691264 56.690026"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview52"
    showgrid="false"
-   inkscape:zoom="1.9118135"
-   inkscape:cx="28.346301"
-   inkscape:cy="27.7028"
+   inkscape:zoom="1.4338569"
+   inkscape:cx="37.795211"
+   inkscape:cy="36.937209"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -101,16 +101,16 @@
 		<title
    id="title15">Page-1</title>
 		<g
-   id="group8239-1"
+   id="group8853-1"
    transform="translate(32.7347,-34.0157)">
 			<title
    id="title17">Azure Monitor Data Collection Rules</title>
 			<g
-   id="group8240-2">
+   id="group8854-2">
 				<title
    id="title19">g12</title>
 				<g
-   id="shape8241-3"
+   id="shape8855-3"
    transform="translate(9.41129)">
 					<title
    id="title21">rect2</title>
@@ -122,7 +122,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:32.73469925;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8242-7"
+   id="shape8856-7"
    transform="translate(0,-27.8488)">
 					<title
    id="title26">rect4</title>
@@ -134,7 +134,7 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:32.73469925;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8243-11"
+   id="shape8857-11"
    transform="translate(6.90891,-41.1811)">
 					<title
    id="title31">path6</title>
@@ -146,7 +146,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:32.73469925;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8244-13"
+   id="shape8858-13"
    transform="translate(6.91534,-32.9669)">
 					<title
    id="title36">path8</title>
@@ -158,7 +158,7 @@
    style="fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:32.73469925;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8245-15"
+   id="shape8859-15"
    transform="translate(9.41129,-6.47262)">
 					<title
    id="title41">path10</title>

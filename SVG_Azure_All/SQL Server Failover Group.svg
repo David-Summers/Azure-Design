@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="49.492832"
-   height="56.699299"
-   viewBox="0 0 49.492832 56.6993"
+   width="0.68739694in"
+   height="0.7874862in"
+   viewBox="0 0 49.492837 56.69912"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview50"
    showgrid="false"
-   inkscape:zoom="1.9729802"
-   inkscape:cx="24.7393"
-   inkscape:cy="25.796301"
+   inkscape:zoom="1.4797381"
+   inkscape:cx="32.985561"
+   inkscape:cy="34.394885"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -78,20 +78,20 @@
 	</defs>
 	<g
    id="g46"
-   transform="translate(-28.8927,-28.905)">
+   transform="translate(-28.8927,-28.905185)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group1237-1"
+   id="group1336-1"
    transform="translate(28.8927,-34.0157)">
 			<title
    id="title12">SQL Server Failover Group</title>
 			<g
-   id="group1238-2">
+   id="group1337-2">
 				<title
    id="title14">layer1</title>
 				<g
-   id="shape1239-3"
+   id="shape1338-3"
    transform="translate(0.0396678,-16.0157)">
 					<title
    id="title16">circle8-3</title>
@@ -105,7 +105,7 @@
    style="fill:#42e8ca;stroke:none;stroke-width:28.85219955;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1240-5"
+   id="shape1339-5"
    transform="translate(0.0158732,-17.2993)">
 					<title
    id="title21">circle8-4</title>
@@ -117,12 +117,12 @@
    style="fill:url(#grad0-8);stroke:none;stroke-width:28.90859985;stroke-linecap:butt" />
 				</g>
 				<g
-   id="group1241-9"
+   id="group1340-9"
    transform="translate(0,-15.933)">
 					<title
    id="title26">3b4c7da4-e396-46ab-8eeb-4c87ba1</title>
 					<g
-   id="shape1242-10">
+   id="shape1341-10">
 						<title
    id="title28">circle27-9</title>
 						<ellipse
@@ -136,7 +136,7 @@
 					</g>
 				</g>
 				<g
-   id="shape1243-12"
+   id="shape1342-12"
    transform="translate(17.938,-3.18641)">
 					<title
    id="title34">path4</title>
@@ -148,7 +148,7 @@
    style="fill:#ef7100;stroke:none;stroke-width:28.90859985;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1244-14"
+   id="shape1343-14"
    transform="translate(1.3324)">
 					<title
    id="title39">path6</title>

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.336868"
-   height="56.334991"
-   viewBox="0 0 56.336866 56.334993"
+   width="0.78245431in"
+   height="0.78242821in"
+   viewBox="0 0 56.336563 56.334987"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview66"
    showgrid="false"
-   inkscape:zoom="2.3387409"
-   inkscape:cx="28.166901"
-   inkscape:cy="16.077392"
+   inkscape:zoom="1.7540605"
+   inkscape:cx="37.555762"
+   inkscape:cy="21.436456"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -57,23 +57,23 @@
 
 	<g
    id="g62"
-   transform="translate(-10.2,-10.1969)">
+   transform="translate(-10.200207,-10.1969)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group20989-1"
+   id="group22221-1"
    transform="translate(9.84087,-34.0157)">
 			<title
-   id="title6">Azure Data Explorer Cluster.20989</title>
+   id="title6">Azure Data Explorer Cluster.22221</title>
 			<g
-   id="group20990-2">
+   id="group22222-2">
 				<title
    id="title8"> 1- Icon - Query 60x60 Color</title>
 				<g
-   id="shape20991-3"
+   id="shape22223-3"
    transform="translate(0.35913,-0.367252)">
 					<title
-   id="title10">Sheet.20991</title>
+   id="title10">Sheet.22223</title>
 					<path
    d="M 56.33,44.58 H 0 l 56.33,56.33 z"
    class="st1"
@@ -82,10 +82,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:10.19999981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20992-5"
+   id="shape22224-5"
    transform="rotate(-45,1.9904051,96.108647)">
 					<title
-   id="title15">Sheet.20992</title>
+   id="title15">Sheet.22224</title>
 					<path
    d="m 0,100.03 a 0.883522,0.883395 -180 0 0 0.883501,0.88337 L 30.17,100.91 a 0.883522,0.883395 -180 0 0 0.883501,-0.88337 L 31.05,96.17 A 0.883522,0.883395 -180 0 0 30.166499,95.286626 L 0.88,95.28 a 0.883522,0.883395 -180 0 0 -0.883501,0.883374 z"
    class="st2"
@@ -94,10 +94,10 @@
    style="fill:#b8d432;stroke:none;stroke-width:10.19999981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20993-7"
+   id="shape22225-7"
    transform="rotate(-45,-17.257136,88.12064)">
 					<title
-   id="title20">Sheet.20993</title>
+   id="title20">Sheet.22225</title>
 					<path
    d="m 0,100.03 a 0.883522,0.883395 -180 0 0 0.883501,0.88337 L 18.95,100.91 a 0.883522,0.883395 -180 0 0 0.883501,-0.88337 L 19.84,96.17 A 0.883522,0.883395 -180 0 0 18.956499,95.286626 L 0.88,95.28 a 0.883522,0.883395 -180 0 0 -0.883501,0.883374 z"
    class="st2"
@@ -106,10 +106,10 @@
    style="fill:#b8d432;stroke:none;stroke-width:10.19999981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20994-9"
+   id="shape22226-9"
    transform="translate(17.0217,-17.0274)">
 					<title
-   id="title25">Sheet.20994</title>
+   id="title25">Sheet.22226</title>
 					<path
    d="M 0,77.9 23.01,100.91 39.67,84.25 V 61.24 H 16.66 Z"
    class="st3"
@@ -118,10 +118,10 @@
    style="fill:#59b4d9;stroke:none;stroke-width:10.19999981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20995-11"
+   id="shape22227-11"
    transform="rotate(-45,9.8818979,76.995784)">
 					<title
-   id="title30">Sheet.20995</title>
+   id="title30">Sheet.22227</title>
 					<path
    d="m 0,100.03 a 0.883522,0.883395 -180 0 0 0.883501,0.88337 L 18.95,100.91 a 0.883522,0.883395 -180 0 0 0.883501,-0.88337 L 19.84,96.17 A 0.883522,0.883395 -180 0 0 18.956499,95.286626 L 0.88,95.28 a 0.883522,0.883395 -180 0 0 -0.883501,0.883374 z"
    class="st2"
@@ -130,10 +130,10 @@
    style="fill:#b8d432;stroke:none;stroke-width:10.19999981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20996-13"
+   id="shape22228-13"
    transform="translate(28.526,-0.367252)">
 					<title
-   id="title35">Sheet.20996</title>
+   id="title35">Sheet.22228</title>
 					<path
    d="M 28.17,100.91 V 44.58 L 0,72.75 Z"
    class="st4"
@@ -142,10 +142,10 @@
    style="fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:10.19999981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20997-15"
+   id="shape22229-15"
    transform="rotate(-45,-27.340948,44.622711)">
 					<title
-   id="title40">Sheet.20997</title>
+   id="title40">Sheet.22229</title>
 					<path
    d="m 0,99.66 a 1.25158,1.2514 -180 0 0 1.25,1.25 H 4.37 A 1.25158,1.2514 -180 0 0 5.62,99.66 V 96.54 A 1.25158,1.2514 -180 0 0 4.37,95.28 H 1.25 A 1.25158,1.2514 -180 0 0 0,96.54 Z"
    class="st5"
@@ -154,10 +154,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:10.19999981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20998-17"
+   id="shape22230-17"
    transform="rotate(-45,-32.963625,31.042381)">
 					<title
-   id="title45">Sheet.20998</title>
+   id="title45">Sheet.22230</title>
 					<path
    d="m 0,99.66 a 1.25158,1.2514 -180 0 0 1.25,1.25 H 4.37 A 1.25158,1.2514 -180 0 0 5.62,99.66 V 96.54 A 1.25158,1.2514 -180 0 0 4.37,95.28 H 1.25 A 1.25158,1.2514 -180 0 0 0,96.54 Z"
    class="st5"
@@ -166,10 +166,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:10.19999981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20999-19"
+   id="shape22231-19"
    transform="rotate(-45,-13.761876,38.996996)">
 					<title
-   id="title50">Sheet.20999</title>
+   id="title50">Sheet.22231</title>
 					<path
    d="m 0,99.66 a 1.25158,1.2514 -180 0 0 1.25,1.25 H 4.37 A 1.25158,1.2514 -180 0 0 5.62,99.66 V 96.54 A 1.25158,1.2514 -180 0 0 4.37,95.28 H 1.25 A 1.25158,1.2514 -180 0 0 0,96.54 Z"
    class="st5"
@@ -178,10 +178,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:10.19999981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape21000-21"
+   id="shape22232-21"
    transform="rotate(-45,-19.385239,25.418219)">
 					<title
-   id="title55">Sheet.21000</title>
+   id="title55">Sheet.22232</title>
 					<path
    d="m 0,99.66 a 1.25158,1.2514 -180 0 0 1.25,1.25 H 4.37 A 1.25158,1.2514 -180 0 0 5.62,99.66 V 96.54 A 1.25158,1.2514 -180 0 0 4.37,95.28 H 1.25 A 1.25158,1.2514 -180 0 0 0,96.54 Z"
    class="st5"

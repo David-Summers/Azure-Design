@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.694698"
-   height="51.021118"
-   viewBox="0 0 56.694697 51.021118"
+   width="0.78742641in"
+   height="0.70862669in"
+   viewBox="0 0 56.6947 51.02104"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview51"
    showgrid="false"
-   inkscape:zoom="2.6181001"
-   inkscape:cx="28.346461"
-   inkscape:cy="11.05345"
+   inkscape:zoom="1.963572"
+   inkscape:cx="37.795281"
+   inkscape:cy="14.737934"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -56,20 +56,20 @@
 
 	<g
    id="g47"
-   transform="translate(-5.66929,-5.10318)">
+   transform="translate(-5.66929,-5.1032495)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group4821-1"
+   id="group5122-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title6">ExpressRoute Filter</title>
 			<g
-   id="group4822-2">
+   id="group5123-2">
 				<title
    id="title8">g18</title>
 				<g
-   id="shape4823-3"
+   id="shape5124-3"
    transform="translate(34.6595)">
 					<title
    id="title10">path4</title>
@@ -81,7 +81,7 @@
    style="fill:#804998;stroke:none;stroke-width:0.91745198;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4824-5"
+   id="shape5125-5"
    transform="translate(26.0847,-2.02112)">
 					<title
    id="title15">path6</title>
@@ -93,7 +93,7 @@
    style="fill:#804998;stroke:none;stroke-width:0.91745198;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4825-7"
+   id="shape5126-7"
    transform="translate(26.0847,-18.2241)">
 					<title
    id="title20">path8</title>
@@ -105,7 +105,7 @@
    style="fill:#804998;stroke:none;stroke-width:0.91745198;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4826-9"
+   id="shape5127-9"
    transform="translate(23.7906,-23.0777)">
 					<title
    id="title25">path10</title>
@@ -119,7 +119,7 @@
    style="fill:#804998;stroke:none;stroke-width:0.91745198;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4827-11"
+   id="shape5128-11"
    transform="translate(0,-9.71693)">
 					<title
    id="title30">path12</title>
@@ -131,7 +131,7 @@
    style="fill:#7fba00;stroke:none;stroke-width:0.91745198;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4828-13"
+   id="shape5129-13"
    transform="translate(0,-9.71693)">
 					<title
    id="title35">path14</title>
@@ -143,7 +143,7 @@
    style="fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.91745198;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4829-15"
+   id="shape5130-15"
    transform="translate(4.53154,-14.5754)">
 					<title
    id="title40">path16</title>

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.695786"
-   height="45.360401"
-   viewBox="0 0 56.695784 45.3604"
+   width="0.78743863in"
+   height="0.63000327in"
+   viewBox="0 0 56.69558 45.360399"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,11 +34,11 @@
    inkscape:window-height="480"
    id="namedview72"
    showgrid="false"
-   inkscape:zoom="2.812688"
-   inkscape:cx="28.346463"
-   inkscape:cy="7.9415488"
-   inkscape:window-x="0"
-   inkscape:window-y="0"
+   inkscape:zoom="2.1095237"
+   inkscape:cx="37.795146"
+   inkscape:cy="10.588695"
+   inkscape:window-x="1340"
+   inkscape:window-y="492"
    inkscape:window-maximized="0"
    inkscape:current-layer="svg70" />
 	<style
@@ -136,16 +136,16 @@
 	</defs>
 	<g
    id="g68"
-   transform="translate(-5.6692875,-4.5339)">
+   transform="translate(-5.6694121,-4.5339)">
 		<title
    id="title28">Page-1</title>
 		<g
-   id="group20084-1"
+   id="group21239-1"
    transform="translate(5.66929,-34.0157)">
 			<title
-   id="title30">Azure Percept Device.20084</title>
+   id="title30">Azure Percept Device.21239</title>
 			<g
-   id="shape20085-2"
+   id="shape21240-2"
    transform="translate(0,-11.5804)">
 				<title
    id="title32">rect25</title>
@@ -157,7 +157,7 @@
    style="fill:#0078d4;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape20086-4"
+   id="shape21241-4"
    transform="translate(3.05512,-14.255)">
 				<title
    id="title37">rect27</title>
@@ -169,7 +169,7 @@
    style="fill:url(#grad0-7);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape20087-8"
+   id="shape21242-8"
    transform="translate(32.4409)">
 				<title
    id="title42">rect29</title>
@@ -181,7 +181,7 @@
    style="fill:url(#grad0-11);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape20088-12"
+   id="shape21243-12"
    transform="translate(41.7953,-34.6559)">
 				<title
    id="title47">rect31</title>
@@ -193,7 +193,7 @@
    style="fill:#f2f2f2;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape20089-14"
+   id="shape21244-14"
    transform="translate(34.7402,-4.09726)">
 				<title
    id="title52">rect33</title>
@@ -205,7 +205,7 @@
    style="fill:url(#grad0-17);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape20090-18"
+   id="shape21245-18"
    transform="translate(23.5591,-43.6187)">
 				<title
    id="title57">rect35</title>
@@ -217,7 +217,7 @@
    style="fill:#f2f2f2;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape20091-20"
+   id="shape21246-20"
    transform="translate(43.2126,-0.796688)">
 				<title
    id="title62">rect37</title>

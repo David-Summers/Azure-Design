@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.89497"
-   height="45.384727"
-   viewBox="0 0 56.894972 45.384728"
+   width="0.79020369in"
+   height="0.6303401in"
+   viewBox="0 0 56.894715 45.384729"
    xml:space="preserve"
    class="st7"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview46"
    showgrid="false"
-   inkscape:zoom="1.8586044"
-   inkscape:cx="28.448464"
-   inkscape:cy="22.691501"
+   inkscape:zoom="1.3939607"
+   inkscape:cx="37.931086"
+   inkscape:cy="30.255167"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -58,23 +58,23 @@
 
 	<g
    id="g42"
-   transform="translate(-40.799034,-40.795271)">
+   transform="translate(-40.799344,-40.795271)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group11062-1"
+   id="group11682-1"
    transform="translate(40.8363,-40.8)">
 			<title
    id="title6">Adaptive Application Control</title>
 			<g
-   id="group11063-2">
+   id="group11683-2">
 				<title
-   id="title8">Sheet.11063</title>
+   id="title8">Sheet.11683</title>
 				<g
-   id="shape11064-3"
+   id="shape11684-3"
    transform="translate(0,-6.96152)">
 					<title
-   id="title10">Sheet.11064</title>
+   id="title10">Sheet.11684</title>
 					<path
    d="m 5.98,88.58 h 34.88 a 5.93974,5.77807 0 0 1 5.66,6.03 v 26.8 c 0,0.8 -1.9,2.47 -2.44,2.99 -0.53,0.52 -1.71,2.58 -2.5,2.58 H 3.04 A 2.96987,2.88903 0 0 1 0,124.09 V 94.61 a 5.93974,5.77807 0 0 1 5.98,-6.03 z"
    class="st1"
@@ -83,10 +83,10 @@
    style="fill:#c5c7c7;stroke:none;stroke-width:40.79999924;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11065-5"
+   id="shape11685-5"
    transform="translate(3.57815,-10.3727)">
 					<title
-   id="title15">Sheet.11065</title>
+   id="title15">Sheet.11685</title>
 					<path
    d="m 5.76,95.48 h 28.13 a 5.72505,5.56922 0 0 1 5.47,5.84 v 22.8 a 2.86252,2.78461 0 0 1 -2.83,2.86 H 2.97 A 2.86252,2.78461 0 0 1 0,124.09 v -22.77 a 5.72505,5.56922 0 0 1 5.76,-5.84 z"
    class="st2"
@@ -95,10 +95,10 @@
    style="fill:#f7fafa;stroke:none;stroke-width:40.79999924;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11066-7"
+   id="shape11686-7"
    transform="translate(0,-34.912)">
 					<title
-   id="title20">Sheet.11066</title>
+   id="title20">Sheet.11686</title>
 					<path
    d="m 5.98,116.53 h 34.88 a 5.51036,5.36037 0 0 1 5.66,5.96 v 4.49 H 0 v -4.49 a 5.51036,5.36037 0 0 1 5.98,-5.96 z"
    class="st3"
@@ -107,10 +107,10 @@
    style="fill:#0072c6;stroke:none;stroke-width:40.79999924;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11067-9"
+   id="shape11687-9"
    transform="translate(7.33522,-17.5082)">
 					<title
-   id="title25">Sheet.11067</title>
+   id="title25">Sheet.11687</title>
 					<path
    d="m 10.56,121.44 v 1.05 L 1.36,126.98 0,124.96 6.44,121.83 0,118.66 l 1.36,-2.02 7.8,4.04 0.86,0.45 0.54,0.28 z"
    class="st4"
@@ -119,10 +119,10 @@
    style="fill:#4e5d69;stroke:none;stroke-width:40.79999924;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11068-11"
+   id="shape11688-11"
    transform="translate(22.6696)">
 					<title
-   id="title30">Sheet.11068</title>
+   id="title30">Sheet.11688</title>
 					<path
    d="m 33.36,105.99 -13.84,18.79 a 6.0113,5.84768 0 0 1 -4.37,2.2 7.87194,7.65768 0 0 1 -4.18,-2.02 l -8.59,-6.62 a 6.47646,6.30018 0 0 1 -0.97,-8.87 c 3.58,-4.42 6.94,-1.74 9.7,0 l 3,2.16 8.56,-12.12 a 5.97552,5.81287 0 0 1 8.73,-2.05 6.83427,6.64826 0 0 1 1.96,8.53 z"
    class="st5"
@@ -131,10 +131,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:40.79999924;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11069-13"
+   id="shape11689-13"
    transform="translate(25.4583,-3.6548)">
 					<title
-   id="title35">Sheet.11069</title>
+   id="title35">Sheet.11689</title>
 					<path
    d="m 27.68,108.22 -12.74,17.75 a 3.57815,3.48076 0 0 1 -2.93,1.01 3.36346,3.27192 0 0 1 -2.44,-0.8 l -8.44,-6.51 a 3.2919,3.2023 0 0 1 -0.36,-4.49 3.57815,3.48076 0 0 1 4.76,-0.28 l 5.94,4.56 11.09,-15.42 a 3.57815,3.48076 0 0 1 4.76,-0.28 3.25612,3.16749 0 0 1 0.39,4.46 z"
    class="st6"

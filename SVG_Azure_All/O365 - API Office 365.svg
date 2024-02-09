@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692902"
-   height="56.692902"
-   viewBox="0 0 56.6929 56.692903"
+   width="0.78739941in"
+   height="0.78739941in"
+   viewBox="0 0 56.692756 56.692898"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview37"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="28.346461"
-   inkscape:cy="14.173204"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="37.795184"
+   inkscape:cy="18.897555"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,32 +54,32 @@
 
 	<g
    id="g33"
-   transform="translate(-5.66929,-5.6693014)">
+   transform="translate(-5.6693772,-5.6693014)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2810-1"
+   id="group3012-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title6">O365 - API Office 365</title>
 			<desc
    id="desc8">This package will provide stencils to visually represent Power Platform: Power Bi, Power Apps, Power Virtual Agents and/or Power Automate devices, architectures or solutions diagrams. It will provide stencils to visually represent features, systems, processes and architectures that use these technologies.</desc>
 			<g
-   id="group2811-2">
+   id="group3013-2">
 				<title
    id="title10">Page-1</title>
 				<g
-   id="group2812-3">
+   id="group3014-3">
 					<title
    id="title12">Power Automate API: Office 365</title>
 					<g
-   id="group2813-4">
+   id="group3015-4">
 						<title
    id="title14">rect5914</title>
 						<g
-   id="shape2814-5">
+   id="shape3016-5">
 							<title
-   id="title16">Sheet.2814</title>
+   id="title16">Sheet.3016</title>
 							<rect
    x="0"
    y="39.685001"
@@ -91,14 +91,14 @@
 						</g>
 					</g>
 					<g
-   id="group2815-7"
+   id="group3017-7"
    transform="translate(12.8133,-8.9467)">
 						<title
    id="title22">polygon5916</title>
 						<g
-   id="shape2816-8">
+   id="shape3018-8">
 							<title
-   id="title24">Sheet.2816</title>
+   id="title24">Sheet.3018</title>
 							<path
    d="M 20.79,57.58 0,65.31 V 88.64 L 7.02,85.86 V 66.88 L 20.79,63.63 V 91.55 L 0,88.64 20.79,96.26 v 0.12 L 32.28,93.11 V 60.85 Z"
    class="st2"

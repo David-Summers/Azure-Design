@@ -58,18 +58,18 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group18154-1"
+   id="group14000-1"
    transform="translate(12.0584,-34.0157)">
 			<title
-   id="title6">Azure Firewall Secured Virtual Network.18154</title>
+   id="title6">Azure Firewall Secured Virtual Network.14000</title>
 			<g
-   id="group18155-2">
+   id="group14001-2">
 				<title
-   id="title8">Sheet.18155</title>
+   id="title8">Sheet.14001</title>
 				<g
-   id="shape18156-3">
+   id="shape14002-3">
 					<title
-   id="title10">Sheet.18156</title>
+   id="title10">Sheet.14002</title>
 					<path
    d="m 56.13,62.46 c 0.56,-0.53 0.45,-1.39 0,-1.93 L 53.43,57.95 41.28,46.66 c -0.56,-0.54 -1.35,-0.54 -1.91,0 -0.56,0.54 -0.67,1.4 0,1.93 l 12.71,11.94 c 0.56,0.54 0.56,1.4 0,1.93 L 39.15,74.83 c -0.57,0.54 -0.57,1.4 0,1.93 0.56,0.54 1.46,0.43 1.91,0 l 12.03,-11.39 0.12,-0.11 z m -55.57,0 C 0,61.93 0.11,61.07 0.56,60.53 l 2.7,-2.58 12.15,-11.29 c 0.56,-0.54 1.35,-0.54 1.91,0 0.57,0.54 0.68,1.4 0,1.93 L 4.84,60.53 c -0.57,0.54 -0.57,1.4 0,1.93 l 12.71,12.37 c 0.56,0.54 0.56,1.4 0,1.93 -0.56,0.54 -1.46,0.43 -1.91,0 L 3.37,65.48 3.26,65.37 Z"
    class="st1"
@@ -78,10 +78,10 @@
    style="fill:#3999c6;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18157-5"
+   id="shape14003-5"
    transform="translate(13.0484,-12.2574)">
 					<title
-   id="title15">Sheet.18157</title>
+   id="title15">Sheet.14003</title>
 					<path
    d="M 7.65,73.75 C 7.65,75.8 5.85,77.3 3.94,77.3 2.02,77.3 0,75.58 0,73.75 c 0,-1.82 1.57,-3.54 3.94,-3.54 2.25,0 3.71,1.72 3.71,3.54 z m 11.36,0 c 0,2.05 -1.8,3.55 -3.71,3.55 -1.91,0 -3.94,-1.72 -3.94,-3.55 0,-1.82 1.8,-3.54 3.94,-3.54 2.14,0 3.71,1.72 3.71,3.54 z"
    class="st2"
@@ -90,10 +90,10 @@
    style="fill:#57a300;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18158-7"
+   id="shape14004-7"
    transform="translate(36.108,-12.2574)">
 					<title
-   id="title20">Sheet.18158</title>
+   id="title20">Sheet.14004</title>
 					<ellipse
    cx="3.7120399"
    cy="73.754303"

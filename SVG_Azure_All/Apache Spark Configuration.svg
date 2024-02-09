@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="45.350002"
-   height="56.690006"
-   viewBox="0 0 45.350004 56.690006"
+   width="0.62985766in"
+   height="0.78735691in"
+   viewBox="0 0 45.349495 56.690008"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview49"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="22.676998"
-   inkscape:cy="28.339804"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="30.235832"
+   inkscape:cy="37.786198"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -97,23 +97,23 @@
 	</defs>
 	<g
    id="g45"
-   transform="translate(-34,-34.004297)">
+   transform="translate(-34.000633,-34.004297)">
 		<title
    id="title15">Page-1</title>
 		<g
-   id="group10910-1"
+   id="group11481-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title17">Apache Spark Configuration</title>
 			<g
-   id="group10911-2">
+   id="group11482-2">
 				<title
-   id="title19">Sheet.10911</title>
+   id="title19">Sheet.11482</title>
 				<g
-   id="shape10912-3"
+   id="shape11483-3"
    transform="translate(0.383276,-0.422596)">
 					<title
-   id="title21">Sheet.10912</title>
+   id="title21">Sheet.11483</title>
 					<path
    d="M 25.55,68.86 H 1.82 A 1.88444,1.91794 -180 0 0 0,70.78 v 52.01 a 1.88444,1.91794 -180 0 0 1.85,1.92 h 41.04 a 1.88444,1.91794 -180 0 0 1.83,-1.92 V 88.37 A 1.88444,1.91794 -180 0 0 42.86,86.45 H 29.26 A 1.8525,1.88543 0 0 1 27.4,84.56 V 70.78 a 1.91638,1.95044 -180 0 0 -1.85,-1.92 z"
    class="st1"
@@ -122,9 +122,9 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10913-5">
+   id="shape11484-5">
 					<title
-   id="title26">Sheet.10913</title>
+   id="title26">Sheet.11484</title>
 					<path
    d="m 25.04,70.88 v 13 a 4.72707,4.8111 -180 0 0 4.7,4.81 h 12.93 v 33.16 H 2.81 V 70.88 h 22.36 z m 0.9,-2.86 H 1.92 A 1.91638,1.95044 -180 0 0 0,69.97 v 52.79 a 1.91638,1.95044 -180 0 0 1.92,1.95 h 41.52 a 1.91638,1.95044 -180 0 0 1.91,-1.95 V 87.81 A 1.88444,1.91794 -180 0 0 43.47,85.89 H 29.74 A 1.88444,1.91794 0 0 1 27.85,83.98 V 69.97 a 1.91638,1.95044 -180 0 0 -1.91,-1.95 z"
    class="st2"
@@ -139,10 +139,10 @@
    style="stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10914-10"
+   id="shape11485-10"
    transform="translate(27.1807,-38.4238)">
 					<title
-   id="title33">Sheet.10914</title>
+   id="title33">Sheet.11485</title>
 					<path
    d="M 17.57,124.71 0,106.86 v 14.53 a 3.19397,3.25074 -180 0 0 3.19,3.25 z"
    class="st4"
@@ -151,10 +151,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10915-12"
+   id="shape11486-12"
    transform="translate(10.7253,-9.35888)">
 					<title
-   id="title38">Sheet.10915</title>
+   id="title38">Sheet.11486</title>
 					<path
    d="m 24.04,113.82 v -2.79 l -0.39,-0.15 -2.94,-0.97 -0.77,-1.91 1.49,-3.23 -1.92,-1.96 -0.38,0.2 -2.74,1.41 -1.87,-0.78 -1.2,-3.38 h -2.75 l -0.14,0.39 -0.96,2.99 -1.87,0.78 -3.13,-1.52 -1.92,1.95 0.19,0.39 1.4,2.79 -0.77,1.9 -3.37,1.23 v 2.79 l 0.38,0.15 2.94,0.97 0.77,1.91 -1.49,3.23 1.91,1.95 0.39,-0.19 2.74,-1.42 1.87,0.78 1.21,3.38 h 2.74 l 0.14,-0.39 0.96,-3 1.87,-0.78 3.17,1.52 1.92,-1.95 -0.19,-0.39 -1.39,-2.79 0.77,-1.9 z m -12.02,4.05 a 5.27643,5.37022 0 1 1 5.27,-5.37 5.27005,5.36372 0 0 1 -5.26,5.37 z"
    class="st5"

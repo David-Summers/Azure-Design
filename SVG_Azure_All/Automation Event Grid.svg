@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.600609"
-   height="56.689999"
-   viewBox="0 0 56.60061 56.69"
+   width="0.78611553in"
+   height="0.78735709in"
+   viewBox="0 0 56.600347 56.689998"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview46"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="28.300699"
-   inkscape:cy="17.459801"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="37.734076"
+   inkscape:cy="23.279613"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -55,23 +55,23 @@
 
 	<g
    id="g42"
-   transform="translate(-12.24,-12.2443)">
+   transform="translate(-12.240185,-12.2443)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group9537-1"
+   id="group10063-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Automation Event Grid</title>
 			<g
-   id="group9538-2">
+   id="group10064-2">
 				<title
-   id="title8">Sheet.9538</title>
+   id="title8">Sheet.10064</title>
 				<g
-   id="shape9539-3"
+   id="shape10065-3"
    transform="translate(7.92417,-15.874)">
 					<title
-   id="title10">Sheet.9539</title>
+   id="title10">Sheet.10065</title>
 					<path
    d="M 36.22,87.07 V 84.81 H 19.25 L 19.24,84.8 11.31,92.74 H 5.46 L 19.04,79.14 H 28.3 V 76.87 H 18.11 v 0.01 L 18.1,76.87 2.25,92.74 H 0 v 2.27 h 6.79 l 7.93,7.94 v 0 h 19.24 v -2.27 H 15.65 L 9.99,95.01 h 13.78 v -2.27 h -9.26 l 5.66,-5.67 z"
    class="st1"
@@ -80,10 +80,10 @@
    style="fill:#0072c6;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9540-5"
+   id="shape10066-5"
    transform="translate(30.6779,-21.6567)">
 					<title
-   id="title15">Sheet.9540</title>
+   id="title15">Sheet.10066</title>
 					<ellipse
    cx="3.2828701"
    cy="99.6605"
@@ -94,10 +94,10 @@
    style="fill:#59b4d9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9541-7"
+   id="shape10067-7"
    transform="rotate(-45.001,-24.982605,39.765232)">
 					<title
-   id="title20">Sheet.9541</title>
+   id="title20">Sheet.10067</title>
 					<ellipse
    cx="3.2828701"
    cy="99.6605"
@@ -108,10 +108,10 @@
    style="fill:#59b4d9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9542-9"
+   id="shape10068-9"
    transform="rotate(-45.001,-11.439923,34.168618)">
 					<title
-   id="title25">Sheet.9542</title>
+   id="title25">Sheet.10068</title>
 					<ellipse
    cx="3.2828701"
    cy="99.6605"
@@ -122,10 +122,10 @@
    style="fill:#b8d432;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9543-11"
+   id="shape10069-11"
    transform="rotate(-45.001,6.0231794,46.204977)">
 					<title
-   id="title30">Sheet.9543</title>
+   id="title30">Sheet.10069</title>
 					<ellipse
    cx="3.2828701"
    cy="99.6605"
@@ -136,9 +136,9 @@
    style="fill:#b8d432;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9544-13">
+   id="shape10070-13">
 					<title
-   id="title35">Sheet.9544</title>
+   id="title35">Sheet.10070</title>
 					<path
    d="M 0.91,46.26 C 0.34,46.26 0,46.6 0,47.16 V 58.5 c 0,0.57 0.34,0.91 0.91,0.91 h 5.67 c 0.56,0 0.9,-0.34 0.9,-0.91 V 53.85 H 49.1 v 4.76 c 0,0.57 0.34,0.91 1.13,0.91 h 5.44 c 0.57,0 0.91,-0.34 0.91,-0.91 V 47.28 c 0.11,-0.68 -0.23,-1.02 -0.79,-1.02 z m 54.79,56.69 c 0.56,0 0.9,-0.34 0.9,-0.91 V 90.93 c 0,-0.57 -0.34,-0.91 -0.9,-0.91 h -5.44 c -0.56,0 -0.9,0.34 -0.9,0.91 v 4.54 H 7.58 V 90.7 c 0,-0.56 -0.34,-0.9 -1.13,-0.9 H 0.91 C 0.34,89.8 0,90.14 0,90.93 v 11.11 c 0,0.57 0.34,0.91 0.91,0.91 z"
    class="st1"

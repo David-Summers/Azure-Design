@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.696609"
-   height="56.696362"
-   viewBox="0 0 56.69661 56.696362"
+   width="0.78745139in"
+   height="0.78744793in"
+   viewBox="0 0 56.696465 56.696361"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview48"
    showgrid="false"
-   inkscape:zoom="1.8923904"
-   inkscape:cx="28.348"
-   inkscape:cy="28.3393"
+   inkscape:zoom="1.4192955"
+   inkscape:cx="37.797256"
+   inkscape:cy="37.78566"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -109,22 +109,22 @@
 	</defs>
 	<g
    id="g44"
-   transform="translate(-34,-33.997938)">
+   transform="translate(-34.000162,-33.997938)">
 		<title
    id="title21">Page-1</title>
 		<g
-   id="group3487-1"
+   id="group3720-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title23">Log Analytics Workspace</title>
 			<g
-   id="group3488-2">
+   id="group3721-2">
 				<title
-   id="title25">Sheet.3488</title>
+   id="title25">Sheet.3721</title>
 				<g
-   id="shape3489-3">
+   id="shape3722-3">
 					<title
-   id="title27">Sheet.3489</title>
+   id="title27">Sheet.3722</title>
 					<path
    d="M 16.91,110.22 H 31.4 v 14.49 H 16.91 Z M 2.01,124.71 H 14.49 V 110.22 H 0 v 12.48 a 2.01277,2.01277 -180 0 0 2.01,2.01 z M 0,107.94 H 14.49 V 93.31 H 0 Z"
    class="st1"
@@ -133,10 +133,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3490-7"
+   id="shape3723-7"
    transform="translate(16.7731,-16.6053)">
 					<title
-   id="title32">Sheet.3490</title>
+   id="title32">Sheet.3723</title>
 					<path
    d="m 19.96,84.62 a 19.7587,19.7587 0 0 1 19.96,20.13 19.7587,19.7587 0 0 1 -19.96,19.96 H 0 V 104.58 A 19.7587,19.7587 0 0 1 19.96,84.62 Z"
    class="st2"
@@ -145,10 +145,10 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3491-11"
+   id="shape3724-11"
    transform="translate(23.6165,-25.8976)">
 					<title
-   id="title37">Sheet.3491</title>
+   id="title37">Sheet.3724</title>
 					<path
    d="m 0,111.02 h 4.56 v 13.69 H 0 Z m 9.12,4.57 h 4.57 v 9.12 H 9.12 Z m 9.13,-9.13 h 4.56 v 18.25 h -4.56 z"
    class="st3"

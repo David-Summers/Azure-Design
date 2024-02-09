@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692856"
-   height="56.689354"
-   viewBox="0 0 56.692854 56.689354"
+   width="0.78739864in"
+   height="0.78735in"
+   viewBox="0 0 56.692856 56.689282"
    xml:space="preserve"
    class="st9"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview76"
    showgrid="false"
-   inkscape:zoom="2.1486971"
-   inkscape:cx="28.347381"
-   inkscape:cy="20.897353"
+   inkscape:zoom="1.6115252"
+   inkscape:cx="37.796403"
+   inkscape:cy="27.863066"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -60,20 +60,20 @@
 
 	<g
    id="g72"
-   transform="translate(-19.124871,-19.125)">
+   transform="translate(-19.124871,-19.125072)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group6611-1"
+   id="group7150-1"
    transform="translate(19.1265,-34.0157)">
 			<title
    id="title6">Compute and App</title>
 			<g
-   id="group6612-2">
+   id="group7151-2">
 				<title
    id="title8"> Dashboard_computeapps-pathfind</title>
 				<g
-   id="shape6613-3"
+   id="shape7152-3"
    transform="translate(8.37998,-11.8077)">
 					<title
    id="title10">path6</title>
@@ -85,7 +85,7 @@
    style="fill:#7c7b7b;stroke:none;stroke-width:19.125;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6614-5"
+   id="shape7153-5"
    transform="translate(0,-21.1793)">
 					<title
    id="title15">path8</title>
@@ -97,7 +97,7 @@
    style="fill:#9fa0a2;stroke:none;stroke-width:19.125;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6615-7"
+   id="shape7154-7"
    transform="translate(0,-21.1793)">
 					<title
    id="title20">path10</title>
@@ -109,7 +109,7 @@
    style="fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:19.125;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6616-9"
+   id="shape7155-9"
    transform="translate(3.69914,-24.9027)">
 					<title
    id="title25">path12</title>
@@ -121,7 +121,7 @@
    style="fill:#5bb4da;stroke:none;stroke-width:19.125;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6617-11"
+   id="shape7156-11"
    transform="translate(3.69914,-24.8885)">
 					<title
    id="title30">path14</title>
@@ -133,7 +133,7 @@
    style="fill:#5bb4da;stroke:none;stroke-width:19.125;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6618-13"
+   id="shape7157-13"
    transform="translate(23.4611,-53.9656)">
 					<title
    id="title35">path16</title>
@@ -145,7 +145,7 @@
    style="fill:#b8d433;stroke:none;stroke-width:19.125;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6619-15"
+   id="shape7158-15"
    transform="translate(16.0913,-39.7733)">
 					<title
    id="title40">path18</title>
@@ -157,7 +157,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:19.125;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6620-17"
+   id="shape7159-17"
    transform="translate(14.8677,-27.7454)">
 					<title
    id="title45">path20</title>
@@ -169,7 +169,7 @@
    style="fill:#ffffff;fill-opacity:0.7;stroke:none;stroke-width:19.125;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6621-19"
+   id="shape7160-19"
    transform="translate(25.8229,-27.7578)">
 					<title
    id="title50">path22</title>
@@ -181,7 +181,7 @@
    style="fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:19.125;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6622-21"
+   id="shape7161-21"
    transform="translate(32.3812)">
 					<title
    id="title55">path24</title>
@@ -193,7 +193,7 @@
    style="fill:#5bb4da;stroke:none;stroke-width:19.125;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6623-23"
+   id="shape7162-23"
    transform="translate(33.15,-2.97589)">
 					<title
    id="title60">path26</title>
@@ -205,7 +205,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:19.125;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6624-25"
+   id="shape7163-25"
    transform="translate(8.43689,-11.8059)">
 					<title
    id="title65">path28</title>

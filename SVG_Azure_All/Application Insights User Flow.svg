@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689404"
-   height="51.019928"
-   viewBox="0 0 56.689405 51.019926"
+   width="0.78735155in"
+   height="0.70860898in"
+   viewBox="0 0 56.689379 51.019953"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview44"
    showgrid="false"
-   inkscape:zoom="2.4260017"
-   inkscape:cx="28.346451"
-   inkscape:cy="14.624615"
+   inkscape:zoom="1.8195051"
+   inkscape:cx="37.795231"
+   inkscape:cy="19.499488"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -59,23 +59,23 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group10013-1"
+   id="group10523-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Application Insights User Flow</title>
 			<g
-   id="group10014-2">
+   id="group10524-2">
 				<title
-   id="title8">Sheet.10014</title>
+   id="title8">Sheet.10524</title>
 				<g
-   id="group10015-3"
+   id="group10525-3"
    transform="translate(20.4094)">
 					<title
-   id="title10">Sheet.10015</title>
+   id="title10">Sheet.10525</title>
 					<g
-   id="shape10016-4">
+   id="shape10526-4">
 						<title
-   id="title12">Sheet.10016</title>
+   id="title12">Sheet.10526</title>
 						<path
    d="m 26.08,62.49 h 9.07 a 1.13386,1.15963 -180 0 0 1.13,-1.16 v -9.28 a 1.13386,1.15963 -180 0 0 -1.13,-1.16 h -9.07 a 1.13386,1.15963 -180 0 0 -1.14,1.16 v 3.48 H 19.28 V 52.05 A 1.13386,1.15963 -180 0 0 18.14,50.89 H 9.07 a 1.13386,1.15963 -180 0 0 -1.13,1.16 v 3.48 H 0 v 2.32 h 7.94 v 3.48 a 1.13386,1.15963 -180 0 0 1.13,1.16 h 8.6 l 7.27,7.44 v 8.8 a 1.13386,1.15963 -180 0 0 1.14,1.15 h 3.4 v 5.8 h -3.4 a 1.13386,1.15963 -180 0 0 -1.14,1.16 v 9.28 a 1.13386,1.15963 -180 0 0 1.14,1.16 h 9.07 a 1.13386,1.15963 -180 0 0 1.13,-1.16 v -9.28 a 1.13386,1.15963 -180 0 0 -1.13,-1.16 h -3.4 v -5.8 h 3.4 a 1.13386,1.15963 -180 0 0 1.13,-1.15 v -9.28 a 1.13386,1.15963 -180 0 0 -1.13,-1.16 h -8.6 l -7.27,-7.44 v -3 h 5.66 v 3.48 a 1.13386,1.15963 -180 0 0 1.14,1.16 z"
    class="st1"
@@ -84,10 +84,10 @@
    style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape10017-6"
+   id="shape10527-6"
    transform="translate(0.33222)">
 						<title
-   id="title17">Sheet.10017</title>
+   id="title17">Sheet.10527</title>
 						<path
    d="M 17.81,68.29 H 9.21 L 1.6,60.51 0,62.15 7.6,69.93 v 8.8 a 1.13386,1.15963 -180 0 0 1.14,1.15 h 3.4 v 5.8 H 8.74 A 1.13386,1.15963 -180 0 0 7.6,86.84 v 9.28 a 1.13386,1.15963 -180 0 0 1.14,1.16 h 9.07 a 1.13386,1.15963 -180 0 0 1.13,-1.16 v -9.28 a 1.13386,1.15963 -180 0 0 -1.13,-1.16 h -3.4 v -5.8 h 3.4 a 1.13386,1.15963 -180 0 0 1.13,-1.15 v -9.28 a 1.13386,1.15963 -180 0 0 -1.13,-1.16 z"
    class="st1"
@@ -97,10 +97,10 @@
 					</g>
 				</g>
 				<g
-   id="shape10018-8"
+   id="shape10528-8"
    transform="translate(30.6142,-2.31926)">
 					<title
-   id="title23">Sheet.10018</title>
+   id="title23">Sheet.10528</title>
 					<path
    d="m 6.8,55.53 v 6.96 H 0 v -6.96 z m 17.01,0 v 6.96 h -6.8 v -6.96 z m 0,41.75 h -6.8 v -6.96 h 6.8 z m -17.01,0 H 0 v -6.96 h 6.8 z m 0,-17.4 H 0 v -6.95 h 6.8 z m 17.01,0 h -6.8 v -6.95 h 6.8 z"
    class="st2"
@@ -109,10 +109,10 @@
    style="fill:#ffffff;fill-opacity:0.75;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10019-10"
+   id="shape10529-10"
    transform="translate(0,-31.3099)">
 					<title
-   id="title28">Sheet.10019</title>
+   id="title28">Sheet.10529</title>
 					<path
    d="M 1.47,77.57 H 21.2 a 1.47402,1.50752 0 0 1 1.48,1.5 v 16.7 A 1.47402,1.50752 0 0 1 21.2,97.28 H 1.47 A 1.47402,1.50752 0 0 1 0,95.77 v -16.7 a 1.47402,1.50752 0 0 1 1.47,-1.5 z"
    class="st3"
@@ -121,10 +121,10 @@
    style="fill:#3999c6;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10020-12"
+   id="shape10530-12"
    transform="translate(2.26772,-33.6292)">
 					<title
-   id="title33">Sheet.10020</title>
+   id="title33">Sheet.10530</title>
 					<rect
    x="0"
    y="84.523499"

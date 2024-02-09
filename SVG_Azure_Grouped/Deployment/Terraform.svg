@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="51.025398"
-   height="56.698799"
-   viewBox="0 0 51.0254 56.6988"
+   width="0.70868433in"
+   height="0.78748137in"
+   viewBox="0 0 51.025214 56.698799"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview36"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="25.511789"
-   inkscape:cy="14.175301"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="34.015635"
+   inkscape:cy="18.900351"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,20 +54,20 @@
 
 	<g
    id="g32"
-   transform="translate(-5.10236,-5.6655)">
+   transform="translate(-5.1024712,-5.6655)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group18255-1"
+   id="group19375-1"
    transform="translate(5.10236,-34.0157)">
 			<title
-   id="title6">Terraform.18255</title>
+   id="title6">Terraform.19375</title>
 			<g
-   id="group18256-2">
+   id="group19376-2">
 				<title
    id="title8">Logo</title>
 				<g
-   id="shape18257-3"
+   id="shape19377-3"
    transform="translate(17.5877,-19.8614)">
 					<title
    id="title10">polygon3706</title>
@@ -79,7 +79,7 @@
    style="fill:#5c4ee5;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18258-5"
+   id="shape19378-5"
    transform="translate(35.1754,-19.8614)">
 					<title
    id="title15">polygon3708</title>
@@ -91,7 +91,7 @@
    style="fill:#4040b2;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18259-7"
+   id="shape19379-7"
    transform="translate(0,-29.8488)">
 					<title
    id="title20">polygon3710</title>
@@ -103,7 +103,7 @@
    style="fill:#5c4ee5;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18260-9"
+   id="shape19380-9"
    transform="translate(17.5877)">
 					<title
    id="title25">polygon3712</title>

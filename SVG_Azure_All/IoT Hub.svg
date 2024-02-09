@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692703"
-   height="56.69611"
-   viewBox="0 0 56.692704 56.696109"
+   width="0.78739893in"
+   height="0.78744626in"
+   viewBox="0 0 56.692724 56.696094"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview77"
    showgrid="false"
-   inkscape:zoom="1.8967097"
-   inkscape:cx="28.346399"
-   inkscape:cy="28.201304"
+   inkscape:zoom="1.4225314"
+   inkscape:cx="37.795184"
+   inkscape:cy="37.601727"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -105,12 +105,12 @@
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group4041-1"
+   id="group4290-1"
    transform="translate(33.7176,-34.0157)">
 			<title
    id="title22">IoT Hub</title>
 			<g
-   id="shape4042-2"
+   id="shape4291-2"
    transform="translate(29.7754,-23.6248)">
 				<title
    id="title24">fa3a22e9-e4e8-46a1-bc09-f953274</title>
@@ -124,7 +124,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:33.71760178;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape4043-4"
+   id="shape4292-4"
    transform="translate(42.1375,-5.47242)">
 				<title
    id="title29">eb214416-6791-4934-ac0c-35afaa8</title>
@@ -138,7 +138,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:33.71760178;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape4044-6"
+   id="shape4293-6"
    transform="translate(22.4977,-9.74358)">
 				<title
    id="title34">a4424413-b91f-48da-aedd-39e3a97</title>
@@ -152,7 +152,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:33.71760178;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape4045-8"
+   id="shape4294-8"
    transform="translate(18.2441,-42.478)">
 				<title
    id="title39">f7ecfc1a-3268-471b-9464-57023bf</title>
@@ -166,7 +166,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:33.71760178;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape4046-10"
+   id="shape4295-10"
    transform="translate(4.61918,-23.2578)">
 				<title
    id="title44">b4388938-ad80-41b4-b729-5c21e3e</title>
@@ -180,7 +180,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:33.71760178;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape4047-12"
+   id="shape4296-12"
    transform="translate(8.90604,-10.2775)">
 				<title
    id="title49">polygon26</title>
@@ -192,11 +192,11 @@
    style="fill:#949494;stroke:none;stroke-width:33.71760178;stroke-linecap:butt" />
 			</g>
 			<g
-   id="group4048-14">
+   id="group4297-14">
 				<title
    id="title54">g32</title>
 				<g
-   id="shape4049-15"
+   id="shape4298-15"
    transform="translate(40.4427,-40.6761)">
 					<title
    id="title56">path28</title>
@@ -208,7 +208,7 @@
    style="fill:#949494;stroke:none;stroke-width:33.71760178;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4050-17">
+   id="shape4299-17">
 					<title
    id="title61">path30</title>
 					<path
@@ -220,7 +220,7 @@
 				</g>
 			</g>
 			<g
-   id="shape4051-19"
+   id="shape4300-19"
    transform="translate(4.61918,-6.9421)">
 				<title
    id="title67">path34</title>

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.6973"
-   height="56.691601"
-   viewBox="0 0 56.697298 56.691602"
+   width="0.78746051in"
+   height="0.78738135in"
+   viewBox="0 0 56.697155 56.691598"
    xml:space="preserve"
    class="st16"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview124"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="28.346461"
-   inkscape:cy="14.175301"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="37.795184"
+   inkscape:cy="18.900351"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -67,23 +67,23 @@
 
 	<g
    id="g120"
-   transform="translate(-5.66929,-5.6727)">
+   transform="translate(-5.6693772,-5.6727)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group7729-1"
+   id="group8343-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title6">Blockchain Consortium</title>
 			<g
-   id="group7730-2">
+   id="group8344-2">
 				<title
-   id="title8">Sheet.7730</title>
+   id="title8">Sheet.8344</title>
 				<g
-   id="shape7731-3"
+   id="shape8345-3"
    transform="translate(28.0243,-32.3502)">
 					<title
-   id="title10">Sheet.7731</title>
+   id="title10">Sheet.8345</title>
 					<path
    d="M 10.31,78.12 V 90.29 L 0,96.38 V 84.21 Z"
    class="st1"
@@ -92,10 +92,10 @@
    style="fill:#773adc;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7732-5"
+   id="shape8346-5"
    transform="translate(31.5676,-37.981)">
 					<title
-   id="title15">Sheet.7732</title>
+   id="title15">Sheet.8346</title>
 					<path
    d="m 2.25,90.2 c 1.42,-0.85 2.26,-0.29 2.26,1.4 A 5.72083,5.68851 0 0 1 2.25,95.54 C 1.12,96.38 0,95.82 0,94.13 A 5.72083,5.68851 0 0 1 2.25,90.2 Z"
    class="st2"
@@ -104,10 +104,10 @@
    style="fill:#552f99;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7733-7"
+   id="shape8347-7"
    transform="translate(17.3944,-44.5216)">
 					<title
-   id="title20">Sheet.7733</title>
+   id="title20">Sheet.8347</title>
 					<path
    d="M 20.94,90.29 10.63,96.38 0,90.29 10.63,84.21 Z"
    class="st3"
@@ -116,10 +116,10 @@
    style="fill:#b796f9;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7734-9"
+   id="shape8348-9"
    transform="translate(17.3944,-32.3502)">
 					<title
-   id="title25">Sheet.7734</title>
+   id="title25">Sheet.8348</title>
 					<path
    d="M 10.63,84.21 V 96.38 L 0,90.29 V 78.12 Z"
    class="st4"
@@ -128,10 +128,10 @@
    style="fill:#a67af4;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7735-11"
+   id="shape8349-11"
    transform="translate(19.7008,-38.1156)">
 					<title
-   id="title30">Sheet.7735</title>
+   id="title30">Sheet.8349</title>
 					<path
    d="M 2.58,90.29 C 1.29,89.65 0,90.29 0,91.57 a 4.64173,4.61551 -180 0 0 2.58,4.17 c 1.29,0.64 2.57,0 2.57,-1.28 A 5.32462,5.29454 -180 0 0 2.58,90.29 Z"
    class="st1"
@@ -140,10 +140,10 @@
    style="fill:#773adc;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7736-13"
+   id="shape8350-13"
    transform="translate(46.3851,-16.3352)">
 					<title
-   id="title35">Sheet.7736</title>
+   id="title35">Sheet.8350</title>
 					<path
    d="M 10.31,78.12 V 90.29 L 0,96.38 V 84.21 Z"
    class="st5"
@@ -152,10 +152,10 @@
    style="fill:#5e9624;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7737-15"
+   id="shape8351-15"
    transform="translate(36.0773,-16.3352)">
 					<title
-   id="title40">Sheet.7737</title>
+   id="title40">Sheet.8351</title>
 					<path
    d="M 10.31,84.21 V 96.38 L 0,90.29 V 78.12 Z"
    class="st6"
@@ -164,10 +164,10 @@
    style="fill:#76bc2d;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7738-17"
+   id="shape8352-17"
    transform="translate(38.9764,-21.46)">
 					<title
-   id="title45">Sheet.7738</title>
+   id="title45">Sheet.8352</title>
 					<path
    d="M 2.58,90.29 C 1.29,89.65 0,90.29 0,91.57 a 4.64173,4.61551 -180 0 0 2.58,4.17 c 1.29,0.64 2.57,0 2.57,-1.28 A 5.32462,5.29454 -180 0 0 2.58,90.29 Z"
    class="st5"
@@ -176,15 +176,15 @@
    style="fill:#5e9624;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="group7739-19"
+   id="group8353-19"
    transform="translate(33.1782,-30.7487)">
 					<title
-   id="title50">Sheet.7739</title>
+   id="title50">Sheet.8353</title>
 					<g
-   id="shape7740-20"
+   id="shape8354-20"
    transform="translate(0,-5.39063)">
 						<title
-   id="title52">Sheet.7740</title>
+   id="title52">Sheet.8354</title>
 						<path
    d="M 8.49,94.8 A 16.5923,16.4986 -180 0 0 2.25,90.24 1.66535,1.65595 -180 0 0 0,91.2 a 1.43665,1.42853 -180 0 0 0.97,1.92 13.7094,13.6319 0 0 1 4.7,3.26 z"
    class="st7"
@@ -193,10 +193,10 @@
    style="fill:#32bedd;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape7741-22"
+   id="shape8355-22"
    transform="translate(8.48461)">
 						<title
-   id="title57">Sheet.7741</title>
+   id="title57">Sheet.8355</title>
 						<path
    d="m 0,95.83 c 0.06,0.19 0.16,0.36 0.21,0.55 L 0.6,96.19 Z"
    class="st7"
@@ -206,10 +206,10 @@
 					</g>
 				</g>
 				<g
-   id="shape7742-24"
+   id="shape8356-24"
    transform="translate(10.3078,-16.0149)">
 					<title
-   id="title63">Sheet.7742</title>
+   id="title63">Sheet.8356</title>
 					<path
    d="M 10.63,78.44 V 90.29 L 0,96.38 V 84.53 Z"
    class="st8"
@@ -218,10 +218,10 @@
    style="fill:#258277;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7743-26"
+   id="shape8357-26"
    transform="translate(0,-16.0149)">
 					<title
-   id="title68">Sheet.7743</title>
+   id="title68">Sheet.8357</title>
 					<path
    d="M 10.31,84.53 V 96.38 L 0,90.29 V 78.44 Z"
    class="st9"
@@ -230,10 +230,10 @@
    style="fill:#37c2b1;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7744-28"
+   id="shape8358-28"
    transform="translate(14.6306,-35.6204)">
 					<title
-   id="title73">Sheet.7744</title>
+   id="title73">Sheet.8358</title>
 					<path
    d="M 8.56,90.68 A 2.1582,2.146 -180 0 0 5.98,89.72 21.2598,21.1397 -180 0 0 0,94.44 l 3.41,1.94 A 14.9656,14.8811 0 0 1 7.6,93.24 2.1582,2.146 -180 0 0 8.56,90.68 Z"
    class="st7"
@@ -242,10 +242,10 @@
    style="fill:#32bedd;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7745-30"
+   id="shape8359-30"
    transform="translate(28.9907)">
 					<title
-   id="title78">Sheet.7745</title>
+   id="title78">Sheet.8359</title>
 					<path
    d="M 10.31,78.12 V 90.29 L 0,96.38 V 84.21 Z"
    class="st10"
@@ -254,10 +254,10 @@
    style="fill:#d15900;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7746-32"
+   id="shape8360-32"
    transform="translate(18.6829)">
 					<title
-   id="title83">Sheet.7746</title>
+   id="title83">Sheet.8360</title>
 					<path
    d="M 10.31,84.21 V 96.38 L 0,90.29 V 78.12 Z"
    class="st11"
@@ -266,10 +266,10 @@
    style="fill:#f78d1e;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7747-34"
+   id="shape8361-34"
    transform="translate(34.9853,-18.9681)">
 					<title
-   id="title88">Sheet.7747</title>
+   id="title88">Sheet.8361</title>
 					<path
    d="M 6.89,90.36 A 1.67824,1.66876 -180 0 0 4.31,90.68 16.9435,16.8477 0 0 1 0,94.54 l 3.11,1.84 a 19.2369,19.1283 -180 0 0 4.1,-3.45 1.67824,1.66876 -180 0 0 -0.32,-2.57 z"
    class="st7"
@@ -278,10 +278,10 @@
    style="fill:#32bedd;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7748-36"
+   id="shape8362-36"
    transform="translate(13.6095,-21.1045)">
 					<title
-   id="title93">Sheet.7748</title>
+   id="title93">Sheet.8362</title>
 					<path
    d="M 2.54,89.74 C 4,88.94 5.07,89.61 5.07,91.2 A 5.82713,5.79421 0 0 1 2.54,95.58 C 1.07,96.38 0,95.71 0,94.12 a 5.47602,5.44508 0 0 1 2.54,-4.38 z"
    class="st12"
@@ -290,10 +290,10 @@
    style="fill:#207067;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7749-38"
+   id="shape8363-38"
    transform="translate(14.7047,-18.7855)">
 					<title
-   id="title98">Sheet.7749</title>
+   id="title98">Sheet.8363</title>
 					<path
    d="M 8.56,94.2 A 13.7351,13.6575 0 0 1 3.33,90.18 1.70401,1.69438 -180 0 0 0.76,89.86 1.70401,1.69438 -180 0 0 0.43,92.42 17.7938,17.6933 -180 0 0 4.88,96.38 Z"
    class="st7"
@@ -302,10 +302,10 @@
    style="fill:#32bedd;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7750-40"
+   id="shape8364-40"
    transform="translate(18.6829,-12.1714)">
 					<title
-   id="title103">Sheet.7750</title>
+   id="title103">Sheet.8364</title>
 					<path
    d="M 20.62,90.29 10.31,96.38 0,90.29 10.31,84.21 Z"
    class="st13"
@@ -314,10 +314,10 @@
    style="fill:#ffb34d;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7751-42"
+   id="shape8365-42"
    transform="translate(0,-27.866)">
 					<title
-   id="title108">Sheet.7751</title>
+   id="title108">Sheet.8365</title>
 					<path
    d="M 20.94,90.29 10.31,96.38 0,90.29 10.31,84.21 Z"
    class="st14"
@@ -326,10 +326,10 @@
    style="fill:#42e8ca;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7752-44"
+   id="shape8366-44"
    transform="translate(36.0773,-28.5066)">
 					<title
-   id="title113">Sheet.7752</title>
+   id="title113">Sheet.8366</title>
 					<path
    d="M 20.62,90.29 10.31,96.38 0,90.29 10.31,84.53 Z"
    class="st15"

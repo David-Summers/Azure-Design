@@ -91,15 +91,15 @@
 		<title
    id="title14">Page-1</title>
 		<g
-   id="group21207-1"
+   id="group22446-1"
    transform="translate(5.66929,-34.0157)">
 			<title
-   id="title16">Intune Security Baseline.21207</title>
+   id="title16">Intune Security Baseline.22446</title>
 			<g
-   id="shape21208-2"
+   id="shape22447-2"
    transform="translate(0,-9.40651)">
 				<title
-   id="title18">Sheet.21208</title>
+   id="title18">Sheet.22447</title>
 				<path
    d="m 39.7,71.17 c 0,12.7 -15.79,22.94 -19.21,25.01 a 1.1755,1.16721 0 0 1 -1.31,0 C 15.75,94.11 0,83.87 0,71.17 V 55.86 a 1.24268,1.2339 0 0 1 1.21,-1.2 c 12.26,-0.33 9.44,-5.57 18.64,-5.57 9.2,0 6.35,5.24 18.57,5.57 a 1.27626,1.26725 0 0 1 1.24,1.2 z"
    class="st1"
@@ -108,10 +108,10 @@
    style="fill:#86d633;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape21209-4"
+   id="shape22448-4"
    transform="translate(1.64571,-11.3605)">
 				<title
-   id="title23">Sheet.21209</title>
+   id="title23">Sheet.22448</title>
 				<path
    d="m 36.41,73.26 c 0,11.67 -14.48,21.04 -17.6,22.94 a 1.10833,1.10051 0 0 1 -1.21,0 C 14.44,94.3 0,84.93 0,73.26 V 59.38 a 1.10833,1.10051 0 0 1 1.11,-1.1 c 11.25,-0.46 8.8,-5.27 17.09,-5.27 8.3,0 5.85,4.81 17.07,5.11 a 1.14192,1.13386 0 0 1 1.14,1.1 z"
    class="st2"
@@ -120,10 +120,10 @@
    style="fill:url(#grad0-7);stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape21210-8"
+   id="shape22449-8"
    transform="translate(18.002)">
 				<title
-   id="title28">Sheet.21210</title>
+   id="title28">Sheet.22449</title>
 				<path
    d="m 1.24,66.86 h 36.21 a 1.1755,1.16721 0 0 1 1.24,1.1 v 27.32 a 1.1755,1.16721 0 0 1 -1.24,1.1 H 1.24 A 1.20909,1.20056 0 0 1 0,95.28 V 68.03 a 1.20909,1.20056 0 0 1 1.24,-1.17 z"
    class="st3"
@@ -132,10 +132,10 @@
    style="fill:#9cebff;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape21211-10"
+   id="shape22450-10"
    transform="translate(18.002,-24.3446)">
 				<title
-   id="title33">Sheet.21211</title>
+   id="title33">Sheet.22450</title>
 				<path
    d="m 1.18,91.21 h 36.34 a 1.10833,1.10051 0 0 1 1.17,1.03 v 4.14 H 0 v -4 a 1.10833,1.10051 0 0 1 1.18,-1.04 z"
    class="st4"
@@ -144,10 +144,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape21212-12"
+   id="shape22451-12"
    transform="translate(26.6,-11.1385)">
 				<title
-   id="title38">Sheet.21212</title>
+   id="title38">Sheet.22451</title>
 				<path
    d="M 24.82,93.88 H 0.94 C 0.4,93.88 0,94.14 0,94.41 v 1.43 c 0,0.3 0.4,0.54 0.94,0.54 h 23.88 c 0.54,0 0.97,-0.24 0.97,-0.54 v -1.33 c 0,-0.37 -0.53,-0.63 -0.97,-0.63 z"
    class="st4"
@@ -156,10 +156,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape21213-14"
+   id="shape22452-14"
    transform="translate(26.6,-17.2747)">
 				<title
-   id="title43">Sheet.21213</title>
+   id="title43">Sheet.22452</title>
 				<path
    d="M 24.82,94.01 H 0.94 C 0.4,94.01 0,94.24 0,94.54 v 1.3 c 0,0.3 0.4,0.54 0.94,0.54 h 23.88 c 0.54,0 0.97,-0.24 0.97,-0.54 v -1.3 c 0,-0.3 -0.53,-0.53 -0.97,-0.53 z"
    class="st4"
@@ -168,10 +168,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape21214-16"
+   id="shape22453-16"
    transform="translate(26.6,-4.46874)">
 				<title
-   id="title48">Sheet.21214</title>
+   id="title48">Sheet.22453</title>
 				<path
    d="M 24.82,93.98 H 0.94 C 0.4,93.98 0,94.21 0,94.51 v 1.33 c 0,0.3 0.4,0.54 0.94,0.54 h 23.88 c 0.54,0 0.97,-0.24 0.97,-0.54 v -1.33 c 0,-0.3 -0.53,-0.53 -0.97,-0.53 z"
    class="st4"
@@ -180,10 +180,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape21215-18"
+   id="shape22454-18"
    transform="translate(21.0583,-16.9078)">
 				<title
-   id="title53">Sheet.21215</title>
+   id="title53">Sheet.22454</title>
 				<ellipse
    cx="1.57853"
    cy="94.8106"
@@ -194,10 +194,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape21216-20"
+   id="shape22455-20"
    transform="translate(21.0583,-10.8717)">
 				<title
-   id="title58">Sheet.21216</title>
+   id="title58">Sheet.22455</title>
 				<ellipse
    cx="1.57853"
    cy="94.8106"
@@ -208,10 +208,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape21217-22"
+   id="shape22456-22"
    transform="translate(21.0583,-4.1019)">
 				<title
-   id="title63">Sheet.21217</title>
+   id="title63">Sheet.22456</title>
 				<ellipse
    cx="1.57853"
    cy="94.8106"

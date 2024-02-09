@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="45.349998"
-   height="56.686134"
-   viewBox="0 0 45.349999 56.686134"
+   width="0.6298604in"
+   height="0.78730655in"
+   viewBox="0 0 45.350001 56.685996"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview53"
    showgrid="false"
-   inkscape:zoom="1.9533513"
-   inkscape:cx="22.677199"
-   inkscape:cy="26.391435"
+   inkscape:zoom="1.4650115"
+   inkscape:cx="30.236232"
+   inkscape:cy="35.18854"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -87,16 +87,16 @@
 	</defs>
 	<g
    id="g49"
-   transform="translate(-30.1093,-30.1143)">
+   transform="translate(-30.1093,-30.114449)">
 		<title
    id="title14">Page-1</title>
 		<g
-   id="group8699-1"
+   id="group9318-1"
    transform="translate(30.1093,-34.0157)">
 			<title
    id="title16">Azure Defender</title>
 			<g
-   id="shape8700-2">
+   id="shape9319-2">
 				<title
    id="title18">path4</title>
 				<path
@@ -107,7 +107,7 @@
    style="fill:#76bc2d;stroke:none;stroke-width:30.10930061;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape8701-4"
+   id="shape9320-4"
    transform="translate(3.02851,-3.65402)">
 				<title
    id="title23">path6-0-7</title>
@@ -119,7 +119,7 @@
    style="fill:url(#grad0-7);stroke:none;stroke-width:30.10930061;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape8702-8"
+   id="shape9321-8"
    transform="translate(13.7905,-22.6348)">
 				<title
    id="title28">path8-3-4-0-3</title>
@@ -131,7 +131,7 @@
    style="fill:#ffffff" />
 			</g>
 			<g
-   id="shape8703-11"
+   id="shape9322-11"
    transform="translate(16.983,-19.184)">
 				<title
    id="title33">rect944-0</title>
@@ -143,7 +143,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:20.47410011;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape8704-13"
+   id="shape9323-13"
    transform="translate(17.0103,-16.3886)">
 				<title
    id="title38">rect944-5-9</title>
@@ -155,7 +155,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:20.47410011;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape8705-15"
+   id="shape9324-15"
    transform="translate(19.3035,-12.9634)">
 				<title
    id="title43">path15-9-5-3</title>

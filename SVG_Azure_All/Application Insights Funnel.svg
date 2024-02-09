@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="57.12302"
-   height="42.520004"
-   viewBox="0 0 57.123018 42.520005"
+   width="0.79337418in"
+   height="0.59055483in"
+   viewBox="0 0 57.122701 42.520005"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview21"
    showgrid="false"
-   inkscape:zoom="2.6583942"
-   inkscape:cx="28.562959"
-   inkscape:cy="10.376601"
+   inkscape:zoom="1.9937982"
+   inkscape:cx="38.083891"
+   inkscape:cy="13.835448"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -53,22 +53,22 @@
 
 	<g
    id="g17"
-   transform="translate(-12.238192,-12.244295)">
+   transform="translate(-12.23842,-12.244295)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group10073-1"
+   id="group10583-1"
    transform="translate(12.4547,-34.0157)">
 			<title
    id="title6">Application Insights Funnel</title>
 			<g
-   id="group10074-2">
+   id="group10584-2">
 				<title
-   id="title8">Sheet.10074</title>
+   id="title8">Sheet.10584</title>
 				<g
-   id="shape10075-3">
+   id="shape10585-3">
 					<title
-   id="title10">Sheet.10075</title>
+   id="title10">Sheet.10585</title>
 					<path
    d="m 4.47,54.76 h 47.76 c 0.63,0 1.22,-0.35 1.54,-0.91 l 2.92,-5.12 A 1.61255,1.64612 -180 0 0 55.3,46.26 H 1.4 A 1.61255,1.64612 -180 0 0 0,48.73 l 2.92,5.12 a 1.78511,1.82227 -180 0 0 1.55,0.91 z m 40.84,8.5 H 11.38 A 1.78511,1.82227 -180 0 0 9.84,66 l 2.77,4.86 c 0.32,0.56 0.91,0.91 1.54,0.91 h 28.39 c 0.64,0 1.22,-0.35 1.54,-0.91 L 46.85,66 A 1.78511,1.82227 -180 0 0 45.31,63.26 Z M 35.62,80.27 H 21.07 a 1.78511,1.82227 -180 0 0 -1.54,2.74 l 2.76,4.86 c 0.33,0.56 0.91,0.91 1.55,0.91 h 9.01 c 0.64,0 1.23,-0.35 1.55,-0.91 l 2.77,-4.86 a 1.78511,1.82227 -180 0 0 -1.55,-2.74 z"
    class="st1"

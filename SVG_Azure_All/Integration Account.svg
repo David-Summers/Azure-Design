@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692902"
-   height="56.694302"
-   viewBox="0 0 56.692903 56.694303"
+   width="0.78739738in"
+   height="0.78741682in"
+   viewBox="0 0 56.692679 56.694298"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview56"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="28.346449"
-   inkscape:cy="17.459801"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="37.795072"
+   inkscape:cy="23.279613"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -57,22 +57,22 @@
 
 	<g
    id="g52"
-   transform="translate(-12.24,-12.239999)">
+   transform="translate(-12.24016,-12.239999)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group4278-1"
+   id="group4543-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Integration Account</title>
 			<g
-   id="group4279-2">
+   id="group4544-2">
 				<title
-   id="title8">Sheet.4279</title>
+   id="title8">Sheet.4544</title>
 				<g
-   id="shape4280-3">
+   id="shape4545-3">
 					<title
-   id="title10">Sheet.4280</title>
+   id="title10">Sheet.4545</title>
 					<rect
    x="0"
    y="46.255699"
@@ -83,9 +83,9 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4281-5">
+   id="shape4546-5">
 					<title
-   id="title15">Sheet.4281</title>
+   id="title15">Sheet.4546</title>
 					<path
    d="m 0,46.26 v 56.69 H 56.69 V 46.26 Z M 51.59,97.85 H 5.1 V 51.36 h 46.49 z"
    class="st2"
@@ -94,10 +94,10 @@
    style="fill:#3999c6;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4282-7"
+   id="shape4547-7"
    transform="translate(9.07087,-37.4173)">
 					<title
-   id="title20">Sheet.4282</title>
+   id="title20">Sheet.4547</title>
 					<rect
    x="0"
    y="92.743896"
@@ -108,10 +108,10 @@
    style="fill:#fcd116;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4283-9"
+   id="shape4548-9"
    transform="translate(9.07087,-23.2441)">
 					<title
-   id="title25">Sheet.4283</title>
+   id="title25">Sheet.4548</title>
 					<rect
    x="0"
    y="92.743896"
@@ -122,10 +122,10 @@
    style="fill:#dd5900;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4284-11"
+   id="shape4549-11"
    transform="translate(23.2441,-23.2441)">
 					<title
-   id="title30">Sheet.4284</title>
+   id="title30">Sheet.4549</title>
 					<rect
    x="0"
    y="92.743896"
@@ -136,10 +136,10 @@
    style="fill:#3999c6;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4285-13"
+   id="shape4550-13"
    transform="translate(9.07087,-9.07087)">
 					<title
-   id="title35">Sheet.4285</title>
+   id="title35">Sheet.4550</title>
 					<rect
    x="0"
    y="92.743896"
@@ -150,10 +150,10 @@
    style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4286-15"
+   id="shape4551-15"
    transform="translate(23.2441,-9.07087)">
 					<title
-   id="title40">Sheet.4286</title>
+   id="title40">Sheet.4551</title>
 					<rect
    x="0"
    y="92.743896"
@@ -164,10 +164,10 @@
    style="fill:#dd5900;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4287-17"
+   id="shape4552-17"
    transform="translate(37.4173,-9.07087)">
 					<title
-   id="title45">Sheet.4287</title>
+   id="title45">Sheet.4552</title>
 					<rect
    x="0"
    y="92.743896"

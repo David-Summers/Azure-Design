@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.690392"
-   height="56.689999"
-   viewBox="0 0 56.69039 56.69"
+   width="0.78736675in"
+   height="0.78736132in"
+   viewBox="0 0 56.690312 56.689998"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview51"
    showgrid="false"
-   inkscape:zoom="1.9069937"
-   inkscape:cx="28.346413"
-   inkscape:cy="27.856801"
+   inkscape:zoom="1.4302448"
+   inkscape:cx="37.795223"
+   inkscape:cy="37.142409"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -87,16 +87,16 @@
 	</defs>
 	<g
    id="g47"
-   transform="translate(-33.046089,-33.0443)">
+   transform="translate(-33.046175,-33.0443)">
 		<title
    id="title14">Page-1</title>
 		<g
-   id="group20131-1"
+   id="group21310-1"
    transform="translate(33.0461,-34.0157)">
 			<title
-   id="title16">Time Series Insights Event Source.20131</title>
+   id="title16">Time Series Insights Event Source.21310</title>
 			<g
-   id="shape20132-2"
+   id="shape21311-2"
    transform="translate(13.8738,-13.9095)">
 				<title
    id="title18">rect15</title>
@@ -108,13 +108,13 @@
    style="fill:url(#grad0-5);stroke:none;stroke-width:33.04610062;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape20133-6"
+   id="shape21312-6"
    transform="translate(22.7237,-16.7112)">
 				<title
    id="title23">path17</title>
 			</g>
 			<g
-   id="shape20134-7"
+   id="shape21313-7"
    transform="translate(13.8738,-17.8549)">
 				<title
    id="title26">path19</title>
@@ -126,7 +126,7 @@
    style="fill:#c3f1ff;stroke:none;stroke-width:33.04610062;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape20135-9">
+   id="shape21314-9">
 				<title
    id="title31">path21</title>
 				<path
@@ -137,7 +137,7 @@
    style="fill:#949494;stroke:none;stroke-width:33.04610062;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape20136-11"
+   id="shape21315-11"
    transform="translate(51.4362,-37.4574)">
 				<title
    id="title36">path23</title>
@@ -149,7 +149,7 @@
    style="fill:#767676;stroke:none;stroke-width:33.04610062;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape20137-13"
+   id="shape21316-13"
    transform="translate(51.4362,-5.10895)">
 				<title
    id="title41">path25</title>

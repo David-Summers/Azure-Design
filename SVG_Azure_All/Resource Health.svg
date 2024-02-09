@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.396561"
-   height="53.90781"
-   viewBox="0 0 56.396559 53.907812"
+   width="0.78328556in"
+   height="0.74871957in"
+   viewBox="0 0 56.396562 53.907527"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview45"
    showgrid="false"
-   inkscape:zoom="1.9356638"
-   inkscape:cx="28.195588"
-   inkscape:cy="26.943301"
+   inkscape:zoom="1.4517402"
+   inkscape:cx="37.594114"
+   inkscape:cy="35.924402"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -87,20 +87,20 @@
 	</defs>
 	<g
    id="g41"
-   transform="translate(-34.003413,-33.996489)">
+   transform="translate(-34.003413,-33.996811)">
 		<title
    id="title14">Page-1</title>
 		<g
-   id="group1984-1"
+   id="group2106-1"
    transform="translate(33.8524,-34.0157)">
 			<title
    id="title16">Resource Health</title>
 			<g
-   id="group1985-2">
+   id="group2107-2">
 				<title
    id="title18">g8</title>
 				<g
-   id="shape1986-3">
+   id="shape2108-3">
 					<title
    id="title20">path2</title>
 					<path
@@ -111,7 +111,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1987-7"
+   id="shape2109-7"
    transform="translate(0,-0.167574)">
 					<title
    id="title25">path4</title>
@@ -129,7 +129,7 @@
    style="stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1988-10"
+   id="shape2110-10"
    transform="translate(4.34568,-12.9687)">
 					<title
    id="title32">path6</title>

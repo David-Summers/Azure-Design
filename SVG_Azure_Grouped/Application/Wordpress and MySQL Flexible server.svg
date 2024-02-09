@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692902"
-   height="56.692902"
-   viewBox="0 0 56.692905 56.692905"
+   width="0.78740019in"
+   height="0.78740019in"
+   viewBox="0 0 56.692898 56.692898"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview26"
    showgrid="false"
-   inkscape:zoom="1.771865"
-   inkscape:cx="28.346497"
-   inkscape:cy="28.346405"
+   inkscape:zoom="1.3289007"
+   inkscape:cx="37.795279"
+   inkscape:cy="37.79514"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -58,18 +58,18 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group14722-1"
+   id="group16138-1"
    transform="translate(38.25,-38.25)">
 			<title
-   id="title6">Wordpress and MySQL Flexible server.14722</title>
+   id="title6">Wordpress and MySQL Flexible server.16138</title>
 			<g
-   id="group14723-2">
+   id="group16139-2">
 				<title
    id="title8"> Wordpress</title>
 				<g
-   id="shape14724-3">
+   id="shape16140-3">
 					<title
-   id="title10">Sheet.14724</title>
+   id="title10">Sheet.16140</title>
 					<rect
    x="0"
    y="76.5"
@@ -80,10 +80,10 @@
    style="fill:#00749a;stroke:none;stroke-width:38.25;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape14725-5"
+   id="shape16141-5"
    transform="translate(5.55591,-5.55591)">
 					<title
-   id="title15">Sheet.14725</title>
+   id="title15">Sheet.16141</title>
 					<path
    d="m 0,110.4 a 22.6524,22.6524 0 0 1 1.98,-9.27 l 10.86,29.78 A 22.7764,22.7764 0 0 1 0,110.4 Z m 22.79,22.79 a 22.7161,22.7161 0 0 1 -6.44,-0.93 l 6.84,-19.86 7.01,19.19 a 2.34567,2.34567 -180 0 0 0.16,0.31 22.6772,22.6772 0 0 1 -7.57,1.29 z m 3.14,-33.47 c 1.38,-0.08 2.61,-0.22 2.61,-0.22 A 0.94252,0.94252 -180 0 0 28.398268,97.62205 C 28.4,97.62 24.7,97.92 22.32,97.92 c -2.24,0 -6,-0.3 -6,-0.3 a 0.94252,0.94252 -180 0 0 -0.148819,1.87795 C 16.17,99.5 17.33,99.64 18.56,99.72 l 3.55,9.73 -4.99,14.96 -8.29,-24.69 c 1.37,-0.08 2.6,-0.22 2.6,-0.22 A 0.94252,0.94252 -180 0 0 11.288268,97.62205 C 11.29,97.62 7.6,97.92 5.22,97.92 L 3.75,97.89 A 22.7799,22.7799 0 0 1 38.18,93.6 l -0.29,-0.02 a 3.94016,3.94016 -180 0 0 -3.83,4.04 10.6937,10.6937 -180 0 0 2.24,5.34 12.0472,12.0472 0 0 1 1.88,6.29 21.2598,21.2598 0 0 1 -1.74,7.37 l -2.27,7.6 z m 8.32,30.38 6.97,-20.13 a 21.5008,21.5008 -180 0 0 1.73,-8.15 16.8307,16.8307 -180 0 0 -0.16,-2.35 22.7976,22.7976 0 0 1 -8.53,30.64 z"
    class="st2"

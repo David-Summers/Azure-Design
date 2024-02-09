@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.71315"
-   height="48.184406"
-   viewBox="0 0 56.713151 48.184406"
+   width="0.78767866in"
+   height="0.66922444in"
+   viewBox="0 0 56.712698 48.184408"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview59"
    showgrid="false"
-   inkscape:zoom="2.0308936"
-   inkscape:cx="28.35625"
-   inkscape:cy="24.082006"
+   inkscape:zoom="1.5231781"
+   inkscape:cx="37.808142"
+   inkscape:cy="32.109182"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -126,20 +126,20 @@
 	</defs>
 	<g
    id="g55"
-   transform="translate(-34.000248,-34.0001)">
+   transform="translate(-34.000749,-34.0001)">
 		<title
    id="title27">Page-1</title>
 		<g
-   id="group674-1"
+   id="group726-1"
    transform="translate(34.0204,-34.0157)">
 			<title
    id="title29">User Setting</title>
 			<g
-   id="group675-2">
+   id="group727-2">
 				<title
    id="title31">g10</title>
 				<g
-   id="shape676-3"
+   id="shape728-3"
    transform="translate(17.573,-5.73831)">
 					<title
    id="title33">path2</title>
@@ -151,7 +151,7 @@
    style="fill:#0078d4;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape677-5">
+   id="shape729-5">
 					<title
    id="title38">path4</title>
 					<path
@@ -162,7 +162,7 @@
    style="fill:url(#grad0-8);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape678-9"
+   id="shape730-9"
    transform="translate(15.2354,-8.41191)">
 					<title
    id="title43">path6</title>
@@ -174,7 +174,7 @@
    style="fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape679-11"
+   id="shape731-11"
    transform="translate(9.59992,-23.6393)">
 					<title
    id="title48">circle8</title>

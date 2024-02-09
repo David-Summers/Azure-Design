@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.189999"
-   height="56.689999"
-   viewBox="0 0 48.189999 56.69"
+   width="0.66930217in"
+   height="0.78735709in"
+   viewBox="0 0 48.189836 56.689998"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview36"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="24.094499"
-   inkscape:cy="17.459801"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="32.125836"
+   inkscape:cy="23.279613"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -56,22 +56,22 @@
 
 	<g
    id="g32"
-   transform="translate(-12.24,-12.2443)">
+   transform="translate(-12.240125,-12.2443)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2357-1"
+   id="group2497-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Policy Definition</title>
 			<g
-   id="group2358-2">
+   id="group2498-2">
 				<title
-   id="title8">Sheet.2358</title>
+   id="title8">Sheet.2498</title>
 				<g
-   id="shape2359-3">
+   id="shape2499-3">
 					<title
-   id="title10">Sheet.2359</title>
+   id="title10">Sheet.2499</title>
 					<path
    d="m 45.89,54.29 -5.5,-5.67 -2.3,-2.36 H 0 v 56.69 h 48.19 v -46.3 z"
    class="st1"
@@ -80,10 +80,10 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2360-5"
+   id="shape2500-5"
    transform="translate(2.29471,-2.3622)">
 					<title
-   id="title15">Sheet.2360</title>
+   id="title15">Sheet.2500</title>
 					<path
    d="M 35.57,50.98 H 0 v 51.97 h 43.6 v -43.7 h -8.03 z"
    class="st2"
@@ -92,10 +92,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2361-7"
+   id="shape2501-7"
    transform="translate(2.29471,-2.3622)">
 					<title
-   id="title20">Sheet.2361</title>
+   id="title20">Sheet.2501</title>
 					<path
    d="M 35.57,50.98 H 0 v 51.97 h 43.6 v -43.7 h -8.03 z"
    class="st3"
@@ -104,10 +104,10 @@
    style="fill:#fee087;fill-opacity:0.3;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2362-9"
+   id="shape2502-9"
    transform="translate(12.6209,-12.9745)">
 					<title
-   id="title25">Sheet.2362</title>
+   id="title25">Sheet.2502</title>
 					<path
    d="m 11.47,78.45 9.18,5.45 v 10.91 l -9.18,5.46 -9.18,-5.46 V 83.9 Z m 0,-2.68 a 0.291429,0.3 -180 0 0 -0.14342,0.03898 L 0.14,82.45 a 0.289134,0.297638 -180 0 0 -0.14342,0.256299 L 0,96.01 a 0.286839,0.295276 -180 0 0 0.14342,0.255118 L 11.33,102.91 a 0.291429,0.3 -180 0 0 0.286839,0 L 22.8,96.26 a 0.284544,0.292913 -180 0 0 0.14342,-0.255118 L 22.95,82.71 A 0.289134,0.297638 -180 0 0 22.80658,82.453701 L 11.62,75.8 a 0.291429,0.3 -180 0 0 -0.14342,-0.03898 z"
    class="st4"

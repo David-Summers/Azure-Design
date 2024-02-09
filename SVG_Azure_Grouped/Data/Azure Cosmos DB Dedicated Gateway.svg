@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.695606"
-   height="56.694378"
-   viewBox="0 0 56.695608 56.694379"
+   width="0.78743595in"
+   height="0.78741884in"
+   viewBox="0 0 56.695111 56.694376"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview45"
    showgrid="false"
-   inkscape:zoom="1.9055002"
-   inkscape:cx="28.347803"
-   inkscape:cy="27.909236"
+   inkscape:zoom="1.4291306"
+   inkscape:cx="37.796923"
+   inkscape:cy="37.212169"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -83,16 +83,16 @@
 	</defs>
 	<g
    id="g41"
-   transform="translate(-33.141695,-33.140857)">
+   transform="translate(-33.142237,-33.140857)">
 		<title
    id="title12">Page-1</title>
 		<g
-   id="group21065-1"
+   id="group22297-1"
    transform="translate(33.1432,-34.0157)">
 			<title
-   id="title14">Azure Cosmos DB Dedicated Gateway.21065</title>
+   id="title14">Azure Cosmos DB Dedicated Gateway.22297</title>
 			<g
-   id="shape21066-2">
+   id="shape22298-2">
 				<title
    id="title16">path4</title>
 				<path
@@ -103,7 +103,7 @@
    style="fill:#c6c6c6;stroke:none;stroke-width:33.14319992;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape21067-4"
+   id="shape22299-4"
    transform="translate(2.86081,-15.7268)">
 				<title
    id="title21">path6</title>
@@ -121,7 +121,7 @@
    style="stroke:none;stroke-width:33.14319992;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape21068-9"
+   id="shape22300-9"
    transform="translate(2.86081,-27.4863)">
 				<title
    id="title28">path8</title>
@@ -139,7 +139,7 @@
    style="stroke:none;stroke-width:33.14319992;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape21069-12"
+   id="shape22301-12"
    transform="translate(21.4959,-31.8255)">
 				<title
    id="title35">path10</title>

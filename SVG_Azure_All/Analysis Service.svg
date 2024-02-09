@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.699368"
-   height="42.5219"
-   viewBox="0 0 56.699367 42.521899"
+   width="0.78749222in"
+   height="0.59058273in"
+   viewBox="0 0 56.699348 42.52191"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview57"
    showgrid="false"
-   inkscape:zoom="2.1350703"
-   inkscape:cx="28.350266"
-   inkscape:cy="21.256798"
+   inkscape:zoom="1.601301"
+   inkscape:cx="37.800429"
+   inkscape:cy="28.342455"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -107,19 +107,19 @@
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group10926-1"
+   id="group11516-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title12">Analysis Service</title>
 			<g
-   id="group10927-2">
+   id="group11517-2">
 				<title
    id="title14">Icon-analytics-148</title>
 				<g
-   id="shape10928-3"
+   id="shape11518-3"
    transform="translate(0,-25.1119)">
 					<title
-   id="title16">Sheet.10928</title>
+   id="title16">Sheet.11518</title>
 					<path
    d="m 0,109.62 a 0.933787,0.917948 -180 0 0 0.933766,0.91793 L 22.14,110.54 a 0.933787,0.917948 -180 0 0 0.933766,-0.91793 L 23.08,94.05 A 0.933787,0.917948 -180 0 0 22.146234,93.132073 L 0.93,93.13 a 0.933787,0.917948 -180 0 0 -0.933766,0.917927 z"
    class="st1"
@@ -128,10 +128,10 @@
    style="fill:url(#linearGradient4569);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10929-7"
+   id="shape11519-7"
    transform="translate(33.6156,-15.0802)">
 					<title
-   id="title21">Sheet.10929</title>
+   id="title21">Sheet.11519</title>
 					<path
    d="m 0,109.62 a 0.933787,0.917948 -180 0 0 0.933766,0.91793 L 22.14,110.54 a 0.933787,0.917948 -180 0 0 0.933766,-0.91793 L 23.08,94.05 A 0.933787,0.917948 -180 0 0 22.146234,93.132073 L 0.93,93.13 a 0.933787,0.917948 -180 0 0 -0.933766,0.917927 z"
    class="st1"
@@ -140,10 +140,10 @@
    style="fill:url(#linearGradient4571);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10930-10"
+   id="shape11520-10"
    transform="translate(4.40204)">
 					<title
-   id="title26">Sheet.10930</title>
+   id="title26">Sheet.11520</title>
 					<path
    d="m 0,109.16 a 1.40068,1.37692 -180 0 0 1.4,1.38 h 20.28 a 1.40068,1.37692 -180 0 0 1.4,-1.38 V 94.5 a 1.40068,1.37692 -180 0 0 -1.4,-1.37 H 1.4 A 1.40068,1.37692 -180 0 0 0,94.5 Z"
    class="st1"
@@ -152,10 +152,10 @@
    style="fill:url(#linearGradient4573);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10931-13"
+   id="shape11521-13"
    transform="translate(10.4715,-6.95002)">
 					<title
-   id="title31">Sheet.10931</title>
+   id="title31">Sheet.11521</title>
 					<path
    d="M 31.71,95.95 32.48,93.85 3.94,83.52 3.17,85.59 Z m 1.77,-0.3 -1.06,-1.97 -26.92,13.94 1.04,1.96 z M 4.54,110.54 6.77,110.14 2.23,84.87 0,85.26 Z"
    class="st2"
@@ -164,10 +164,10 @@
    style="fill:#773adc;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10932-15"
+   id="shape11522-15"
    transform="rotate(-32.41,-10.471932,25.415653)">
 					<title
-   id="title36">Sheet.10932</title>
+   id="title36">Sheet.11522</title>
 					<ellipse
    cx="3.60167"
    cy="106.995"
@@ -178,10 +178,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10933-17"
+   id="shape11523-17"
    transform="rotate(-32.41,-44.525242,78.17373)">
 					<title
-   id="title41">Sheet.10933</title>
+   id="title41">Sheet.11523</title>
 					<ellipse
    cx="3.60167"
    cy="106.995"
@@ -192,10 +192,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10934-19"
+   id="shape11524-19"
    transform="rotate(-32.41,0.86002197,83.098899)">
 					<title
-   id="title46">Sheet.10934</title>
+   id="title46">Sheet.11524</title>
 					<ellipse
    cx="3.60167"
    cy="106.995"

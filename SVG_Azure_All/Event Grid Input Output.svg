@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.693932"
-   height="48.209488"
-   viewBox="0 0 56.693934 48.209488"
+   width="0.7874133in"
+   height="0.66957414in"
+   viewBox="0 0 56.69374 48.209488"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview111"
    showgrid="false"
-   inkscape:zoom="2.6401459"
-   inkscape:cx="28.35002"
-   inkscape:cy="10.687412"
+   inkscape:zoom="1.9801156"
+   inkscape:cx="37.799912"
+   inkscape:cy="14.249841"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -97,41 +97,41 @@
 	</defs>
 	<g
    id="g107"
-   transform="translate(-7.1688283,-7.1724239)">
+   transform="translate(-7.1689492,-7.1724239)">
 		<title
    id="title15">Page-1</title>
 		<g
-   id="group5476-1"
+   id="group5777-1"
    transform="translate(7.17239,-34.0157)">
 			<title
    id="title17">Event Grid Input Output</title>
 			<g
-   id="group5477-2">
+   id="group5778-2">
 				<title
    id="title19">g10</title>
 				<g
-   id="group5478-3">
+   id="group5779-3">
 					<title
    id="title21">g14-9</title>
 					<g
-   id="group5479-4">
+   id="group5780-4">
 						<title
    id="title23">Icon691_DataBox_Gateway</title>
 						<g
-   id="group5480-5">
+   id="group5781-5">
 							<title
    id="title25">Icon-intune-341</title>
 							<g
-   id="group5481-6">
+   id="group5782-6">
 								<title
    id="title27">g48</title>
 								<g
-   id="group5482-7"
+   id="group5783-7"
    transform="translate(0.883764,-35.8071)">
 									<title
    id="title29">g20</title>
 									<g
-   id="shape5483-8">
+   id="shape5784-8">
 										<title
    id="title31">path16</title>
 										<path
@@ -142,7 +142,7 @@
    style="fill:#999999;stroke:none;stroke-width:7.17237997" />
 									</g>
 									<g
-   id="shape5484-10">
+   id="shape5785-10">
 										<title
    id="title36">path18</title>
 										<path
@@ -154,12 +154,12 @@
 									</g>
 								</g>
 								<g
-   id="group5485-12"
+   id="group5786-12"
    transform="translate(49.2607,-35.8071)">
 									<title
    id="title42">g26</title>
 									<g
-   id="shape5486-13">
+   id="shape5787-13">
 										<title
    id="title44">path22</title>
 										<path
@@ -170,7 +170,7 @@
    style="fill:#999999;stroke:none;stroke-width:7.17237997" />
 									</g>
 									<g
-   id="shape5487-15">
+   id="shape5788-15">
 										<title
    id="title49">path24</title>
 										<path
@@ -182,7 +182,7 @@
 									</g>
 								</g>
 								<g
-   id="shape5488-17"
+   id="shape5789-17"
    transform="rotate(90,24.59785,65.78605)">
 									<title
    id="title55">path28</title>
@@ -194,12 +194,12 @@
    style="fill:#949494;stroke:none;stroke-width:7.17237997" />
 								</g>
 								<g
-   id="group5489-19"
+   id="group5790-19"
    transform="translate(0.883764,-0.00332132)">
 									<title
    id="title60">g34</title>
 									<g
-   id="shape5490-20">
+   id="shape5791-20">
 										<title
    id="title62">path30</title>
 										<path
@@ -210,7 +210,7 @@
    style="fill:#999999;stroke:none;stroke-width:7.17237997" />
 									</g>
 									<g
-   id="shape5491-22">
+   id="shape5792-22">
 										<title
    id="title67">path32</title>
 										<path
@@ -222,12 +222,12 @@
 									</g>
 								</g>
 								<g
-   id="group5492-24"
+   id="group5793-24"
    transform="translate(49.2607)">
 									<title
    id="title73">g40</title>
 									<g
-   id="shape5493-25">
+   id="shape5794-25">
 										<title
    id="title75">path36</title>
 										<path
@@ -238,7 +238,7 @@
    style="fill:#999999;stroke:none;stroke-width:7.17237997" />
 									</g>
 									<g
-   id="shape5494-27">
+   id="shape5795-27">
 										<title
    id="title80">path38</title>
 										<path
@@ -250,7 +250,7 @@
 									</g>
 								</g>
 								<g
-   id="shape5495-29"
+   id="shape5796-29"
    transform="rotate(-90,27.55385,61.84375)">
 									<title
    id="title86">path42</title>
@@ -262,7 +262,7 @@
    style="fill:#949494;stroke:none;stroke-width:7.17237997" />
 								</g>
 								<g
-   id="shape5496-31"
+   id="shape5797-31"
    transform="translate(0,-13.144)">
 									<title
    id="title91">path44</title>
@@ -274,7 +274,7 @@
    style="fill:url(#grad0-34);stroke:none;stroke-width:7.17237997" />
 								</g>
 								<g
-   id="shape5497-35"
+   id="shape5798-35"
    transform="translate(30.9384,-13.144)">
 									<title
    id="title96">path46</title>

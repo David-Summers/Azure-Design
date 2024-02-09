@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="53.747799"
-   height="56.689999"
-   viewBox="0 0 53.747798 56.69"
+   width="0.7464934in"
+   height="0.78735709in"
+   viewBox="0 0 53.747431 56.689998"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview31"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="26.874651"
-   inkscape:cy="17.459801"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="35.832684"
+   inkscape:cy="23.279613"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,23 +54,23 @@
 
 	<g
    id="g27"
-   transform="translate(-12.24,-12.2443)">
+   transform="translate(-12.240268,-12.2443)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group9482-1"
+   id="group10008-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Automation Runbook</title>
 			<g
-   id="group9483-2">
+   id="group10009-2">
 				<title
-   id="title8">Sheet.9483</title>
+   id="title8">Sheet.10009</title>
 				<g
-   id="shape9484-3"
+   id="shape10010-3"
    transform="translate(7.79375,-14.088)">
 					<title
-   id="title10">Sheet.9484</title>
+   id="title10">Sheet.10010</title>
 					<path
    d="M 35.48,86.7 H 2.68 C 1.28,86.7 0,87.84 0,89.54 v 12.16 l 4.54,1.25 V 91.13 H 33.5 v 11.71 l 4.54,-1.25 V 89.54 c 0,-1.7 -1.28,-2.84 -2.56,-2.84 z"
    class="st1"
@@ -79,10 +79,10 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9485-5"
+   id="shape10011-5"
    transform="translate(24.5445,-26.2446)">
 					<title
-   id="title15">Sheet.9485</title>
+   id="title15">Sheet.10011</title>
 					<rect
    x="0"
    y="91.132896"
@@ -93,9 +93,9 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape9486-7">
+   id="shape10012-7">
 					<title
-   id="title20">Sheet.9486</title>
+   id="title20">Sheet.10012</title>
 					<path
    d="M 34.2,46.26 H 19.54 c -1.51,0 -2.79,1.25 -2.79,2.72 v 13.3 c 0,1.47 1.28,2.72 2.79,2.72 h 14.54 c 1.52,0 2.79,-1.25 2.79,-2.72 V 48.98 C 36.99,47.51 35.71,46.26 34.2,46.26 Z M 17.33,84.2 H 2.79 C 1.28,84.2 0,85.45 0,86.93 v 13.29 c 0,1.48 1.28,2.73 2.79,2.73 h 14.54 c 1.51,0 2.79,-1.25 2.79,-2.73 V 86.93 c 0,-1.48 -1.28,-2.73 -2.79,-2.73 z m 33.62,0 H 36.41 c -1.51,0 -2.79,1.25 -2.79,2.73 v 13.29 c 0,1.48 1.28,2.73 2.79,2.73 h 14.54 c 1.51,0 2.79,-1.25 2.79,-2.73 V 86.93 C 53.86,85.45 52.58,84.2 50.95,84.2 Z"
    class="st2"

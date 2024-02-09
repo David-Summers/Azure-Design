@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="45.35004"
-   height="56.690243"
-   viewBox="0 0 45.350042 56.690243"
+   width="0.62986183in"
+   height="0.78736472in"
+   viewBox="0 0 45.349795 56.690243"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview57"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="22.677037"
-   inkscape:cy="28.339834"
+   inkscape:zoom="1.4193037"
+   inkscape:cx="30.23606"
+   inkscape:cy="37.786457"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -116,22 +116,22 @@
 	</defs>
 	<g
    id="g53"
-   transform="translate(-33.999961,-34.004091)">
+   transform="translate(-34.000266,-34.004091)">
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group16004-1"
+   id="group17450-1"
    transform="translate(34,-34.0157)">
 			<title
-   id="title22">API Management Schema.16004</title>
+   id="title22">API Management Schema.17450</title>
 			<g
-   id="group16005-2">
+   id="group17451-2">
 				<title
-   id="title24">Sheet.16005</title>
+   id="title24">Sheet.17451</title>
 				<g
-   id="shape16006-3">
+   id="shape17452-3">
 					<title
-   id="title26">Sheet.16006</title>
+   id="title26">Sheet.17452</title>
 					<path
    d="M 44.55,86.26 H 30.29 A 3.21183,3.27874 0 0 1 27.1,82.96 V 68.48 A 1.8296,1.86772 -180 0 0 25.87,68.02 H 1.89 A 1.88822,1.92756 -180 0 0 0,69.95 v 52.82 a 1.88822,1.92756 -180 0 0 1.89,1.94 h 41.57 a 1.87897,1.91811 -180 0 0 1.89,-1.89 V 87.83 a 1.89748,1.93701 -180 0 0 -0.8,-1.57 z"
    class="st1"
@@ -140,10 +140,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape16007-7"
+   id="shape17453-7"
    transform="translate(27.1015,-38.4535)">
 					<title
-   id="title31">Sheet.16007</title>
+   id="title31">Sheet.17453</title>
 					<path
    d="m 0,106.9 v 14.51 a 3.21183,3.27874 -180 0 0 3.19,3.3 h 14.33 z"
    class="st2"
@@ -152,10 +152,10 @@
    style="fill:#773adc;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape16008-9"
+   id="shape17454-9"
    transform="translate(7.23201,-14.8031)">
 					<title
-   id="title36">Sheet.16008</title>
+   id="title36">Sheet.17454</title>
 					<path
    d="m 30.89,111.52 v 13.19 h -1.85 v -13.19 a 0.351727,0.359055 -180 0 0 -0.351727,-0.34961 L 16.37,111.17 v 13.54 H 14.52 V 111.17 H 2.2 a 0.351727,0.359055 -180 0 0 -0.351727,0.35905 L 1.85,124.71 H 0 v -13.19 a 2.20601,2.25197 0 0 1 2.2,-2.24 h 26.49 a 2.20292,2.24882 0 0 1 2.2,2.24 z"
    class="st3"
@@ -164,10 +164,10 @@
    style="fill:#f2f2f2;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape16009-11"
+   id="shape17455-11"
    transform="rotate(180,15.1366,107.079)">
 					<title
-   id="title41">Sheet.16009</title>
+   id="title41">Sheet.17455</title>
 					<path
    d="m 0,123.45 a 1.23416,1.25987 -180 0 0 1.23,1.26 h 12.73 a 1.23416,1.25987 -180 0 0 1.24,-1.26 v -8.16 a 1.23416,1.25987 -180 0 0 -1.24,-1.26 H 1.23 A 1.23416,1.25987 -180 0 0 0,115.29 Z"
    class="st4"
@@ -176,10 +176,10 @@
    style="fill:url(#grad0-14);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape16010-15"
+   id="shape17456-15"
    transform="translate(3.66229,-10.7937)">
 					<title
-   id="title46">Sheet.16010</title>
+   id="title46">Sheet.17456</title>
 					<path
    d="m 15.75,116.71 h 6.53 a 1.23413,1.25984 0 0 1 1.23,1.26 v 5.48 a 1.23413,1.25984 0 0 1 -1.23,1.26 h -6.53 a 1.23413,1.25984 0 0 1 -1.23,-1.26 v -5.48 a 1.23413,1.25984 0 0 1 1.23,-1.26 z M 0,117.97 v 5.48 a 1.23413,1.25984 -180 0 0 1.23,1.26 h 6.53 a 1.23413,1.25984 -180 0 0 1.23,-1.26 v -5.48 A 1.23413,1.25984 -180 0 0 7.76,116.71 H 1.23 A 1.23413,1.25984 -180 0 0 0,117.97 Z m 29.04,0 v 5.48 a 1.23413,1.25984 -180 0 0 1.23,1.26 h 6.53 a 1.23413,1.25984 -180 0 0 1.24,-1.26 v -5.48 a 1.23413,1.25984 -180 0 0 -1.24,-1.26 h -6.53 a 1.23413,1.25984 -180 0 0 -1.23,1.26 z"
    class="st5"

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="46.700279"
-   viewBox="0 0 56.689997 46.700278"
+   width="0.78735828in"
+   height="0.64861262in"
+   viewBox="0 0 56.689795 46.700277"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview50"
    showgrid="false"
-   inkscape:zoom="2.812688"
-   inkscape:cx="28.346461"
-   inkscape:cy="7.9415488"
+   inkscape:zoom="2.1095237"
+   inkscape:cx="37.795143"
+   inkscape:cy="10.588695"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -97,20 +97,20 @@
 	</defs>
 	<g
    id="g46"
-   transform="translate(-5.66929,-3.1940219)">
+   transform="translate(-5.6694146,-3.1940219)">
 		<title
    id="title18">Page-1</title>
 		<g
-   id="group7182-1"
+   id="group7756-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title20">Cloud App Security</title>
 			<g
-   id="group7183-2">
+   id="group7757-2">
 				<title
    id="title22">g8</title>
 				<g
-   id="shape7184-3"
+   id="shape7758-3"
    transform="translate(18.3199,-22.533)">
 					<title
    id="title24">path53</title>
@@ -124,7 +124,7 @@
    style="fill:none;stroke:#fea11b;stroke-width:2.68274999;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7185-5">
+   id="shape7759-5">
 					<title
    id="title29">path6-9</title>
 					<path
@@ -135,7 +135,7 @@
    style="fill:url(#grad0-8);stroke:none;stroke-width:1.12564003;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7186-9"
+   id="shape7760-9"
    transform="translate(26.2961,-18.0594)">
 					<title
    id="title34">path875</title>
@@ -149,7 +149,7 @@
    style="fill:#000000;stroke:#000000;stroke-width:3.22921991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape7187-11"
+   id="shape7761-11"
    transform="translate(26.6903,-1.67639)">
 					<title
    id="title39">rect893</title>

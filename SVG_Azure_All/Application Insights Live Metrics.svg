@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="56.700001"
-   viewBox="0 0 56.69 56.7"
+   width="0.78735781in"
+   height="0.78749669in"
+   viewBox="0 0 56.689832 56.700002"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview21"
    showgrid="false"
-   inkscape:zoom="2.0965478"
-   inkscape:cx="28.346399"
-   inkscape:cy="22.271299"
+   inkscape:zoom="1.5724175"
+   inkscape:cx="37.79504"
+   inkscape:cy="29.694946"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -53,22 +53,22 @@
 
 	<g
    id="g17"
-   transform="translate(-21.8571,-21.8543)">
+   transform="translate(-21.85725,-21.8543)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group10070-1"
+   id="group10580-1"
    transform="translate(21.8571,-34.0157)">
 			<title
    id="title6">Application Insights Live Metrics</title>
 			<g
-   id="group10071-2">
+   id="group10581-2">
 				<title
-   id="title8">Sheet.10071</title>
+   id="title8">Sheet.10581</title>
 				<g
-   id="shape10072-3">
+   id="shape10582-3">
 					<title
-   id="title10">Sheet.10072</title>
+   id="title10">Sheet.10582</title>
 					<path
    d="M 33.21,112.57 24.5,76.67 20.04,89.11 h -17 C 1.42,89.11 0,87.69 0,86.05 0,84.42 1.42,83 3.04,83 H 15.79 L 25.71,55.87 34.83,93.4 39.28,83 h 14.38 c 1.62,0 3.03,1.42 3.03,3.05 0,1.64 -1.41,3.06 -3.03,3.06 H 43.33 Z"
    class="st1"

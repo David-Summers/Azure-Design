@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692902"
-   height="53.858299"
-   viewBox="0 0 56.692903 53.8583"
+   width="0.78740036in"
+   height="0.74803096in"
+   viewBox="0 0 56.6929 53.858231"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview54"
    showgrid="false"
-   inkscape:zoom="1.9510582"
-   inkscape:cx="28.346699"
-   inkscape:cy="26.464653"
+   inkscape:zoom="1.4632937"
+   inkscape:cx="37.795551"
+   inkscape:cy="35.286159"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -131,16 +131,16 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g50"
-   transform="translate(-33.0863,-33.086353)">
+   transform="translate(-33.0863,-33.086431)">
 		<title
    id="title15">Page-1</title>
 		<g
-   id="group12144-1"
+   id="group12816-1"
    transform="translate(33.0863,-34.0157)">
 			<title
-   id="title17">Container Service Fabric Cluster.12144</title>
+   id="title17">Container Service Fabric Cluster.12816</title>
 			<g
-   id="shape12145-2"
+   id="shape12817-2"
    transform="translate(5.721,-6.23419)">
 				<title
    id="title19">path29</title>
@@ -152,7 +152,7 @@
    style="fill:#e27908;stroke:none;stroke-width:33.0862999;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape12146-4"
+   id="shape12818-4"
    transform="translate(7.66033)">
 				<title
    id="title24">circle31</title>
@@ -166,7 +166,7 @@
    style="fill:url(#grad0-7);stroke:none;stroke-width:33.0862999;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape12147-8"
+   id="shape12819-8"
    transform="translate(32.613)">
 				<title
    id="title29">circle33</title>
@@ -180,7 +180,7 @@
    style="fill:url(#linearGradient4566);stroke:none;stroke-width:33.0862999;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape12148-12"
+   id="shape12820-12"
    transform="translate(40.7258,-23.7799)">
 				<title
    id="title34">circle35</title>
@@ -194,7 +194,7 @@
    style="fill:url(#linearGradient4568);stroke:none;stroke-width:33.0862999;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape12149-15"
+   id="shape12821-15"
    transform="translate(0,-23.7799)">
 				<title
    id="title39">circle37</title>
@@ -208,7 +208,7 @@
    style="fill:url(#linearGradient4570);stroke:none;stroke-width:33.0862999;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape12150-18"
+   id="shape12822-18"
    transform="translate(20.3629,-37.9836)">
 				<title
    id="title44">circle39</title>

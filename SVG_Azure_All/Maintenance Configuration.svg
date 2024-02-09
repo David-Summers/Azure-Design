@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.87746"
-   height="54.858078"
-   viewBox="0 0 56.877459 54.858076"
+   width="0.7899648in"
+   height="0.76191777in"
+   viewBox="0 0 56.877463 54.857869"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview61"
    showgrid="false"
-   inkscape:zoom="2.5305651"
-   inkscape:cx="28.346461"
-   inkscape:cy="13.614069"
+   inkscape:zoom="1.8979166"
+   inkscape:cx="37.795281"
+   inkscape:cy="18.152096"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -129,16 +129,16 @@
 	</defs>
 	<g
    id="g57"
-   transform="translate(-5.66929,-5.3858932)">
+   transform="translate(-5.66929,-5.3860699)">
 		<title
    id="title27">Page-1</title>
 		<g
-   id="group3426-1"
+   id="group3659-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title29">Maintenance Configuration</title>
 			<g
-   id="shape3427-2"
+   id="shape3660-2"
    transform="translate(0,-7.99261)">
 				<title
    id="title31">circle2</title>
@@ -152,7 +152,7 @@
    style="fill:url(#grad1-5);stroke:none;stroke-width:2.67628002;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape3428-6"
+   id="shape3661-6"
    transform="translate(3.01094,-10.9579)">
 				<title
    id="title36">circle4</title>
@@ -166,7 +166,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:2.67628002;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape3429-8"
+   id="shape3662-8"
    transform="translate(5.76802,-14.0504)">
 				<title
    id="title41">path6</title>
@@ -178,7 +178,7 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:2.67628002;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape3430-10"
+   id="shape3663-10"
    transform="translate(19.4923,-27.7122)">
 				<title
    id="title46">circle8</title>
@@ -192,7 +192,7 @@
    style="fill:url(#grad1-13);stroke:none;stroke-width:2.67628002;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape3431-14"
+   id="shape3664-14"
    transform="translate(20.5399)">
 				<title
    id="title51">path10</title>

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="39.68494"
-   viewBox="0 0 56.689998 39.684939"
+   width="0.7873624in"
+   height="0.55118066in"
+   viewBox="0 0 56.690001 39.684875"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview77"
    showgrid="false"
-   inkscape:zoom="2.191211"
-   inkscape:cx="28.3465"
-   inkscape:cy="19.834998"
+   inkscape:zoom="1.6434028"
+   inkscape:cx="37.795396"
+   inkscape:cy="26.446707"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -103,20 +103,20 @@
 	</defs>
 	<g
    id="g73"
-   transform="translate(-34,-34.001558)">
+   transform="translate(-34,-34.00165)">
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group6158-1"
+   id="group6697-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title22">Dashboard</title>
 			<g
-   id="group6159-2">
+   id="group6698-2">
 				<title
    id="title24">g10</title>
 				<g
-   id="shape6160-3">
+   id="shape6699-3">
 					<title
    id="title26">path2</title>
 					<path
@@ -127,7 +127,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6161-7"
+   id="shape6700-7"
    transform="translate(39.4507,-5.57031)">
 					<title
    id="title31">rect4</title>
@@ -139,7 +139,7 @@
    style="fill:#f9f9f9;fill-opacity:0.9;stroke:none;stroke-width:36.04339981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6162-9"
+   id="shape6701-9"
    transform="translate(3.28721,-5.53402)">
 					<title
    id="title36">rect6</title>
@@ -151,7 +151,7 @@
    style="fill:#ffffff;fill-opacity:0.6;stroke:none;stroke-width:36.04339981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6163-11"
+   id="shape6702-11"
    transform="translate(47.2937,-5.57031)">
 					<title
    id="title41">rect8</title>
@@ -163,7 +163,7 @@
    style="fill:#f2f2f2;fill-opacity:0.9;stroke:none;stroke-width:36.04339981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6164-13"
+   id="shape6703-13"
    transform="translate(5.9049,-18.2408)">
 					<title
    id="title46">path10</title>
@@ -175,7 +175,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:36.04339981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6165-15"
+   id="shape6704-15"
    transform="translate(10.8231,-24.9687)">
 					<title
    id="title51">ellipse12</title>
@@ -189,7 +189,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:36.04339981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6166-17"
+   id="shape6705-17"
    transform="translate(18.7529,-17.7623)">
 					<title
    id="title56">ellipse14</title>
@@ -203,7 +203,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:36.04339981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6167-19"
+   id="shape6706-19"
    transform="translate(26.1152,-30.71)">
 					<title
    id="title61">ellipse16</title>
@@ -217,7 +217,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:36.04339981;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6168-21"
+   id="shape6707-21"
    transform="translate(4.19205,-16.4953)">
 					<title
    id="title66">ellipse18</title>

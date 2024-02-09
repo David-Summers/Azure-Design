@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="42.52"
-   height="56.688999"
-   viewBox="0 0 42.52 56.688997"
+   width="0.59055364in"
+   height="0.78734457in"
+   viewBox="0 0 42.520003 56.688892"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview29"
    showgrid="false"
-   inkscape:zoom="1.7366604"
-   inkscape:cx="21.260001"
-   inkscape:cy="28.343497"
+   inkscape:zoom="1.3024972"
+   inkscape:cx="28.346572"
+   inkscape:cy="37.791207"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -53,27 +53,27 @@
 
 	<g
    id="g25"
-   transform="translate(-39.6,-39.601003)">
+   transform="translate(-39.6,-39.601125)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group8179-1"
+   id="group8793-1"
    transform="translate(39.6,-39.6)">
 			<title
    id="title6">Azure MultiFactor Authentication</title>
 			<g
-   id="group8180-2">
+   id="group8794-2">
 				<title
    id="title8"> MFA_Icon</title>
 				<g
-   id="group8181-3">
+   id="group8795-3">
 					<title
-   id="title10">Sheet.8181</title>
+   id="title10">Sheet.8795</title>
 					<g
-   id="shape8182-4"
+   id="shape8796-4"
    transform="translate(7.08661,-41.8145)">
 						<title
-   id="title12">Sheet.8182</title>
+   id="title12">Sheet.8796</title>
 						<path
    d="m 14.17,126.39 a 8.78445,8.77171 0 0 1 8.78,8.55 c 1.75,0.24 3.55,0.55 5.38,0.95 0.01,-0.24 0.02,-0.48 0.02,-0.72 a 14.175,14.154497 -180 1 0 -28.35,0 c 0,0.23 0.01,0.45 0.02,0.68 1.57,-0.34 3.38,-0.67 5.39,-0.93 a 8.78445,8.77171 0 0 1 8.76,-8.53 z"
    class="st1"
@@ -82,9 +82,9 @@
    style="fill:#0078d7;stroke:none;stroke-width:39.59999847;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape8183-6">
+   id="shape8797-6">
 						<title
-   id="title17">Sheet.8183</title>
+   id="title17">Sheet.8797</title>
 						<path
    d="m 0,98.73 v 5.31 a 34.6211,34.5709 -180 0 0 21.26,31.85 34.6211,34.5709 -180 0 0 21.26,-31.85 V 98.73 A 65.0912,64.9968 -180 0 0 0,98.73 Z m 28.35,21.29 H 14.17 v -0.94 a 7.09797,7.08768 0 0 1 4.81,-6.7 5.31496,5.30725 0 1 1 4.55,0 7.09797,7.08768 0 0 1 4.82,6.7 z"
    class="st1"

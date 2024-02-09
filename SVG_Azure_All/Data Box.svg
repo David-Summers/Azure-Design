@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.721924"
-   height="53.871933"
-   viewBox="0 0 56.721923 53.871932"
+   width="0.78780085in"
+   height="0.74821782in"
+   viewBox="0 0 56.721923 53.871701"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview42"
    showgrid="false"
-   inkscape:zoom="1.9669453"
-   inkscape:cx="28.363925"
-   inkscape:cy="25.977833"
+   inkscape:zoom="1.4752095"
+   inkscape:cx="37.818391"
+   inkscape:cy="34.636951"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -77,21 +77,21 @@
 	</defs>
 	<g
    id="g38"
-   transform="translate(-32.099077,-32.097399)">
+   transform="translate(-32.099077,-32.097658)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group6137-1"
+   id="group6663-1"
    transform="translate(32.131,-34.0157)">
 			<title
    id="title12">Data Box</title>
 			<g
-   id="group6138-2"
+   id="group6664-2"
    transform="translate(0,-13.9794)">
 				<title
    id="title14">g15</title>
 				<g
-   id="shape6139-3">
+   id="shape6665-3">
 					<title
    id="title16">path11</title>
 					<path
@@ -102,7 +102,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:32.10169983;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6140-7"
+   id="shape6666-7"
    transform="translate(4.24426,-0.0243671)">
 					<title
    id="title21">path13</title>
@@ -115,7 +115,7 @@
 				</g>
 			</g>
 			<g
-   id="shape6141-9"
+   id="shape6667-9"
    transform="translate(22.4495)">
 				<title
    id="title27">path17</title>
@@ -127,7 +127,7 @@
    style="fill:#0078d4;stroke:none;stroke-width:32.10160065;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape6142-11"
+   id="shape6668-11"
    transform="translate(22.4701,-14.035)">
 				<title
    id="title32">path19</title>

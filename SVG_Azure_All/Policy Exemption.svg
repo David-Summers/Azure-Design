@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="56.689999"
-   viewBox="0 0 56.690002 56.690002"
+   width="0.78735989in"
+   height="0.78735989in"
+   viewBox="0 0 56.689997 56.689997"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview31"
    showgrid="false"
-   inkscape:zoom="1.771865"
-   inkscape:cx="28.346497"
-   inkscape:cy="28.343503"
+   inkscape:zoom="1.3289007"
+   inkscape:cx="37.795279"
+   inkscape:cy="37.791271"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -58,18 +58,18 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2349-1"
+   id="group2489-1"
    transform="translate(38.25,-38.25)">
 			<title
    id="title6">Policy Exemption</title>
 			<g
-   id="group2350-2">
+   id="group2490-2">
 				<title
-   id="title8">Sheet.2350</title>
+   id="title8">Sheet.2490</title>
 				<g
-   id="shape2351-3">
+   id="shape2491-3">
 					<title
-   id="title10">Sheet.2351</title>
+   id="title10">Sheet.2491</title>
 					<path
    d="M 28.35,76.5 C 12.76,76.5 0,89.26 0,104.85 c 0,15.59 12.76,28.34 28.35,28.34 15.59,0 28.34,-12.75 28.34,-28.34 C 56.69,89.26 43.94,76.5 28.35,76.5 Z"
    class="st1"
@@ -78,10 +78,10 @@
    style="fill:#b8d432;stroke:none;stroke-width:38.25;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2352-5"
+   id="shape2492-5"
    transform="translate(3.54331,-3.54331)">
 					<title
-   id="title15">Sheet.2352</title>
+   id="title15">Sheet.2492</title>
 					<circle
    cx="24.803101"
    cy="108.39"
@@ -91,10 +91,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:38.25;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2353-7"
+   id="shape2493-7"
    transform="translate(13.8189,-13.4646)">
 					<title
-   id="title20">Sheet.2353</title>
+   id="title20">Sheet.2493</title>
 					<path
    d="m 29.06,107.68 -3.9,-3.9 c -0.36,-0.35 -1.07,-0.35 -1.42,0 L 0.35,127.52 c -0.35,0.36 -0.35,1.07 0,1.42 l 3.55,3.9 c 0.35,0.35 1.06,0.35 1.41,0 L 28.7,109.1 c 0.36,-0.36 0.71,-1.06 0.36,-1.42 z"
    class="st1"

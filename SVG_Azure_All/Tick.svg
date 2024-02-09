@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.693001"
-   height="56.693001"
-   viewBox="0 0 56.693004 56.693004"
+   width="0.78740156in"
+   height="0.78740156in"
+   viewBox="0 0 56.692997 56.692997"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview26"
    showgrid="false"
-   inkscape:zoom="1.771865"
-   inkscape:cx="28.346497"
-   inkscape:cy="28.346004"
+   inkscape:zoom="1.3289007"
+   inkscape:cx="37.795279"
+   inkscape:cy="37.794606"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -58,18 +58,18 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group764-1"
+   id="group816-1"
    transform="translate(38.25,-38.25)">
 			<title
    id="title6">Tick</title>
 			<g
-   id="group765-2">
+   id="group817-2">
 				<title
-   id="title8">Sheet.765</title>
+   id="title8">Sheet.817</title>
 				<g
-   id="shape766-3">
+   id="shape818-3">
 					<title
-   id="title10">Sheet.766</title>
+   id="title10">Sheet.818</title>
 					<circle
    cx="28.3465"
    cy="104.846"
@@ -79,10 +79,10 @@
    style="fill:#57a300;stroke:none;stroke-width:38.25;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape767-5"
+   id="shape819-5"
    transform="translate(12.2051,-14.2165)">
 					<title
-   id="title15">Sheet.767</title>
+   id="title15">Sheet.819</title>
 					<path
    d="m 0.38,120.09 a 1.43858,1.43858 0 0 1 0.08,-2.03 l 2.96,-2.74 a 1.44213,1.44213 0 0 1 2.02,0.08 l 7.57,8.12 13.49,-17.27 a 1.42441,1.42441 0 0 1 2,-0.26 l 3.21,2.47 c 0.62,0.46 0.75,1.34 0.29,1.97 l -17.25,22.08 a 1.77165,1.77165 0 0 1 -2.69,0.12 z"
    class="st2"

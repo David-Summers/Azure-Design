@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.696899"
-   height="51.0242"
-   viewBox="0 0 56.696899 51.024201"
+   width="0.78745586in"
+   height="0.70866847in"
+   viewBox="0 0 56.696785 51.024198"
    xml:space="preserve"
    class="st10"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview99"
    showgrid="false"
-   inkscape:zoom="1.9877702"
-   inkscape:cx="28.346401"
-   inkscape:cy="25.351301"
+   inkscape:zoom="1.4908296"
+   inkscape:cx="37.795145"
+   inkscape:cy="33.801685"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -132,24 +132,24 @@
 	</defs>
 	<g
    id="g95"
-   transform="translate(-33.6866,-33.6901)">
+   transform="translate(-33.686728,-33.6901)">
 		<title
    id="title27">Page-1</title>
 		<g
-   id="group20183-1"
+   id="group21378-1"
    transform="translate(33.6866,-34.0157)">
 			<title
-   id="title29">SQL Server Registry.20183</title>
+   id="title29">SQL Server Registry.21378</title>
 			<g
-   id="group20184-2">
+   id="group21379-2">
 				<title
    id="title31">g52</title>
 				<g
-   id="group20185-3">
+   id="group21380-3">
 					<title
    id="title33">g38</title>
 					<g
-   id="shape20186-4">
+   id="shape21381-4">
 						<title
    id="title35">path28</title>
 						<path
@@ -160,7 +160,7 @@
    style="fill:url(#grad0-7);stroke:none;stroke-width:33.68659973;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape20187-8"
+   id="shape21382-8"
    transform="translate(0,-37.0842)">
 						<title
    id="title40">path30</title>
@@ -172,7 +172,7 @@
    style="fill:#e8e8e8;stroke:none;stroke-width:33.68659973;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape20188-10"
+   id="shape21383-10"
    transform="translate(4.52355,-40.1745)">
 						<title
    id="title45">path32</title>
@@ -184,7 +184,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:33.68659973;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape20189-12"
+   id="shape21384-12"
    transform="translate(7.59427,-40.2074)">
 						<title
    id="title50">path34</title>
@@ -196,7 +196,7 @@
    style="fill:#198ab3;stroke:none;stroke-width:33.68659973;stroke-linecap:butt" />
 					</g>
 					<g
-   id="shape20190-14"
+   id="shape21385-14"
    transform="translate(4.68864,-12.7888)">
 						<title
    id="title55">path36</title>
@@ -209,7 +209,7 @@
 					</g>
 				</g>
 				<g
-   id="shape20191-18"
+   id="shape21386-18"
    transform="translate(33.811,-22.9146)">
 					<title
    id="title61">path40</title>
@@ -221,7 +221,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:33.68659973;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20192-20"
+   id="shape21387-20"
    transform="translate(33.5469,-22.6845)">
 					<title
    id="title66">path42</title>
@@ -239,7 +239,7 @@
    style="stroke:none;stroke-width:33.68659973;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20193-23"
+   id="shape21388-23"
    transform="translate(47.4807,-41.9498)">
 					<title
    id="title73">path44</title>
@@ -251,7 +251,7 @@
    style="fill:#32bedd;stroke:none;stroke-width:33.68659973;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20194-25"
+   id="shape21389-25"
    transform="translate(38.4667,-33.9938)">
 					<title
    id="title78">rect46</title>
@@ -263,7 +263,7 @@
    style="fill:#32bedd;stroke:none;stroke-width:33.68659973;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20195-27"
+   id="shape21390-27"
    transform="translate(38.4667,-31.0021)">
 					<title
    id="title83">rect48</title>
@@ -275,7 +275,7 @@
    style="fill:#32bedd;stroke:none;stroke-width:33.68659973;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20196-29"
+   id="shape21391-29"
    transform="translate(38.4667,-28.0761)">
 					<title
    id="title88">rect50</title>

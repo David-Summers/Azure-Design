@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692902"
-   height="53.849998"
-   viewBox="0 0 56.692903 53.849999"
+   width="0.78740031in"
+   height="0.74791563in"
+   viewBox="0 0 56.69289 53.85001"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview36"
    showgrid="false"
-   inkscape:zoom="2.3573127"
-   inkscape:cx="28.346449"
-   inkscape:cy="16.037301"
+   inkscape:zoom="1.7679873"
+   inkscape:cx="37.795224"
+   inkscape:cy="21.383051"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -58,19 +58,19 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group16123-1"
+   id="group17569-1"
    transform="translate(12.24,-34.0157)">
 			<title
-   id="title6">API Management API.16123</title>
+   id="title6">API Management API.17569</title>
 			<g
-   id="group16124-2">
+   id="group17570-2">
 				<title
-   id="title8">Sheet.16124</title>
+   id="title8">Sheet.17570</title>
 				<g
-   id="shape16125-3"
+   id="shape17571-3"
    transform="translate(0,-22.3732)">
 					<title
-   id="title10">Sheet.16125</title>
+   id="title10">Sheet.17571</title>
 					<rect
    x="0"
    y="90.980301"
@@ -81,10 +81,10 @@
    style="fill:#57a300;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape16126-5"
+   id="shape17572-5"
    transform="translate(45.494,-22.3732)">
 					<title
-   id="title15">Sheet.16126</title>
+   id="title15">Sheet.17572</title>
 					<rect
    x="0"
    y="90.980301"
@@ -95,10 +95,10 @@
    style="fill:#59b4d9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape16127-7"
+   id="shape17573-7"
    transform="translate(11.6355,-16.5549)">
 					<title
-   id="title20">Sheet.16127</title>
+   id="title20">Sheet.17573</title>
 					<ellipse
    cx="10.3257"
    cy="89.728798"
@@ -109,10 +109,10 @@
    style="fill:#57a300;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape16128-9"
+   id="shape17574-9"
    transform="translate(21.9611)">
 					<title
-   id="title25">Sheet.16128</title>
+   id="title25">Sheet.17574</title>
 					<path
    d="m 0,46.26 v 12.03 a 14.8118,14.8972 0 0 1 0,29.79 v 12.03 A 26.7692,26.9236 -180 0 0 0,46.27 Z"
    class="st2"

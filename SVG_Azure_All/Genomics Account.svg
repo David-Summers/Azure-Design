@@ -9,20 +9,19 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="28.412933"
-   height="56.892307"
-   viewBox="0 0 28.412933 56.892306"
+   width="0.4164148in"
+   height="0.78752124in"
+   viewBox="0 0 29.981773 56.701675"
    xml:space="preserve"
-   class="st3"
+   class="st6"
    version="1.1"
-   id="svg24"
+   id="svg58"
    sodipodi:docname="Genomics Account.svg"
    style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
-   id="metadata30"><rdf:RDF><cc:Work
+   id="metadata62"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs28" /><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -33,62 +32,161 @@
    inkscape:pageshadow="2"
    inkscape:window-width="640"
    inkscape:window-height="480"
-   id="namedview26"
+   id="namedview60"
    showgrid="false"
-   inkscape:zoom="2.3383005"
-   inkscape:cx="14.209862"
-   inkscape:cy="16.553948"
+   inkscape:zoom="1.4192053"
+   inkscape:cx="19.985524"
+   inkscape:cy="37.793634"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="svg24" />
+   inkscape:current-layer="svg58" />
 	<style
    type="text/css"
    id="style2">
 	<![CDATA[
-		.st1 {fill:#ff8c00;stroke:none;stroke-linecap:butt;stroke-width:10.2}
-		.st2 {fill:#59b4d9;stroke:none;stroke-linecap:butt;stroke-width:10.2}
-		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st1 {fill:none;stroke:none;stroke-linecap:butt;stroke-width:34}
+		.st2 {fill:url(#grad0-8);stroke:none;stroke-linecap:butt;stroke-width:34}
+		.st3 {fill:url(#grad0-12);stroke:none;stroke-linecap:butt;stroke-width:34}
+		.st4 {fill:#0078d4;stroke:none;stroke-linecap:butt;stroke-width:34}
+		.st5 {fill:#32bedd;stroke:none;stroke-linecap:butt;stroke-width:34}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
+	<defs
+   id="Patterns_And_Gradients">
+		<linearGradient
+   id="grad0-8"
+   x1="-3.0211685e-16"
+   y1="175.55318"
+   x2="7.7759051"
+   y2="175.55318"
+   gradientTransform="scale(1.4699253,0.68030666)"
+   gradientUnits="userSpaceOnUse">
+			<stop
+   offset="0"
+   stop-color="#faa21d"
+   stop-opacity="1"
+   id="stop4" />
+			<stop
+   offset="0.28"
+   stop-color="#f99e1b"
+   stop-opacity="1"
+   id="stop6" />
+			<stop
+   offset="0.57"
+   stop-color="#f69113"
+   stop-opacity="1"
+   id="stop8" />
+			<stop
+   offset="0.87"
+   stop-color="#f27d07"
+   stop-opacity="1"
+   id="stop10" />
+			<stop
+   offset="1"
+   stop-color="#ef7100"
+   stop-opacity="1"
+   id="stop12" />
+		</linearGradient>
+		<linearGradient
+   id="grad0-12"
+   x1="0"
+   y1="176.14656"
+   x2="4.6831293"
+   y2="176.14656"
+   gradientTransform="scale(1.4498852,0.68970976)"
+   gradientUnits="userSpaceOnUse">
+			<stop
+   offset="0"
+   stop-color="#003c90"
+   stop-opacity="1"
+   id="stop15" />
+			<stop
+   offset="0.15"
+   stop-color="#194f9b"
+   stop-opacity="1"
+   id="stop17" />
+			<stop
+   offset="1"
+   stop-color="#194f9b"
+   stop-opacity="1"
+   id="stop19" />
+		</linearGradient>
+	</defs>
 	<g
-   id="g22"
-   transform="translate(-10.193588,-10.125642)">
+   id="g56"
+   transform="translate(-34.003346,-34.002625)">
 		<title
-   id="title4">Page-1</title>
+   id="title23">Page-1</title>
 		<g
-   id="group4482-1"
-   transform="translate(10.2294,-34.0157)">
+   id="group4774-1"
+   transform="translate(33.43,-34.0157)">
 			<title
-   id="title6">Genomics Account</title>
+   id="title25">Genomics Account</title>
 			<g
-   id="group4483-2">
+   id="group4775-2">
 				<title
-   id="title8"> Microsoft Genomics icon</title>
+   id="title27">Icon-machinelearning-164</title>
 				<g
-   id="shape4484-3"
-   transform="translate(0.292719)">
+   id="shape4776-3"
+   transform="translate(6.41265,-19.1638)">
 					<title
-   id="title10">Sheet.4484</title>
+   id="title29">Sheet.4776</title>
 					<path
-   d="M 10.68,80.74 C 10.45,80.6 10.27,80.5 10.11,80.37 8.79,79.3 7.41,78.31 6.19,77.13 a 6.39916,6.59608 0 0 1 -1.15,-7.45 11.7246,12.0854 0 0 1 3.05,-3.41 48.0299,49.508 0 0 1 8.61,-5.37 28.7444,29.629 -180 0 0 5.78,-3.59 15.4042,15.8782 -180 0 0 5.42,-9.19 11.1946,11.5391 -180 0 0 0.15,-1.17 2.32622,2.3978 -180 1 0 -4.61,-0.61 c -0.65,4.11 -3.04,6.92 -6.38,8.95 -1.6,0.97 -3.29,1.76 -4.92,2.66 A 37.3744,38.5246 -180 0 0 3.88,63.76 C 2.31,65.3 0.83,66.92 0.22,69.15 A 10.7279,11.0581 -180 0 0 3,80.62 c 0.84,0.88 1.79,1.66 2.7,2.46 a 0.689521,0.71074 -180 0 0 0.589577,0.147441 C 7.74,82.44 9.17,81.61 10.68,80.74 Z m 6.31,8.63 c 0.5,0.33 0.97,0.63 1.43,0.93 a 9.71289,10.0118 0 0 1 4.79,7.34 c 0.06,0.4 0.08,0.82 0.15,1.22 a 2.30604,2.37701 -180 0 0 2.51,2.07 2.25836,2.32786 -180 0 0 2.08,-2.4 13.2641,13.6723 -180 0 0 -3.17,-8.79 31.5832,32.5551 -180 0 0 -2.7,-2.63 0.673933,0.694673 -180 0 0 -0.58866,-0.137044 C 20.01,87.74 18.54,88.54 16.99,89.37 Z"
+   d="m 18.25,115.83 c 0,-5.32 -5.32,-8.85 -9.12,-10.71 -3.8,1.86 -9.13,5.39 -9.13,10.71 0,0.8 0.48,4.83 9.13,8.89 8.65,-4.06 9.12,-8.09 9.12,-8.89 z"
    class="st1"
-   id="path12"
+   id="path31"
    inkscape:connector-curvature="0"
-   style="fill:#ff8c00;stroke:none;stroke-width:10.19999981;stroke-linecap:butt" />
+   style="fill:none;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4485-5"
-   transform="translate(0,-0.00327027)">
+   id="shape4777-5"
+   transform="translate(9.83952,-13.8073)">
 					<title
-   id="title15">Sheet.4485</title>
+   id="title34">Sheet.4777</title>
 					<path
-   d="m 5.25,49.3 a 9.19667,9.47969 -180 0 0 1.59,3.06 h 10.03 a 17.5278,18.0672 0 0 1 -1.68,1.15 c -0.32,0.2 -0.65,0.38 -0.98,0.57 H 8.54 a 12.4343,12.817 -180 0 0 1.09,0.79 c 0.46,0.3 0.93,0.6 1.43,0.93 -1.56,0.83 -3.02,1.63 -4.5,2.4 A 0.67485,0.695618 0 0 1 5.97134,58.062956 31.5227,32.4927 0 0 1 3.27,55.43 13.2641,13.6723 0 0 1 0.1,46.64 2.25836,2.32786 0 0 1 2.18,44.24 2.30604,2.37701 0 0 1 4.69,46.3 c 0.07,0.41 0.1,0.83 0.15,1.23 0,0.02 0,0.03 0.01,0.05 h 15.82 v 0.06 a 10.9755,11.3132 0 0 1 -0.92,1.66 z m -5.1,47.75 a 15.4042,15.8782 0 0 1 5.43,-9.2 28.738,29.6224 0 0 1 5.77,-3.58 48.0537,49.5325 -180 0 0 8.61,-5.37 c 0.3,-0.26 0.59,-0.51 0.88,-0.77 H 10.91 A 20.6911,21.3279 0 0 1 9.88,77.21 4.95135,5.10372 0 0 1 9.22,76.41 h 13.2 a 7.06025,7.27752 -180 0 0 0.59,-0.92 5.51892,5.68876 -180 0 0 0.6,-2.18 H 8.13 A 6.66048,6.86545 0 0 1 8.16,71.59 H 23.57 A 6.23503,6.42691 -180 0 0 22.32,68.58 H 9.52 a 13.3384,13.7489 0 0 1 1.67,-1.72 h 9.31 c -0.85,-0.69 -1.71,-1.37 -2.56,-2.06 -0.16,-0.13 -0.34,-0.23 -0.57,-0.38 1.51,-0.86 2.94,-1.69 4.39,-2.49 a 0.689521,0.71074 0 0 1 0.589577,0.146496 C 23.26,62.88 24.2,63.66 25.04,64.55 a 10.7279,11.0581 0 0 1 2.8,11.46 c -0.61,2.24 -2.1,3.86 -3.67,5.39 a 37.3781,38.5284 0 0 1 -8.25,5.81 c -1.63,0.9 -3.33,1.69 -4.92,2.66 a 17.1225,17.6494 -180 0 0 -2.01,1.44 h 6.7 l 0.11,0.07 a 11.6072,11.9644 0 0 1 2.03,1.65 H 7.25 a 11.1084,11.4503 -180 0 0 -1.88,3.09 h 14.51 a 9.74315,10.043 0 0 1 0.54,1.72 H 4.83 C 4.75,98.16 4.67,98.48 4.61,98.82 A 2.32622,2.3978 0 1 1 0,98.22 11.2075,11.5524 0 0 1 0.15,97.05 Z"
+   d="m 9.09,120.86 -0.85,-0.37 c -0.91,-0.36 -1.73,-0.7 -2.47,-1.06 -0.75,0.36 -1.56,0.7 -2.48,1.06 l -0.98,0.37 -2.31,1 a 35.9651,35.2667 -180 0 0 5.7,2.86 35.9651,35.2667 -180 0 0 5.73,-2.86 z"
    class="st2"
-   id="path17"
+   id="path36"
    inkscape:connector-curvature="0"
-   style="fill:#59b4d9;stroke:none;stroke-width:10.19999981;stroke-linecap:butt" />
+   style="fill:url(#grad0-8);stroke:none;stroke-width:34;stroke-linecap:butt" />
+				</g>
+				<g
+   id="shape4778-9"
+   transform="translate(15.5397,-37.9949)">
+					<title
+   id="title39">Sheet.4778</title>
+					<path
+   d="m 5.67,121.49 a 18.7629,18.3986 0 0 1 -2.51,1.2 C 1.97,123.09 0,123.95 0,123.95 l 1.46,0.77 2.78,-1.1 a 17.2701,16.9347 -180 0 0 2.55,-1.4 z"
+   class="st3"
+   id="path41"
+   inkscape:connector-curvature="0"
+   style="fill:url(#grad0-12);stroke:none;stroke-width:34;stroke-linecap:butt" />
+				</g>
+				<g
+   id="shape4779-13">
+					<title
+   id="title44">Sheet.4779</title>
+					<path
+   d="m 7.26,116.27 a 8.38056,8.21781 -180 0 0 -1.42,3.02 h 21.2 v 1.67 H 5.53 v 1.26 a 2.51077,2.46202 0 0 1 -2.44,2.5 2.51077,2.46202 0 0 1 -2.51,-2.4 15.1325,14.8386 0 0 1 9.29,-14.14 35.9651,35.2667 -180 0 0 5.67,2.73 l -0.51,0.23 -0.95,0.4 a 20.7309,20.3283 -180 0 0 -5.33,2.9 h 18.16 v 1.83 z m 11.67,-9.22 -0.85,-0.36 c -0.91,-0.37 -1.73,-0.7 -2.47,-1.07 -0.75,0.37 -1.56,0.7 -2.48,1.07 l -0.98,0.36 -2.31,1 a 35.9651,35.2667 -180 0 0 5.7,2.86 35.9651,35.2667 -180 0 0 5.73,-2.86 z M 28.3,71.65 H 5.6 a 6.03943,5.92215 0 0 1 0,-0.93 2.4915525,2.4431676 -180 0 0 -4.96,-0.47 c 0,0.3 -0.64,7.72 9.34,13.31 a 33.3187,32.6716 0 0 1 5.56,-2.99 l -2.14,-0.9 a 18.1522,17.7997 0 0 1 -3.05,-1.8 H 23.92 V 76.34 H 8.35 A 10.7217,10.5135 0 0 1 6.18,73.35 H 28.3 Z m -7.09,11.85 -1.46,0.76 h -0.38 a 30.2989,29.7105 -180 0 0 -3.83,1.7 21.9184,21.4927 0 0 1 6.48,4.56 H 3.26 v 1.66 h 20.05 a 8.92343,8.75014 0 0 1 1.19,2.96 H 3.26 v 1.7 h 21.37 a 6.10729,5.98869 0 0 1 -1.29,3.02 H 3.26 v 1.7 h 18.56 a 25.3452,24.8531 0 0 1 -6.28,3.99 c 0.75,0.37 1.56,0.7 2.48,1.07 l 0.84,0.36 2.31,1 C 28.6,103.46 29.55,98.7 29.55,96.6 A 16.5236,16.2027 -180 0 0 21.21,83.5 Z"
+   class="st4"
+   id="path46"
+   inkscape:connector-curvature="0"
+   style="fill:#0078d4;stroke:none;stroke-width:34;stroke-linecap:butt" />
+				</g>
+				<g
+   id="shape4780-15"
+   transform="translate(1.42503,-0.133082)">
+					<title
+   id="title49">Sheet.4780</title>
+					<path
+   d="m 10.72,107.18 -2.31,1 C 0.95,103.66 0,98.9 0,96.8 A 16.5236,16.2027 0 0 1 8.45,83.5 l 1.46,0.76 h 0.37 a 30.2989,29.7105 0 0 1 3.83,1.83 c -3.8,1.86 -9.12,5.39 -9.12,10.71 0,0.8 0.47,4.83 9.12,8.89 -0.74,0.36 -1.56,0.7 -2.47,1.06 z M 29.11,70.39 a 2.51077,2.46202 -180 0 0 -2.71,-2.23 2.40899,2.3622 -180 0 0 -2.24,2.69 c 0,0 1.12,4.43 -7.03,8.62 l -3.02,1.23 a 33.3187,32.6716 0 0 1 5.67,2.93 c 9.98,-5.52 9.37,-12.94 9.33,-13.24 z m -9.26,37.79 a 35.9651,35.2667 0 0 1 -5.74,2.86 l 0.51,0.24 0.95,0.4 c 4.21,1.79 8.72,4.19 8.59,10.54 a 2.51077,2.46202 -180 0 0 2.44,2.5 2.51077,2.46202 -180 0 0 2.51,-2.4 15.1325,14.8386 -180 0 0 -9.26,-14.14 z M 19,84.03 19.78,83.63 A 33.3187,32.6716 -180 0 0 14.11,80.7 33.3187,32.6716 -180 0 0 8.45,83.63 l 1.46,0.76 h 0.37 a 30.2989,29.7105 0 0 1 3.83,1.7 c 2.01,-0.76 3.23,-1.26 3.97,-1.6 h 0.24 A 3.80009,3.72629 -180 0 0 19,84.13 Z"
+   class="st5"
+   id="path51"
+   inkscape:connector-curvature="0"
+   style="fill:#32bedd;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 			</g>
 		</g>

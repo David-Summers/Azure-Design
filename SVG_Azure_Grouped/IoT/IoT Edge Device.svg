@@ -37,8 +37,8 @@
    inkscape:zoom="1.4423199"
    inkscape:cx="38.865611"
    inkscape:cy="36.459718"
-   inkscape:window-x="0"
-   inkscape:window-y="0"
+   inkscape:window-x="1106"
+   inkscape:window-y="258"
    inkscape:window-maximized="0"
    inkscape:current-layer="svg35" />
 	<style
@@ -80,19 +80,19 @@
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group21896-1"
+   id="group23160-1"
    transform="translate(35.6122,-34.0157)">
 			<title
-   id="title12">IoT Edge Device.21896</title>
+   id="title12">IoT Edge Device.23160</title>
 			<g
-   id="group21897-2">
+   id="group23161-2">
 				<title
-   id="title14">Sheet.21897</title>
+   id="title14">Sheet.23161</title>
 				<g
-   id="shape21898-3"
+   id="shape23162-3"
    transform="translate(3.90195,-1.50739)">
 					<title
-   id="title16">Sheet.21898</title>
+   id="title16">Sheet.23162</title>
 					<ellipse
    cx="25.647499"
    cy="96.874802"
@@ -103,10 +103,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape21899-7"
+   id="shape23163-7"
    transform="translate(10.3562)">
 					<title
-   id="title21">Sheet.21899</title>
+   id="title21">Sheet.23163</title>
 					<path
    d="M 19.19,122.72 A 27.1434,27.3517 0 1 1 46.34,95.37 27.1726,27.381 0 0 1 19.19,122.72 Z m 0,-51.69 A 24.1516,24.3369 -180 1 0 43.34,95.37 24.1743,24.3597 -180 0 0 19.19,71.03 Z"
    class="st2"
@@ -115,10 +115,10 @@
    style="fill:#e6e6e6;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape21900-9"
+   id="shape23164-9"
    transform="translate(0,-3.10914)">
 					<title
-   id="title26">Sheet.21900</title>
+   id="title26">Sheet.23164</title>
 					<path
    d="m 46.78,100.83 a 7.74185,7.80124 -180 0 0 -6.72,-7.51 9.75908,9.83394 -180 0 0 -10.04,-9.4 10.0116,10.0884 -180 0 0 -9.59,6.58 9.23453,9.30537 -180 0 0 -8.1,8.96 9.38995,9.46198 -180 0 0 9.72,9.08 c 0.29,0 0.57,0 0.85,-0.04 h 15.72 a 1.4603,1.4715 -180 0 0 0.41,-0.07 7.82928,7.88934 -180 0 0 7.75,-7.6 z M 9.4,98.48 A 5.50446,5.54668 0 1 1 3.89,92.93 5.50446,5.54668 0 0 1 9.4,98.48 Z M 44.78,71.97 a 5.50446,5.54668 -180 1 0 5.5,5.55 5.50446,5.54668 -180 0 0 -5.5,-5.55 z m 0,41.28 a 5.50446,5.54668 -180 1 0 5.5,5.55 5.50446,5.54668 -180 0 0 -5.5,-5.55 z"
    class="st3"

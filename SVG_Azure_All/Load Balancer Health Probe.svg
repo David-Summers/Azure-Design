@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="51.02"
-   height="56.690868"
-   viewBox="0 0 51.02 56.69087"
+   width="0.70860749in"
+   height="0.78736919in"
+   viewBox="0 0 51.019792 56.690869"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview51"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="25.511801"
-   inkscape:cy="17.459801"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="34.01556"
+   inkscape:cy="23.279613"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -105,20 +105,20 @@
 	</defs>
 	<g
    id="g47"
-   transform="translate(-12.24,-12.24343)">
+   transform="translate(-12.240154,-12.24343)">
 		<title
    id="title19">Page-1</title>
 		<g
-   id="group3524-1"
+   id="group3757-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title21">Load Balancer Health Probe</title>
 			<g
-   id="group3525-2">
+   id="group3758-2">
 				<title
    id="title23">g10</title>
 				<g
-   id="shape3526-3"
+   id="shape3759-3"
    transform="translate(19.5024)">
 					<title
    id="title25">path2</title>
@@ -130,7 +130,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3527-7"
+   id="shape3760-7"
    transform="translate(8.16378,-16.2142)">
 					<title
    id="title30">path4</title>
@@ -142,7 +142,7 @@
    style="fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3528-9"
+   id="shape3761-9"
    transform="translate(0,-9.07087)">
 					<title
    id="title35">path6</title>
@@ -154,7 +154,7 @@
    style="fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3529-11"
+   id="shape3762-11"
    transform="translate(17.8016,-23.3575)">
 					<title
    id="title40">circle8</title>

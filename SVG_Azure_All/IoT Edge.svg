@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="56.700588"
-   viewBox="0 0 56.69 56.700589"
+   width="0.78736031in"
+   height="0.78750736in"
+   viewBox="0 0 56.689849 56.700585"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview51"
    showgrid="false"
-   inkscape:zoom="1.9229673"
-   inkscape:cx="28.346398"
-   inkscape:cy="27.350801"
+   inkscape:zoom="1.4422268"
+   inkscape:cx="37.795162"
+   inkscape:cy="36.467693"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -106,20 +106,20 @@
 	</defs>
 	<g
    id="g47"
-   transform="translate(-32.0111,-32.013713)">
+   transform="translate(-32.011261,-32.013713)">
 		<title
    id="title19">Page-1</title>
 		<g
-   id="group4057-1"
+   id="group4306-1"
    transform="translate(32.0111,-34.0157)">
 			<title
    id="title21">IoT Edge</title>
 			<g
-   id="group4058-2">
+   id="group4307-2">
 				<title
    id="title23">layer1</title>
 				<g
-   id="shape4059-3"
+   id="shape4308-3"
    transform="translate(0,-16.0731)">
 					<title
    id="title25">path12</title>
@@ -131,7 +131,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:32.01110077;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4060-7"
+   id="shape4309-7"
    transform="translate(27.0236,-10.3713)">
 					<title
    id="title30">path14</title>
@@ -145,7 +145,7 @@
    style="fill:#b3b3b3;stroke:none;stroke-width:32.01110077;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4061-9"
+   id="shape4310-9"
    transform="translate(21.7008,-29.3961)">
 					<title
    id="title35">circle16</title>
@@ -159,7 +159,7 @@
    style="fill:#f2f2f2;stroke:none;stroke-width:32.01110077;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape4062-11"
+   id="shape4311-11"
    transform="translate(22.2992)">
 					<title
    id="title40">rect18</title>

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.481438"
-   height="45.269058"
-   viewBox="0 0 56.48144 45.269056"
+   width="0.78446299in"
+   height="0.62873578in"
+   viewBox="0 0 56.481107 45.26906"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview31"
    showgrid="false"
-   inkscape:zoom="2.6752516"
-   inkscape:cx="28.240119"
-   inkscape:cy="10.097784"
+   inkscape:zoom="2.0064424"
+   inkscape:cx="37.653427"
+   inkscape:cy="13.46369"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -55,20 +55,20 @@
 
 	<g
    id="g27"
-   transform="translate(-8.9387293,-8.9367277)">
+   transform="translate(-8.9389467,-8.9367277)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2320-1"
+   id="group2456-1"
    transform="translate(8.71833,-34.0157)">
 			<title
    id="title6">PowerShell</title>
 			<g
-   id="group2321-2">
+   id="group2457-2">
 				<title
    id="title8">layer1</title>
 				<g
-   id="shape2322-3">
+   id="shape2458-3">
 					<title
    id="title10">path6</title>
 					<path
@@ -79,7 +79,7 @@
    style="fill:#0078d7;stroke:none;stroke-width:8.93937016;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2323-5"
+   id="shape2459-5"
    transform="translate(7.783,-2.22572)">
 					<title
    id="title15">path10</title>
@@ -91,7 +91,7 @@
    style="fill:#000000;fill-opacity:0.25;stroke:none;stroke-width:8.93937016;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2324-7"
+   id="shape2460-7"
    transform="translate(13.035,-5.29135)">
 					<title
    id="title20">path8-6</title>

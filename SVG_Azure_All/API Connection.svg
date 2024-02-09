@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.72567"
-   height="56.692902"
-   viewBox="0 0 56.725671 56.692902"
+   width="0.78785223in"
+   height="0.78739709in"
+   viewBox="0 0 56.725213 56.692901"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview68"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="28.362631"
-   inkscape:cy="28.338403"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="37.816639"
+   inkscape:cy="37.78433"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -155,23 +155,23 @@
 	</defs>
 	<g
    id="g64"
-   transform="translate(-34.000368,-34.000001)">
+   transform="translate(-34.000869,-34.000001)">
 		<title
    id="title36">Page-1</title>
 		<g
-   id="group10884-1"
+   id="group11394-1"
    transform="translate(34.0166,-34.0157)">
 			<title
    id="title38">API Connection</title>
 			<g
-   id="group10885-2">
+   id="group11395-2">
 				<title
    id="title40">Icon-web-48</title>
 				<g
-   id="shape10886-3"
+   id="shape11396-3"
    transform="translate(18.5827,-9.44882)">
 					<title
-   id="title42">Sheet.10886</title>
+   id="title42">Sheet.11396</title>
 					<path
    d="M 26.08,97.91 H 11.81 A 12.5984,12.5984 -180 0 0 0,108.96 h 4.47 a 7.84252,7.84252 0 0 1 7.34,-6.3 h 14.27 a 8.15748,8.15748 0 0 1 7.68,8.54 8.18898,8.18898 0 0 1 -7.68,8.56 H 11.81 a 7.84252,7.84252 0 0 1 -7.34,-6.3 H 0 a 12.5984,12.5984 -180 0 0 11.81,11.25 H 26.08 A 12.7874,12.7874 -180 0 0 38.11,111.29 12.7874,12.7874 -180 0 0 26.08,97.91 Z"
    class="st1"
@@ -180,10 +180,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10887-7"
+   id="shape11397-7"
    transform="translate(0,-20.4409)">
 					<title
-   id="title47">Sheet.10887</title>
+   id="title47">Sheet.11397</title>
 					<path
    d="M 26.3,119.95 H 12.03 a 8.15748,8.15748 0 0 1 -7.68,-8.63 8.18898,8.18898 0 0 1 7.68,-8.56 H 26.3 a 7.84252,7.84252 0 0 1 7.34,6.3 h 4.47 A 12.5984,12.5984 -180 0 0 26.3,97.91 H 12.03 A 12.7874,12.7874 -180 0 0 0,111.32 12.7874,12.7874 -180 0 0 12.03,124.71 H 26.3 a 12.5984,12.5984 -180 0 0 11.81,-11.06 h -4.47 a 7.84252,7.84252 0 0 1 -7.34,6.3 z"
    class="st2"
@@ -192,10 +192,10 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10888-11"
+   id="shape11398-11"
    transform="translate(16.8504,-20.3465)">
 					<title
-   id="title52">Sheet.10888</title>
+   id="title52">Sheet.11398</title>
 					<path
    d="M 9.45,119.86 H 0 v 4.85 h 9.45 a 12.5984,12.5984 -180 0 0 11.81,-11.15 h -4.47 a 7.84252,7.84252 0 0 1 -7.34,6.3 z"
    class="st3"
@@ -204,9 +204,9 @@
    style="fill:url(#grad0-14);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10889-15">
+   id="shape11399-15">
 					<title
-   id="title57">Sheet.10889</title>
+   id="title57">Sheet.11399</title>
 					<rect
    x="0"
    y="68.015701"

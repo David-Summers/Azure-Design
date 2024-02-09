@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.41827"
-   height="53.849998"
-   viewBox="0 0 56.41827 53.849998"
+   width="0.78358763in"
+   height="0.74791718in"
+   viewBox="0 0 56.418269 53.849997"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview26"
    showgrid="false"
-   inkscape:zoom="2.081606"
-   inkscape:cx="28.208"
-   inkscape:cy="22.6673"
+   inkscape:zoom="1.5612034"
+   inkscape:cx="37.610694"
+   inkscape:cy="30.223085"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -57,19 +57,19 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group1356-1"
+   id="group1455-1"
    transform="translate(25.5,-34.0157)">
 			<title
    id="title6">SQL Database Restore</title>
 			<g
-   id="group1357-2">
+   id="group1456-2">
 				<title
-   id="title8">Sheet.1357</title>
+   id="title8">Sheet.1456</title>
 				<g
-   id="shape1358-3"
+   id="shape1457-3"
    transform="translate(0,-28.6299)">
 					<title
-   id="title10">Sheet.1358</title>
+   id="title10">Sheet.1457</title>
 					<path
    d="M 23.13,113.37 H 0 V 89 Z"
    class="st1"
@@ -78,10 +78,10 @@
    style="fill:#000000;stroke:none;stroke-width:25.5;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1359-5"
+   id="shape1458-5"
    transform="translate(7.33341)">
 					<title
-   id="title15">Sheet.1359</title>
+   id="title15">Sheet.1458</title>
 					<path
    d="m 22.56,113.37 c -9.02,0 -17.2,-3.96 -22.28,-10.48 l 5.93,-5.67 c 3.38,5.1 9.3,8.78 16.07,8.78 10.44,0 18.9,-8.5 18.62,-18.99 -0.28,-10.49 -8.75,-18.99 -19.46,-18.99 -6.49,0 -12.41,3.4 -15.52,8.5 L 0,70.29 c 4.79,-6.52 12.69,-10.77 21.44,-10.77 14.95,0 27.36,12.18 27.64,27.21 0.28,15.02 -11.57,26.64 -26.52,26.64 z"
    class="st1"

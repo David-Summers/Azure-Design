@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.693001"
-   height="56.693001"
-   viewBox="0 0 56.693 56.693001"
+   width="0.78739846in"
+   height="0.78739846in"
+   viewBox="0 0 56.692597 56.693"
    xml:space="preserve"
    class="st8"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview80"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="28.3465"
-   inkscape:cy="28.338498"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="37.795128"
+   inkscape:cy="37.784457"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -144,20 +144,20 @@
 	</defs>
 	<g
    id="g76"
-   transform="translate(-34,-33.999997)">
+   transform="translate(-34.000441,-33.999997)">
 		<title
    id="title33">Page-1</title>
 		<g
-   id="group8275-1"
+   id="group8889-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title35">Azure Monitor</title>
 			<g
-   id="group8276-2">
+   id="group8890-2">
 				<title
    id="title37">g16</title>
 				<g
-   id="shape8277-3">
+   id="shape8891-3">
 					<title
    id="title39">ellipse2</title>
 					<circle
@@ -169,7 +169,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8278-7"
+   id="shape8892-7"
    transform="translate(3.66836,-3.68136)">
 					<title
    id="title44">ellipse4</title>
@@ -183,7 +183,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8279-9"
+   id="shape8893-9"
    transform="translate(7.40343,-13.4872)">
 					<title
    id="title49">path6</title>
@@ -195,7 +195,7 @@
    style="fill:#9cebff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8280-11"
+   id="shape8894-11"
    transform="translate(14.5734,-29.819)">
 					<title
    id="title54">path8</title>
@@ -207,7 +207,7 @@
    style="fill:#32bedd;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8281-13"
+   id="shape8895-13"
    transform="translate(7.40343,-29.819)">
 					<title
    id="title59">path10</title>
@@ -219,7 +219,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8282-15"
+   id="shape8896-15"
    transform="translate(29.8472,-27.6102)">
 					<title
    id="title64">path12</title>
@@ -231,7 +231,7 @@
    style="fill:#f04049;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8283-17"
+   id="shape8897-17"
    transform="translate(24.3446,-24.3304)">
 					<title
    id="title69">ellipse14</title>

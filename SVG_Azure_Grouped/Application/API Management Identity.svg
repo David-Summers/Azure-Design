@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="42.52"
-   height="56.695"
-   viewBox="0 0 42.519999 56.695001"
+   width="0.59055257in"
+   height="0.78742653in"
+   viewBox="0 0 42.519803 56.694998"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview26"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="21.259851"
-   inkscape:cy="17.459801"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="28.346323"
+   inkscape:cy="23.279613"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,22 +54,22 @@
 
 	<g
    id="g22"
-   transform="translate(-12.24,-12.2393)">
+   transform="translate(-12.240156,-12.2393)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group16083-1"
+   id="group17529-1"
    transform="translate(12.24,-34.0157)">
 			<title
-   id="title6">API Management Identity.16083</title>
+   id="title6">API Management Identity.17529</title>
 			<g
-   id="group16084-2">
+   id="group17530-2">
 				<title
-   id="title8">Sheet.16084</title>
+   id="title8">Sheet.17530</title>
 				<g
-   id="shape16085-3">
+   id="shape17531-3">
 					<title
-   id="title10">Sheet.16085</title>
+   id="title10">Sheet.17531</title>
 					<path
    d="m 36.31,53.06 c -12.64,-1.36 -15.05,-6.8 -15.05,-6.8 0,0 -2.87,7.14 -21.26,7.14 v 29.03 c 0,3.51 2.3,6.8 5.06,9.63 6.2,6.47 16.43,10.89 16.43,10.89 0,0 21.03,-9.07 21.03,-20.52 V 53.4 c -2.3,0 -4.37,-0.11 -6.21,-0.34 z"
    class="st1"
@@ -78,10 +78,10 @@
    style="fill:#7fb900;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape16086-5"
+   id="shape17532-5"
    transform="translate(0,-10.885)">
 					<title
-   id="title15">Sheet.16086</title>
+   id="title15">Sheet.17532</title>
 					<path
    d="m 26.89,75.96 9.54,-12.02 c -12.64,-1.36 -15.06,-6.8 -15.06,-6.8 0,0 -2.98,7.14 -21.37,7.14 v 29.03 c 0,3.52 2.3,6.8 5.06,9.64 L 12.3,94.1 Z"
    class="st2"

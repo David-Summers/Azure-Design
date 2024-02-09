@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="55.101917"
-   height="53.864201"
-   viewBox="0 0 55.101916 53.864198"
+   width="0.76530445in"
+   height="0.74811393in"
+   viewBox="0 0 55.101918 53.863996"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview26"
    showgrid="false"
-   inkscape:zoom="2.5305651"
-   inkscape:cx="27.555065"
-   inkscape:cy="12.618597"
+   inkscape:zoom="1.8979166"
+   inkscape:cx="36.740086"
+   inkscape:cy="16.8248"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -79,16 +79,16 @@
 	</defs>
 	<g
    id="g22"
-   transform="translate(-6.4606863,-5.3843)">
+   transform="translate(-6.4606863,-5.3844767)">
 		<title
    id="title12">Page-1</title>
 		<g
-   id="group63-1"
+   id="group101-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title14">Web Socket</title>
 			<g
-   id="shape64-2">
+   id="shape102-2">
 				<title
    id="title16">path9</title>
 				<path

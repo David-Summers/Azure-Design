@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692902"
-   height="56.692902"
-   viewBox="0 0 56.6929 56.692903"
+   width="0.78739941in"
+   height="0.78739941in"
+   viewBox="0 0 56.692756 56.692898"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview67"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="28.346461"
-   inkscape:cy="14.173204"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="37.795184"
+   inkscape:cy="18.897555"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,30 +54,30 @@
 
 	<g
    id="g63"
-   transform="translate(-5.66929,-5.6693014)">
+   transform="translate(-5.6693772,-5.6693014)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2854-1"
+   id="group3056-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title6">O365 - API Dropbox</title>
 			<g
-   id="group2855-2">
+   id="group3057-2">
 				<title
    id="title8">Page-1</title>
 				<g
-   id="group2856-3">
+   id="group3058-3">
 					<title
    id="title10">Power Automate API: Dropbox</title>
 					<g
-   id="group2857-4">
+   id="group3059-4">
 						<title
    id="title12">rect5928</title>
 						<g
-   id="shape2858-5">
+   id="shape3060-5">
 							<title
-   id="title14">Sheet.2858</title>
+   id="title14">Sheet.3060</title>
 							<rect
    x="0"
    y="39.685001"
@@ -89,14 +89,14 @@
 						</g>
 					</g>
 					<g
-   id="group2859-7"
+   id="group3061-7"
    transform="translate(7.6155,-31.7932)">
 						<title
    id="title20">polygon5930</title>
 						<g
-   id="shape2860-8">
+   id="shape3062-8">
 							<title
-   id="title22">Sheet.2860</title>
+   id="title22">Sheet.3062</title>
 							<path
    d="M 21.16,88.64 12.45,81.39 0,89.49 8.58,96.38 Z"
    class="st2"
@@ -106,14 +106,14 @@
 						</g>
 					</g>
 					<g
-   id="group2861-10"
+   id="group3063-10"
    transform="translate(7.6155,-16.804)">
 						<title
    id="title28">polygon5932</title>
 						<g
-   id="shape2862-11">
+   id="shape3064-11">
 							<title
-   id="title30">Sheet.2862</title>
+   id="title30">Sheet.3064</title>
 							<path
    d="M 8.58,81.39 0,88.28 l 12.45,8.1 8.71,-7.25 z"
    class="st2"
@@ -123,14 +123,14 @@
 						</g>
 					</g>
 					<g
-   id="group2863-13"
+   id="group3065-13"
    transform="translate(28.7696,-16.804)">
 						<title
    id="title36">polygon5934</title>
 						<g
-   id="shape2864-14">
+   id="shape3066-14">
 							<title
-   id="title38">Sheet.2864</title>
+   id="title38">Sheet.3066</title>
 							<path
    d="M 12.58,81.39 0,89.13 l 8.7,7.25 12.46,-8.1 z"
    class="st2"
@@ -140,14 +140,14 @@
 						</g>
 					</g>
 					<g
-   id="group2865-16"
+   id="group3067-16"
    transform="translate(28.7696,-31.7932)">
 						<title
    id="title44">polygon5936</title>
 						<g
-   id="shape2866-17">
+   id="shape3068-17">
 							<title
-   id="title46">Sheet.2866</title>
+   id="title46">Sheet.3068</title>
 							<path
    d="M 12.58,96.38 21.16,89.49 8.7,81.39 0,88.64 Z"
    class="st2"
@@ -157,14 +157,14 @@
 						</g>
 					</g>
 					<g
-   id="group2867-19"
+   id="group3069-19"
    transform="translate(16.3189,-7.49613)">
 						<title
    id="title52">polygon5938</title>
 						<g
-   id="shape2868-20">
+   id="shape3070-20">
 							<title
-   id="title54">Sheet.2868</title>
+   id="title54">Sheet.3070</title>
 							<path
    d="M 0,88.89 12.45,96.38 24.9,88.89 V 86.23 L 21.28,88.64 12.45,81.39 3.75,88.64 0,86.23 Z"
    class="st2"

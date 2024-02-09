@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.6973"
-   height="48.198307"
-   viewBox="0 0 56.6973 48.198307"
+   width="0.78746367in"
+   height="0.66942197in"
+   viewBox="0 0 56.697292 48.198315"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview56"
    showgrid="false"
-   inkscape:zoom="2.0308063"
-   inkscape:cx="28.3465"
-   inkscape:cy="24.093627"
+   inkscape:zoom="1.5231026"
+   inkscape:cx="37.7954"
+   inkscape:cy="32.124893"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -134,19 +134,19 @@
 		<title
    id="title29">Page-1</title>
 		<g
-   id="group2115-1"
+   id="group2242-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title31">Recovery Services Vault</title>
 			<g
-   id="group2116-2">
+   id="group2243-2">
 				<title
-   id="title33">Sheet.2116</title>
+   id="title33">Sheet.2243</title>
 				<g
-   id="shape2117-3"
+   id="shape2244-3"
    transform="translate(13.4173,-17.8891)">
 					<title
-   id="title35">Sheet.2117</title>
+   id="title35">Sheet.2244</title>
 					<path
    d="M 43.28,106.64 A 9.73228,9.53428 -180 0 0 34.83,97.39 12.252,12.0027 -180 0 0 22.24,85.91 12.5984,12.3421 -180 0 0 10.2,94.02 11.5906,11.3547 -180 0 0 0,104.98 11.7795,11.5399 -180 0 0 12.19,116.21 h 21.32 a 9.85827,9.6577 -180 0 0 9.77,-9.57 z"
    class="st1"
@@ -155,10 +155,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2118-7"
+   id="shape2245-7"
    transform="translate(23.2126,-21.962)">
 					<title
-   id="title40">Sheet.2118</title>
+   id="title40">Sheet.2245</title>
 					<path
    d="m 22.11,102.45 -5.76,-5.49 c -0.63,-0.62 -1.17,-0.4 -1.17,0.55 v 2.47 a 0.692913,0.678816 0 0 1 -0.724409,0.67882 C 10.74,100.66 0.38,101.62 0,115.5 a 0.724409,0.709671 -180 0 0 0.724409,0.70967 L 4.41,116.21 A 0.724409,0.709671 -180 0 0 5.134409,115.43862 8.69291,8.51605 0 0 1 14.58,105.16 a 0.724409,0.709671 0 0 1 0.724409,0.70967 L 15.31,108.16 c 0,1.14 0.38,1.32 1.16,0.55 l 5.64,-5.09 a 0.724409,0.709671 -180 0 0 0,-1.1725 z"
    class="st2"
@@ -167,9 +167,9 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2119-9">
+   id="shape2246-9">
 					<title
-   id="title45">Sheet.2119</title>
+   id="title45">Sheet.2246</title>
 					<path
    d="M 44.47,106.53 A 9.98425,9.78112 -180 0 0 35.81,97.12 12.5984,12.3421 -180 0 0 22.83,85.3 12.9134,12.6507 -180 0 0 10.49,93.57 11.9055,11.6633 -180 0 0 0,104.8 12.0945,11.8484 -180 0 0 12.6,116.19 h 21.35 a 1.48031,1.4502 -180 0 0 0.54,0 10.1102,9.90454 -180 0 0 9.98,-9.66 z"
    class="st3"

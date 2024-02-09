@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="60.472401"
-   height="60.472401"
-   viewBox="0 0 60.472401 60.472401"
+   width="0.83989936in"
+   height="0.83989936in"
+   viewBox="0 0 60.4724 60.4724"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview26"
    showgrid="false"
-   inkscape:zoom="1.7229799"
-   inkscape:cx="30.2389"
-   inkscape:cy="30.236899"
+   inkscape:zoom="1.2922274"
+   inkscape:cx="40.318769"
+   inkscape:cy="40.316102"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -57,19 +57,19 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group413-1"
+   id="group465-1"
    transform="translate(42.0295,-42.0295)">
 			<title
    id="title6">Virtual Machine Reservation</title>
 			<g
-   id="group414-2">
+   id="group466-2">
 				<title
-   id="title8">Sheet.414</title>
+   id="title8">Sheet.466</title>
 				<g
-   id="shape415-3"
+   id="shape467-3"
    transform="translate(22.6772,-15.4961)">
 					<title
-   id="title10">Sheet.415</title>
+   id="title10">Sheet.467</title>
 					<path
    d="m 3.78,107.11 v 16.26 l 10.96,10.58 -3.02,3.02 L 0,124.88 v -17.77 z"
    class="st1"
@@ -78,9 +78,9 @@
    style="fill:#000000;stroke:none;stroke-width:38.25;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape416-5">
+   id="shape468-5">
 					<title
-   id="title15">Sheet.416</title>
+   id="title15">Sheet.468</title>
 					<path
    d="M 26.46,84.06 A 26.4567,26.4567 0 0 1 52.91,110.52 26.4567,26.4567 0 0 1 26.46,136.97 26.4567,26.4567 0 0 1 0,110.52 26.4567,26.4567 0 0 1 26.46,84.06 Z m 0,-3.78 A 30.2362,30.2362 -180 1 0 56.69,110.52 30.2362,30.2362 -180 0 0 26.46,80.28 Z"
    class="st1"

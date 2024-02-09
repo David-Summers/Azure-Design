@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.688263"
-   height="51.071957"
-   viewBox="0 0 56.688263 51.071955"
+   width="0.78733563in"
+   height="0.70933151in"
+   viewBox="0 0 56.688074 51.071953"
    xml:space="preserve"
    class="st7"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview84"
    showgrid="false"
-   inkscape:zoom="1.9821438"
-   inkscape:cx="28.3465"
-   inkscape:cy="25.535237"
+   inkscape:zoom="1.4866104"
+   inkscape:cx="37.795271"
+   inkscape:cy="34.046923"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -128,23 +128,23 @@
 	</defs>
 	<g
    id="g80"
-   transform="translate(-34,-33.994783)">
+   transform="translate(-34.000206,-33.994783)">
 		<title
    id="title27">Page-1</title>
 		<g
-   id="group12251-1"
+   id="group12923-1"
    transform="translate(34,-34.033)">
 			<title
-   id="title29">Container Registry Connected Registry.12251</title>
+   id="title29">Container Registry Connected Registry.12923</title>
 			<g
-   id="group12252-2">
+   id="group12924-2">
 				<title
-   id="title31">Sheet.12252</title>
+   id="title31">Sheet.12924</title>
 				<g
-   id="shape12253-3"
+   id="shape12925-3"
    transform="translate(0,-12.0656)">
 					<title
-   id="title33">Sheet.12253</title>
+   id="title33">Sheet.12925</title>
 					<path
    d="m 16.24,119.04 6.91,-6.8 a 1.81161,1.78412 0 0 1 3.09,1.27 v 4.13 h 9.54 a 1.5888,1.56468 0 0 1 0.32,0.07 1.51775,1.49472 0 0 1 0.32,-0.07 h 9.52 v -4.13 a 1.81484,1.7873 0 0 1 1.82,-1.79 1.80193,1.77458 0 0 1 1.29,0.53 l 3.06,3.02 a 12.6426,12.4507 -180 0 0 3.74,-8.4 A 12.536,12.3457 -180 0 0 44.94,95.01 15.8234,15.5832 -180 0 0 28.67,80.1 16.2173,15.9712 -180 0 0 13.17,90.51 14.9579,14.7309 -180 0 0 0,104.71 15.1937,14.9631 -180 0 0 15.72,119.06 c 0.18,0 0.36,-0.01 0.52,-0.02 z"
    class="st1"
@@ -153,10 +153,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12254-7"
+   id="shape12926-7"
    transform="translate(37.4142,-12.1419)">
 					<title
-   id="title38">Sheet.12254</title>
+   id="title38">Sheet.12926</title>
 					<path
    d="M 5.2,119.06 H 0 5.14 Z"
    class="st2"
@@ -165,10 +165,10 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12255-11"
+   id="shape12927-11"
    transform="translate(12.2583,-16.9854)">
 					<title
-   id="title43">Sheet.12255</title>
+   id="title43">Sheet.12927</title>
 					<path
    d="m 0,118.39 a 0.68139,0.671048 -180 0 0 0.681374,0.67103 L 7.43,119.06 a 0.68139,0.671048 -180 0 0 0.681374,-0.67103 L 8.12,111.74 A 0.68139,0.671048 -180 0 0 7.438626,111.06897 L 0.68,111.07 a 0.68139,0.671048 -180 0 0 -0.681374,0.67103 z"
    class="st3"
@@ -177,10 +177,10 @@
    style="fill:#9cebff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12256-13"
+   id="shape12928-13"
    transform="translate(35.3378,-16.9854)">
 					<title
-   id="title48">Sheet.12256</title>
+   id="title48">Sheet.12928</title>
 					<path
    d="m 0,118.39 a 0.68139,0.671048 -180 0 0 0.681374,0.67103 L 7.43,119.06 a 0.68139,0.671048 -180 0 0 0.681374,-0.67103 L 8.12,111.74 A 0.68139,0.671048 -180 0 0 7.438626,111.06897 L 0.68,111.07 a 0.68139,0.671048 -180 0 0 -0.681374,0.67103 z"
    class="st3"
@@ -189,10 +189,10 @@
    style="fill:#9cebff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12257-15"
+   id="shape12929-15"
    transform="translate(23.7996,-28.4343)">
 					<title
-   id="title53">Sheet.12257</title>
+   id="title53">Sheet.12929</title>
 					<path
    d="m 0,118.39 a 0.68139,0.671048 -180 0 0 0.681374,0.67103 L 7.43,119.06 a 0.68139,0.671048 -180 0 0 0.681374,-0.67103 L 8.12,111.74 A 0.68139,0.671048 -180 0 0 7.438626,111.06897 L 0.68,111.07 a 0.68139,0.671048 -180 0 0 -0.681374,0.67103 z"
    class="st4"
@@ -201,10 +201,10 @@
    style="fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12258-17"
+   id="shape12930-17"
    transform="translate(12.2583,-28.4343)">
 					<title
-   id="title58">Sheet.12258</title>
+   id="title58">Sheet.12930</title>
 					<path
    d="m 0,118.39 a 0.68139,0.671048 -180 0 0 0.681374,0.67103 L 7.43,119.06 a 0.68139,0.671048 -180 0 0 0.681374,-0.67103 L 8.12,111.74 A 0.68139,0.671048 -180 0 0 7.438626,111.06897 L 0.68,111.07 a 0.68139,0.671048 -180 0 0 -0.681374,0.67103 z"
    class="st4"
@@ -213,10 +213,10 @@
    style="fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12259-19"
+   id="shape12931-19"
    transform="translate(36.0676,-0.00309773)">
 					<title
-   id="title63">Sheet.12259</title>
+   id="title63">Sheet.12931</title>
 					<path
    d="m 11.98,101.13 8.35,8.22 a 0.997841,0.982697 0 0 1 0,1.38659 L 11.98,118.97 a 0.445638,0.438874 0 0 1 -0.762105,-0.31803 L 11.22,113.6 a 0.442409,0.435694 -180 0 0 -0.442409,-0.43887 L 0.36,113.16 A 0.355219,0.349827 0 0 1 0.004781,112.81017 L 0,107.28 a 0.355219,0.349827 0 0 1 0.355219,-0.34983 L 10.8,106.93 a 0.442409,0.435694 -180 0 0 0.442409,-0.43887 L 11.24,101.44 a 0.445638,0.438874 0 0 1 0.7395,-0.31166 z"
    class="st5"
@@ -225,10 +225,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12260-21"
+   id="shape12932-21"
    transform="translate(15.4622)">
 					<title
-   id="title68">Sheet.12260</title>
+   id="title68">Sheet.12932</title>
 					<path
    d="m 8.66,118.96 -8.37,-8.22 a 0.991383,0.976336 0 0 1 0,-1.38659 L 8.66,101.12 a 0.445638,0.438874 0 0 1 0.758876,0.31803 L 9.42,106.5 a 0.445638,0.438874 -180 0 0 0.445638,0.43887 L 20.31,106.94 a 0.355219,0.349827 0 0 1 0.355219,0.34983 L 20.67,112.81 a 0.355219,0.349827 0 0 1 -0.355219,0.34983 L 9.86,113.16 a 0.445638,0.438874 -180 0 0 -0.445638,0.43887 L 9.42,118.66 a 0.442409,0.435694 0 0 1 -0.758876,0.30848 z"
    class="st6"
@@ -237,10 +237,10 @@
    style="fill:#005ba1;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape12261-23"
+   id="shape12933-23"
    transform="translate(23.7932,-16.9918)">
 					<title
-   id="title73">Sheet.12261</title>
+   id="title73">Sheet.12933</title>
 					<path
    d="m 0.64,116.64 a 1.81484,1.7873 0 0 1 1.81,1.79 v 0.63 h 4.99 a 0.684603,0.674213 -180 0 0 0.684603,-0.67103 L 8.12,111.75 A 0.681374,0.671033 -180 0 0 7.435397,111.07897 L 0.68,111.08 a 0.678145,0.667852 -180 0 0 -0.681374,0.67103 L 0,116.76 a 1.80839,1.78094 0 0 1 0.64,-0.12 z"
    class="st3"

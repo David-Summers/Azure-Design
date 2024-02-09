@@ -58,19 +58,19 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group21885-1"
+   id="group23149-1"
    transform="translate(38.25,-38.25)">
 			<title
-   id="title6">IoT Hub Built-in Endpoint.21885</title>
+   id="title6">IoT Hub Built-in Endpoint.23149</title>
 			<g
-   id="group21886-2">
+   id="group23150-2">
 				<title
-   id="title8">Sheet.21886</title>
+   id="title8">Sheet.23150</title>
 				<g
-   id="shape21887-3"
+   id="shape23151-3"
    transform="translate(16.198,-16.378)">
 					<title
-   id="title10">Sheet.21887</title>
+   id="title10">Sheet.23151</title>
 					<path
    d="m 0,109.26 h 40.49 v 4.09 H 0 Z"
    class="st1"
@@ -79,10 +79,10 @@
    style="fill:#ff8c00;stroke:none;stroke-width:38.25;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape21888-5"
+   id="shape23152-5"
    transform="translate(10.2293,-10.5269)">
 					<title
-   id="title15">Sheet.21888</title>
+   id="title15">Sheet.23152</title>
 					<path
    d="m 7.99,113.35 a 7.81552,7.90236 0 1 1 0,-15.8 7.81552,7.90236 0 0 1 0,15.8 z"
    class="st1"
@@ -91,9 +91,9 @@
    style="fill:#ff8c00;stroke:none;stroke-width:38.25;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape21889-7">
+   id="shape23153-7">
 					<title
-   id="title20">Sheet.21889</title>
+   id="title20">Sheet.23153</title>
 					<path
    d="m 21.9,76.87 c 7.21,2.18 10.34,5.12 13.16,11.91 H 30.75 C 28.84,83.32 23.48,81.13 18.22,80.59 a 14.177453,14.335 -180 1 0 0,28.67 c 5.45,-0.2 10.38,-3.03 12.53,-8.19 h 4.31 c -2.42,7.91 -9.12,11.49 -16.84,12.28 a 18.2227,18.4252 0 1 1 0,-36.85 z"
    class="st2"

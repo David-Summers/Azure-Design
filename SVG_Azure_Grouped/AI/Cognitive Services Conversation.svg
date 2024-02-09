@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.688801"
-   height="56.691101"
-   viewBox="0 0 56.6888 56.691101"
+   width="0.78734416in"
+   height="0.78737611in"
+   viewBox="0 0 56.688684 56.691104"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview23"
    showgrid="false"
-   inkscape:zoom="2.2810969"
-   inkscape:cx="28.346451"
-   inkscape:cy="17.7148"
+   inkscape:zoom="1.7108234"
+   inkscape:cx="37.795255"
+   inkscape:cy="23.619728"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,19 +54,19 @@
 
 	<g
    id="g19"
-   transform="translate(-12.75,-12.7532)">
+   transform="translate(-12.750083,-12.7532)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group19942-1"
+   id="group21097-1"
    transform="translate(12.75,-34.0157)">
 			<title
-   id="title6">Cognitive Services Conversation.19942</title>
+   id="title6">Cognitive Services Conversation.21097</title>
 			<g
-   id="shape19943-2"
+   id="shape21098-2"
    transform="translate(0,-23.9211)">
 				<title
-   id="title8">Sheet.19943</title>
+   id="title8">Sheet.21098</title>
 				<path
    d="M 38.71,70.69 H 0 v 26.87 h 5.97 v 5.9 l 5.95,-5.9 h 26.79 z"
    class="st1"
@@ -75,10 +75,10 @@
    style="fill:#0078d4;stroke:none;stroke-width:12.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape19944-4"
+   id="shape21099-4"
    transform="translate(29.7888)">
 				<title
-   id="title13">Sheet.19944</title>
+   id="title13">Sheet.21099</title>
 				<path
    d="m 0,79.54 v 17.98 h 14.96 l 5.97,5.94 V 97.52 H 26.9 V 79.54 Z"
    class="st2"

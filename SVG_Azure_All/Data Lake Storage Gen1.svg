@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.692085"
-   height="45.350033"
-   viewBox="0 0 56.692085 45.350032"
+   width="0.78738803in"
+   height="0.62985998in"
+   viewBox="0 0 56.6921 45.350016"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview55"
    showgrid="false"
-   inkscape:zoom="2.0816794"
-   inkscape:cx="28.347503"
-   inkscape:cy="22.669299"
+   inkscape:zoom="1.5612629"
+   inkscape:cx="37.796549"
+   inkscape:cy="30.225627"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -101,18 +101,18 @@
 		<title
    id="title18">Page-1</title>
 		<g
-   id="group6040-1"
+   id="group6557-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title20">Data Lake Storage Gen1</title>
 			<g
-   id="group6041-2">
+   id="group6558-2">
 				<title
    id="title22">Icon-analytics-150</title>
 				<g
-   id="shape6042-3">
+   id="shape6559-3">
 					<title
-   id="title24">Sheet.6042</title>
+   id="title24">Sheet.6559</title>
 					<path
    d="M 55.36,73.05 H 30.65 A 1.13386,1.11099 0 0 1 29.91,72.82 L 22.84,68.21 A 1.434,1.40507 -180 0 0 22.11,68.02 H 1.33 A 1.33395,1.30704 -180 0 0 0,69.29 v 42.81 a 1.33395,1.30704 -180 0 0 1.33,1.27 h 54.03 a 1.33395,1.30704 -180 0 0 1.33,-1.27 V 74.35 a 1.33395,1.30704 -180 0 0 -1.33,-1.3 z"
    class="st1"
@@ -121,10 +121,10 @@
    style="fill:#005ba1;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6043-5"
+   id="shape6560-5"
    transform="translate(5.16906,-40.3549)">
 					<title
-   id="title29">Sheet.6043</title>
+   id="title29">Sheet.6560</title>
 					<path
    d="m 0,112.85 a 0.533593,0.522829 -180 0 0 0.53358,0.52282 L 12.34,113.37 a 0.533593,0.522829 -180 0 0 0.53358,-0.52282 L 12.87,111.38 a 0.533593,0.522829 -180 0 0 -0.53358,-0.52282 L 0.53,110.85 a 0.533593,0.522829 -180 0 0 -0.53358,0.52282 z"
    class="st2"
@@ -133,10 +133,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6044-7"
+   id="shape6561-7"
    transform="translate(5.16906,-40.3549)">
 					<title
-   id="title34">Sheet.6044</title>
+   id="title34">Sheet.6561</title>
 					<path
    d="m 0,113.01 a 0.366845,0.359445 -180 0 0 0.366836,0.35944 L 2.2,113.37 a 0.366845,0.359445 -180 0 0 0.366836,-0.35944 L 2.57,111.21 A 0.366845,0.359445 -180 0 0 2.203164,110.85056 L 0.37,110.85 a 0.366845,0.359445 -180 0 0 -0.366836,0.35944 z"
    class="st3"
@@ -145,10 +145,10 @@
    style="fill:#1ac3f2;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6045-9"
+   id="shape6562-9"
    transform="translate(0,-0.130704)">
 					<title
-   id="title39">Sheet.6045</title>
+   id="title39">Sheet.6562</title>
 					<path
    d="M 55.36,73.11 H 28.35 a 1.20056,1.17634 -180 0 0 -0.94,0.4 l -4.5,4.24 a 1.434,1.40507 0 0 1 -0.93,0.36 H 1.33 A 1.33395,1.30704 -180 0 0 0,79.42 v 32.68 a 1.33395,1.30704 -180 0 0 1.33,1.27 h 54.03 a 1.33395,1.30704 -180 0 0 1.33,-1.27 V 74.49 a 1.33395,1.30704 -180 0 0 -1.33,-1.38 z"
    class="st4"
@@ -157,10 +157,10 @@
    style="fill:url(#grad0-12);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6046-13"
+   id="shape6563-13"
    transform="translate(20.9716,-7.69088)">
 					<title
-   id="title44">Sheet.6046</title>
+   id="title44">Sheet.6563</title>
 					<path
    d="m 11.31,87.6 a 0.500232,0.49014 -180 0 0 -0.26679,0 C 11.04,87.6 10.74,87.6 10.61,87.83 l -10.54,15 a 0.53358,0.522816 -180 0 0 0,0.52282 0.633627,0.620845 -180 0 0 0.500232,0.32676 L 6.81,103.68 4.04,112.76 a 0.433534,0.424788 -180 0 0 0.233441,0.58817 0.333488,0.32676 -180 0 0 0.233441,0 C 4.71,113.35 4.81,113.35 4.94,113.12 L 15.81,97.89 V 97.57 A 0.566929,0.555493 -180 0 0 15.243071,97.047184 L 8.58,97.04 l 2.7,-8.92 a 0.433534,0.424788 -180 0 0 0.03335,-0.522816 z"
    class="st2"

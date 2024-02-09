@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.696579"
-   height="56.682045"
-   viewBox="0 0 56.696577 56.682044"
+   width="0.78745151in"
+   height="0.78724968in"
+   viewBox="0 0 56.696397 56.68205"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview36"
    showgrid="false"
-   inkscape:zoom="1.9193858"
-   inkscape:cx="28.344791"
-   inkscape:cy="27.45481"
+   inkscape:zoom="1.4395412"
+   inkscape:cx="37.793004"
+   inkscape:cy="36.606374"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -85,20 +85,20 @@
 	</defs>
 	<g
    id="g32"
-   transform="translate(-32.24921,-32.250766)">
+   transform="translate(-32.249405,-32.250766)">
 		<title
    id="title14">Page-1</title>
 		<g
-   id="group20138-1"
+   id="group21317-1"
    transform="translate(32.2475,-34.0157)">
 			<title
-   id="title16">Time Series Insights Environment.20138</title>
+   id="title16">Time Series Insights Environment.21317</title>
 			<g
-   id="group20139-2">
+   id="group21318-2">
 				<title
    id="title18">a96c4dc0-0b65-4066-a8fa-5efc74b</title>
 				<g
-   id="shape20140-3"
+   id="shape21319-3"
    transform="translate(0.406366)">
 					<title
    id="title20">path15</title>
@@ -110,7 +110,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:32.24750137;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20141-7"
+   id="shape21320-7"
    transform="translate(0,-15.1803)">
 					<title
    id="title25">path17</title>

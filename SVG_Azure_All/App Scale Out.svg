@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.693016"
-   height="56.689999"
-   viewBox="0 0 56.693018 56.689998"
+   width="0.78740072in"
+   height="0.78735882in"
+   viewBox="0 0 56.692796 56.690003"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview57"
    showgrid="false"
-   inkscape:zoom="1.9256974"
-   inkscape:cx="28.346398"
-   inkscape:cy="27.257799"
+   inkscape:zoom="1.4442774"
+   inkscape:cx="37.795087"
+   inkscape:cy="36.343628"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -97,20 +97,20 @@
 	</defs>
 	<g
    id="g53"
-   transform="translate(-31.8441,-31.8443)">
+   transform="translate(-31.844339,-31.8443)">
 		<title
    id="title15">Page-1</title>
 		<g
-   id="group10676-1"
+   id="group11186-1"
    transform="translate(31.8441,-34.0157)">
 			<title
    id="title17">App Scale Out</title>
 			<g
-   id="group10677-2">
+   id="group11187-2">
 				<title
    id="title19">g14</title>
 				<g
-   id="shape10678-3"
+   id="shape11188-3"
    transform="translate(6.46898,-7.70079)">
 					<title
    id="title21">path2</title>
@@ -122,7 +122,7 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:31.84410095;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10679-7"
+   id="shape11189-7"
    transform="translate(9.88667,-31.8961)">
 					<title
    id="title26">path4</title>
@@ -134,7 +134,7 @@
    style="fill:#003067;stroke:none;stroke-width:31.84410095;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10680-9"
+   id="shape11190-9"
    transform="translate(11.2796,-41.1181)">
 					<title
    id="title31">circle6</title>
@@ -148,7 +148,7 @@
    style="fill:#5ea0ef;stroke:none;stroke-width:31.84410095;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10681-11"
+   id="shape11191-11"
    transform="translate(11.2796,-32.8283)">
 					<title
    id="title36">circle8</title>
@@ -162,7 +162,7 @@
    style="fill:#5ea0ef;stroke:none;stroke-width:31.84410095;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10682-13">
+   id="shape11192-13">
 					<title
    id="title41">path10</title>
 					<path
@@ -173,7 +173,7 @@
    style="fill:#76bc2d;stroke:none;stroke-width:31.84410095;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10683-15"
+   id="shape11193-15"
    transform="translate(33.8547,-0.0566929)">
 					<title
    id="title46">path12</title>

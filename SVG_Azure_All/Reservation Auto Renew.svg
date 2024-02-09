@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="57.768803"
-   height="56.700401"
-   viewBox="0 0 57.768801 56.700401"
+   width="0.80234003in"
+   height="0.78750128in"
+   viewBox="0 0 57.768465 56.700402"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview74"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="28.883232"
-   inkscape:cy="28.345894"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="38.510762"
+   inkscape:cy="37.794318"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -128,23 +128,23 @@
 	</defs>
 	<g
    id="g70"
-   transform="translate(-34.00227,-33.999991)">
+   transform="translate(-34.002634,-33.999991)">
 		<title
    id="title27">Page-1</title>
 		<g
-   id="group2042-1"
+   id="group2164-1"
    transform="translate(35.0781,-34.0157)">
 			<title
    id="title29">Reservation Auto Renew</title>
 			<g
-   id="group2043-2">
+   id="group2165-2">
 				<title
    id="title31">MsPortalFx.base.images-55</title>
 				<g
-   id="shape2044-3"
+   id="shape2166-3"
    transform="translate(3.49717,-4.71181)">
 					<title
-   id="title33">Sheet.2044</title>
+   id="title33">Sheet.2166</title>
 					<ellipse
    cx="26.5979"
    cy="98.718102"
@@ -155,10 +155,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2045-7"
+   id="shape2167-7"
    transform="translate(7.03947,-8.07244)">
 					<title
-   id="title38">Sheet.2045</title>
+   id="title38">Sheet.2167</title>
 					<ellipse
    cx="23.158701"
    cy="102.079"
@@ -169,10 +169,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2046-9"
+   id="shape2168-9"
    transform="translate(10.2885,-11.578)">
 					<title
-   id="title43">Sheet.2046</title>
+   id="title43">Sheet.2168</title>
 					<path
    d="m 30.67,94.16 2.8,-2.74 0.91,0.88 -2.81,2.74 z m 4.93,10.77 h 3.97 v 1.25 H 35.6 Z m -5.11,11.85 0.9,-0.88 2.8,2.74 -0.9,0.88 z m -11.22,4.05 h 1.28 v 3.88 H 19.27 Z M 5.31,92.18 l 0.9,-0.89 2.81,2.74 -0.91,0.89 z m 0.19,26.57 2.8,-2.74 0.91,0.88 -2.81,2.74 z M 0,104.93 h 3.97 v 1.25 H 0 Z"
    class="st3"
@@ -181,10 +181,10 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2047-11"
+   id="shape2169-11"
    transform="translate(28.5705,-29.9276)">
 					<title
-   id="title48">Sheet.2047</title>
+   id="title48">Sheet.2169</title>
 					<path
    d="m 0,123.12 a 1.62776,1.59059 -180 0 0 1.63,1.59 h 0.31 a 1.62776,1.59059 -180 0 0 1.63,-1.59 V 106.37 A 1.62776,1.59059 -180 0 0 1.94,104.78 H 1.63 A 1.62776,1.59059 -180 0 0 0,106.37 Z"
    class="st3"
@@ -193,10 +193,10 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2048-13"
+   id="shape2170-13"
    transform="rotate(135,22.513123,115.58749)">
 					<title
-   id="title53">Sheet.2048</title>
+   id="title53">Sheet.2170</title>
 					<path
    d="m 0,123.12 a 1.62453,1.58744 -180 0 0 1.62,1.59 h 0.32 a 1.62453,1.58744 -180 0 0 1.62,-1.59 v -9.3 A 1.62453,1.58744 -180 0 0 1.94,112.23 H 1.62 A 1.62453,1.58744 -180 0 0 0,113.82 Z"
    class="st3"
@@ -205,10 +205,10 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2049-15"
+   id="shape2171-15"
    transform="translate(26.4464,-27.0646)">
 					<title
-   id="title58">Sheet.2049</title>
+   id="title58">Sheet.2171</title>
 					<ellipse
    cx="3.76792"
    cy="121.027"
@@ -219,9 +219,9 @@
    style="fill:url(#grad7-18);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2050-19">
+   id="shape2172-19">
 					<title
-   id="title63">Sheet.2050</title>
+   id="title63">Sheet.2172</title>
 					<path
    d="m 24.83,68.48 a 26.7332,26.1228 -180 0 0 -8.63,47.89 l 0.89,-2.28 a 0.518936,0.507087 0 0 1 0.886381,-0.14488 L 24.91,122.16 a 0.518936,0.507087 0 0 1 -0.32232,0.8252 L 13.81,124.71 a 0.522159,0.510236 0 0 1 -0.570507,-0.68031 L 14.53,120.65 A 31.3263,30.611 0 0 1 0,102.51 27.2747,26.652 0 0 1 24.83,68.48 Z"
    class="st5"

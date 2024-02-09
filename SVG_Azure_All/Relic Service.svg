@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.189999"
-   height="56.7005"
-   viewBox="0 0 48.19 56.7005"
+   width="0.66930288in"
+   height="0.78750384in"
+   viewBox="0 0 48.189985 56.700517"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview31"
    showgrid="false"
-   inkscape:zoom="2.0965478"
-   inkscape:cx="24.094549"
-   inkscape:cy="22.271299"
+   inkscape:zoom="1.5724175"
+   inkscape:cx="32.125956"
+   inkscape:cy="29.69497"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -59,19 +59,19 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group2086-1"
+   id="group2213-1"
    transform="translate(21.8571,-34.0157)">
 			<title
    id="title6">Relic Service</title>
 			<g
-   id="group2087-2">
+   id="group2214-2">
 				<title
-   id="title8">Sheet.2087</title>
+   id="title8">Sheet.2214</title>
 				<g
-   id="shape2088-3"
+   id="shape2215-3"
    transform="translate(24.0945,-0.00175357)">
 					<title
-   id="title10">Sheet.2088</title>
+   id="title10">Sheet.2215</title>
 					<path
    d="M 14.82,75.5 V 92.94 L 0,101.66 v 10.91 L 24.09,98.39 V 70.04 Z"
    class="st1"
@@ -80,10 +80,10 @@
    style="fill:#00ac69;stroke:none;stroke-width:21.85709953;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2089-5"
+   id="shape2216-5"
    transform="translate(0,-37.0705)">
 					<title
-   id="title15">Sheet.2089</title>
+   id="title15">Sheet.2216</title>
 					<path
    d="m 24.09,103.85 14.83,8.72 9.27,-5.46 L 24.09,92.94 0,107.11 l 9.27,5.46 z"
    class="st2"
@@ -92,9 +92,9 @@
    style="fill:#1ce783;stroke:none;stroke-width:21.85709953;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2090-7">
+   id="shape2217-7">
 					<title
-   id="title20">Sheet.2090</title>
+   id="title20">Sheet.2217</title>
 					<path
    d="m 14.83,89.67 v 17.44 l 9.26,5.46 V 84.22 L 0,70.04 v 10.91 z"
    class="st3"

@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.404575"
-   height="53.899158"
-   viewBox="0 0 56.404576 53.89916"
+   width="0.78339458in"
+   height="0.74859726in"
+   viewBox="0 0 56.404573 53.898844"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview34"
    showgrid="false"
-   inkscape:zoom="1.935648"
-   inkscape:cx="28.204755"
-   inkscape:cy="26.942802"
+   inkscape:zoom="1.4517316"
+   inkscape:cx="37.606233"
+   inkscape:cy="35.923631"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -94,22 +94,22 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g30"
-   transform="translate(-33.998743,-34.005141)">
+   transform="translate(-33.998743,-34.005499)">
 		<title
    id="title10">Page-1</title>
 		<g
-   id="group10234-1"
+   id="group10744-1"
    transform="translate(33.8642,-34.0157)">
 			<title
    id="title12">Application Gateway Backend Health</title>
 			<g
-   id="group10235-2">
+   id="group10745-2">
 				<title
    id="title14">MsPortalFx.base.images-73</title>
 				<g
-   id="shape10236-3">
+   id="shape10746-3">
 					<title
-   id="title16">Sheet.10236</title>
+   id="title16">Sheet.10746</title>
 					<path
    d="M 28.34,121.92 C 55.47,102.28 56.38,90.82 56.52,87.24 56.69,82.22 56,69.08 42.9,68.07 A 14.1741,14.3197 -180 0 0 28.34,77.64 14.1741,14.3197 -180 0 0 13.79,68.07 C 0.69,69.1 0,82.22 0.15,87.24 c 0.12,3.58 1.04,15.04 28.19,34.68 z"
    class="st1"
@@ -118,10 +118,10 @@
    style="fill:url(#linearGradient4547);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10237-7"
+   id="shape10747-7"
    transform="translate(0,-0.160176)">
 					<title
-   id="title21">Sheet.10237</title>
+   id="title21">Sheet.10747</title>
 					<path
    d="M 56.52,87.4 C 56.69,82.38 56,69.24 42.9,68.23 A 14.1741,14.3197 -180 0 0 28.34,77.8 14.1741,14.3197 -180 0 0 13.79,68.23 C 0.69,69.26 0,82.38 0.15,87.4 c 0.12,3.58 0.8,14.87 27.93,34.52 z"
    class="st2"

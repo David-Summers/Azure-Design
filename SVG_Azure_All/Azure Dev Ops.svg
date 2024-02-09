@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="56.689999"
-   viewBox="0 0 56.689997 56.69"
+   width="0.78735912in"
+   height="0.78735912in"
+   viewBox="0 0 56.689855 56.689997"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview36"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="28.346461"
-   inkscape:cy="14.175301"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="37.795184"
+   inkscape:cy="18.900351"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -88,26 +88,26 @@
 	</defs>
 	<g
    id="g32"
-   transform="translate(-5.66929,-5.6743)">
+   transform="translate(-5.6693772,-5.6743)">
 		<title
    id="title16">Page-1</title>
 		<g
-   id="group8689-1"
+   id="group9308-1"
    transform="translate(5.66929,-34.0157)">
 			<title
    id="title18">Azure Dev Ops</title>
 			<g
-   id="group8690-2">
+   id="group9309-2">
 				<title
    id="title20">Page-1</title>
 				<g
-   id="group8691-3">
+   id="group9310-3">
 					<title
    id="title22">a91f0ca4-8fb7-4019-9c09-0a52e2c</title>
 					<g
-   id="shape8692-4">
+   id="shape9311-4">
 						<title
-   id="title24">Sheet.8692</title>
+   id="title24">Sheet.9311</title>
 						<path
    d="m 56.69,50.3 v 34.47 l -14.17,11.61 -21.97,-8 v 7.93 L 8.11,80.06 44.36,82.89 V 51.86 Z M 44.61,52.03 24.27,39.69 v 8.1 L 5.6,53.27 0,60.46 v 16.31 l 8.01,3.54 V 59.4 Z"
    class="st1"

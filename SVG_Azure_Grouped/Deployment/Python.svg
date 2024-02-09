@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.6964"
-   height="56.725723"
-   viewBox="0 0 56.696401 56.725723"
+   width="0.78744888in"
+   height="0.78785616in"
+   viewBox="0 0 56.696121 56.725723"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview36"
    showgrid="false"
-   inkscape:zoom="2.3669137"
-   inkscape:cx="28.346449"
-   inkscape:cy="15.854542"
+   inkscape:zoom="1.7751878"
+   inkscape:cx="37.795214"
+   inkscape:cy="21.139361"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -55,20 +55,20 @@
 
 	<g
    id="g32"
-   transform="translate(-8.9811,-8.9827693)">
+   transform="translate(-8.9812831,-8.9827693)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group18323-1"
+   id="group19443-1"
    transform="translate(8.9811,-34.0157)">
 			<title
-   id="title6">Python.18323</title>
+   id="title6">Python.19443</title>
 			<g
-   id="group18324-2">
+   id="group19444-2">
 				<title
    id="title8">layer1</title>
 				<g
-   id="shape18325-3"
+   id="shape19445-3"
    transform="translate(0,-14.4977)">
 					<title
    id="title10">path6</title>
@@ -80,7 +80,7 @@
    style="fill:#3772a4;stroke:none;stroke-width:8.98110008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18326-5"
+   id="shape19446-5"
    transform="translate(17.998,-47.7054)">
 					<title
    id="title15">path8</title>
@@ -92,7 +92,7 @@
    style="fill:#000000;stroke:none;stroke-width:8.98110008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18327-7"
+   id="shape19447-7"
    transform="translate(14.9564)">
 					<title
    id="title20">path10</title>
@@ -104,7 +104,7 @@
    style="fill:#ffda4b;stroke:none;stroke-width:8.98110008;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape18328-9"
+   id="shape19448-9"
    transform="translate(33.7549,-4.55682)">
 					<title
    id="title25">path12</title>

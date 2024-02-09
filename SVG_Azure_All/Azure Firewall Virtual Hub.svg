@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.16787"
-   height="57.655312"
-   viewBox="0 0 48.16787 57.655313"
+   width="0.66899675in"
+   height="0.80076641in"
+   viewBox="0 0 48.167873 57.655006"
    xml:space="preserve"
    class="st7"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview66"
    showgrid="false"
-   inkscape:zoom="2.269449"
-   inkscape:cx="24.082039"
-   inkscape:cy="17.9773"
+   inkscape:zoom="1.7020816"
+   inkscape:cx="32.109314"
+   inkscape:cy="23.969675"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -58,20 +58,20 @@
 
 	<g
    id="g62"
-   transform="translate(-12.321961,-12.316988)">
+   transform="translate(-12.321961,-12.317259)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group8552-1"
+   id="group9171-1"
    transform="translate(13.7159,-34.0157)">
 			<title
    id="title6">Azure Firewall Virtual Hub</title>
 			<g
-   id="group8553-2">
+   id="group9172-2">
 				<title
    id="title8">layer1</title>
 				<g
-   id="shape8554-3"
+   id="shape9173-3"
    transform="translate(5.67672,-9.24736)">
 					<title
    id="title10">path4</title>
@@ -83,7 +83,7 @@
    style="fill:#666666;stroke:none;stroke-width:12.31890011;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8555-5">
+   id="shape9174-5">
 					<title
    id="title15">path6</title>
 					<path
@@ -94,7 +94,7 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:12.31890011;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8556-7"
+   id="shape9175-7"
    transform="translate(7.27733,-31.8741)">
 					<title
    id="title20">path10</title>
@@ -106,7 +106,7 @@
    style="fill:#e62323;stroke:none;stroke-width:12.31890011;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8557-9"
+   id="shape9176-9"
    transform="translate(18.0262,-31.7092)">
 					<title
    id="title25">path12</title>
@@ -118,7 +118,7 @@
    style="fill:#ff7381;stroke:none;stroke-width:12.31890011;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8558-11"
+   id="shape9177-11"
    transform="translate(7.31442,-26.9085)">
 					<title
    id="title30">path14</title>
@@ -130,7 +130,7 @@
    style="fill:#e62323;stroke:none;stroke-width:12.31890011;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8559-13"
+   id="shape9178-13"
    transform="translate(12.6531,-26.9085)">
 					<title
    id="title35">path16</title>
@@ -142,7 +142,7 @@
    style="fill:#ff7381;stroke:none;stroke-width:12.31890011;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8560-15"
+   id="shape9179-15"
    transform="translate(7.14787,-21.4836)">
 					<title
    id="title40">path18</title>
@@ -154,7 +154,7 @@
    style="fill:#e62323;stroke:none;stroke-width:12.31890011;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8561-17"
+   id="shape9180-17"
    transform="translate(17.9647,-21.4196)">
 					<title
    id="title45">path20</title>
@@ -166,7 +166,7 @@
    style="fill:#ff7381;stroke:none;stroke-width:12.31890011;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8562-19"
+   id="shape9181-19"
    transform="translate(28.7209,-21.4832)">
 					<title
    id="title50">path22</title>
@@ -180,7 +180,7 @@
    style="fill:#e62323;stroke:none;stroke-width:13.24890041;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape8563-21"
+   id="shape9182-21"
    transform="translate(5.25793,-19.8048)">
 					<title
    id="title55">path8-5</title>

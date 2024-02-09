@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.697201"
-   height="56.689999"
-   viewBox="0 0 56.697203 56.69"
+   width="0.78745711in"
+   height="0.78735709in"
+   viewBox="0 0 56.69698 56.689998"
    xml:space="preserve"
    class="st8"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview86"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="28.346449"
-   inkscape:cy="17.459801"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="37.795072"
+   inkscape:cy="23.279613"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -59,22 +59,22 @@
 
 	<g
    id="g82"
-   transform="translate(-12.24,-12.2443)">
+   transform="translate(-12.24016,-12.2443)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group20262-1"
+   id="group21457-1"
    transform="translate(12.24,-34.0157)">
 			<title
-   id="title6">SQL Server Auditing.20262</title>
+   id="title6">SQL Server Auditing.21457</title>
 			<g
-   id="group20263-2">
+   id="group21458-2">
 				<title
-   id="title8">Sheet.20263</title>
+   id="title8">Sheet.21458</title>
 				<g
-   id="shape20264-3">
+   id="shape21459-3">
 					<title
-   id="title10">Sheet.20264</title>
+   id="title10">Sheet.21459</title>
 					<path
    d="m 33.34,100.11 c 0,1.59 -1.25,2.84 -2.84,2.84 H 2.83 C 1.25,102.95 0,101.7 0,100.11 V 49.09 C 0,47.5 1.25,46.26 2.83,46.26 h 27.56 c 1.58,0 2.83,1.24 2.83,2.83 v 51.02 z"
    class="st1"
@@ -83,10 +83,10 @@
    style="fill:#777777;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20265-5"
+   id="shape21460-5"
    transform="translate(4.87559,-22.4504)">
 					<title
-   id="title15">Sheet.20265</title>
+   id="title15">Sheet.21460</title>
 					<path
    d="m 0,99.32 c 0,-2.04 1.59,-3.63 3.63,-3.63 h 16.55 c 2.04,0 3.63,1.59 3.63,3.63 0,2.04 -1.59,3.63 -3.63,3.63 H 3.63 C 1.59,102.95 0,101.36 0,99.32 Z"
    class="st2"
@@ -95,10 +95,10 @@
    style="fill:#1e1e1e;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20266-7"
+   id="shape21461-7"
    transform="translate(6.23622,-23.6976)">
 					<title
-   id="title20">Sheet.20266</title>
+   id="title20">Sheet.21461</title>
 					<circle
    cx="2.3810999"
    cy="100.568"
@@ -108,10 +108,10 @@
    style="fill:#b8d432;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20267-9"
+   id="shape21462-9"
    transform="translate(4.87559,-33.222)">
 					<title
-   id="title25">Sheet.20267</title>
+   id="title25">Sheet.21462</title>
 					<path
    d="m 0,99.32 c 0,-2.04 1.59,-3.63 3.63,-3.63 h 16.55 c 2.04,0 3.63,1.59 3.63,3.63 0,2.04 -1.59,3.63 -3.63,3.63 H 3.63 C 1.59,102.95 0,101.36 0,99.32 Z"
    class="st2"
@@ -120,10 +120,10 @@
    style="fill:#1e1e1e;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20268-11"
+   id="shape21463-11"
    transform="translate(6.23622,-34.4693)">
 					<title
-   id="title30">Sheet.20268</title>
+   id="title30">Sheet.21463</title>
 					<circle
    cx="2.3810999"
    cy="100.568"
@@ -133,10 +133,10 @@
    style="fill:#b8d432;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20269-13"
+   id="shape21464-13"
    transform="translate(4.87559,-43.8803)">
 					<title
-   id="title35">Sheet.20269</title>
+   id="title35">Sheet.21464</title>
 					<path
    d="m 0,99.32 c 0,-2.04 1.59,-3.63 3.63,-3.63 h 16.55 c 2.04,0 3.63,1.59 3.63,3.63 0,2.04 -1.59,3.63 -3.63,3.63 H 3.63 C 1.59,102.95 0,101.25 0,99.32 Z"
    class="st2"
@@ -145,10 +145,10 @@
    style="fill:#1e1e1e;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20270-15"
+   id="shape21465-15"
    transform="translate(6.23622,-45.1276)">
 					<title
-   id="title40">Sheet.20270</title>
+   id="title40">Sheet.21465</title>
 					<circle
    cx="2.3810999"
    cy="100.568"
@@ -158,10 +158,10 @@
    style="fill:#b8d432;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20271-17"
+   id="shape21466-17"
    transform="translate(22.6772)">
 					<title
-   id="title45">Sheet.20271</title>
+   id="title45">Sheet.21466</title>
 					<path
    d="M 32.66,61 H 1.36 C 0.57,61 0,61.56 0,62.36 v 39.23 c 0,0.79 0.57,1.36 1.36,1.36 h 31.3 c 0.79,0 1.36,-0.57 1.36,-1.36 V 62.36 C 34.02,61.56 33.45,61 32.66,61 Z"
    class="st4"
@@ -170,10 +170,10 @@
    style="fill:#59b4d9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20272-19"
+   id="shape21467-19"
    transform="translate(22.6772)">
 					<title
-   id="title50">Sheet.20272</title>
+   id="title50">Sheet.21467</title>
 					<path
    d="M 1.36,61 C 0.57,61 0,61.56 0,62.36 v 39.23 c 0,0.79 0.57,1.36 1.36,1.36 H 14.4 L 29.71,61 Z"
    class="st5"
@@ -182,10 +182,10 @@
    style="fill:#ffffff;fill-opacity:0.09800002;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20273-21"
+   id="shape21468-21"
    transform="translate(39.9118,-18.4819)">
 					<title
-   id="title55">Sheet.20273</title>
+   id="title55">Sheet.21468</title>
 					<rect
    x="0"
    y="100.681"
@@ -196,10 +196,10 @@
    style="fill:#ffffff;fill-opacity:0.6;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20274-23"
+   id="shape21469-23"
    transform="translate(27.2126,-16.3276)">
 					<title
-   id="title60">Sheet.20274</title>
+   id="title60">Sheet.21469</title>
 					<path
    d="M 0.45,86.96 0.11,86.51 C 0,86.39 0,86.28 0.11,86.17 l 1.14,-1.02 c 0,0 0.11,-0.12 0.22,-0.12 0.12,0 0.12,0 0.23,0.12 l 2.95,3.17 5.1,-6.46 c 0,-0.11 0.11,-0.11 0.23,-0.11 h 0.11 l 1.14,0.9 c 0,0 0.11,0.12 0.11,0.23 v 0.23 L 4.76,91.5 Z m 0,11.45 -0.34,-0.45 C 0,97.85 0,97.73 0.11,97.62 L 1.25,96.6 c 0,0 0.11,-0.11 0.22,-0.11 0.12,0 0.12,0 0.23,0.11 l 2.95,3.17 5.1,-6.46 c 0,-0.11 0.11,-0.11 0.23,-0.11 h 0.11 l 1.14,0.9 c 0,0 0.11,0.12 0.11,0.23 v 0.23 l -6.58,8.39 z"
    class="st7"
@@ -208,10 +208,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20275-25"
+   id="shape21470-25"
    transform="translate(39.9118,-30.0472)">
 					<title
-   id="title65">Sheet.20275</title>
+   id="title65">Sheet.21470</title>
 					<rect
    x="0"
    y="100.681"
@@ -222,10 +222,10 @@
    style="fill:#ffffff;fill-opacity:0.6;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20276-27"
+   id="shape21471-27"
    transform="translate(27.2126,-3.85512)">
 					<title
-   id="title70">Sheet.20276</title>
+   id="title70">Sheet.21471</title>
 					<path
    d="M 0.45,98.41 0.11,97.96 C 0,97.85 0,97.73 0.11,97.62 L 1.25,96.6 c 0,0 0.11,-0.11 0.22,-0.11 0.12,0 0.12,0 0.23,0.11 l 2.95,3.17 5.1,-6.46 c 0,-0.11 0.11,-0.11 0.23,-0.11 h 0.11 l 1.14,0.9 c 0,0 0.11,0.12 0.11,0.23 v 0.23 l -6.58,8.39 z"
    class="st7"
@@ -234,10 +234,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape20277-29"
+   id="shape21472-29"
    transform="translate(39.9118,-6.23622)">
 					<title
-   id="title75">Sheet.20277</title>
+   id="title75">Sheet.21472</title>
 					<rect
    x="0"
    y="100.681"

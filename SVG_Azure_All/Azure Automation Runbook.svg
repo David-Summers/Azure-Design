@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="50.916553"
-   height="56.6968"
-   viewBox="0 0 50.916555 56.696801"
+   width="0.70717257in"
+   height="0.78745359in"
+   viewBox="0 0 50.916368 56.696799"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview38"
    showgrid="false"
-   inkscape:zoom="2.4486917"
-   inkscape:cx="25.511789"
-   inkscape:cy="14.175301"
+   inkscape:zoom="1.8365233"
+   inkscape:cx="34.015635"
+   inkscape:cy="18.900351"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,16 +54,16 @@
 
 	<g
    id="g34"
-   transform="translate(-5.10236,-5.6675)">
+   transform="translate(-5.1024712,-5.6675)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group8982-1"
+   id="group9601-1"
    transform="translate(5.10236,-34.0157)">
 			<title
    id="title6">COLOUR-DEVELOPMENT_Azure-Automation-Runbook</title>
 			<g
-   id="shape8983-2"
+   id="shape9602-2"
    transform="translate(7.38355,-14.088)">
 				<title
    id="title8">path2</title>
@@ -75,7 +75,7 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape8984-4"
+   id="shape9603-4"
    transform="translate(23.2527,-26.2446)">
 				<title
    id="title13">rect4</title>
@@ -89,7 +89,7 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape8985-6"
+   id="shape9604-6"
    transform="translate(15.8691,-37.9468)">
 				<title
    id="title18">path6</title>
@@ -101,7 +101,7 @@
    style="fill:#59b4d9;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape8986-8">
+   id="shape9605-8">
 				<title
    id="title23">path8</title>
 				<path
@@ -112,7 +112,7 @@
    style="fill:#59b4d9;stroke:none;stroke-width:0.75;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape8987-10"
+   id="shape9606-10"
    transform="translate(31.8484)">
 				<title
    id="title28">path10</title>

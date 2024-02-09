@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="42.52"
-   height="56.700001"
-   viewBox="0 0 42.520001 56.700003"
+   width="0.59055406in"
+   height="0.787498in"
+   viewBox="0 0 42.519772 56.699999"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview21"
    showgrid="false"
-   inkscape:zoom="1.5097623"
-   inkscape:cx="21.259699"
-   inkscape:cy="28.350703"
+   inkscape:zoom="1.1323246"
+   inkscape:cx="28.346199"
+   inkscape:cy="37.800838"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -53,22 +53,22 @@
 
 	<g
    id="g17"
-   transform="translate(-49.8113,-49.8087)">
+   transform="translate(-49.811677,-49.8087)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group15704-1"
+   id="group17150-1"
    transform="translate(49.8113,-49.8113)">
 			<title
-   id="title6">App Service Reset Publish Profile.15704</title>
+   id="title6">App Service Reset Publish Profile.17150</title>
 			<g
-   id="group15705-2">
+   id="group17151-2">
 				<title
-   id="title8">Sheet.15705</title>
+   id="title8">Sheet.17151</title>
 				<g
-   id="shape15706-3">
+   id="shape17152-3">
 					<title
-   id="title10">Sheet.15706</title>
+   id="title10">Sheet.17152</title>
 					<path
    d="M 17.72,117.45 H 0 V 99.62 h 3.54 v 11.77 l 2.84,-3.21 2.83,-2.5 2.84,-2.49 3.19,-1.78 a 6.02362,6.06151 0 0 1 3.54,-1.07 l 4.25,-0.72 4.96,0.72 4.96,2.14 3.9,2.85 a 17.7165,17.828 0 0 1 2.84,4.28 18.4252,18.5411 0 0 1 2.12,4.63 20.9055,21.037 0 0 1 0.71,4.99 27.6378,27.8116 0 0 1 -1.42,7.49 23.3858,23.5329 0 0 1 -4.25,6.06 l -23.03,23.54 -2.84,-2.86 23.39,-23.17 a 14.8819,14.9755 -180 0 0 3.19,-5 12.4016,12.4796 -180 0 0 1.42,-6.06 11.6929,11.7665 -180 0 0 -1.42,-6.06 9.92126,9.98366 -180 0 0 -3.54,-4.99 9.92126,9.98366 -180 0 0 -4.96,-3.57 11.6929,11.7665 -180 0 0 -6.03,-1.42 11.6929,11.7665 -180 0 0 -5.31,1.07 l -4.26,2.49 -3.54,3.21 -3.9,3.93 h 11.7 z"
    class="st1"

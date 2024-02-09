@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.690228"
-   height="56.695084"
-   viewBox="0 0 56.690227 56.695084"
+   width="0.78735995in"
+   height="0.78742737in"
+   viewBox="0 0 56.689825 56.695081"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview71"
    showgrid="false"
-   inkscape:zoom="1.8924055"
-   inkscape:cx="28.3465"
-   inkscape:cy="28.3398"
+   inkscape:zoom="1.4193119"
+   inkscape:cx="37.795128"
+   inkscape:cy="37.786193"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -148,23 +148,23 @@
 	</defs>
 	<g
    id="g67"
-   transform="translate(-34,-33.999218)">
+   transform="translate(-34.000441,-33.999218)">
 		<title
    id="title34">Page-1</title>
 		<g
-   id="group2313-1"
+   id="group2449-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title36">Preview Feature</title>
 			<g
-   id="group2314-2">
+   id="group2450-2">
 				<title
-   id="title38">Sheet.2314</title>
+   id="title38">Sheet.2450</title>
 				<g
-   id="shape2315-3"
+   id="shape2451-3"
    transform="translate(31.3134,-31.3102)">
 					<title
-   id="title40">Sheet.2315</title>
+   id="title40">Sheet.2451</title>
 					<path
    d="M 12.69,124.71 A 0.944882,0.944882 0 0 1 11.745118,123.76512 10.8094,10.8094 -180 0 0 0.94,112.96 0.944882,0.944882 0 0 1 -0.004882,112.01512 0.944882,0.944882 0 0 1 0.94,111.07024 10.8094,10.8094 -180 0 0 11.74,100.27 0.944882,0.944882 0 0 1 12.684882,99.325118 0.944882,0.944882 0 0 1 13.629764,100.27 10.8094,10.8094 -180 0 0 24.43,111.07 a 0.944882,0.944882 0 1 1 0,1.88976 10.8094,10.8094 -180 0 0 -10.79,10.80024 0.944882,0.944882 0 0 1 -0.948031,0.95118 z"
    class="st1"
@@ -173,10 +173,10 @@
    style="fill:#5e9624;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2316-5"
+   id="shape2452-5"
    transform="translate(0,-31.3102)">
 					<title
-   id="title45">Sheet.2316</title>
+   id="title45">Sheet.2452</title>
 					<path
    d="m 0,122.82 a 1.88981,1.88981 -180 0 0 1.89,1.89 h 21.6 a 1.88981,1.88981 -180 0 0 1.89,-1.89 v -21.6 A 1.88981,1.88981 -180 0 0 23.49,99.33 H 1.89 A 1.88981,1.88981 -180 0 0 0,101.22 Z"
    class="st2"
@@ -185,9 +185,9 @@
    style="fill:url(#grad0-8);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2317-9">
+   id="shape2453-9">
 					<title
-   id="title50">Sheet.2317</title>
+   id="title50">Sheet.2453</title>
 					<path
    d="m 0,122.82 a 1.88981,1.88981 -180 0 0 1.89,1.89 h 21.6 a 1.88981,1.88981 -180 0 0 1.89,-1.89 v -21.6 A 1.88981,1.88981 -180 0 0 23.49,99.33 H 1.89 A 1.88981,1.88981 -180 0 0 0,101.22 Z"
    class="st3"
@@ -196,10 +196,10 @@
    style="fill:url(#grad0-12);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2318-13"
+   id="shape2454-13"
    transform="translate(31.3102)">
 					<title
-   id="title55">Sheet.2318</title>
+   id="title55">Sheet.2454</title>
 					<path
    d="m 0,122.82 a 1.88981,1.88981 -180 0 0 1.89,1.89 h 21.6 a 1.88981,1.88981 -180 0 0 1.89,-1.89 v -21.6 A 1.88981,1.88981 -180 0 0 23.49,99.33 H 1.89 A 1.88981,1.88981 -180 0 0 0,101.22 Z"
    class="st4"
@@ -208,10 +208,10 @@
    style="fill:url(#grad0-16);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape2319-17"
+   id="shape2455-17"
    transform="translate(2.96063,-2.96378)">
 					<title
-   id="title60">Sheet.2319</title>
+   id="title60">Sheet.2455</title>
 					<path
    d="M 17.56,93.4 H 1.9 A 1.88976,1.88976 0 0 1 0.01,91.51 V 75.83 A 1.88976,1.88976 0 0 1 1.9,73.94 h 15.66 a 1.88976,1.88976 0 0 1 1.89,1.89 V 91.5 a 1.88976,1.88976 0 0 1 -1.89,1.9 z m 1.89,29.41 v -15.66 a 1.88976,1.88976 -180 0 0 -1.89,-1.89 H 1.89 A 1.88976,1.88976 -180 0 0 0,107.15 v 15.67 a 1.88976,1.88976 -180 0 0 1.89,1.89 h 15.67 a 1.88976,1.88976 -180 0 0 1.9,-1.9 z m 31.32,0 v -15.66 a 1.88976,1.88976 -180 0 0 -1.89,-1.89 H 33.2 a 1.88976,1.88976 -180 0 0 -1.89,1.89 v 15.67 a 1.88976,1.88976 -180 0 0 1.89,1.89 h 15.67 a 1.88976,1.88976 -180 0 0 1.9,-1.9 z"
    class="st5"

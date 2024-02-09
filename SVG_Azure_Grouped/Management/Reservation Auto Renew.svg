@@ -132,19 +132,19 @@
 		<title
    id="title27">Page-1</title>
 		<g
-   id="group13102-1"
+   id="group14343-1"
    transform="translate(35.0781,-34.0157)">
 			<title
-   id="title29">Reservation Auto Renew.13102</title>
+   id="title29">Reservation Auto Renew.14343</title>
 			<g
-   id="group13103-2">
+   id="group14344-2">
 				<title
    id="title31">MsPortalFx.base.images-55</title>
 				<g
-   id="shape13104-3"
+   id="shape14345-3"
    transform="translate(3.49717,-4.71181)">
 					<title
-   id="title33">Sheet.13104</title>
+   id="title33">Sheet.14345</title>
 					<ellipse
    cx="26.5979"
    cy="98.718102"
@@ -155,10 +155,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13105-7"
+   id="shape14346-7"
    transform="translate(7.03947,-8.07244)">
 					<title
-   id="title38">Sheet.13105</title>
+   id="title38">Sheet.14346</title>
 					<ellipse
    cx="23.158701"
    cy="102.079"
@@ -169,10 +169,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13106-9"
+   id="shape14347-9"
    transform="translate(10.2885,-11.578)">
 					<title
-   id="title43">Sheet.13106</title>
+   id="title43">Sheet.14347</title>
 					<path
    d="m 30.67,94.16 2.8,-2.74 0.91,0.88 -2.81,2.74 z m 4.93,10.77 h 3.97 v 1.25 H 35.6 Z m -5.11,11.85 0.9,-0.88 2.8,2.74 -0.9,0.88 z m -11.22,4.05 h 1.28 v 3.88 H 19.27 Z M 5.31,92.18 l 0.9,-0.89 2.81,2.74 -0.91,0.89 z m 0.19,26.57 2.8,-2.74 0.91,0.88 -2.81,2.74 z M 0,104.93 h 3.97 v 1.25 H 0 Z"
    class="st3"
@@ -181,10 +181,10 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13107-11"
+   id="shape14348-11"
    transform="translate(28.5705,-29.9276)">
 					<title
-   id="title48">Sheet.13107</title>
+   id="title48">Sheet.14348</title>
 					<path
    d="m 0,123.12 a 1.62776,1.59059 -180 0 0 1.63,1.59 h 0.31 a 1.62776,1.59059 -180 0 0 1.63,-1.59 V 106.37 A 1.62776,1.59059 -180 0 0 1.94,104.78 H 1.63 A 1.62776,1.59059 -180 0 0 0,106.37 Z"
    class="st3"
@@ -193,10 +193,10 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13108-13"
+   id="shape14349-13"
    transform="rotate(135,22.513123,115.58749)">
 					<title
-   id="title53">Sheet.13108</title>
+   id="title53">Sheet.14349</title>
 					<path
    d="m 0,123.12 a 1.62453,1.58744 -180 0 0 1.62,1.59 h 0.32 a 1.62453,1.58744 -180 0 0 1.62,-1.59 v -9.3 A 1.62453,1.58744 -180 0 0 1.94,112.23 H 1.62 A 1.62453,1.58744 -180 0 0 0,113.82 Z"
    class="st3"
@@ -205,10 +205,10 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13109-15"
+   id="shape14350-15"
    transform="translate(26.4464,-27.0646)">
 					<title
-   id="title58">Sheet.13109</title>
+   id="title58">Sheet.14350</title>
 					<ellipse
    cx="3.76792"
    cy="121.027"
@@ -219,9 +219,9 @@
    style="fill:url(#grad7-18);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape13110-19">
+   id="shape14351-19">
 					<title
-   id="title63">Sheet.13110</title>
+   id="title63">Sheet.14351</title>
 					<path
    d="m 24.83,68.48 a 26.7332,26.1228 -180 0 0 -8.63,47.89 l 0.89,-2.28 a 0.518936,0.507087 0 0 1 0.886381,-0.14488 L 24.91,122.16 a 0.518936,0.507087 0 0 1 -0.32232,0.8252 L 13.81,124.71 a 0.522159,0.510236 0 0 1 -0.570507,-0.68031 L 14.53,120.65 A 31.3263,30.611 0 0 1 0,102.51 27.2747,26.652 0 0 1 24.83,68.48 Z"
    class="st5"

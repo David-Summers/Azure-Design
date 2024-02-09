@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="53.859402"
-   height="56.697277"
-   viewBox="0 0 53.859402 56.697276"
+   width="0.7480467in"
+   height="0.78746164in"
+   viewBox="0 0 53.859401 56.697122"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview60"
    showgrid="false"
-   inkscape:zoom="2.4011313"
-   inkscape:cx="26.928586"
-   inkscape:cy="15.13465"
+   inkscape:zoom="1.8008448"
+   inkscape:cx="35.904755"
+   inkscape:cy="20.179522"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -129,32 +129,32 @@
 	</defs>
 	<g
    id="g56"
-   transform="translate(-7.5789139,-7.5808721)">
+   transform="translate(-7.5789139,-7.5810089)">
 		<title
    id="title29">Page-1</title>
 		<g
-   id="group5803-1"
+   id="group6311-1"
    transform="translate(7.57834,-34.0157)">
 			<title
    id="title31">Diagnostics</title>
 			<g
-   id="group5804-2">
+   id="group6312-2">
 				<title
    id="title33">g10</title>
 				<g
-   id="group5805-3">
+   id="group6313-3">
 					<title
    id="title35">g14-9</title>
 					<g
-   id="group5806-4">
+   id="group6314-4">
 						<title
    id="title37">Icon691_DataBox_Gateway</title>
 						<g
-   id="group5807-5">
+   id="group6315-5">
 							<title
    id="title39">Icon-intune-341</title>
 							<g
-   id="shape5808-6"
+   id="shape6316-6"
    transform="translate(0,-0.131944)">
 								<title
    id="title41">path4</title>
@@ -166,7 +166,7 @@
    style="fill:url(#grad0-9);stroke:none;stroke-width:7.57834005" />
 							</g>
 							<g
-   id="shape5809-10"
+   id="shape6317-10"
    transform="translate(0.567547)">
 								<title
    id="title46">path6</title>

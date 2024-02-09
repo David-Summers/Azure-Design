@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="59.4744"
-   height="47.017128"
-   viewBox="0 0 59.474399 47.017128"
+   width="0.82603204in"
+   height="0.65301466in"
+   viewBox="0 0 59.474399 47.017022"
    xml:space="preserve"
    class="st7"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview67"
    showgrid="false"
-   inkscape:zoom="2.0516387"
-   inkscape:cx="29.736708"
-   inkscape:cy="23.499324"
+   inkscape:zoom="1.5387279"
+   inkscape:cx="39.648882"
+   inkscape:cy="31.332383"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -136,23 +136,23 @@
 	</defs>
 	<g
    id="g63"
-   transform="translate(-33.997793,-33.997195)">
+   transform="translate(-33.997793,-33.997325)">
 		<title
    id="title25">Page-1</title>
 		<g
-   id="group6722-1"
+   id="group7296-1"
    transform="translate(36.7758,-34.0157)">
 			<title
    id="title27">Cognitive Services Personaliser</title>
 			<g
-   id="group6723-2">
+   id="group7297-2">
 				<title
-   id="title29">Sheet.6723</title>
+   id="title29">Sheet.7297</title>
 				<g
-   id="shape6724-3"
+   id="shape7298-3"
    transform="translate(11.8474,-29.2229)">
 					<title
-   id="title31">Sheet.6724</title>
+   id="title31">Sheet.7298</title>
 					<path
    d="m 8.98,104.12 a 16.5349,16.0673 0 0 1 15.65,10.91 l 7.05,-1.11 A 23.5948,22.9276 -180 0 0 0,98.96 l 1.01,7.15 a 16.3928,15.9292 0 0 1 7.97,-1.99 z"
    class="st1"
@@ -161,10 +161,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6725-7"
+   id="shape7299-7"
    transform="translate(0,-1.76863)">
 					<title
-   id="title36">Sheet.6725</title>
+   id="title36">Sheet.7299</title>
 					<path
    d="M 36.38,87.38 A 16.3267,15.865 0 0 1 37.33,92.7 16.5183,16.0512 0 1 1 7.76,82.89 c 0,0 1.16,-1.58 1.69,-2.16 a 0.419566,0.407701 0 0 1 0.416262,0.03852 L 10.12,80.94 13.9,83.57 a 0.429477,0.417332 -180 0 0 0.660734,-0.407701 L 12.71,72.22 A 0.964671,0.937391 -180 0 0 11.60327,71.449541 L 0.35,73.26 A 0.429477,0.417332 -180 0 0 0.171602,74.011197 L 3.95,76.64 a 23.5849,22.9179 -180 1 0 39.14,8.52 z"
    class="st2"
@@ -173,10 +173,10 @@
    style="fill:url(#grad0-10);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6726-11"
+   id="shape7300-11"
    transform="translate(32.1418,-3.25519)">
 					<title
-   id="title41">Sheet.6726</title>
+   id="title41">Sheet.7300</title>
 					<path
    d="m 22.35,115.03 a 2.18372,2.12197 -180 0 0 2.2,-2.12 1.8038,1.75279 -180 0 0 0,-0.25 c -0.86,-6.68 -4.78,-12.11 -12.25,-12.11 -7.6,0 -11.54,4.6 -12.3,12.13 a 2.19694,2.13481 -180 0 0 1.96,2.34 h 0.22 z"
    class="st3"
@@ -185,10 +185,10 @@
    style="fill:#32bedd;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6727-13"
+   id="shape7301-13"
    transform="translate(37.5301,-16.1507)">
 					<title
-   id="title46">Sheet.6727</title>
+   id="title46">Sheet.7301</title>
 					<ellipse
    cx="6.8914499"
    cy="108.334"
@@ -199,10 +199,10 @@
    style="fill:url(#grad0-16);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6728-17"
+   id="shape7302-17"
    transform="translate(15.8316)">
 					<title
-   id="title51">Sheet.6728</title>
+   id="title51">Sheet.7302</title>
 					<path
    d="m 28.45,115.03 a 2.77839,2.69982 -180 0 0 2.79,-2.69 2.82464,2.74476 -180 0 0 -0.02,-0.32 C 30.12,103.53 25.14,96.61 15.63,96.61 5.96,96.61 0.97,102.46 0,112.02 a 2.7916,2.71266 -180 0 0 2.49,2.98 2.62311,2.54893 -180 0 0 0.28,0 z"
    class="st5"
@@ -211,10 +211,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6729-19"
+   id="shape7303-19"
    transform="translate(22.6999,-16.3979)">
 					<title
-   id="title56">Sheet.6729</title>
+   id="title56">Sheet.7303</title>
 					<ellipse
    cx="8.7646303"
    cy="106.514"

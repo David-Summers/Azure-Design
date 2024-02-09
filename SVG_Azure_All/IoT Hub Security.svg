@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="42.515312"
-   height="56.6903"
-   viewBox="0 0 42.515313 56.6903"
+   width="0.59048778in"
+   height="0.78736174in"
+   viewBox="0 0 42.515168 56.6903"
    xml:space="preserve"
    class="st4"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview31"
    showgrid="false"
-   inkscape:zoom="2.0440156"
-   inkscape:cx="21.25985"
-   inkscape:cy="23.7148"
+   inkscape:zoom="1.5330186"
+   inkscape:cx="28.346339"
+   inkscape:cy="31.619591"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -55,20 +55,20 @@
 
 	<g
    id="g27"
-   transform="translate(-24.75,-24.754)">
+   transform="translate(-24.750155,-24.754)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group3989-1"
+   id="group4238-1"
    transform="translate(24.75,-34.0157)">
 			<title
    id="title6">IoT Hub Security</title>
 			<g
-   id="group3990-2">
+   id="group4239-2">
 				<title
    id="title8"> IOT</title>
 				<g
-   id="shape3991-3"
+   id="shape4240-3"
    transform="translate(0.305312)">
 					<title
    id="title10">path6</title>
@@ -80,7 +80,7 @@
    style="fill:#7fba00;stroke:none;stroke-width:24.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3992-5"
+   id="shape4241-5"
    transform="translate(0,-11.0803)">
 					<title
    id="title15">path8</title>
@@ -92,7 +92,7 @@
    style="fill:#96c414;stroke:none;stroke-width:24.75;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape3993-7"
+   id="shape4242-7"
    transform="translate(7.01371,-18.2964)">
 					<title
    id="title20">path10</title>

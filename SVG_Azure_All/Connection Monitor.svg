@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.693001"
-   height="56.6917"
-   viewBox="0 0 56.693003 56.691701"
+   width="0.78739876in"
+   height="0.7873807in"
+   viewBox="0 0 56.692778 56.691698"
    xml:space="preserve"
    class="st10"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview76"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="28.346449"
-   inkscape:cy="17.4584"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="37.795072"
+   inkscape:cy="23.277745"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -61,20 +61,20 @@
 
 	<g
    id="g72"
-   transform="translate(-12.24,-12.2412)">
+   transform="translate(-12.24016,-12.2412)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group6550-1"
+   id="group7089-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Connection Monitor</title>
 			<g
-   id="group6551-2">
+   id="group7090-2">
 				<title
    id="title8">g28</title>
 				<g
-   id="shape6552-3"
+   id="shape7091-3"
    transform="translate(9.08904,-4.52152)">
 					<title
    id="title10">path4</title>
@@ -86,7 +86,7 @@
    style="fill:#7a7a7a;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6553-5"
+   id="shape7092-5"
    transform="translate(0,-16.6531)">
 					<title
    id="title15">path6</title>
@@ -98,7 +98,7 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6554-7"
+   id="shape7093-7"
    transform="translate(0,-16.6519)">
 					<title
    id="title20">path8</title>
@@ -110,7 +110,7 @@
    style="fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6555-9"
+   id="shape7094-9"
    transform="translate(4.54452,-20.7526)">
 					<title
    id="title25">path10</title>
@@ -124,7 +124,7 @@
    style="fill:#59b4d9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6556-11"
+   id="shape7095-11"
    transform="translate(4.47863,-21.1132)">
 					<title
    id="title30">path12</title>
@@ -136,7 +136,7 @@
    style="fill:#59b4d9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6557-13"
+   id="shape7096-13"
    transform="translate(9.08904,-4.52152)">
 					<title
    id="title35">path14</title>
@@ -148,7 +148,7 @@
    style="fill:#a0a1a2;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6558-15"
+   id="shape7097-15"
    transform="translate(26.4593,-53.551)">
 					<title
    id="title40">path16</title>
@@ -160,7 +160,7 @@
    style="fill:#b8d432;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6559-17"
+   id="shape7098-17"
    transform="translate(17.4476,-37.8022)">
 					<title
    id="title45">path18</title>
@@ -172,7 +172,7 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6560-19"
+   id="shape7099-19"
    transform="translate(16.0206,-23.9548)">
 					<title
    id="title50">path20</title>
@@ -184,7 +184,7 @@
    style="fill:#ffffff;fill-opacity:0.7;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6561-21"
+   id="shape7100-21"
    transform="translate(28.4033,-23.9548)">
 					<title
    id="title55">path22</title>
@@ -196,7 +196,7 @@
    style="fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6562-23"
+   id="shape7101-23"
    transform="translate(29.653)">
 					<title
    id="title60">circle24</title>
@@ -210,7 +210,7 @@
    style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape6563-25"
+   id="shape7102-25"
    transform="translate(33.3818,-3.80503)">
 					<title
    id="title65">path26</title>

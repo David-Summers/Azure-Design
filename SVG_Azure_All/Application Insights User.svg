@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="42.521149"
-   height="56.689999"
-   viewBox="0 0 42.521147 56.69"
+   width="0.59056848in"
+   height="0.78735709in"
+   viewBox="0 0 42.520949 56.689998"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview26"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="21.259851"
-   inkscape:cy="17.459801"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="28.346323"
+   inkscape:cy="23.279613"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -54,23 +54,23 @@
 
 	<g
    id="g22"
-   transform="translate(-12.24,-12.2443)">
+   transform="translate(-12.240156,-12.2443)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group10021-1"
+   id="group10531-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Application Insights User</title>
 			<g
-   id="group10022-2">
+   id="group10532-2">
 				<title
-   id="title8">Sheet.10022</title>
+   id="title8">Sheet.10532</title>
 				<g
-   id="shape10023-3"
+   id="shape10533-3"
    transform="translate(0.00114918)">
 					<title
-   id="title10">Sheet.10023</title>
+   id="title10">Sheet.10533</title>
 					<path
    d="m 33.16,57.9 c 0,6.43 -5.33,11.64 -11.9,11.64 -6.58,0 -11.9,-5.21 -11.9,-11.64 0,-6.43 5.32,-11.64 11.9,-11.64 6.57,0 11.9,5.21 11.9,11.64 z m -3.2,15.63 -8.7,11.93 -8.71,-11.93 H 0 v 29.42 H 42.52 V 73.53 Z"
    class="st1"
@@ -79,9 +79,9 @@
    style="fill:#59b4d9;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape10024-5">
+   id="shape10534-5">
 					<title
-   id="title15">Sheet.10024</title>
+   id="title15">Sheet.10534</title>
 					<path
    d="m 9.36,57.9 c 0,6.33 5.17,11.48 11.61,11.63 l 2.99,-22.96 a 11.917,11.7581 -180 0 0 -2.7,-0.31 c -6.57,0 -11.9,5.21 -11.9,11.64 z m 3.2,15.63 H 0 v 29.42 H 16.67 L 19.3,82.78 Z"
    class="st2"

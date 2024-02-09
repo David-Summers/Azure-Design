@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.184422"
-   height="56.687721"
-   viewBox="0 0 48.184421 56.68772"
+   width="0.66922468in"
+   height="0.78732538in"
+   viewBox="0 0 48.184423 56.687428"
    xml:space="preserve"
    class="st12"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview202"
    showgrid="false"
-   inkscape:zoom="1.8870338"
-   inkscape:cx="23.115024"
-   inkscape:cy="28.512299"
+   inkscape:zoom="1.4152754"
+   inkscape:cx="30.819876"
+   inkscape:cy="38.016204"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -194,43 +194,43 @@
    gradientUnits="userSpaceOnUse" /></defs>
 	<g
    id="g198"
-   transform="translate(-35.959477,-34.35658)">
+   transform="translate(-35.959477,-34.356902)">
 		<title
    id="title39">Page-1</title>
 		<g
-   id="group9297-1"
+   id="group9789-1"
    transform="translate(35.9598,-34.0157)">
 			<title
    id="title41">Azure Active Directory Sync Standby</title>
 			<g
-   id="group9298-2">
+   id="group9790-2">
 				<title
    id="title43">Page-1</title>
 				<g
-   id="group9299-3">
+   id="group9791-3">
 					<title
-   id="title45">Sheet.9299</title>
+   id="title45">Sheet.9791</title>
 					<g
-   id="group9300-4"
+   id="group9792-4"
    transform="translate(0,-2.33866)">
 						<title
-   id="title47">Sheet.9300</title>
+   id="title47">Sheet.9792</title>
 						<g
-   id="group9301-5">
+   id="group9793-5">
 							<title
    id="title49">Icon-databases-136.149</title>
 							<g
-   id="group9302-6">
+   id="group9794-6">
 								<title
    id="title51">path4-5</title>
 								<g
-   id="group9303-7">
+   id="group9795-7">
 									<title
-   id="title53">Sheet.9303</title>
+   id="title53">Sheet.9795</title>
 									<g
-   id="shape9304-8">
+   id="shape9796-8">
 										<title
-   id="title55">Sheet.9304</title>
+   id="title55">Sheet.9796</title>
 										<path
    d="m 31.93,123.27 a 1.88556,1.83007 -180 0 1 -1.85,1.79 H 1.85 A 1.85306,1.79851 -180 0 1 0,123.27 V 74.11 a 1.82054,1.76695 -180 0 1 1.85,-1.8 h 28.23 a 1.85306,1.79851 -180 0 1 1.85,1.8 z"
    class="st1"
@@ -241,18 +241,18 @@
 								</g>
 							</g>
 							<g
-   id="group9305-12"
+   id="group9797-12"
    transform="translate(4.6814,-30.8901)">
 								<title
    id="title62">path6-7</title>
 								<g
-   id="group9306-13">
+   id="group9798-13">
 									<title
-   id="title64">Sheet.9306</title>
+   id="title64">Sheet.9798</title>
 									<g
-   id="shape9307-14">
+   id="shape9799-14">
 										<title
-   id="title66">Sheet.9307</title>
+   id="title66">Sheet.9799</title>
 										<path
    d="m 0,121.7 a 3.47854,3.37615 -180 0 1 3.45,-3.35 h 15.92 a 3.47854,3.37615 -180 0 1 3.58,3.35 3.47854,3.37615 -180 0 1 -3.58,3.36 H 3.45 A 3.47854,3.37615 -180 0 1 0,121.7 Z m 0,-9.98 a 3.47854,3.37615 -180 0 1 3.45,-3.38 h 15.92 a 3.47854,3.37615 -180 0 1 3.58,3.38 3.47854,3.37615 -180 0 1 -3.58,3.35 H 3.45 A 3.47854,3.37615 -180 0 1 0,111.72 Z"
    class="st2"
@@ -263,18 +263,18 @@
 								</g>
 							</g>
 							<g
-   id="group9308-16"
+   id="group9800-16"
    transform="translate(5.98178,-41.9627)">
 								<title
    id="title73">circle8-5</title>
 								<g
-   id="group9309-17">
+   id="group9801-17">
 									<title
-   id="title75">Sheet.9309</title>
+   id="title75">Sheet.9801</title>
 									<g
-   id="shape9310-18">
+   id="shape9802-18">
 										<title
-   id="title77">Sheet.9310</title>
+   id="title77">Sheet.9802</title>
 										<ellipse
    cx="2.3406899"
    cy="122.792"
@@ -287,18 +287,18 @@
 								</g>
 							</g>
 							<g
-   id="group9311-20"
+   id="group9803-20"
    transform="translate(5.98178,-31.9921)">
 								<title
    id="title84">circle10-2</title>
 								<g
-   id="group9312-21">
+   id="group9804-21">
 									<title
-   id="title86">Sheet.9312</title>
+   id="title86">Sheet.9804</title>
 									<g
-   id="shape9313-22">
+   id="shape9805-22">
 										<title
-   id="title88">Sheet.9313</title>
+   id="title88">Sheet.9805</title>
 										<ellipse
    cx="2.3406899"
    cy="122.792"
@@ -313,26 +313,26 @@
 						</g>
 					</g>
 					<g
-   id="group9314-24"
+   id="group9806-24"
    transform="translate(15.961)">
 						<title
-   id="title97">Sheet.9314</title>
+   id="title97">Sheet.9806</title>
 						<g
-   id="group9315-25">
+   id="group9807-25">
 							<title
-   id="title99">Sheet.9315</title>
+   id="title99">Sheet.9807</title>
 							<g
-   id="group9316-26">
+   id="group9808-26">
 								<title
    id="title101">g8</title>
 								<g
-   id="group9317-27">
+   id="group9809-27">
 									<title
    id="title103">path6</title>
 									<g
-   id="shape9318-28">
+   id="shape9810-28">
 										<title
-   id="title105">Sheet.9318</title>
+   id="title105">Sheet.9810</title>
 										<path
    d="M 16.04,94.07 C 7.12,94.07 0,101.14 0,109.57 c 0,8.62 7.31,15.49 16.04,15.49 8.73,0 16.05,-7.06 16.05,-15.49 0,-8.43 -7.13,-15.5 -16.05,-15.5 z m 0,2.05 c 7.71,0 13.93,6.01 13.93,13.45 0,7.44 -6.29,13.45 -13.93,13.45 -7.63,0 -13.92,-6.08 -13.92,-13.45 0,-7.38 6.22,-13.45 13.92,-13.45 z"
    class="st4"
@@ -343,14 +343,14 @@
 								</g>
 							</g>
 							<g
-   id="group9319-32"
+   id="group9811-32"
    transform="translate(1.37973,-1.33237)">
 								<title
-   id="title112">Sheet.9319</title>
+   id="title112">Sheet.9811</title>
 								<g
-   id="shape9320-33">
+   id="shape9812-33">
 									<title
-   id="title114">Sheet.9320</title>
+   id="title114">Sheet.9812</title>
 									<ellipse
    cx="14.6637"
    cy="110.901"
@@ -363,19 +363,19 @@
 							</g>
 						</g>
 						<g
-   id="group9321-35"
+   id="group9813-35"
    transform="rotate(45,19.388215,120.79876)">
 							<title
    id="title121">g8</title>
 							<g
-   id="group9322-36">
+   id="group9814-36">
 								<title
    id="title123">path6</title>
 								<g
-   id="shape9323-37"
+   id="shape9815-37"
    transform="matrix(-1,0,0,1,18.2173,0)">
 									<title
-   id="title125">Sheet.9323</title>
+   id="title125">Sheet.9815</title>
 									<path
    d="m 8.78,106.65 h -0.1 c -2.07,0 -3.99,0.7 -5.54,1.81 L 0,105.43 v 7.98 H 8.26 L 5.14,110.4 a 5.84669,5.64718 0 0 1 3.64,-1.18 c 3.1,0 5.67,2.1 6.21,4.85 h 2.73 a 9.02335,8.71544 -180 0 0 -8.94,-7.42 z m 9.34,10.41 H 9.96 L 10,117.09 H 9.96 l 3.02,2.91 c -1.02,0.7 -2.25,1.06 -3.64,1.06 -2.79,0 -5.17,-1.82 -5.99,-4.28 H 0.5 a 9.03814,8.72973 -180 0 0 8.84,6.86 h 0.1 c 2.04,0 3.93,-0.68 5.47,-1.77 l 3.31,3.19 v -8 z"
    class="st4"
@@ -387,22 +387,22 @@
 						</g>
 					</g>
 					<g
-   id="group9324-40"
+   id="group9816-40"
    transform="translate(23.3341,-35.0936)">
 						<title
    id="title133">Azure Active Directory</title>
 						<g
-   id="group9325-41">
+   id="group9817-41">
 							<title
-   id="title135">Sheet.9325</title>
+   id="title135">Sheet.9817</title>
 							<g
-   id="group9326-42">
+   id="group9818-42">
 								<title
-   id="title137">Sheet.9326</title>
+   id="title137">Sheet.9818</title>
 								<g
-   id="shape9327-43">
+   id="shape9819-43">
 									<title
-   id="title139">Sheet.9327</title>
+   id="title139">Sheet.9819</title>
 									<path
    d="m 1.4,115.83 10.93,6.78 11.13,-6.8 1.39,1.55 -12.52,7.7 L 0,117.36 Z"
    class="st6"
@@ -412,14 +412,14 @@
 								</g>
 							</g>
 							<g
-   id="group9328-45"
+   id="group9820-45"
    transform="translate(2.22272,-3.86412)">
 								<title
-   id="title145">Sheet.9328</title>
+   id="title145">Sheet.9820</title>
 								<g
-   id="shape9329-46">
+   id="shape9821-46">
 									<title
-   id="title147">Sheet.9329</title>
+   id="title147">Sheet.9821</title>
 									<path
    d="m 0,118.83 10.11,-11.5 10.31,11.51 -10.31,6.22 z"
    class="st7"
@@ -429,14 +429,14 @@
 								</g>
 							</g>
 							<g
-   id="group9330-48"
+   id="group9822-48"
    transform="translate(2.22272,-3.86412)">
 								<title
-   id="title153">Sheet.9330</title>
+   id="title153">Sheet.9822</title>
 								<g
-   id="shape9331-49">
+   id="shape9823-49">
 									<title
-   id="title155">Sheet.9331</title>
+   id="title155">Sheet.9823</title>
 									<path
    d="m 10.11,107.33 v 17.73 L 0,118.83 Z"
    class="st6"
@@ -446,14 +446,14 @@
 								</g>
 							</g>
 							<g
-   id="group9332-51"
+   id="group9824-51"
    transform="translate(12.3285,-3.86412)">
 								<title
-   id="title161">Sheet.9332</title>
+   id="title161">Sheet.9824</title>
 								<g
-   id="shape9333-52">
+   id="shape9825-52">
 									<title
-   id="title163">Sheet.9333</title>
+   id="title163">Sheet.9825</title>
 									<path
    d="m 0,107.33 v 17.73 l 10.32,-6.22 z"
    class="st8"
@@ -463,14 +463,14 @@
 								</g>
 							</g>
 							<g
-   id="group9334-56"
+   id="group9826-56"
    transform="translate(12.3285,-3.86412)">
 								<title
-   id="title169">Sheet.9334</title>
+   id="title169">Sheet.9826</title>
 								<g
-   id="shape9335-57">
+   id="shape9827-57">
 									<title
-   id="title171">Sheet.9335</title>
+   id="title171">Sheet.9827</title>
 									<path
    d="M 0,116.49 10.32,118.84 0,125.06 Z"
    class="st9"
@@ -480,14 +480,14 @@
 								</g>
 							</g>
 							<g
-   id="group9336-59"
+   id="group9828-59"
    transform="translate(2.22272,-3.86412)">
 								<title
-   id="title177">Sheet.9336</title>
+   id="title177">Sheet.9828</title>
 								<g
-   id="shape9337-60">
+   id="shape9829-60">
 									<title
-   id="title179">Sheet.9337</title>
+   id="title179">Sheet.9829</title>
 									<path
    d="M 10.11,125.06 0,118.83 10.11,116.49 Z"
    class="st10"
@@ -497,14 +497,14 @@
 								</g>
 							</g>
 							<g
-   id="group9338-62"
+   id="group9830-62"
    transform="translate(12.3285)">
 								<title
-   id="title185">Sheet.9338</title>
+   id="title185">Sheet.9830</title>
 								<g
-   id="shape9339-63">
+   id="shape9831-63">
 									<title
-   id="title187">Sheet.9339</title>
+   id="title187">Sheet.9831</title>
 									<path
    d="m 0,125.06 12.52,-7.7 -1.39,-1.55 -11.13,6.8 z"
    class="st11"

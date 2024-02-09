@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.689999"
-   height="53.852001"
-   viewBox="0 0 56.689998 53.852001"
+   width="0.78735906in"
+   height="0.74794251in"
+   viewBox="0 0 56.68976 53.852001"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview36"
    showgrid="false"
-   inkscape:zoom="1.9364261"
-   inkscape:cx="28.3465"
-   inkscape:cy="26.9173"
+   inkscape:zoom="1.4523234"
+   inkscape:cx="37.795237"
+   inkscape:cy="35.889642"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -56,23 +56,23 @@
 
 	<g
    id="g32"
-   transform="translate(-34,-34.0023)">
+   transform="translate(-34.000261,-34.0023)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group15716-1"
+   id="group17162-1"
    transform="translate(34,-34.0157)">
 			<title
-   id="title6">App Service Process Explorer.15716</title>
+   id="title6">App Service Process Explorer.17162</title>
 			<g
-   id="group15717-2">
+   id="group17163-2">
 				<title
    id="title8"> MsPortalFx.base.images-41</title>
 				<g
-   id="shape15718-3"
+   id="shape17164-3"
    transform="translate(12.6961)">
 					<title
-   id="title10">Sheet.15718</title>
+   id="title10">Sheet.17164</title>
 					<path
    d="m 28.32,118.92 c -6.58,-0.87 -6.47,-5.02 -6.44,-11.74 H 9.54 c 0.03,6.73 0.15,10.88 -6.44,11.74 A 3.35748,3.29127 -180 0 0 0,121.87 h 31.44 a 3.37638,3.30979 -180 0 0 -3.12,-2.95 z"
    class="st1"
@@ -81,10 +81,10 @@
    style="fill:#1f56a3;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape15719-5"
+   id="shape17165-5"
    transform="translate(0,-14.502)">
 					<title
-   id="title15">Sheet.15719</title>
+   id="title15">Sheet.17165</title>
 					<path
    d="m 0,119.99 a 1.9213,1.88342 -180 0 0 1.92,1.88 h 52.85 a 1.9213,1.88342 -180 0 0 1.92,-1.88 V 84.4 A 1.9213,1.88342 -180 0 0 54.77,82.52 H 1.92 A 1.9213,1.88342 -180 0 0 0,84.4 Z"
    class="st2"
@@ -93,10 +93,10 @@
    style="fill:#1490df;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape15720-7"
+   id="shape17166-7"
    transform="translate(3.26614,-18.1576)">
 					<title
-   id="title20">Sheet.15720</title>
+   id="title20">Sheet.17166</title>
 					<path
    d="m 0,120.93 a 0.960652,0.941708 -180 0 0 0.96063,0.94169 L 49.12,121.87 a 0.960652,0.941708 -180 0 0 0.96063,-0.94169 L 50.08,90.16 A 0.960652,0.941708 -180 0 0 49.11937,89.218314 L 0.96,89.22 a 0.960652,0.941708 -180 0 0 -0.96063,0.941686 z"
    class="st3"
@@ -105,10 +105,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape15721-9"
+   id="shape17167-9"
    transform="translate(3.26614,-22.7491)">
 					<title
-   id="title25">Sheet.15721</title>
+   id="title25">Sheet.17167</title>
 					<path
    d="m 34.78,104.28 a 0.48189,0.472387 -180 0 0 -0.409449,0.22848 L 31.44,109.36 a 0.472441,0.463124 0 0 1 -0.825197,-0.0185 L 26.13,100.96 a 0.475591,0.466212 -180 0 0 -0.869291,0.0679 L 21.05,113.29 a 0.475591,0.466212 0 0 1 -0.885039,0.034 L 16.52,105.05 a 0.472441,0.463124 -180 0 0 -0.850394,-0.0401 L 10.65,113.96 a 0.472441,0.463124 0 0 1 -0.415748,0.24082 L 0,114.21 v 2.95 h 12.02 a 0.472441,0.463124 -180 0 0 0.415748,-0.24083 L 15.34,111.74 a 0.475591,0.466212 0 0 1 0.850394,0.0401 L 20.51,121.59 a 0.472441,0.463124 -180 0 0 0.88189,-0.034 L 25.87,108.53 a 0.472441,0.463124 0 0 1 0.866142,-0.0679 L 30.46,115.41 a 0.475591,0.466212 -180 0 0 0.828346,0.0216 L 36.1,107.46 a 0.469291,0.460037 0 0 1 0.406299,-0.22848 L 50.1,107.23 v -2.95 z"
    class="st4"

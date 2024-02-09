@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="55.172279"
-   height="55.172279"
-   viewBox="0 0 55.17228 55.17228"
+   width="0.76627892in"
+   height="0.76627892in"
+   viewBox="0 0 55.171777 55.172278"
    xml:space="preserve"
    class="st3"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview34"
    showgrid="false"
-   inkscape:zoom="1.9040397"
-   inkscape:cx="27.583753"
-   inkscape:cy="27.198115"
+   inkscape:zoom="1.4280348"
+   inkscape:cx="36.778209"
+   inkscape:cy="36.264026"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -79,23 +79,23 @@
 	</defs>
 	<g
    id="g30"
-   transform="translate(-34.000746,-33.999335)">
+   transform="translate(-34.001304,-33.999335)">
 		<title
    id="title12">Page-1</title>
 		<g
-   id="group11260-1"
+   id="group11887-1"
    transform="translate(33.2382,-34.0157)">
 			<title
    id="title14">AADConnect Staged Rollout</title>
 			<g
-   id="group11261-2">
+   id="group11888-2">
 				<title
    id="title16">MsPortalFx.base.images-14</title>
 				<g
-   id="shape11262-3"
+   id="shape11889-3"
    transform="rotate(-45,14.173239,89.729652)">
 					<title
-   id="title18">Sheet.11262</title>
+   id="title18">Sheet.11889</title>
 					<path
    d="m 0,122.11 a 1.83908,1.83908 -180 0 0 1.84,1.84 h 36.41 a 1.83908,1.83908 -180 0 0 1.84,-1.84 V 85.7 A 1.83908,1.83908 -180 0 0 38.25,83.86 H 1.84 A 1.83908,1.83908 -180 0 0 0,85.7 Z"
    class="st1"
@@ -104,10 +104,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11263-7"
+   id="shape11890-7"
    transform="translate(19.0593,-10.6229)">
 					<title
-   id="title23">Sheet.11263</title>
+   id="title23">Sheet.11890</title>
 					<path
    d="m 26.85,105.41 -5.19,-4.68 c -0.71,-0.7 -1.02,-0.52 -1.02,0.53 v 2.07 A 0.652858,0.652858 0 0 1 19.987142,103.97979 7.3868,7.3868 0 0 1 12.17,99.42 V 89.73 A 0.891933,0.891933 -180 0 0 11.278067,88.838067 L 6.81,88.84 A 0.891933,0.891933 -180 0 0 5.918067,89.731933 L 5.92,114.19 a 0.438304,0.438304 0 0 1 -0.438304,0.4383 L 0.4,114.63 a 0.441369,0.441369 -180 0 0 -0.306506,0.75094 L 8.35,123.66 a 0.98082,0.98082 -180 0 0 1.39154,0 L 18.02,115.4 a 0.441369,0.441369 -180 0 0 -0.306506,-0.75094 L 12.61,114.65 a 0.438304,0.438304 0 0 1 -0.438304,-0.45363 L 12.17,105.97 a 13.5997,13.5997 -180 0 0 7.81,2.14 0.640598,0.640598 0 0 1 0.655923,0.64673 L 20.64,111 c 0,0.88 0.47,1.07 1.02,0.53 l 5.19,-5.05 a 0.646728,0.646728 -180 0 0 0,-1.06971 z"
    class="st2"

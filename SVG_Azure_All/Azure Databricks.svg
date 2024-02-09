@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="51.02"
-   height="56.689999"
-   viewBox="0 0 51.02 56.69"
+   width="0.70861113in"
+   height="0.78736115in"
+   viewBox="0 0 51.020017 56.68998"
    xml:space="preserve"
    class="st2"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview21"
    showgrid="false"
-   inkscape:zoom="2.4436056"
-   inkscape:cx="25.51181"
-   inkscape:cy="14.275001"
+   inkscape:zoom="1.8327034"
+   inkscape:cx="34.015734"
+   inkscape:cy="19.033309"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -57,18 +57,18 @@
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group8706-1"
+   id="group9325-1"
    transform="translate(5.86994,-34.0157)">
 			<title
    id="title6">Azure Databricks</title>
 			<g
-   id="group8707-2">
+   id="group9326-2">
 				<title
-   id="title8">Sheet.8707</title>
+   id="title8">Sheet.9326</title>
 				<g
-   id="shape8708-3">
+   id="shape9327-3">
 					<title
-   id="title10">Sheet.8708</title>
+   id="title10">Sheet.9327</title>
 					<path
    d="m 0,54.66 v 1.71 L 25.51,71.13 48.3,57.93 v 5.33 L 25.51,76.54 1.28,62.42 0,63.16 V 73.37 L 25.51,88.09 48.3,74.94 v 5.29 L 25.51,93.51 1.28,79.4 0,80.13 v 1.73 L 25.51,96.58 51.02,81.86 V 71.64 L 49.74,70.91 25.51,85.03 2.72,71.75 V 66.48 L 25.51,79.62 51.02,64.89 V 54.82 L 49.74,54.09 25.51,68.21 3.89,55.61 25.51,43.09 43.32,53.41 44.88,52.51 V 51.1 L 25.51,39.89 Z"
    class="st1"

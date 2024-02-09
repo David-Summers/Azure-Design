@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="53.855801"
-   height="56.697819"
-   viewBox="0 0 53.855799 56.69782"
+   width="0.74799341in"
+   height="0.78746569in"
+   viewBox="0 0 53.855623 56.697817"
    xml:space="preserve"
    class="st5"
    version="1.1"
@@ -35,9 +35,9 @@
    inkscape:window-height="480"
    id="namedview66"
    showgrid="false"
-   inkscape:zoom="2.2923973"
-   inkscape:cx="26.929151"
-   inkscape:cy="17.458421"
+   inkscape:zoom="1.7193066"
+   inkscape:cx="35.905348"
+   inkscape:cy="23.277772"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -56,23 +56,23 @@
 
 	<g
    id="g62"
-   transform="translate(-12.24,-12.2351)">
+   transform="translate(-12.240131,-12.2351)">
 		<title
    id="title4">Page-1</title>
 		<g
-   id="group1508-1"
+   id="group1607-1"
    transform="translate(12.24,-34.0157)">
 			<title
    id="title6">Spatial Anchors Account</title>
 			<g
-   id="group1509-2">
+   id="group1608-2">
 				<title
-   id="title8">Sheet.1509</title>
+   id="title8">Sheet.1608</title>
 				<g
-   id="shape1510-3"
+   id="shape1609-3"
    transform="translate(1.34778,-2.49654)">
 					<title
-   id="title10">Sheet.1510</title>
+   id="title10">Sheet.1609</title>
 					<path
    d="m 0,85.07 23.39,-16.74 23.4,16.74 -23.4,17.88 z"
    class="st1"
@@ -81,10 +81,10 @@
    style="fill:#3999c6;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1511-5"
+   id="shape1610-5"
    transform="translate(7.07445,-6.7838)">
 					<title
-   id="title15">Sheet.1511</title>
+   id="title15">Sheet.1610</title>
 					<path
    d="M 0,89.44 17.67,76.8 35.33,89.44 17.67,102.95 Z"
    class="st2"
@@ -93,10 +93,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1512-7"
+   id="shape1611-7"
    transform="translate(7.07445,-6.7838)">
 					<title
-   id="title20">Sheet.1512</title>
+   id="title20">Sheet.1611</title>
 					<path
    d="M 0,89.44 17.67,76.8 35.33,89.44 17.67,102.95 Z"
    class="st3"
@@ -105,10 +105,10 @@
    style="fill:#59b4d9;fill-opacity:0.4;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1513-9"
+   id="shape1612-9"
    transform="translate(36.1518,-12.5225)">
 					<title
-   id="title25">Sheet.1513</title>
+   id="title25">Sheet.1612</title>
 					<ellipse
    cx="7.7952299"
    cy="95.093597"
@@ -119,10 +119,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1514-11"
+   id="shape1613-11"
    transform="translate(36.1518,-12.5225)">
 					<title
-   id="title30">Sheet.1514</title>
+   id="title30">Sheet.1613</title>
 					<path
    d="m 7.8,90.65 c 2.42,0 4.4,2 4.4,4.44 0,2.45 -1.98,4.44 -4.4,4.44 -2.43,0 -4.41,-1.99 -4.41,-4.44 0,-2.44 1.98,-4.44 4.41,-4.44 z m 0,-3.41 a 7.79523,7.85504 -180 1 0 0,15.71 7.79523,7.85504 -180 0 0 0,-15.71 z"
    class="st1"
@@ -131,10 +131,10 @@
    style="fill:#3999c6;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1515-13"
+   id="shape1614-13"
    transform="translate(34.0358,-19.2392)">
 					<title
-   id="title35">Sheet.1515</title>
+   id="title35">Sheet.1614</title>
 					<path
    d="M 19.82,76.25 C 19.82,70.38 15.38,65.49 9.91,65.49 4.44,65.49 0,70.18 0,76.25 c 0,6.08 9.91,22.71 9.91,26.7 0,-3.99 9.91,-20.82 9.91,-26.7 z"
    class="st4"
@@ -143,10 +143,10 @@
    style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1516-15"
+   id="shape1615-15"
    transform="translate(39.541,-42.1212)">
 					<title
-   id="title40">Sheet.1516</title>
+   id="title40">Sheet.1615</title>
 					<ellipse
    cx="4.4060001"
    cy="98.508904"
@@ -157,10 +157,10 @@
    style="fill:#ffffff;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1517-17"
+   id="shape1616-17"
    transform="translate(19.2056,-28.4603)">
 					<title
-   id="title45">Sheet.1517</title>
+   id="title45">Sheet.1616</title>
 					<ellipse
    cx="5.5357399"
    cy="97.370399"
@@ -171,10 +171,10 @@
    style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1518-19"
+   id="shape1617-19"
    transform="translate(0,-14.7994)">
 					<title
-   id="title50">Sheet.1518</title>
+   id="title50">Sheet.1617</title>
 					<ellipse
    cx="5.5357399"
    cy="97.370399"
@@ -185,10 +185,10 @@
    style="fill:#804998;stroke:none;stroke-width:12.23999977;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape1519-21"
+   id="shape1618-21"
    transform="translate(19.2056)">
 					<title
-   id="title55">Sheet.1519</title>
+   id="title55">Sheet.1618</title>
 					<ellipse
    cx="5.5357399"
    cy="97.370399"

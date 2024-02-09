@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="53.854057"
-   height="56.56308"
-   viewBox="0 0 53.854057 56.563078"
+   width="0.74797034in"
+   height="0.7855956in"
+   viewBox="0 0 53.853618 56.563084"
    xml:space="preserve"
    class="st6"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview70"
    showgrid="false"
-   inkscape:zoom="1.8944106"
-   inkscape:cx="26.924737"
-   inkscape:cy="28.271487"
+   inkscape:zoom="1.4208131"
+   inkscape:cx="35.899523"
+   inkscape:cy="37.695188"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -93,16 +93,16 @@
 	</defs>
 	<g
    id="g66"
-   transform="translate(-34.004264,-33.996909)">
+   transform="translate(-34.004756,-33.996909)">
 		<title
    id="title16">Page-1</title>
 		<g
-   id="group2376-1"
+   id="group2516-1"
    transform="translate(34,-34.0157)">
 			<title
    id="title18">Policy</title>
 			<g
-   id="shape2377-2"
+   id="shape2517-2"
    transform="translate(16.3437,-20.0474)">
 				<title
    id="title20">ellipse17</title>
@@ -116,7 +116,7 @@
    style="fill:url(#grad0-5);stroke:none;stroke-width:34;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape2378-6"
+   id="shape2518-6"
    transform="translate(45.3124,-38.0704)">
 				<title
    id="title25">ellipse19</title>
@@ -130,7 +130,7 @@
    style="fill:#32bedd;stroke:none;stroke-width:34;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape2379-8"
+   id="shape2519-8"
    transform="translate(45.3124,-24.1451)">
 				<title
    id="title30">ellipse21</title>
@@ -144,7 +144,7 @@
    style="fill:#32bedd;stroke:none;stroke-width:34;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape2380-10"
+   id="shape2520-10"
    transform="translate(45.3124,-10.2531)">
 				<title
    id="title35">ellipse23</title>
@@ -158,7 +158,7 @@
    style="fill:#32bedd;stroke:none;stroke-width:34;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape2381-12"
+   id="shape2521-12"
    transform="translate(35.5552,-30.9411)">
 				<title
    id="title40">ellipse25</title>
@@ -172,7 +172,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape2382-14"
+   id="shape2522-14"
    transform="translate(35.5552,-17.0159)">
 				<title
    id="title45">ellipse27</title>
@@ -186,7 +186,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape2383-16"
+   id="shape2523-16"
    transform="translate(0.0257357,-39.6361)">
 				<title
    id="title50">path29</title>
@@ -198,7 +198,7 @@
    style="fill:#949494;stroke:none;stroke-width:34;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape2384-18"
+   id="shape2524-18"
    transform="translate(25.0915)">
 				<title
    id="title55">path31</title>
@@ -210,7 +210,7 @@
    style="fill:#949494;stroke:none;stroke-width:34;stroke-linecap:butt" />
 			</g>
 			<g
-   id="shape2385-20"
+   id="shape2525-20"
    transform="translate(0,-3.00345e-4)">
 				<title
    id="title60">path33</title>

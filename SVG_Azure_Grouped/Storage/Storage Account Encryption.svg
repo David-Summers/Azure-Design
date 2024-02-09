@@ -105,18 +105,18 @@
 		<title
    id="title20">Page-1</title>
 		<g
-   id="group21462-1"
+   id="group22726-1"
    transform="translate(34,-34.0157)">
 			<title
-   id="title22">Storage Account Encryption.21462</title>
+   id="title22">Storage Account Encryption.22726</title>
 			<g
-   id="group21463-2">
+   id="group22727-2">
 				<title
    id="title24">Icon-Lock-security-250</title>
 				<g
-   id="shape21464-3">
+   id="shape22728-3">
 					<title
-   id="title26">Sheet.21464</title>
+   id="title26">Sheet.22728</title>
 					<path
    d="M 40.28,95.33 H 37.27 V 85.64 A 18.278,18.3696 -180 0 0 32.6,73.27 14.9576,15.0326 -180 0 0 20.98,68.02 15.093,15.1687 -180 0 0 9.37,73.27 17.9782,18.0683 -180 0 0 4.7,85.63 v 9.7 H 2.18 A 2.20819,2.21925 -180 0 0 0,97.51 v 25.02 a 2.21141,2.22249 -180 0 0 2.18,2.18 h 38.1 a 2.20496,2.21601 -180 0 0 2.18,-2.18 V 97.51 a 2.20174,2.21277 -180 0 0 -2.18,-2.18 z m -10.56,0 H 12.26 v -9.85 a 9.90944,9.95908 0 0 1 2.72,-6.78 7.79151,7.83055 0 0 1 11.83,0 9.69668,9.74526 0 0 1 1.01,1.36 9.34853,9.39536 0 0 1 1.89,5.42 z"
    class="st1"
@@ -125,10 +125,10 @@
    style="fill:url(#grad0-6);stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape21465-7"
+   id="shape22729-7"
    transform="translate(0.818802,-0.369335)">
 					<title
-   id="title31">Sheet.21465</title>
+   id="title31">Sheet.22729</title>
 					<path
    d="M 39.52,95.7 H 1.4 A 2.15339,2.16417 -180 0 0 0,96.24 l 40.92,28.47 a 2.17595,2.18685 -180 0 0 0.78,-1.64 V 97.89 A 2.21141,2.22249 -180 0 0 39.52,95.7 Z"
    class="st2"
@@ -137,10 +137,10 @@
    style="fill:#50e6ff;stroke:none;stroke-width:34;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape21466-9"
+   id="shape22730-9"
    transform="translate(0.0805908,-0.369335)">
 					<title
-   id="title36">Sheet.21466</title>
+   id="title36">Sheet.22730</title>
 					<path
    d="M 2.18,95.7 H 40.3 a 2.15339,2.16417 0 0 1 1.4,0.54 L 0.78,124.71 A 2.16306,2.17389 0 0 1 0,123.07 V 97.89 A 2.20819,2.21925 0 0 1 2.18,95.7 Z"
    class="st3"

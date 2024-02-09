@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.6973"
-   height="56.692516"
-   viewBox="0 0 56.6973 56.692515"
+   width="0.78746051in"
+   height="0.78739405in"
+   viewBox="0 0 56.697066 56.692516"
    xml:space="preserve"
    class="st8"
    version="1.1"
@@ -34,9 +34,9 @@
    inkscape:window-height="480"
    id="namedview102"
    showgrid="false"
-   inkscape:zoom="1.9035328"
-   inkscape:cx="28.3465"
-   inkscape:cy="27.974298"
+   inkscape:zoom="1.4276533"
+   inkscape:cx="37.795235"
+   inkscape:cy="37.298971"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -99,20 +99,20 @@
 	</defs>
 	<g
    id="g98"
-   transform="translate(-33.271,-33.271783)">
+   transform="translate(-33.271257,-33.271783)">
 		<title
    id="title15">Page-1</title>
 		<g
-   id="group11603-1"
+   id="group12254-1"
    transform="translate(33.271,-34.0157)">
 			<title
-   id="title17">Virtual Machine Scale Set.11603</title>
+   id="title17">Virtual Machine Scale Set.12254</title>
 			<g
-   id="group11604-2">
+   id="group12255-2">
 				<title
    id="title19">layer1</title>
 				<g
-   id="shape11605-3"
+   id="shape12256-3"
    transform="translate(0,-34.1825)">
 					<title
    id="title21">rect16</title>
@@ -124,7 +124,7 @@
    style="fill:#005ba1;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11606-5"
+   id="shape12257-5"
    transform="translate(16.8745,-38.8846)">
 					<title
    id="title26">polygon18</title>
@@ -136,7 +136,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11607-7"
+   id="shape12258-7"
    transform="translate(11.2385,-45.421)">
 					<title
    id="title31">polygon20</title>
@@ -148,7 +148,7 @@
    style="fill:#c3f1ff;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11608-9"
+   id="shape12259-9"
    transform="translate(11.2385,-38.8846)">
 					<title
    id="title36">polygon22</title>
@@ -160,7 +160,7 @@
    style="fill:#9cebff;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11609-11"
+   id="shape12260-11"
    transform="translate(13.2395,-21.2765)">
 					<title
    id="title41">rect24</title>
@@ -172,7 +172,7 @@
    style="fill:#0078d4;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11610-13"
+   id="shape12261-13"
    transform="translate(30.1139,-25.9453)">
 					<title
    id="title46">polygon26</title>
@@ -184,7 +184,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11611-15"
+   id="shape12262-15"
    transform="translate(24.478,-32.515)">
 					<title
    id="title51">polygon28</title>
@@ -196,7 +196,7 @@
    style="fill:#c3f1ff;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11612-17"
+   id="shape12263-17"
    transform="translate(24.478,-25.9453)">
 					<title
    id="title56">polygon30</title>
@@ -208,7 +208,7 @@
    style="fill:#9cebff;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11613-19"
+   id="shape12264-19"
    transform="translate(22.9773,-8.73734)">
 					<title
    id="title61">rect32</title>
@@ -220,7 +220,7 @@
    style="fill:url(#grad0-22);stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11614-23"
+   id="shape12265-23"
    transform="translate(39.8518,-13.4062)">
 					<title
    id="title66">polygon34</title>
@@ -232,7 +232,7 @@
    style="fill:#50e6ff;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11615-25"
+   id="shape12266-25"
    transform="translate(34.2158,-19.9426)">
 					<title
    id="title71">polygon36</title>
@@ -244,7 +244,7 @@
    style="fill:#c3f1ff;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11616-27"
+   id="shape12267-27"
    transform="translate(34.2158,-13.4062)">
 					<title
    id="title76">polygon38</title>
@@ -256,7 +256,7 @@
    style="fill:#9cebff;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11617-29"
+   id="shape12268-29"
    transform="translate(34.2158,-13.4062)">
 					<title
    id="title81">polygon40</title>
@@ -268,7 +268,7 @@
    style="fill:#c3f1ff;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11618-31"
+   id="shape12269-31"
    transform="translate(39.8518,-13.4062)">
 					<title
    id="title86">polygon42</title>
@@ -280,7 +280,7 @@
    style="fill:#9cebff;stroke:none;stroke-width:33.27099991;stroke-linecap:butt" />
 				</g>
 				<g
-   id="shape11619-33"
+   id="shape12270-33"
    transform="translate(31.5813)">
 					<title
    id="title91">path44</title>
